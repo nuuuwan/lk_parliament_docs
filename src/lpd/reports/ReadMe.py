@@ -15,7 +15,7 @@ class ReadMe:
     @property
     def lines(self):
         return [
-            "# Documents from the Sri Lankan Parliament"
+            "# 🇱🇰 Documents from the Sri Lankan Parliament"
             + " ([lk_parliament_docs]"
             + "(https://github.com/nuuuwan/lk_parliament_docs))",
             "",
