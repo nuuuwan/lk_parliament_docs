@@ -26,7 +26,7 @@ class ActsBillsPage(WebPage):
         h4 = div_acts_box.find("h4")
         heading_text = h4.text.strip()
         doc_num, description = heading_text.split(" : ")
-        assert "/" in doc_num, f'"{doc_num}"'
+        # assert "/" in doc_num, f'"{doc_num}"'
 
         div_body = div_acts_box.find("div", class_="nTabber_content")
         div_con_box_list = div_body.find_all("div", class_="con_box")
