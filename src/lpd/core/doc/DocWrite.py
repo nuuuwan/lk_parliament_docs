@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 from utils import JSONFile, Log
 
@@ -8,10 +9,12 @@ log = Log("DocWrite")
 
 
 class DocWrite(DocRead):
+    DIR_DATA = "data"
+
     @property
     def dir_doc_data(self):
         dir_doc_data = os.path.join(
-            "data", self.get_doc_type_name(), self.year, self.doc_id
+            self.DIR_DATA, self.get_doc_type_name(), self.year, self.doc_id
         )
         if not os.path.exists(dir_doc_data):
             os.makedirs(dir_doc_data)
@@ -31,3 +34,8 @@ class DocWrite(DocRead):
     @property
     def url(self):
         return self.dir_doc_data
+
+    @staticmethod
+    def get_dir_data_size():
+        path = Path(DocWrite.DIR_DATA)
+        return sum(f.stat().st_size for f in path.rglob("*") if f.is_file())

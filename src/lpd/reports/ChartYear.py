@@ -35,8 +35,8 @@ class ChartYear:
 
         plt.bar(years, num_docs)
         plt.xlabel("Year")
-        plt.ylabel("Number of Documents")
-        plt.title("Number of Documents per Year")
+        plt.ylabel("Number of Acts")
+        plt.title("Number of Acts per Year")
 
         desired = 7
         num_ticks = min(desired, len(years))

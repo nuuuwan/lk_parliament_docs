@@ -15,6 +15,7 @@ class ReadMe:
         self.doc_list = Doc.list_all()
         self.n_docs = len(self.doc_list)
         self.year_to_list = Doc.year_to_list()
+        self.data_size_m = Doc.get_dir_data_size() / (1024 * 1024)
 
     @property
     def timestamp(self):
@@ -35,7 +36,10 @@ class ReadMe:
 
     @property
     def lines_for_docs(self):
-        lines = [f"## Documents ({self.n_docs})", ""]
+        lines = [
+            f"## Acts ({self.n_docs:,})",
+            "",
+        ]
         for year, doc_list in self.year_to_list.items():
             n_docs = len(doc_list)
             lines.extend([f"### {year} ({n_docs:,})", ""])
@@ -48,11 +52,12 @@ class ReadMe:
     def lines(self):
         return (
             [
-                "# 🇱🇰 Documents from the Sri Lankan Parliament"
+                "# 🇱🇰 Acts from the Sri Lankan Parliament"
                 + " ([lk_parliament_docs]"
                 + "(https://github.com/nuuuwan/lk_parliament_docs))",
                 "",
-                f"Scraped  **{self.n_docs:,}** documents from"
+                f"Scraped  **{self.n_docs:,}** acts"
+                + f" ({self.data_size_m:.2f} MB) from"
                 + " [www.parliament.lk](https://www.parliament.lk/en)"
                 + f" as of **{self.timestamp}**.",
                 "",
