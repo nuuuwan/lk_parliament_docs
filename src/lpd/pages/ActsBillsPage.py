@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from utils import Log
 
+from lpd.core import Doc
 from utils_future import WebPage
 
 log = Log("ActsBillsPage")
@@ -10,19 +11,22 @@ log = Log("ActsBillsPage")
 
 class ActsBillsPage(WebPage):
 
-    def __init__(self, year, doc_type_name):
+    def __init__(self, doc_type_name, year):
         super().__init__("https://www.parliament.lk/en/acts-bills")
-        assert len(year) == 4
         assert doc_type_name in ["acts", "bills"]
-        self.year = year
+        assert len(year) == 4
+
         self.doc_type_name = doc_type_name
+        self.year = year
+
+    def __str__(self) -> str:
+        return f"ActsBillsPage({self.doc_type_name}, {self.year})"
 
     def __parse_div_acts_box__(self, div_acts_box):
         h4 = div_acts_box.find("h4")
         heading_text = h4.text.strip()
         doc_num, description = heading_text.split(" : ")
         assert "/" in doc_num, f'"{doc_num}"'
-        doc_id = doc_num.replace("/", "-")
 
         div_body = div_acts_box.find("div", class_="nTabber_content")
         div_con_box_list = div_body.find_all("div", class_="con_box")
@@ -43,21 +47,19 @@ class ActsBillsPage(WebPage):
             url_si = url_en.replace("/english/", "/sinhala/")
             url_ta = url_en.replace("/english/", "/tamil/")
 
-        return dict(
-            doc_type_name=self.doc_type_name,
+        d = dict(
+            doc_num=doc_num,
             date=endorsed_date,
             description=description,
-            endorsed_date=endorsed_date,
             lang_to_source_url=dict(
                 en=url_en,
                 si=url_si,
                 ta=url_ta,
             ),
-            doc_num=doc_num,
-            doc_id=doc_id,
         )
+        return Doc.from_dict(d)
 
-    def get_doc_list(self):
+    def __get_doc_list__(self):
         driver = self.open()
 
         if self.doc_type_name == "bills":
@@ -78,7 +80,6 @@ class ActsBillsPage(WebPage):
         input_year.send_keys(self.year + Keys.RETURN)
 
         self.sleep(3)
-        driver.save_screenshot("acts_bills_page-1.png")
 
         source = self.driver.page_source
         soup = BeautifulSoup(source, "html.parser")
@@ -90,4 +91,10 @@ class ActsBillsPage(WebPage):
 
         self.quit()
         log.debug(f"Found {len(doc_list)} docs for {self}")
+        return doc_list
+
+    def scrape(self):
+        doc_list = self.__get_doc_list__()
+        for doc in doc_list:
+            doc.write()
         return doc_list
