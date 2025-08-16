@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from utils import Log
@@ -13,7 +14,7 @@ class ActsBillsPage(WebPage):
 
     def __init__(self, doc_type_name, year):
         super().__init__("https://www.parliament.lk/en/acts-bills")
-        assert doc_type_name in ["acts", "bills"]
+        assert doc_type_name in ["acts"]
         assert len(year) == 4
 
         self.doc_type_name = doc_type_name
@@ -25,7 +26,6 @@ class ActsBillsPage(WebPage):
     def __parse_div_acts_box__(self, div_acts_box):
         h4 = div_acts_box.find("h4")
         heading_text = h4.text.strip()
-
         if " : " not in heading_text:
             log.warning(f"Unexpected heading format: {heading_text}")
             return None
@@ -37,7 +37,6 @@ class ActsBillsPage(WebPage):
         endorsed_date = (
             div_con_box_list[1].text.replace("Endorsed Date: ", "").strip()
         )
-
         if len(endorsed_date) != 10:
             log.warning(f"Unexpected date format: {endorsed_date}")
             return None
@@ -66,34 +65,52 @@ class ActsBillsPage(WebPage):
         )
         return Doc.from_dict(d)
 
-    def __get_doc_list__(self):
-        driver = self.open()
-
-        if self.doc_type_name == "bills":
-            a_bills = driver.find_element(By.XPATH, "//a[@id='hbills']")
-            a_bills.click()
-
-        div_dropdown = driver.find_element(
-            By.XPATH, "//div[@id='legis_chzn']"
-        )
-        div_dropdown.click()
-
-        li_legis = driver.find_element(
-            By.XPATH, "//li[@id='legis_chzn_o_21']"
-        )
-        li_legis.click()
-
-        input_year = driver.find_element(By.XPATH, "//input[@id='year']")
-        input_year.send_keys(self.year + Keys.RETURN)
-        self.sleep(3)
-
-        source = self.driver.page_source
+    def __get_doc_list_for_page__(self, driver):
+        source = driver.page_source
         soup = BeautifulSoup(source, "html.parser")
         doc_list = []
         for div_acts_box in soup.find_all("div", class_="acts_box"):
             doc = self.__parse_div_acts_box__(div_acts_box)
             if doc:
                 doc_list.append(doc)
+
+        log.debug(f"Found {len(doc_list)} docs.")
+        return doc_list
+
+    def __get_doc_list__(self):
+        driver = self.open()
+
+        log.debug('Select "Please select a Legislature"...')
+        driver.find_element(By.XPATH, "//div[@id='legis_chzn']").click()
+        driver.find_element(By.XPATH, "//li[@id='legis_chzn_o_21']").click()
+
+        log.debug(f"Select {self.year=}...")
+        driver.find_element(By.XPATH, "//input[@id='year']").send_keys(
+            self.year + Keys.RETURN
+        )
+        self.sleep(3)
+
+        doc_list = []
+        i = 0
+        while True:
+            i += 1
+            doc_list_for_page = self.__get_doc_list_for_page__(driver)
+            doc_list.extend(doc_list_for_page)
+
+            a_next = None
+            try:
+                a_next = driver.find_element(By.XPATH, "//a[text()='Next']")
+            except NoSuchElementException:
+                log.debug('No "Next" button.')
+                break
+
+            if a_next.get_attribute("style") != "cursor: pointer;":
+                log.debug("No more pages to scrape.")
+                break
+
+            log.debug(f"Clicking Next {i}...")
+            a_next.click()
+            self.sleep(3)
 
         self.quit()
         log.debug(f"Found {len(doc_list)} docs for {self}")
