@@ -2,6 +2,8 @@ import os
 from functools import cached_property
 
 import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib.ticker import MultipleLocator
 from utils import Log
 
 log = Log("ChartYear")
@@ -24,15 +26,26 @@ class ChartYear:
         }
 
     def draw(self):
-        years = list(self.year_to_num_docs.keys())
-        num_docs = list(self.year_to_num_docs.values())
+        items = sorted(
+            ((int(y), v) for y, v in self.year_to_num_docs.items()),
+            key=lambda t: t[0],
+        )
+        years = np.array([y for y, _ in items], dtype=int)
+        num_docs = np.array([v for _, v in items])
 
         plt.bar(years, num_docs)
         plt.xlabel("Year")
         plt.ylabel("Number of Documents")
         plt.title("Number of Documents per Year")
+
+        desired = 7
+        num_ticks = min(desired, len(years))
+        idx = np.linspace(0, len(years) - 1, num_ticks).round().astype(int)
+        tick_positions = years[idx]
+        plt.xticks(tick_positions, rotation=0)
+
         os.makedirs(self.DIR_IMAGES, exist_ok=True)
-        plt.savefig(self.DIR_IMAGE_PATH)
+        plt.savefig(self.DIR_IMAGE_PATH, bbox_inches="tight")
         plt.close()
         log.debug(f"Wrote {self.DIR_IMAGE_PATH}")
 
