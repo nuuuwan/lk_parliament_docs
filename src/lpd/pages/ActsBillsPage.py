@@ -31,6 +31,7 @@ class ActsBillsPage(WebPage):
         else:
             heading_text = heading_text.replace(": ", "").strip()
             doc_num = heading_text.lower().replace(" ", "-")
+            description = heading_text
 
         div_body = div_acts_box.find("div", class_="nTabber_content")
         div_con_box_list = div_body.find_all("div", class_="con_box")
