@@ -29,7 +29,7 @@ class DocBase:
         if len(tokens) == 2:
             sum_num_int = int(tokens[0])
             return f"{sum_num_int:03d}"
-        return self.doc_num.lower().replace(" ", "-")
+        return self.description.lower().replace(" ", "-")
 
     @property
     def doc_id(self) -> str:
