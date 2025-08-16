@@ -2,10 +2,12 @@ import os
 
 from utils import JSONFile, Log
 
+from lpd.core.doc.DocRead import DocRead
+
 log = Log("DocWrite")
 
 
-class DocWrite:
+class DocWrite(DocRead):
     @property
     def dir_doc_data(self):
         dir_doc_data = os.path.join(
