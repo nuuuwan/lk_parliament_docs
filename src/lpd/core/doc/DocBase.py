@@ -1,6 +1,10 @@
 from dataclasses import dataclass
 from functools import cache
 
+from utils import Log
+
+log = Log("DocBase")
+
 
 @dataclass
 class DocBase:
@@ -36,11 +40,16 @@ class DocBase:
     @property
     def doc_sub_num(self) -> int:
         tokens = self.doc_num.split("/")
-        try:
-            sum_num_int = int(tokens[0])
-            return f"{sum_num_int:03d}"
-        except ValueError:
-            return self.description.lower().replace(" ", "-")
+        if len(tokens) == 2:
+            try:
+                sum_num_int = int(tokens[0])
+                return f"{sum_num_int:03d}"
+            except ValueError as e:
+                log.error(
+                    f'Error parsing doc_sub_num with "{self.doc_num}": {e}'
+                )
+                pass
+        return self.description.lower().replace(" ", "-")
 
     @property
     def doc_id(self) -> str:
