@@ -27,3 +27,7 @@ class DocWrite(DocRead):
         data = self.to_dict()
         JSONFile(self.metadata_json_path).write(data)
         log.info(f"Wrote {self.metadata_json_path}")
+
+    @property
+    def url(self):
+        return self.dir_doc_data

@@ -1,4 +1,5 @@
 import os
+from functools import cache
 
 from utils import JSONFile, Log
 
@@ -22,10 +23,21 @@ class DocRead(DocBase):
         return cls.from_dict(d)
 
     @classmethod
+    @cache
     def list_all(cls):
         doc_list = []
         for metadata_file_path in DocRead.__gen_metadata_file_paths__():
             doc = cls.from_file(metadata_file_path)
             doc_list.append(doc)
+        doc_list.sort(key=lambda x: x.date, reverse=True)
         log.info(f"Read {len(doc_list):,} docs.")
         return doc_list
+
+    @classmethod
+    @cache
+    def year_to_list(cls):
+        doc_list = cls.list_all()
+        idx = {}
+        for doc in doc_list:
+            idx.setdefault(doc.year, []).append(doc)
+        return idx
