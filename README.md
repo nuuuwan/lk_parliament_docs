@@ -1,6 +1,6 @@
 # 🇱🇰 Documents from the Sri Lankan Parliament ([lk_parliament_docs](https://github.com/nuuuwan/lk_parliament_docs))
 
-Scraped  **291** documents from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-16 17:00:50**.
+Scraped  **291** documents from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-16 17:01:41**.
 
 ## Documents (291)
 
@@ -8,9 +8,9 @@ Scraped  **291** documents from [www.parliament.lk](https://www.parliament.lk/en
 
 - ✏️ `13/2025` [Bills of Exchange (Amendment)](data/acts/2025/2025-013) (2025-08-15)
 - ✏️ `12/2025` [Companies (Amendment)](data/acts/2025/2025-012) (2025-08-04)
+- ✏️ `11/2025` [National Minimum Wage of Workers (Amendment)](data/acts/2025/2025-011) (2025-07-22)
 - ✏️ `10/2025` [Budgetary Relief Allowance of Workers (Amendment)](data/acts/2025/2025-010) (2025-07-23)
 - ✏️ `9/2025` [Budgetary Relief Allowance Of Workers (Amendment)](data/acts/2025/2025-009) (2025-07-23)
-- ✏️ `11/2025` [National Minimum Wage of Workers (Amendment)](data/acts/2025/2025-011) (2025-07-22)
 - ✏️ `8/2025` [National Transport Commission (Amendment)](data/acts/2025/2025-008) (2025-06-19)
 - ✏️ `7/2025` [CODE OF CRIMINAL PROCEDURE (AMENDMENT)](data/acts/2025/2025-007) (2025-06-18)
 - ❌ `6/2025` [FOREIGN LOANS (REPEAL)](data/acts/2025/2025-006) (2025-05-23)
@@ -123,7 +123,6 @@ Scraped  **291** documents from [www.parliament.lk](https://www.parliament.lk/en
 - 🏛️ `33/2022` [Small Claims Courts' Procedure](data/acts/2022/2022-033) (2022-11-17)
 - ✏️ `32/2022` [Registration of Documents (Amendment)](data/acts/2022/2022-032) (2022-10-31)
 - ✏️ `31/2022` [Notaries (Amendment)](data/acts/2022/2022-031) (2022-10-31)
-- ✏️ `0000` [Twenty First Amendment to the Constitution](data/acts/2022/2022-000) (2022-10-31)
 - ✏️ `30/2022` [Prevention of Frauds ( Amendment)](data/acts/2022/2022-030) (2022-10-25)
 - ✏️ `29/2022` [Wills (Amendment)](data/acts/2022/2022-029) (2022-10-25)
 - ✏️ `28/2022` [Powers of Attorney (Amendment)](data/acts/2022/2022-028) (2022-10-25)
@@ -153,6 +152,7 @@ Scraped  **291** documents from [www.parliament.lk](https://www.parliament.lk/en
 - 🏛️ `3/2022` [PROHIBITION OF ANTI-PERSONNEL MINES](data/acts/2022/2022-003) (2022-02-17)
 - ✏️ `2/2022` [Code of Criminal Procedure (Amendment)](data/acts/2022/2022-002) (2022-02-17)
 - ✏️ `1/2022` [Mahapola Higher Education Scholarship Trust Fund (Amendment)](data/acts/2022/2022-001) (2022-02-14)
+- ✏️ `0000` [Twenty First Amendment to the Constitution](data/acts/2022/2022-000) (2022-10-31)
 
 ### 2021 (30)
 
@@ -164,8 +164,8 @@ Scraped  **291** documents from [www.parliament.lk](https://www.parliament.lk/en
 - ✏️ `25/2021` [Penal Code (Amendment)](data/acts/2021/2021-025) (2021-10-26)
 - ✏️ `24/2021` [Youthful Offenders (Training Schools) (Amendment)](data/acts/2021/2021-024) (2021-10-26)
 - ✏️ `23/2021` [Employees' Provident Fund (Amendment)](data/acts/2021/2021-023) (2021-10-13)
-- 🏛️ `21/2021` [Petroleum Resources](data/acts/2021/2021-021) (2021-10-08)
 - ✏️ `22/2021` [Registration of Electors (Amendment)](data/acts/2021/2021-022) (2021-10-07)
+- 🏛️ `21/2021` [Petroleum Resources](data/acts/2021/2021-021) (2021-10-08)
 - ✏️ `20/2021` [Consumer Affairs Authority (Amendment)](data/acts/2021/2021-020) (2021-09-22)
 - 🏛️ `19/2021` [Securities and Exchange Commission of Sri Lanka](data/acts/2021/2021-019) (2021-09-21)
 - 🏛️ `18/2021` [Finance](data/acts/2021/2021-018) (2021-09-15)
@@ -191,12 +191,12 @@ Scraped  **291** documents from [www.parliament.lk](https://www.parliament.lk/en
 
 - 💰 `7/2020` [Appropriation](data/acts/2020/2020-007) (2020-12-10)
 - 💰 `6/2020` [Appropriation](data/acts/2020/2020-006) (2020-11-20)
-- ✏️ `0000` [Twentieth Amendment to the Constitution](data/acts/2020/2020-000) (2020-10-29)
 - ✏️ `5/2020` [Ports and Airports Development Levy (Amendment)](data/acts/2020/2020-005) (2020-10-12)
 - ✏️ `4/2020` [Economic Service Charge (Amendment)](data/acts/2020/2020-004) (2020-10-12)
 - ✏️ `3/2020` [Nation Building Tax (Amendment)](data/acts/2020/2020-003) (2020-10-12)
 - ✏️ `2/2020` [Finance (Amendment)](data/acts/2020/2020-002) (2020-10-12)
 - 🏢 `1/2020` [Institute of Environmental professionals, Sri Lanka (Incorporation)](data/acts/2020/2020-001) (2020-02-26)
+- ✏️ `0000` [Twentieth Amendment to the Constitution](data/acts/2020/2020-000) (2020-10-29)
 
 ### 2019 (24)
 
