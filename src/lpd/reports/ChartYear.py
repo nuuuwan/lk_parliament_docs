@@ -33,6 +33,7 @@ class ChartYear:
         years = np.array([y for y, _ in items], dtype=int)
         num_docs = np.array([v for _, v in items])
 
+        plt.figure(figsize=(8, 4.5))
         plt.bar(years, num_docs)
         plt.xlabel("Year")
         plt.ylabel("Number of Acts")
