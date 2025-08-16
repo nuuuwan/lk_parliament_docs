@@ -26,11 +26,14 @@ class DocBase:
     @property
     def doc_sub_num(self) -> int:
         tokens = self.doc_num.split("/")
-        return int(tokens[0])
+        if len(tokens) == 2:
+            sum_num_int = int(tokens[0])
+            return f"{sum_num_int:03d}"
+        return self.doc_num.lower().replace(" ", "-")
 
     @property
     def doc_id(self) -> str:
-        return f"{self.year}-{self.doc_sub_num:03d}"
+        return f"{self.year}-{self.doc_sub_num}"
 
     @property
     def year(self) -> str:
