@@ -3,4 +3,4 @@
 
 from lpd.core import Doc, DocBase, DocRead, DocWrite
 from lpd.pages import ActsBillsPage
-from lpd.reports import ReadMe
+from lpd.reports import ChartYear, ReadMe

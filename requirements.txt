@@ -1,3 +1,4 @@
 utils-nuuuwan
 selenium
 bs4
+matplotlib
