@@ -13,7 +13,7 @@ MIN_YEAR = 1800
 
 
 def has_year_been_scraped(year: str) -> bool:
-    dir_year = os.path.join("data", "acts", year)
+    dir_year = os.path.join("data", "acts", str(year))
     return os.path.exists(dir_year) and os.path.isdir(dir_year)
 
 
