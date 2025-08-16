@@ -39,6 +39,10 @@ class DocBase:
     def year(self) -> str:
         return self.date[:4]
 
+    @property
+    def decade(self) -> str:
+        return self.year[:3] + "0s"
+
     def to_dict(self) -> dict:
         return dict(
             doc_type_nam=self.get_doc_type_name(),

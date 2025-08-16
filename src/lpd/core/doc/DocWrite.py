@@ -14,7 +14,11 @@ class DocWrite(DocRead):
     @property
     def dir_doc_data(self):
         dir_doc_data = os.path.join(
-            self.DIR_DATA, self.get_doc_type_name(), self.year, self.doc_id
+            self.DIR_DATA,
+            self.get_doc_type_name(),
+            self.decade,
+            self.year,
+            self.doc_id,
         )
         if not os.path.exists(dir_doc_data):
             os.makedirs(dir_doc_data)
