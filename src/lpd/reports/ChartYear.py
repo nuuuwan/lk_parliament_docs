@@ -3,7 +3,6 @@ from functools import cached_property
 
 import matplotlib.pyplot as plt
 import numpy as np
-from matplotlib.ticker import MultipleLocator
 from utils import Log
 
 log = Log("ChartYear")
