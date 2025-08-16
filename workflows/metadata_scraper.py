@@ -12,33 +12,28 @@ DEFAULT_MAX_DT = 1_200
 MAX_YEAR = 2025
 MIN_YEAR = 1800
 
-P_SCRAPE_AGAIN = 0.1
-
-
-def has_year_been_scraped(year: str) -> bool:
-    year = str(year)
-    decade = year[:3] + "0s"
-    dir_year = os.path.join("data", "acts", decade, year)
-    return os.path.exists(dir_year) and os.path.isdir(dir_year)
+P_SHUFFLE = 0.1
 
 
 def scrape_year(year):
-    if has_year_been_scraped(year):
-        log.debug(f"{year=} already scraped.")
-        if random.random() < P_SCRAPE_AGAIN:
-            log.info(f"Re-scraping {year=}.")
-        else:
-            log.debug(f"Skipping {year=}.")
-            return
-
     page = ActsBillsPage("acts", str(year))
     page.scrape()
 
 
+def get_scrape_years():
+    years = [year for year in range(MIN_YEAR, MAX_YEAR + 1)]
+    years.sort(reverse=True)
+    if random.random() < P_SHUFFLE:
+        log.debug("🎲 Shuffling years")
+        random.shuffle(years)
+    return years
+
+
 def scrape(max_dt):
-    year = MAX_YEAR
+    years = get_scrape_years()
+
     t_start = time.time()
-    while True:
+    for year in years:
         dt = time.time() - t_start
         if dt > max_dt:
             log.info(f"Stopping. 🛑 {dt:.1f}s > {max_dt}s.")
@@ -48,10 +43,7 @@ def scrape(max_dt):
         log.info(f"[{dt:.1f}s/{max_dt}s] Running scrape for {year=}")
         scrape_year(year)
 
-        year -= 1
-        if year < MIN_YEAR:
-            log.info(f"Stopping. 🛑 {year} < {MIN_YEAR}")
-            sys.exit(0)
+    log.info("Stopping. 🛑 ALL years complete.")
 
 
 if __name__ == "__main__":
