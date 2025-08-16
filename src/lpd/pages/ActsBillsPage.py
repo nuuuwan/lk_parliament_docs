@@ -78,12 +78,10 @@ class ActsBillsPage(WebPage):
 
         input_year = driver.find_element(By.XPATH, "//input[@id='year']")
         input_year.send_keys(self.year + Keys.RETURN)
-
         self.sleep(3)
 
         source = self.driver.page_source
         soup = BeautifulSoup(source, "html.parser")
-
         doc_list = []
         for div_acts_box in soup.find_all("div", class_="acts_box"):
             doc = self.__parse_div_acts_box__(div_acts_box)
