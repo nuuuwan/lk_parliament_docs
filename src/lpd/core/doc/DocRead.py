@@ -29,7 +29,13 @@ class DocRead(DocBase):
         for metadata_file_path in DocRead.__gen_metadata_file_paths__():
             doc = cls.from_file(metadata_file_path)
             doc_list.append(doc)
-        doc_list.sort(key=lambda x: (x.date, x.doc_id), reverse=True)
+        doc_list.sort(
+            key=lambda x: (
+                x.doc_id,
+                x.date,
+            ),
+            reverse=True,
+        )
         log.info(f"Read {len(doc_list):,} docs.")
         return doc_list
 
