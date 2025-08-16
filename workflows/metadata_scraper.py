@@ -6,7 +6,7 @@ from utils import Log
 from lpd import ActsBillsPage
 
 log = Log("scrape")
-DEFAULT_MAX_DT = 1
+DEFAULT_MAX_DT = 1_200
 MAX_YEAR = 2025
 MIN_YEAR = 1800
 
