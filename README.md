@@ -1,6 +1,8 @@
 # 🇱🇰 Documents from the Sri Lankan Parliament ([lk_parliament_docs](https://github.com/nuuuwan/lk_parliament_docs))
 
-Scraped  **1,439** documents from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-16 17:15:08**.
+Scraped  **1,439** documents from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-16 17:17:59**.
+
+![Year Chart](images/chart_year.png)
 
 ## Documents (1439)
 
