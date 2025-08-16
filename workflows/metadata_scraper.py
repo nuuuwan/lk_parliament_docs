@@ -1,3 +1,4 @@
+import os
 import sys
 import time
 
@@ -11,7 +12,16 @@ MAX_YEAR = 2025
 MIN_YEAR = 1800
 
 
+def has_year_been_scraped(year: str) -> bool:
+    dir_year = os.path.join("data", "acts", year)
+    return os.path.exists(dir_year) and os.path.isdir(dir_year)
+
+
 def scrape_year(year):
+    if has_year_been_scraped(year):
+        log.info(f"Skipping {year=}, already scraped.")
+        return
+
     log.debug("-" * 32)
     log.info(f"Running scrape for {year=}")
     page = ActsBillsPage("acts", str(year))
