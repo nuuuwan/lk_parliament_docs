@@ -1,4 +1,5 @@
 import os
+import random
 import sys
 import time
 
@@ -11,6 +12,8 @@ DEFAULT_MAX_DT = 1_200
 MAX_YEAR = 2025
 MIN_YEAR = 1800
 
+P_SCRAPE_AGAIN = 0.1
+
 
 def has_year_been_scraped(year: str) -> bool:
     dir_year = os.path.join("data", "acts", str(year))
@@ -19,8 +22,12 @@ def has_year_been_scraped(year: str) -> bool:
 
 def scrape_year(year):
     if has_year_been_scraped(year):
-        log.info(f"Skipping {year=}, already scraped.")
-        return
+        log.info(f"{year=} already scraped.")
+        if random.random() < P_SCRAPE_AGAIN:
+            log.info(f"Re-scraping {year=}.")
+        else:
+            log.info(f"Skipping {year=}.")
+            return
 
     log.debug("-" * 32)
     log.info(f"Running scrape for {year=}")
