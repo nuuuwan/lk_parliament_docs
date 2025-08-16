@@ -37,4 +37,6 @@ def scrape(max_dt):
 
 
 if __name__ == "__main__":
-    scrape(max_dt=sys.argv[1] if len(sys.argv) > 1 else DEFAULT_MAX_DT)
+    scrape(
+        max_dt=float(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_MAX_DT,
+    )
