@@ -11,7 +11,7 @@ DEFAULT_MAX_DT = 1_200
 MAX_YEAR = 2025
 MIN_YEAR = 1900
 
-P_SHUFFLE = 0.2
+P_SHUFFLE = 0.5
 
 
 def scrape_year(year):
