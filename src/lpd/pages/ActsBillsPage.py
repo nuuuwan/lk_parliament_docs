@@ -25,6 +25,10 @@ class ActsBillsPage(WebPage):
 
     def __parse_div_acts_box__(self, div_acts_box):
         h4 = div_acts_box.find("h4")
+        if not h4:
+            log.warning("No heading found.")
+            return None
+
         heading_text = h4.text.strip()
         if " : " in heading_text:
             doc_num, description = heading_text.split(" : ")
