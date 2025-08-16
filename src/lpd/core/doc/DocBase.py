@@ -24,8 +24,13 @@ class DocBase:
         )
 
     @property
+    def doc_sub_num(self) -> int:
+        tokens = self.doc_num.split("/")
+        return int(tokens[0])
+
+    @property
     def doc_id(self) -> str:
-        return self.doc_num.replace("/", "-").strip()
+        return f"{self.year}-{self.doc_sub_num:03d}"
 
     @property
     def year(self) -> str:

@@ -24,7 +24,7 @@ class TestCase(unittest.TestCase):
                     "si": "https://www.parliament.lk/uploads/acts/gbills/sinhala/6332.pdf",  # noqa: E501
                     "ta": "https://www.parliament.lk/uploads/acts/gbills/tamil/6332.pdf",  # noqa: E501
                 },
-                "doc_id": "28-2024",
+                "doc_id": "2024-028",
             },
         )
         self.assertTrue(os.path.exists(first_doc.metadata_json_path))
