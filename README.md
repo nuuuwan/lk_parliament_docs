@@ -1,6 +1,6 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_parliament_docs](https://github.com/nuuuwan/lk_parliament_docs))
 
-Scraped  **2,387** acts (0.88 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-16 18:20:59**.
+Scraped  **2,387** acts (0.88 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-16 20:05:12**.
 
 ![Year Chart](images/chart_year.png)
 
@@ -110,7 +110,6 @@ Scraped  **2,387** acts (0.88 MB) from [www.parliament.lk](https://www.parliamen
 
 ### 2022 (45)
 
-- ✏️ `0000` [Twenty First Amendment to the Constitution](data/acts/2020s/2022/2022-twenty-first-amendment-to-the-constitution) (2022-10-31)
 - ✏️ `45/2022` [Inland Revenue (Amendment)](data/acts/2020s/2022/2022-045) (2022-12-19)
 - ✏️ `44/2022` [Value Added Tax (Amendment)](data/acts/2020s/2022/2022-044) (2022-12-14)
 - 💰 `43/2022` [Appropriation](data/acts/2020s/2022/2022-043) (2022-12-08)
@@ -155,6 +154,7 @@ Scraped  **2,387** acts (0.88 MB) from [www.parliament.lk](https://www.parliamen
 - 🏛️ `3/2022` [PROHIBITION OF ANTI-PERSONNEL MINES](data/acts/2020s/2022/2022-003) (2022-02-17)
 - ✏️ `2/2022` [Code of Criminal Procedure (Amendment)](data/acts/2020s/2022/2022-002) (2022-02-17)
 - ✏️ `1/2022` [Mahapola Higher Education Scholarship Trust Fund (Amendment)](data/acts/2020s/2022/2022-001) (2022-02-14)
+- ✏️ `0000` [Twenty First Amendment to the Constitution](data/acts/2020s/2022/2022-000) (2022-10-31)
 
 ### 2021 (30)
 
@@ -191,7 +191,6 @@ Scraped  **2,387** acts (0.88 MB) from [www.parliament.lk](https://www.parliamen
 
 ### 2020 (8)
 
-- ✏️ `0000` [Twentieth Amendment to the Constitution](data/acts/2020s/2020/2020-twentieth-amendment-to-the-constitution) (2020-10-29)
 - 💰 `7/2020` [Appropriation](data/acts/2020s/2020/2020-007) (2020-12-10)
 - 💰 `6/2020` [Appropriation](data/acts/2020s/2020/2020-006) (2020-11-20)
 - ✏️ `5/2020` [Ports and Airports Development Levy (Amendment)](data/acts/2020s/2020/2020-005) (2020-10-12)
@@ -199,6 +198,7 @@ Scraped  **2,387** acts (0.88 MB) from [www.parliament.lk](https://www.parliamen
 - ✏️ `3/2020` [Nation Building Tax (Amendment)](data/acts/2020s/2020/2020-003) (2020-10-12)
 - ✏️ `2/2020` [Finance (Amendment)](data/acts/2020s/2020/2020-002) (2020-10-12)
 - 🏢 `1/2020` [Institute of Environmental professionals, Sri Lanka (Incorporation)](data/acts/2020s/2020/2020-001) (2020-02-26)
+- ✏️ `0000` [Twentieth Amendment to the Constitution](data/acts/2020s/2020/2020-000) (2020-10-29)
 
 ### 2019 (24)
 
@@ -329,7 +329,6 @@ Scraped  **2,387** acts (0.88 MB) from [www.parliament.lk](https://www.parliamen
 
 ### 2015 (16)
 
-- ✏️ `0000` [Nineteenth Amendment to the Constitution](data/acts/2010s/2015/2015-nineteenth-amendment-to-the-constitution) (2015-05-15)
 - 💰 `16/2015` [Appropriation](data/acts/2010s/2015/2015-016) (2015-12-19)
 - ✏️ `15/2015` [Appropriation (Amendment)](data/acts/2010s/2015/2015-015) (2015-12-03)
 - ✏️ `14/2015` [Betting and Gaming Levy (Amendment)](data/acts/2010s/2015/2015-014) (2015-10-30)
@@ -345,6 +344,7 @@ Scraped  **2,387** acts (0.88 MB) from [www.parliament.lk](https://www.parliamen
 - ✏️ `3/2015` [National Authority on Tobacco and Alcohol (Amendment)](data/acts/2010s/2015/2015-003) (2015-03-03)
 - ✏️ `2/2015` [Fisheries and Aquatic Resources (Amendment)](data/acts/2010s/2015/2015-002) (2015-03-02)
 - ✏️ `1/2015` [Appropriation (Amendment)](data/acts/2010s/2015/2015-001) (2015-02-07)
+- ✏️ `0000` [Nineteenth Amendment to the Constitution](data/acts/2010s/2015/2015-000) (2015-05-15)
 
 ### 2014 (31)
 
@@ -478,7 +478,6 @@ Scraped  **2,387** acts (0.88 MB) from [www.parliament.lk](https://www.parliamen
 
 ### 2010 (15)
 
-- ✏️ `0` [Eighteenth Amendment to the Constitution](data/acts/2010s/2010/2010-eighteenth-amendment-to-the-constitution) (2010-09-09)
 - 💰 `20/2010` [Appropriation](data/acts/2010s/2010/2010-020) (2010-12-10)
 - 🏛️ `19/2010` [Registration of Deaths (Temporary Provisions)](data/acts/2010s/2010/2010-019) (2010-12-10)
 - ❌ `18/2010` [Public Enterprises Reform Commission of Sri Lanka (Repeal)](data/acts/2010s/2010/2010-018) (2010-12-07)
@@ -493,6 +492,7 @@ Scraped  **2,387** acts (0.88 MB) from [www.parliament.lk](https://www.parliamen
 - ✏️ `9/2010` [Widowers' and Orphans' Pension (Amendment)](data/acts/2010s/2010/2010-009) (2010-08-17)
 - ✏️ `8/2010` [Widows' and Orphans' Pension Fund (Amendment)](data/acts/2010s/2010/2010-008) (2010-08-17)
 - 💰 `7/2010` [Appropriation](data/acts/2010s/2010/2010-007) (2010-07-13)
+- ✏️ `0` [Eighteenth Amendment to the Constitution](data/acts/2010s/2010/2010-000) (2010-09-09)
 
 ### 2009 (38)
 
