@@ -40,3 +40,16 @@ class DocBase:
             lang_to_source_url=self.lang_to_source_url,
             doc_id=self.doc_id,
         )
+
+    @property
+    def emoji(self):
+        for keyword, emoji in {
+            "amendment": "✏️",
+            "repeal": "❌",
+            "appropriation": "💰",
+            "special provision": "📜",
+            "incorporation": "🏢",
+        }.items():
+            if keyword in self.description.lower():
+                return emoji
+        return "🏛️"
