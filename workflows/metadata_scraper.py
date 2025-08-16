@@ -22,11 +22,11 @@ def has_year_been_scraped(year: str) -> bool:
 
 def scrape_year(year):
     if has_year_been_scraped(year):
-        log.info(f"{year=} already scraped.")
+        log.debug(f"{year=} already scraped.")
         if random.random() < P_SCRAPE_AGAIN:
             log.info(f"Re-scraping {year=}.")
         else:
-            log.info(f"Skipping {year=}.")
+            log.debug(f"Skipping {year=}.")
             return
 
     page = ActsBillsPage("acts", str(year))
