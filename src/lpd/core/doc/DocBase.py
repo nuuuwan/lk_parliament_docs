@@ -13,7 +13,7 @@ class DocBase:
         "amendment": "✏️",
         "repeal": "❌",
         "appropriation": "💰",
-        "special provision": "📜",
+        "special-provision": "📜",
         "incorporation": "🏢",
         "amendment-to-the-constitution": "🧽",
     }
