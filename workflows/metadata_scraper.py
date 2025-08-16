@@ -14,11 +14,6 @@ MIN_YEAR = 1900
 P_SHUFFLE = 0.5
 
 
-def scrape_year(year):
-    page = ActsBillsPage("acts", str(year))
-    page.scrape()
-
-
 def get_scrape_years():
     years = [year for year in range(MIN_YEAR, MAX_YEAR + 1)]
     years.sort(reverse=True)
@@ -26,6 +21,14 @@ def get_scrape_years():
         log.debug("🎲 Shuffling years")
         random.shuffle(years)
     return years
+
+
+def scrape_year(year):
+    try:
+        page = ActsBillsPage("acts", str(year))
+        page.scrape()
+    except Exception as e:
+        log.error(f"Error scraping {year=}: {e}")
 
 
 def scrape(max_dt):
