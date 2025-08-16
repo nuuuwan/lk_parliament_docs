@@ -42,10 +42,9 @@ def scrape(max_dt):
             log.info(f"Stopping. 🛑 {dt:.1f}s > {max_dt}s.")
             sys.exit(0)
 
-        log.debug("-" * 32)
+        log.debug("-" * 64)
         log.info(f"[{dt:.1f}s/{max_dt}s] Running scrape for {year=}")
         scrape_year(year)
-        log.debug("-" * 32)
 
         year -= 1
         if year < MIN_YEAR:
