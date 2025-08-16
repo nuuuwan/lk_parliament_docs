@@ -2,11 +2,17 @@ from pathlib import Path
 
 from utils import File, Log, Time, TimeFormat
 
+from lpd import Doc
+
 log = Log("ReadMe")
 
 
 class ReadMe:
     PATH = Path("README.md")
+
+    def __init__(self):
+        self.doc_list = Doc.list_all()
+        self.n_docs = len(self.doc_list)
 
     @property
     def timestamp(self):
@@ -19,7 +25,7 @@ class ReadMe:
             + " ([lk_parliament_docs]"
             + "(https://github.com/nuuuwan/lk_parliament_docs))",
             "",
-            "Documents scraped from"
+            f"Scraped  **{self.n_docs:,}** documents from"
             + " [www.parliament.lk](https://www.parliament.lk/en)"
             + f" as of **{self.timestamp}**.",
             "",
