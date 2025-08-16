@@ -36,10 +36,11 @@ class DocBase:
     @property
     def doc_sub_num(self) -> int:
         tokens = self.doc_num.split("/")
-        if len(tokens) == 2:
+        try:
             sum_num_int = int(tokens[0])
             return f"{sum_num_int:03d}"
-        return self.description.lower().replace(" ", "-")
+        except ValueError:
+            return self.description.lower().replace(" ", "-")
 
     @property
     def doc_id(self) -> str:
