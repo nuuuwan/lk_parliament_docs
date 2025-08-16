@@ -15,7 +15,7 @@ class DocBase:
         "appropriation": "💰",
         "special provision": "📜",
         "incorporation": "🏢",
-        "amendment-to-the-constitution": "📝",
+        "amendment-to-the-constitution": "🧽",
     }
     EMOJI_GENERAL = "🏛️"
 
