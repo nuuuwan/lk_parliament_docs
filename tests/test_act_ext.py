@@ -2,13 +2,18 @@
 import os
 import unittest
 
-from utils import JSONFile
+from utils import JSONFile, Log
 
 from lk_acts import ActExt
 
 TEST_PDF_PATH = os.path.join("tests", "data", "en.pdf")
 
 DIR_TESTS_DATA = os.path.join("tests", "data")
+
+log = Log("test_act_ext")
+
+# Copy data Example
+# cp -r data/acts/2020s/2025/2025-012 tests/data
 
 
 class TestCase(unittest.TestCase):
@@ -26,6 +31,7 @@ class TestCase(unittest.TestCase):
             dir_path = os.path.join(DIR_TESTS_DATA, dir_name)
             if not os.path.isdir(dir_path):
                 continue
+            log.debug(f"Testing {dir_path}...")
 
             pdf_path = os.path.join(dir_path, "en.pdf")
             act_ext = ActExt.from_pdf(pdf_path)
@@ -39,4 +45,4 @@ class TestCase(unittest.TestCase):
             def get_preamble():
                 return act_ext.body_pages.preamble
 
-            return self.__test_helper__(dir_path, "preamble", get_preamble)
+            self.__test_helper__(dir_path, "preamble", get_preamble)
