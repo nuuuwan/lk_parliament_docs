@@ -14,7 +14,7 @@ def download_pdf_for_act(act, build_act_ext):
     if build_act_ext:
         try:
             ActExt.from_pdf(pdf_path).build(act.act_id)
-        except ValueError as e:
+        except Exception as e:
             log.error(f"Error processing {act.act_id}: {e}")
 
 
