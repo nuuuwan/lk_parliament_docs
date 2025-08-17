@@ -1,32 +1,28 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_acts](https://github.com/nuuuwan/lk_acts))
 
-Scraped  **43** acts (0.01 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-17 10:37:57**.
+Scraped  **38** acts (0.14 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-17 11:06:42**.
 
 ![Year Chart](images/chart_year.png)
 
-## Acts (43)
+## Acts (38)
 
-### 2024 (17)
+### 2024 (13)
 
 - 🟢 `28/2024` [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/acts/2020s/2024/2024-028) (2024-05-13)
 - 🟢 `23/2024` [Companies (Amendment)](data/acts/2020s/2024/2024-023) (2024-04-01)
 - 🟢 `22/2024` [Inland Trust Receipts (Amendment)](data/acts/2020s/2024/2024-022) (2024-04-01)
 - 🟢 `21/2024` [Finance Leasing (Amendment)](data/acts/2020s/2024/2024-021) (2024-04-01)
-- 🟢 `20/2024` [Mortgage (Amendment)](data/acts/2020s/2024/2024-020) (2024-04-01)
 - 🟢 `19/2024` [Trust Receipts (Amendment)](data/acts/2020s/2024/2024-019) (2024-04-01)
-- 🟢 `18/2024` [Registration of Documents (Amendment)](data/acts/2020s/2024/2024-018) (2024-04-01)
 - ⚪ `17/2024` [Secured Transactions](data/acts/2020s/2024/2024-017) (2024-04-01)
 - ⚪ `9/2024` [Online Safety](data/acts/2020s/2024/2024-009) (2024-02-01)
 - ⚪ `8/2024` [Contempt of a Court, Tribunal or Institution](data/acts/2020s/2024/2024-008) (2024-02-01)
 - ⚪ `7/2024` [National Hydrographic Act](data/acts/2020s/2024/2024-007) (2024-02-01)
-- 🟢 `6/2024` [Notaries (Amendment)](data/acts/2020s/2024/2024-006) (2024-01-31)
 - ⚪ `5/2024` [The Recognition and Enforcement of International Settlement Agreements Resulting From Mediation](data/acts/2020s/2024/2024-005) (2024-01-31)
 - 🟢 `4/2024` [Prevention of Frauds (Amendment)](data/acts/2020s/2024/2024-004) (2024-01-23)
 - 🟢 `3/2024` [Powers of Attorney (Amendment)](data/acts/2020s/2024/2024-003) (2024-01-23)
 - 🟢 `2/2024` [Mediation Board (Amendment) Act](data/acts/2020s/2024/2024-002) (2024-01-23)
-- ⚪ `1/2024` [Office for National Unity and Reconciliation](data/acts/2020s/2024/2024-001) (2024-01-23)
 
-### 2023 (26)
+### 2023 (25)
 
 - 🟣 `34/2023` [Appropriation](data/acts/2020s/2023/2023-034) (2023-12-13)
 - ⚪ `33/2023` [Finance](data/acts/2020s/2023/2023-033) (2023-12-13)
@@ -51,7 +47,6 @@ Scraped  **43** acts (0.01 MB) from [www.parliament.lk](https://www.parliament.l
 - ⚪ `10/2023` [Assistance to and Protection of Victims of Crime and Witnesses](data/acts/2020s/2023/2023-010) (2023-08-08)
 - ⚪ `9/2023` [ANTI-CORRUPTION](data/acts/2020s/2023/2023-009) (2023-08-08)
 - 🟢 `8/2023` [Carriage by Air (Amendment)](data/acts/2020s/2023/2023-008) (2023-07-14)
-- 🟢 `7/2023` [Civil Procedure Code (Amendment)](data/acts/2020s/2023/2023-007) (2023-06-27)
 - ⚪ `6/2023` [Parliamentary Budget Office](data/acts/2020s/2023/2023-006) (2023-06-27)
 - 🟢 `4/2023` [Inland Revenue (Amendment)](data/acts/2020s/2023/2023-004) (2023-05-08)
 
