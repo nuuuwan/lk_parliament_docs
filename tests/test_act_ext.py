@@ -2,92 +2,41 @@
 import os
 import unittest
 
+from utils import JSONFile
+
 from lk_acts import ActExt
 
 TEST_PDF_PATH = os.path.join("tests", "data", "en.pdf")
 
+DIR_TESTS_DATA = os.path.join("tests", "data")
+
 
 class TestCase(unittest.TestCase):
+
+    def __test_helper__(self, dir_path, label, get_actual):
+        json_file = JSONFile(os.path.join(dir_path, f"_{label}.json"))
+        actual = get_actual()
+        if not os.path.exists(json_file.path):
+            json_file.write(actual)
+        expected = json_file.read()
+        self.assertEqual(actual, expected)
+
     def test_from_pdf(self):
-        act_ext = ActExt.from_pdf(TEST_PDF_PATH)
-        act_ext.write_md(TEST_PDF_PATH[:-4] + ".md")
-        act_ext.write_json(TEST_PDF_PATH[:-4] + ".json")
+        for dir_name in os.listdir(DIR_TESTS_DATA):
+            dir_path = os.path.join(DIR_TESTS_DATA, dir_name)
+            if not os.path.isdir(dir_path):
+                continue
 
-        self.assertEqual(act_ext.n_pages, 31)
+            pdf_path = os.path.join(dir_path, "en.pdf")
+            act_ext = ActExt.from_pdf(pdf_path)
 
-        self.assertEqual(len(act_ext.body_pages.pre_section_list), 12)
-        self.assertEqual(len(act_ext.body_pages.part_list), 0)
+            self.__test_helper__(
+                dir_path, "title_page", act_ext.title_page.to_dict
+            )
 
-        print()
-        print(act_ext.title_page.to_dict())
-        print()
-        self.assertEqual(
-            act_ext.title_page.to_dict(),
-            {
-                "title": "Companies (Amendment) Act",
-                "num": "12",
-                "year": "2025",
-                "date_certified": "2025-08-04",
-                "date_published": "2025-08-07",
-                "price": 80.0,
-                "price_postage": 150.0,
-            },
-        )
+            self.__test_helper__(dir_path, "stats", act_ext.get_stats)
 
-        preamble = act_ext.body_pages.preamble
-        print()
-        print(preamble)
-        print()
-        self.assertEqual(
-            preamble,
-            [
-                "Companies (Amendment) Act, No. 12 Of 2025 1",
-                "[Certiﬁ Ed On 04Th Of August, 2025]",
-                "L.D.- O. 61/2024",
-                "A N   A Ct   To   Amend   The  C Ompanies  A Ct , N O . 07  Of  2007",
-                "Be It Enacted By The Parliament Of The Democratic Socialist  Republic Of Sri Lanka As Follows: -",
-            ],
-        )
+            def get_preamble():
+                return act_ext.body_pages.preamble
 
-        section = act_ext.body_pages.pre_section_list[0]
-        print()
-        print(section.to_dict())
-        print()
-        self.assertEqual(
-            section.to_dict(),
-            {
-                "class_name": "ActL1Section",
-                "num": "1",
-                "text": "",
-                "pre_block_list": [],
-                "child_level_list": [
-                    {
-                        "class_name": "ActL2Subsection",
-                        "num": "1",
-                        "text": "This Act may be cited as the Companies  (Amendment) Act, No. 12 of 2025. ",
-                        "pre_block_list": [
-                            "Short title and the  date of operation"
-                        ],
-                        "child_level_list": [],
-                        "post_block_list": [],
-                    },
-                    {
-                        "class_name": "ActL2Subsection",
-                        "num": "2",
-                        "text": "The provisions of this Act other than the provisions  of this section shall come into operation on such date as the  Minister may appoint by Order published in the  Gazette . ",
-                        "pre_block_list": [],
-                        "child_level_list": [],
-                        "post_block_list": [],
-                    },
-                    {
-                        "class_name": "ActL2Subsection",
-                        "num": "3",
-                        "text": "The provisions of this section shall come into operation  on the date on which the Bill becomes an Act of Parliament.",
-                        "pre_block_list": [],
-                        "child_level_list": [],
-                        "post_block_list": [],
-                    },
-                ],
-                "post_block_list": [],
-            },
-        )
+            return self.__test_helper__(dir_path, "preamble", get_preamble)

@@ -46,6 +46,13 @@ class ActExt:
             body_pages=self.body_pages.to_dict(),
         )
 
+    def get_stats(self):
+        return dict(
+            n_pages=self.n_pages,
+            n_pre_sections=len(self.body_pages.pre_section_list),
+            n_parts=len(self.body_pages.part_list),
+        )
+
     def to_md_lines(self):
         return self.title_page.to_md_lines() + self.body_pages.to_md_lines()
 
