@@ -1,7 +1,9 @@
 from dataclasses import dataclass
-from functools import cache
+from functools import cache, cached_property
 
 from utils import Log
+
+from lk_acts.core.doc.DocActType import DocActType
 
 log = Log("DocBase")
 
@@ -12,16 +14,6 @@ class DocBase:
     date: str
     description: str
     lang_to_source_url: dict[str, str]
-
-    DOC_ACT_TYPE_TO_EMOJI = {
-        "amendment": "✏️",
-        "repeal": "❌",
-        "appropriation": "💰",
-        "special-provision": "📜",
-        "incorporation": "🏢",
-        "amendment-to-the-constitution": "🧽",
-    }
-    EMOJI_GENERAL = "🏛️"
 
     @classmethod
     @cache
@@ -72,15 +64,6 @@ class DocBase:
             doc_id=self.doc_id,
         )
 
-    @property
-    def doc_act_type(self):
-        for doc_act_type in self.DOC_ACT_TYPE_TO_EMOJI.keys():
-            if doc_act_type in self.description.lower().replace(" ", "-"):
-                return doc_act_type
-        return "general"
-
-    @property
-    def emoji(self):
-        return self.DOC_ACT_TYPE_TO_EMOJI.get(
-            self.doc_act_type, self.EMOJI_GENERAL
-        )
+    @cached_property
+    def doc_act_type(self) -> DocActType:
+        return DocActType.from_description(self.description)

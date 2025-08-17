@@ -15,6 +15,7 @@ class ReadMe:
         self.doc_list = Doc.list_all()
         self.n_docs = len(self.doc_list)
         self.year_to_list = Doc.year_to_list()
+        self.year_to_type_to_list = Doc.year_to_type_to_list()
         self.data_size_m = Doc.get_dir_data_size() / (1024 * 1024)
 
     @property
@@ -23,13 +24,13 @@ class ReadMe:
 
     @property
     def lines_for_year_chart(self):
-        image_path = ChartYear(self.year_to_list).draw()
+        image_path = ChartYear(self.year_to_type_to_list).draw()
         return [f"![Year Chart]({image_path})", ""]
 
     @staticmethod
     def get_lines_for_doc(doc):
         return [
-            f"- {doc.emoji} `{doc.doc_num}`"
+            f"- {doc.doc_act_type.emoji} `{doc.doc_num}`"
             + f" [{doc.description}]({doc.url})"
             + f" ({doc.date})"
         ]

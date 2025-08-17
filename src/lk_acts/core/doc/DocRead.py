@@ -47,3 +47,14 @@ class DocRead(DocBase):
         for doc in doc_list:
             idx.setdefault(doc.year, []).append(doc)
         return idx
+
+    @classmethod
+    @cache
+    def year_to_type_to_list(cls):
+        doc_list = cls.list_all()
+        idx = {}
+        for doc in doc_list:
+            idx.setdefault(doc.year, {}).setdefault(
+                doc.doc_act_type.name, []
+            ).append(doc)
+        return idx
