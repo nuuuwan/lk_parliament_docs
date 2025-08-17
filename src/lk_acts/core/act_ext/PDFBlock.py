@@ -12,7 +12,6 @@ class PDFBlock:
     @staticmethod
     def extract(re_expr, block_list: list["PDFBlock"]) -> float:
         for block in block_list:
-            print(block.text)
             match = re.search(re_expr, block.text)
             if match:
                 return match.group(1)

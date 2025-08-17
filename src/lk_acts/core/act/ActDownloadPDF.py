@@ -1,4 +1,5 @@
 import os
+import shutil
 import ssl
 import tempfile
 from functools import cached_property
@@ -76,7 +77,8 @@ class ActDownloadPDF(ActWrite):
                     + f" {file_size_m:.1f} MB"
                 )
                 return None
-            os.rename(temp_pdf_path, self.pdf_path)
+
+            shutil.move(temp_pdf_path, self.pdf_path)
             log.info(
                 f"✅ Downloaded PDF from {url}"
                 + f" to {self.pdf_path} ({file_size_m:.1f} MB)"
