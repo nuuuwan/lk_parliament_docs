@@ -232,6 +232,10 @@ class ActExt:
     title_page: ActExtTitlePage
     body_pages: ActExtBodyPages
 
+    @cached_property
+    def n_sections(self):
+        return len(self.body_pages.section_list)
+
     @classmethod
     def from_pdf(cls, pdf_path):
         act_ext_pdf = ActExtPDF(pdf_path)
