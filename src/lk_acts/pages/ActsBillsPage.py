@@ -23,12 +23,11 @@ class ActsBillsPage(WebPage):
     def __str__(self) -> str:
         return f"ActsBillsPage({self.doc_type_name}, {self.year})"
 
-    def __parse_div_acts_box__(self, div_acts_box):
+    def __parse_div_acts_box__(self, div_acts_box):  # noqa: CFQ004 !HACK
         h4 = div_acts_box.find("h4")
         if not h4:
             log.warning("No heading found.")
             return None
-
         heading_text = h4.text.strip()
         if " : " in heading_text:
             num, description = heading_text.split(" : ")
@@ -36,7 +35,6 @@ class ActsBillsPage(WebPage):
             heading_text = heading_text.replace(": ", "").strip()
             num = heading_text.lower().replace(" ", "-")
             description = heading_text
-
         div_body = div_acts_box.find("div", class_="nTabber_content")
         div_con_box_list = div_body.find_all("div", class_="con_box")
         endorsed_date = (
@@ -45,20 +43,19 @@ class ActsBillsPage(WebPage):
         if len(endorsed_date) != 10:
             log.warning(f"Unexpected date format: {endorsed_date}")
             return None
-
         a = div_con_box_list[2].find("a")
         url_pdf_en = a.get("href") if a else None
         if not url_pdf_en:
             log.warning("No PDF URL found.")
             return None
-
-        d = dict(
-            num=num,
-            date=endorsed_date,
-            description=description,
-            url_pdf_en=url_pdf_en,
+        return Act.from_dict(
+            dict(
+                num=num,
+                date=endorsed_date,
+                description=description,
+                url_pdf_en=url_pdf_en,
+            )
         )
-        return Act.from_dict(d)
 
     def __get_doc_list_for_page__(self, driver):
         source = driver.page_source

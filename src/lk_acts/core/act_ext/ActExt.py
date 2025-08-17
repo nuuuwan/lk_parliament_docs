@@ -34,7 +34,7 @@ class ActExtPDF:
             for x0, y0, x1, y1, text, *_ in raw_block_list:
                 block = PDFBlock(
                     bbox=(x0, y0, x1, y1),
-                    text=text.strip(),
+                    text=text.replace("\n", " ").strip(),
                 )
                 block_list.append(block)
 
@@ -64,7 +64,6 @@ class ActExtTitlePage:
 
     @classmethod
     def from_block_list(cls, block_list):
-
         price = PDFBlock.extract(cls.RE_PRICE, block_list)
         price_postage = PDFBlock.extract(cls.RE_PRICE_POSTAGE, block_list)
         date_certified = PDFBlock.extract(cls.RE_DATE_CERTIFIED, block_list)
@@ -91,22 +90,36 @@ class ActSection:
     num: int
     text: str
 
+    RE_SECTION = r"^(?P<num>\d+)\.\s*(?P<text>.+)"
+
     def to_dict(self):
         return dict(num=self.num, text=self.text)
+
+    @classmethod
+    def from_block(cls, block: PDFBlock):
+        match = re.match(cls.RE_SECTION, block.text)
+        if match:
+            return cls(num=int(match.group("num")), text=match.group("text"))
+        return None
 
 
 @dataclass
 class ActExtBodyPages:
     section_list: list[ActSection]
 
-    @classmethod
-    def from_block_list(cls, __):
-        return ActExtBodyPages(section_list=[])
-
     def to_dict(self):
         return dict(
             section_list=[section.to_dict() for section in self.section_list]
         )
+
+    @classmethod
+    def from_block_list(cls, block_list):
+        section_list = []
+        for block in block_list:
+            section = ActSection.from_block(block)
+            if section:
+                section_list.append(section)
+        return ActExtBodyPages(section_list=section_list)
 
 
 @dataclass
