@@ -62,3 +62,8 @@ class ActExt:
     def write_json(self, json_path):
         JSONFile(json_path).write(self.to_dict())
         log.info(f"Wrote {json_path}")
+
+    def build(self, act_id):
+        dir_act_data = Act.get_dir_act_data(act_id)
+        self.write_md(os.path.join(dir_act_data, "README.md"))
+        self.write_json(os.path.join(dir_act_data, "act.json"))
