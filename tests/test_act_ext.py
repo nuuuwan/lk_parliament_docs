@@ -45,6 +45,8 @@ class TestCase(unittest.TestCase):
             pdf_path = os.path.join(dir_path, "en.pdf")
             act_ext = ActExt.from_pdf(pdf_path)
 
+            act_ext.write_md(os.path.join(dir_path, "_README.md"))
+
             self.__test_helper__(
                 dir_path, "title_page", act_ext.title_page.to_dict
             )

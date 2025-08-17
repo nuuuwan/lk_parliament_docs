@@ -16,7 +16,10 @@ class ActExtPDF:
     @staticmethod
     def __parse_raw_block_hacks__(block):
         # HACK
-        for delim in [".”.", "   \t "]:
+        for delim in [
+            "..",
+            "   \t ",
+        ]:
             if delim in block.text:
                 tokens = block.text.split(delim)
                 if len(tokens) == 2:
