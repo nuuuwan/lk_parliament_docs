@@ -34,6 +34,8 @@ class ActSection:
     def __get_section_to_block_list__(block_List: list[PDFBlock]):
         section_to_block_list = []
         for block in block_List:
+            if "Italic" in block.font_family:
+                continue
             match = re.match(ActSection.RE_SECTION, block.text)
             if match:
                 section_to_block_list.append([block])
