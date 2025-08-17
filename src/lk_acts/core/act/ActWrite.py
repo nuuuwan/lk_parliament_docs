@@ -12,21 +12,21 @@ class ActWrite(ActRead):
     DIR_DATA = "data"
 
     @property
-    def dir_doc_data(self):
-        dir_doc_data = os.path.join(
+    def dir_act_data(self):
+        dir_act_data = os.path.join(
             self.DIR_DATA,
             self.get_doc_type_name(),
             self.decade,
             self.year,
             self.act_id,
         )
-        if not os.path.exists(dir_doc_data):
-            os.makedirs(dir_doc_data)
-        return dir_doc_data
+        if not os.path.exists(dir_act_data):
+            os.makedirs(dir_act_data)
+        return dir_act_data
 
     @property
     def metadata_json_path(self):
-        return os.path.join(self.dir_doc_data, "metadata.json")
+        return os.path.join(self.dir_act_data, "metadata.json")
 
     def write(self):
         if os.path.exists(self.metadata_json_path):
@@ -37,7 +37,7 @@ class ActWrite(ActRead):
 
     @property
     def url(self):
-        return self.dir_doc_data
+        return self.dir_act_data
 
     @staticmethod
     def get_dir_data_size():
