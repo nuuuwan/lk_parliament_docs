@@ -92,7 +92,11 @@ class ActLevel:
         match = cls.get_title_match(first_block.text)
         assert match
 
-        text = match.group("text") if "text" in match.re.groupindex else ""
+        text = (
+            match.group("text").strip()
+            if "text" in match.re.groupindex
+            else ""
+        )
 
         child_level_list = []
         pre_block_list = block_list[1:]

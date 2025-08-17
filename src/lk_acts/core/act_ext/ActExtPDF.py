@@ -10,6 +10,10 @@ class ActExtPDF:
         self.pdf_path = pdf_path
 
     @staticmethod
+    def remove_non_ascii(x):
+        return x.encode("ascii", errors="ignore").decode()
+
+    @staticmethod
     def __parse_raw_block__(raw_block):
 
         span = raw_block["lines"][0]["spans"][0]
@@ -19,6 +23,8 @@ class ActExtPDF:
             for span in line["spans"]:
                 text_list.append(span.get("text", ""))
         text = " ".join(text_list)
+        text = text.strip()
+        text = ActExtPDF.remove_non_ascii(text)
 
         block = PDFBlock(
             bbox=raw_block["bbox"],
@@ -26,7 +32,32 @@ class ActExtPDF:
             font_family=span.get("font"),
             font_size=span.get("size"),
         )
-        return block
+
+        # if "16." in text:
+        #     print(block)
+        #     print()
+
+        # HACK
+        for delim in [".”.", "   \t "]:
+            if delim in text:
+                tokens = block.text.split(delim)
+                if len(tokens) == 2:
+                    text1, text2 = tokens
+                    return [
+                        PDFBlock(
+                            bbox=block.bbox,
+                            text=text1.strip(),
+                            font_family=block.font_family,
+                            font_size=block.font_size,
+                        ),
+                        PDFBlock(
+                            bbox=block.bbox,
+                            text=text2.strip(),
+                            font_family=block.font_family,
+                            font_size=block.font_size,
+                        ),
+                    ]
+        return [block]
 
     @staticmethod
     def __parse_page__(page):
@@ -35,7 +66,8 @@ class ActExtPDF:
         for raw_block in raw["blocks"]:
             if raw_block.get("type", 0) != 0:
                 continue
-            block_list.append(ActExtPDF.__parse_raw_block__(raw_block))
+            blocks = ActExtPDF.__parse_raw_block__(raw_block)
+            block_list.extend(blocks)
         block_list.sort(key=lambda box: box.bbox[1])
         return block_list
 
