@@ -72,11 +72,24 @@ class ActSection:
         short_description, rem_block_list = (
             ActSection.parse_short_description(block_list[1:])
         )
+
+        text = match.group("text").strip()
+        if text.startswith("("):
+            rem_block_list = [
+                PDFBlock(
+                    text=text,
+                    bbox=first_block.bbox,
+                    font_family=first_block.font_family,
+                    font_size=first_block.font_size,
+                )
+            ] + rem_block_list
+            text = ""
+
         subsection_list = ActSubsection.list_from_block_list(rem_block_list)
 
         return cls(
             num=int(match.group("num")),
-            text=match.group("text"),
+            text=text,
             short_description=short_description,
             subsection_list=subsection_list,
             inner_block_list=rem_block_list if not subsection_list else [],
