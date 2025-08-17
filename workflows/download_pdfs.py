@@ -35,5 +35,5 @@ def download_pdfs(max_dt, build_act_ext):
 if __name__ == "__main__":
     download_pdfs(
         max_dt=float(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_MAX_DT,
-        build_act_ext=(sys.argv[2] == "True") if len(sys.argv) > 2 else False,
+        build_act_ext=(sys.argv[2] == "True") if len(sys.argv) > 2 else True,
     )

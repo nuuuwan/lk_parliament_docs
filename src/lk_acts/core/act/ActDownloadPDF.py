@@ -1,5 +1,6 @@
 import os
 import ssl
+import tempfile
 from functools import cached_property
 
 import requests
@@ -32,6 +33,8 @@ class _ParliamentInsecureAdapter(HTTPAdapter):
 
 class ActDownloadPDF(ActWrite):
     T_TIMEOUT_PDF_DOWNLOAD = 120
+    MIN_FILE_SIZE_M = 0.001
+    MAX_FILE_SIZE_M = 10
 
     @cached_property
     def pdf_path(self):
@@ -58,10 +61,26 @@ class ActDownloadPDF(ActWrite):
             log.error(f"Failed to download PDF from {url}: {e}")
             return None
 
+        temp_pdf_path = tempfile.NamedTemporaryFile(suffix=".pdf").name
         if r.status_code == 200:
-            with open(self.pdf_path, "wb") as f:
+            with open(temp_pdf_path, "wb") as f:
                 f.write(r.content)
-            log.info(f"✅ Downloaded PDF from {url} to {self.pdf_path}")
+
+            file_size_m = os.path.getsize(temp_pdf_path) / 1_000_000.0
+            if (
+                file_size_m < ActDownloadPDF.MIN_FILE_SIZE_M
+                or file_size_m > ActDownloadPDF.MAX_FILE_SIZE_M
+            ):
+                log.error(
+                    f"Downloaded PDF from {url} is invalid:"
+                    + f" {file_size_m:.1f} MB"
+                )
+                return None
+            os.rename(temp_pdf_path, self.pdf_path)
+            log.info(
+                f"✅ Downloaded PDF from {url}"
+                + f" to {self.pdf_path} ({file_size_m:.1f} MB)"
+            )
             return self.pdf_path
 
         log.error(f"Failed to download PDF from {url}: HTTP {r.status_code}")
