@@ -17,13 +17,13 @@ class TestCase(unittest.TestCase):
         self.assertEqual(
             act_ext.title_page.to_dict(),
             {
-                "title": "SHOP AND OFFICE EMPLOYEES (REGULATION OF EMPLOYMENT AND REMUNERATION) (AMENDMENT)  ACT",
+                "title": "Shop And Office Employees (Regulation Of Employment And Remuneration) (Amendment)  Act",
                 "num": "28",
                 "year": "2024",
-                "date_certified": "13th of  May, 2024",
-                "date_published": "May 17, 2024",
-                "price": "12.00",
-                "price_postage": "150.00",
+                "date_certified": "2024-05-13",
+                "date_published": "2024-05-17",
+                "price": 12.0,
+                "price_postage": 150.0,
             },
         )
 

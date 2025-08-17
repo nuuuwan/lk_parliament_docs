@@ -1,4 +1,4 @@
-# SHOP AND OFFICE EMPLOYEES (REGULATION OF EMPLOYMENT AND REMUNERATION) (AMENDMENT)  ACT
+# Shop And Office Employees (Regulation Of Employment And Remuneration) (Amendment)  Act
 
 No. **28** of **2024**
 

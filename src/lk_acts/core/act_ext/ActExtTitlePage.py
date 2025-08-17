@@ -2,6 +2,7 @@ import re
 from dataclasses import dataclass
 
 from lk_acts.core.act_ext.PDFBlock import PDFBlock
+from utils_future import Parse
 
 
 @dataclass
@@ -44,7 +45,7 @@ class ActExtTitlePage:
         date_published = PDFBlock.extract(cls.RE_DATE_PUBLISHED, block_list)
 
         return cls(
-            title=title,
+            title=title.title(),
             num=num,
             year=year,
             date_certified=date_certified,
@@ -58,10 +59,10 @@ class ActExtTitlePage:
             title=self.title,
             num=self.num,
             year=self.year,
-            date_certified=self.date_certified,
-            date_published=self.date_published,
-            price=self.price,
-            price_postage=self.price_postage,
+            date_certified=Parse.date(self.date_certified),
+            date_published=Parse.date(self.date_published),
+            price=Parse.float(self.price),
+            price_postage=Parse.float(self.price_postage),
         )
 
     def to_md_lines_short_info(self):

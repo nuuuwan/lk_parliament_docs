@@ -26,8 +26,6 @@ class ActExtPDF:
             font_family=span.get("font"),
             font_size=span.get("size"),
         )
-        print("-" * 32)
-        print(block)
         return block
 
     @staticmethod
