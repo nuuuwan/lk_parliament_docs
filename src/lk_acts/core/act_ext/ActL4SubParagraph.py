@@ -11,7 +11,7 @@ class ActL4SubParagraph(ActLevel):
         return 4
 
     @classmethod
-    def get_child_class(cls):
+    def get_child_cls(cls):
         return None
 
     @classmethod

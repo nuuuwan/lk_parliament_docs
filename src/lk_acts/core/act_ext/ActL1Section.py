@@ -12,7 +12,7 @@ class ActL1Section(ActLevel):
         return 1
 
     @classmethod
-    def get_child_class(cls):
+    def get_child_cls(cls):
         return ActL2Subsection
 
     @classmethod

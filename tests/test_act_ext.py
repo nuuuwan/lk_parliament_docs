@@ -60,9 +60,18 @@ class TestCase(unittest.TestCase):
             section.to_dict(),
             {
                 "num": "1",
-                "text": "(1) This Act may be cited as the Public Financial Management Act, No. 44 of 2024.",
-                "pre_block_list": ["Short title and date of operation"],
+                "text": "",
+                "pre_block_list": [],
                 "child_level_list": [
+                    {
+                        "num": "1",
+                        "text": "This Act may be cited as the Public Financial Management Act, No. 44 of 2024.",
+                        "pre_block_list": [
+                            "Short title and date of operation"
+                        ],
+                        "child_level_list": [],
+                        "post_block_list": [],
+                    },
                     {
                         "num": "2",
                         "text": "All the provisions of this Act other than the provisions specified in subsection (3), shall come into operation on the date on which the Bill becomes an Act of Parliament.",
@@ -99,5 +108,5 @@ class TestCase(unittest.TestCase):
             },
         )
 
-        act_ext.write_md(os.path.join("tests", "data", "en.md"))
-        act_ext.write_json(os.path.join("tests", "data", "en.json"))
+        act_ext.write_md(TEST_PDF_PATH[:-4] + ".md")
+        act_ext.write_json(TEST_PDF_PATH[:-4] + ".json")

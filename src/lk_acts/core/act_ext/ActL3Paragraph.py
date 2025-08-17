@@ -12,7 +12,7 @@ class ActL3Paragraph(ActLevel):
         return 3
 
     @classmethod
-    def get_child_class(cls):
+    def get_child_cls(cls):
         return ActL4SubParagraph
 
     @classmethod

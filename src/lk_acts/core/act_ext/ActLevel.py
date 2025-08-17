@@ -17,7 +17,7 @@ class ActLevel:
         raise NotImplementedError
 
     @classmethod
-    def get_child_class(cls):
+    def get_child_cls(cls):
         raise NotImplementedError
 
     @classmethod
@@ -36,26 +36,25 @@ class ActLevel:
         )
 
     def to_md_lines(self):
-        lines = [f"{self.num}. {self.text}"]
-        tabs = " " * (self.get_depth() - 1) * 4
+        tab_unit = " " * 4
+        tabs = tab_unit * (self.get_depth() - 1)
+        child_tabs = tab_unit + tabs
+        lines = [f"{tabs}{self.num}. {self.text}"]
 
         for block in self.pre_block_list:
-            lines.append(f"{tabs}- {block.text}")
-        lines.append("")
+            lines.append(f"{child_tabs}- {block.text}")
 
         for child in self.child_level_list:
             lines.extend(child.to_md_lines())
-        lines.append("")
 
         for block in self.post_block_list:
-            lines.append(f"{tabs}- {block.text}")
-        lines.append("")
+            lines.append(f"{child_tabs}- {block.text}")
 
         return lines
 
     @classmethod
-    def get_title_match(cls, block: PDFBlock):
-        return re.match(cls.get_re_title(), block.text)
+    def get_title_match(cls, text):
+        return re.match(cls.get_re_title(), text)
 
     @classmethod
     def __get_level_to_block_list__(cls, block_List: list[PDFBlock]):
@@ -64,7 +63,7 @@ class ActLevel:
         for block in block_List:
             if "Italic" in block.font_family:
                 continue
-            match = cls.get_title_match(block)
+            match = cls.get_title_match(block.text)
             if match:
                 level_to_block_list.append([block])
             elif level_to_block_list:
@@ -76,21 +75,36 @@ class ActLevel:
     @classmethod
     def from_block_list(cls, block_list: list[PDFBlock]):
         first_block = block_list[0]
-        match = cls.get_title_match(first_block)
+        match = cls.get_title_match(first_block.text)
         assert match
 
-        child_class = cls.get_child_class()
-        if child_class:
-            child_level_list, pre_block_list = (
-                cls.get_child_class().list_from_block_list(block_list[1:])
+        text = match.group("text")
+
+        child_cls = cls.get_child_cls()
+        if child_cls:
+            inner_block_list = block_list[1:]
+            child_match = child_cls.get_title_match(text)
+            if child_match:
+                inner_block_list = [
+                    PDFBlock(
+                        bbox=first_block.bbox,
+                        text=text,
+                        font_family=first_block.font_family,
+                        font_size=first_block.font_size,
+                    )
+                ] + inner_block_list
+                text = ""
+            child_level_list, pre_block_list = child_cls.list_from_block_list(
+                inner_block_list
             )
+
         else:
             child_level_list = []
             pre_block_list = block_list[1:]
 
         return cls(
             num=match.group("num"),
-            text=match.group("text"),
+            text=text,
             pre_block_list=pre_block_list,
             child_level_list=child_level_list,
             post_block_list=[],
