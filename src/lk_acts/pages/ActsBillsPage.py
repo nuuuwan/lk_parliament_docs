@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from utils import Log
 
-from lk_acts.core import Doc
+from lk_acts.core import Act
 from utils_future import WebPage
 
 log = Log("ActsBillsPage")
@@ -68,7 +68,7 @@ class ActsBillsPage(WebPage):
                 ta=url_ta,
             ),
         )
-        return Doc.from_dict(d)
+        return Act.from_dict(d)
 
     def __get_doc_list_for_page__(self, driver):
         source = driver.page_source

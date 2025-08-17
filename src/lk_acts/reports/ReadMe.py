@@ -2,7 +2,7 @@ from pathlib import Path
 
 from utils import File, Log, Time, TimeFormat
 
-from lk_acts.core import Doc
+from lk_acts.core import Act
 from lk_acts.reports.ChartYear import ChartYear
 
 log = Log("ReadMe")
@@ -12,11 +12,11 @@ class ReadMe:
     PATH = Path("README.md")
 
     def __init__(self):
-        self.doc_list = Doc.list_all()
+        self.doc_list = Act.list_all()
         self.n_docs = len(self.doc_list)
-        self.year_to_list = Doc.year_to_list()
-        self.year_to_type_to_list = Doc.year_to_type_to_list()
-        self.data_size_m = Doc.get_dir_data_size() / (1024 * 1024)
+        self.year_to_list = Act.year_to_list()
+        self.year_to_type_to_list = Act.year_to_type_to_list()
+        self.data_size_m = Act.get_dir_data_size() / (1024 * 1024)
 
     @property
     def timestamp(self):

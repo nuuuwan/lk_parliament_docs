@@ -3,12 +3,12 @@ from pathlib import Path
 
 from utils import JSONFile, Log
 
-from lk_acts.core.doc.DocRead import DocRead
+from lk_acts.core.act.ActRead import ActRead
 
-log = Log("DocWrite")
+log = Log("ActWrite")
 
 
-class DocWrite(DocRead):
+class ActWrite(ActRead):
     DIR_DATA = "data"
 
     @property
@@ -41,5 +41,5 @@ class DocWrite(DocRead):
 
     @staticmethod
     def get_dir_data_size():
-        path = Path(DocWrite.DIR_DATA)
+        path = Path(ActWrite.DIR_DATA)
         return sum(f.stat().st_size for f in path.rglob("*") if f.is_file())

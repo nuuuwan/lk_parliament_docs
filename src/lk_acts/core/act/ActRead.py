@@ -3,12 +3,12 @@ from functools import cache
 
 from utils import JSONFile, Log
 
-from lk_acts.core.doc.DocBase import DocBase
+from lk_acts.core.act.ActBase import ActBase
 
-log = Log("DocRead")
+log = Log("ActRead")
 
 
-class DocRead(DocBase):
+class ActRead(ActBase):
     @staticmethod
     def __gen_metadata_file_paths__():
         for cur_root, _, files in os.walk("data"):
@@ -26,7 +26,7 @@ class DocRead(DocBase):
     @cache
     def list_all(cls):
         doc_list = []
-        for metadata_file_path in DocRead.__gen_metadata_file_paths__():
+        for metadata_file_path in ActRead.__gen_metadata_file_paths__():
             doc = cls.from_file(metadata_file_path)
             doc_list.append(doc)
         doc_list.sort(

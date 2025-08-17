@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from utils import Log
 
-from lk_acts.core import DocActType
+from lk_acts.core import ActType
 
 log = Log("ChartYear")
 
@@ -29,7 +29,7 @@ class ChartYear:
             y_str = str(y)
             idx[y] = {
                 t.name: len(self.year_to_type_to_list[y_str].get(t.name, []))
-                for t in DocActType.list_all()
+                for t in ActType.list_all()
             }
         return idx
 
@@ -43,7 +43,7 @@ class ChartYear:
     def draw(self):
         years = np.array(self.years_sorted, dtype=int)
         types = np.array(
-            [doc_act_type.name for doc_act_type in DocActType.list_all()]
+            [doc_act_type.name for doc_act_type in ActType.list_all()]
         )
 
         counts = np.array(
@@ -58,7 +58,7 @@ class ChartYear:
         bottom = np.zeros(len(years), dtype=int)
 
         for i, t_key in enumerate(types):
-            doc_act_type = DocActType.from_name(t_key)
+            doc_act_type = ActType.from_name(t_key)
             plt.bar(
                 years,
                 counts[i],

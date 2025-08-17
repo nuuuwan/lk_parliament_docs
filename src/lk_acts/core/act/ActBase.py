@@ -3,13 +3,13 @@ from functools import cache, cached_property
 
 from utils import Log
 
-from lk_acts.core.doc.DocActType import DocActType
+from lk_acts.core.act.ActType import ActType
 
-log = Log("DocBase")
+log = Log("ActBase")
 
 
 @dataclass
-class DocBase:
+class ActBase:
     doc_num: str
     date: str
     description: str
@@ -65,5 +65,5 @@ class DocBase:
         )
 
     @cached_property
-    def doc_act_type(self) -> DocActType:
-        return DocActType.from_description(self.description)
+    def doc_act_type(self) -> ActType:
+        return ActType.from_description(self.description)
