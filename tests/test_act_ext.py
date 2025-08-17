@@ -9,11 +9,17 @@ TEST_PDF_PATH = os.path.join("tests", "input", "en.pdf")
 class TestCase(unittest.TestCase):
     def test_from_pdf(self):
         act_ext = ActExt.from_pdf(TEST_PDF_PATH)
-        print(act_ext)
-
-        self.assertEqual(act_ext.n_pages, 5)
-        self.assertEqual(act_ext.date_certified, "13th of  May, 2024")
-        self.assertEqual(act_ext.date_published, "May 17, 2024")
-
-        self.assertEqual(act_ext.price, "12.00")
-        self.assertEqual(act_ext.price_postage, "150.00")
+        print(act_ext.to_dict())
+        self.assertEqual(
+            act_ext.to_dict(),
+            {
+                "n_pages": 5,
+                "title_page": {
+                    "date_certified": "13th of  May, 2024",
+                    "date_published": "May 17, 2024",
+                    "price": "12.00",
+                    "price_postage": "150.00",
+                },
+                "body_pages": {"section_list": []},
+            },
+        )
