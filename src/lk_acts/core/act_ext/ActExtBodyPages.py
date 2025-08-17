@@ -7,15 +7,11 @@ from lk_acts.core.act_ext.ActL1Section import ActL1Section
 @dataclass
 class ActExtBodyPages:
     preamble: list[str]
-    pre_section_list: list[ActL1Section]
     part_list: list[ActL0Part]
 
     def to_dict(self):
         return dict(
             preamble=self.preamble,
-            pre_section_list=[
-                section.to_dict() for section in self.pre_section_list
-            ],
             part_list=[part.to_dict() for part in self.part_list],
         )
 
@@ -32,9 +28,17 @@ class ActExtBodyPages:
                 block.text.strip().title() for block in pre2_block_list
             ]
 
+        if pre_section_list:
+            part0 = ActL0Part(
+                num="0",
+                text="",
+                pre_block_list=[],
+                child_level_list=pre_section_list,
+            )
+            part_list = [part0] + part_list
+
         return ActExtBodyPages(
             preamble=preamble,
-            pre_section_list=pre_section_list,
             part_list=part_list,
         )
 
@@ -43,10 +47,7 @@ class ActExtBodyPages:
         for line in self.preamble:
             lines.extend([line])
         lines.append("")
-        for section in self.pre_section_list:
-            lines.extend(section.to_md_lines())
 
-        lines.append("")
         for part in self.part_list:
             lines.extend(part.to_md_lines())
         return lines

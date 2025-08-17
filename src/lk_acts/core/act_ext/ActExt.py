@@ -49,7 +49,6 @@ class ActExt:
     def get_stats(self):
         return dict(
             n_pages=self.n_pages,
-            n_pre_sections=len(self.body_pages.pre_section_list),
             n_parts=len(self.body_pages.part_list),
         )
 
