@@ -3,7 +3,7 @@
 
 from lk_acts.core import (Act, ActBase, ActDownloadPDF, ActExt,
                           ActExtBodyPages, ActExtPDF, ActExtTitlePage,
-                          ActL1Section, ActL2Subsection, ActRead, ActType,
-                          ActWrite, PDFBlock)
+                          ActL1Section, ActL2Subsection, ActL3Paragraph,
+                          ActRead, ActType, ActWrite, PDFBlock)
 from lk_acts.pages import ActsBillsPage
 from lk_acts.reports import ChartYear, ReadMe

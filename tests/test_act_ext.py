@@ -66,21 +66,33 @@ class TestCase(unittest.TestCase):
                     {
                         "num": 1,
                         "text": "This Act may be cited as the Public Financial Management Act, No. 44 of 2024.",
+                        "paragraph_list": [],
                         "inner_text_list": [],
                     },
                     {
                         "num": 2,
                         "text": "All the provisions of this Act other than the provisions specified in subsection (3), shall come into operation on the date on which the Bill becomes an Act of Parliament.",
+                        "paragraph_list": [],
                         "inner_text_list": [],
                     },
                     {
                         "num": 3,
                         "text": "The Minister of Finance shall for the implementation of the provisions specified in paragraphs ( a ) and ( b ) of this subsection, appoint such date or dates by Order published in the  Gazette  -",
-                        "inner_text_list": [
-                            "( a ) the date or dates from which the provisions of paragraph ( f ) of subsection (5) of section 11, subsection (1) of section 17, paragraph ( b ) of subsection (2) of section 18, section 36 and paragraph ( a ) of subsection (1) of section 47 shall come into operation:",
-                            "Provided that, the provisions of paragraph ( f ) of subsection (5) of section 11 shall come into operation on a date not later than thirtieth day of June 2025; and",
-                            "( b ) the date from which the provisions of subsection (2) of section 34 shall apply in respect of the entities specified in subparagraph (ii) of paragraph ( a ) of subsection (2) of section 3.",
+                        "paragraph_list": [
+                            {
+                                "num": "a",
+                                "text": "the date or dates from which the provisions of paragraph ( f ) of subsection (5) of section 11, subsection (1) of section 17, paragraph ( b ) of subsection (2) of section 18, section 36 and paragraph ( a ) of subsection (1) of section 47 shall come into operation:",
+                                "inner_text_list": [
+                                    "Provided that, the provisions of paragraph ( f ) of subsection (5) of section 11 shall come into operation on a date not later than thirtieth day of June 2025; and"
+                                ],
+                            },
+                            {
+                                "num": "b",
+                                "text": "the date from which the provisions of subsection (2) of section 34 shall apply in respect of the entities specified in subparagraph (ii) of paragraph ( a ) of subsection (2) of section 3.",
+                                "inner_text_list": [],
+                            },
                         ],
+                        "inner_text_list": [],
                     },
                 ],
                 "inner_text_list": [],
