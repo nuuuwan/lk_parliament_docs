@@ -10,6 +10,7 @@ L.D.O. 46/2017
 A N   A Ct   To   Provide   For   The   Establishment   Of   An   Aesthetic   And Research   Centre   Called   The  A Maradeva  A Esthetic   And R Esearch  C Entre   In   Gratitude   Of   The   Legendary   Music   Icon   In S Ri  L Anka ,  Late  P Andith  W Annakuwattawaduge  D On A Maradeva ;  To   Specify   Its   Objects   And   Powers   And   To   Provide For   The   Matters   Connected   Therewith   Or   Incidental   Thereto .
 Be It  Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Amaradeva Aesthetic and Research Centre Act, No. 27 of  2018.
         - Short title.
     2. 

@@ -17,45 +17,52 @@
       "A N  A Ct   To   Amend   The  J Udicature  A Ct , N O . 2  Of  1978",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka  As Follows:"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Judicature (Amendment) Act, No. 26 of 2017.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 4 of the Judicature Act, No. 2 of 1978 is hereby amended by the repeal of paragraph ( a ) of that section and the substitution therefor of the following paragraph:",
-        "pre_block_list": [
-          "Amendment of section 4 of Act, No. 2 of 1978."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "not less than ten and not more than one hundred and ten judges, each of whom shall be known as a Judge of the High Court;.",
-            "pre_block_list": [],
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Judicature (Amendment) Act, No. 26 of 2017.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 4 of the Judicature Act, No. 2 of 1978 is hereby amended by the repeal of paragraph ( a ) of that section and the substitution therefor of the following paragraph:",
+            "pre_block_list": [
+              "Amendment of section 4 of Act, No. 2 of 1978."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "not less than ten and not more than one hundred and ten judges, each of whom shall be known as a Judge of the High Court;.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "PL 010310 2962 (9/2017)",
+              "Judicature (Amendment) Act, No. 26 of 2017 2"
+            ],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency.",
-          "PL 010310 2962 (9/2017)",
-          "Judicature (Amendment) Act, No. 26 of 2017 2"
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

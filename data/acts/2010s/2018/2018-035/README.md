@@ -10,9 +10,9 @@ A N  A Ct   To   Amend   The  F Inance  A Ct , N O . 25  Of  2003,  The  F Inanc
 Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Finance Act, No. 35 of 2018.
         - Short title.
-
 I. 
     - A MENDMENT   OF  P ART  II  OF   THE  F INANCE  A CT , N O . 25  OF  2003
     2. Part II (Imposition of Tourism Development Levy) of the Finance Act, No. 25 of 2003 (hereinafter in this Part referred to as the principal enactment) is hereby amended in section 11

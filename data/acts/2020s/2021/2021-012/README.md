@@ -9,6 +9,7 @@ L.D.O. 7/2021
 A N  A Ct   To   Amend   The  F Iscal  M Anagement  (R Esponsibility ) A Ct , N O . 3  Of  2003
 Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Fiscal Management (Responsibility) (Amendment) Act, No. 12 of 2021 and shall be deemed to have come into operation on January 1, 2021.
         - Short title and date of operation
     2. Section 3 of the Fiscal Management (Responsibility) Act, No. 3 of 2003 is hereby amended as follows:-

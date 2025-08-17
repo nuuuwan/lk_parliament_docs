@@ -19,9 +19,9 @@ Laws ;  And     For     Matters     Connected     Therewith     And    Incidenta
 Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Finance Act, No. 18  of 2021.
         - Short title
-
 I. 
     - I MPOSING   THE  T AX   ON  V OLUNTARY  D ISCLOSURE
     2. 

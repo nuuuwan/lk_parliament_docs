@@ -1,0 +1,1066 @@
+{
+  "n_pages": 19,
+  "title_page": {
+    "title": "National Institute Of Language Education And Training Act",
+    "num": "26",
+    "year": "2007",
+    "date_certified": "2007-07-13",
+    "date_published": "2007-07-13",
+    "price": 14.0,
+    "price_postage": 7.5
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 13Th July 2007]",
+      "L.D.O. 20/2006.",
+      "A N  A Ct   To   Provide   For   The   Establishment   Of   The  N Ational  I Nstitute",
+      "Of  L Anguage  E Ducation   And  T Raining  ;  And   For   Matters",
+      "Connected   Therewith   Or   Incidental   Thereto",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the National Institute of Language Education and Training Act, No. 26 of 2007.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL0Part",
+        "num": "I",
+        "text": "",
+        "pre_block_list": [
+          "N ATIONAL  I NSTITUTE   OF  L ANGUAGE  E DUCATION   AND  T RAINING"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "There shall be established an Institute to be called the National Institute of Language Education and Training (hereinafter referred to as the Institute). The Institute shall by the name assigned to it by this section, be a body corporate with perpetual succession and a common seal and may sue and be sued in such name.",
+            "pre_block_list": [
+              "Establishment of National Institute of Language Education and Training."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The administration and management of the affairs of the Institute shall be vested in a Board of Management (hereinafter referred to as the Board) consisting of such members as hereinafter provided.",
+                "pre_block_list": [
+                  "Board of Management."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Board shall consist of",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the following  ex-officio  members appointed by the Minister :",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "the person for the time being holding the office of Secretary to the Ministry of the Minister in charge of the subject of Education ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "the person for the time being holding the office of Secretary to the Ministry of the Minister in charge of the subject of Public Administration ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "the person for the time being holding the office of Secretary to the Ministry of the Minister in charge of the subject of Finance ; and",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iv",
+                        "text": "the person for the time being holding the office of Secretary to the Ministry of the Minister in charge of the subject of Constitutional Affairs and National Integration ; and",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      }
+                    ]
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "five other members appointed by the Minister from among persons who have had experience and have shown capacity in the fields of languages, literature and education and management.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Minister shall appoint a Chairman of the Board from among the members of the Board.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The provisions of the Schedule to this Act shall apply in relation to the appointment and terms of office of members of the Board, the remuneration payable to such members, the meetings of the Board and the Seal of the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "The objects for which the Institute is established shall be to serve as an Institute that shall generate",
+            "pre_block_list": [
+              "Objects of the Institute."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "competent teachers to teach Sinhala, Tamil and English to those who are desirous of acquiring such knowledge ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "competent translators and interpreters in the Sinhala, Tamil, and English languages who shall constitute the National Translators Service and the National Interpreters Service to be established by written law ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "qualified trainers to train language teachers, translators and interpreters in the Sinhala, Tamil and English Languages ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "trained persons with trilingual capabilities for the efficient provision of services to the public.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "The functions of the Institute shall be",
+            "pre_block_list": [
+              "The functions of the Institute."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to provide extensive training in the Sinhala, Tamil and English languages so as to make available persons competent to teach Sinhala, Tamil and English to persons who are desirous of acquiring such knowledge ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to conduct research and studies on issues relating to language training, with a view to utilizing the results of such research and studies for the effective functioning of the Institute ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to provide training and education to suitable persons in languages and to award certificates and diplomas to successful candidates on completion of such training and education ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to build up a body of trained personnel equipped to undertake the teaching of languages ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "to establish a repository of information on matters relating to languages ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "to conduct specified language courses in Sinhala, Tamil and English languages for special categories of person such as interpreters, translators and stenographers ; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "g",
+                "text": "to undertake, assist, and promote linguistic research activities in Sinhala, Tamil and English languages and foreign languages and where it appears to be necessary make recommendation to the relevant authorities on the improvements and changes to be made to the Sinhala, Tamil and English languages.",
+                "pre_block_list": [
+                  "Powers  of  the Institute ."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "For the purpose of effectively discharging its functions, the Institute shall have the power-",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to accept and receive grants, donations, gifts, bequests both movable and immovable, from domestic and foreign sources, and to apply them to the promotion of its aims and objects ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to acquire and hold property, movable or immovable, which may vest in it by virtue of any purchase, grant, gift, testamentary disposition or otherwise and subject to the rules of the Institute, to sell, assign, exchange or otherwise dispose of the same ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to enter into agreements for co-operation with educational and other institutions, whether in Sri Lanka or abroad, having objects wholly or partly similar to those of the Institute, for the exchange of personnel, advisory services, research, the training of personnel or generally, for such purposes as may be conducive to the objects of the Institute ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to open and maintain current, savings or deposit accounts in any bank or banks ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "to enter into all such contracts as may be necessary for the discharge of its functions ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "to invest its funds in such securities as may be approved by the Board ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "g",
+                "text": "to collect, print and publish reports, periodicals and papers on subjects falling within the purview of the Institute ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "h",
+                "text": "to conduct lectures, seminars and workshops on subjects relevant to the discharge of the functions of the Institute ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "i",
+                "text": "to make rules in respect of the management of the affairs of the Institute ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "j",
+                "text": "to raise or borrow money for the purpose of the Institute on any security or otherwise and to secure or discharge any debt or obligation of the Institute in such manner as the Board deems fit;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "k",
+                "text": "to establish a library of relevant publications and research reports of all areas coming within the purview of the Institute ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "l",
+                "text": "to call for applications and select persons eligible to undergo training at the Institute ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "m",
+                "text": "to maintain association with institutions having similar objects in other countries and to develop working relationships ; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "n",
+                "text": "to do such other acts and things as may be necessary to promote the objects of the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "There shall be an Academic Board of the Institute (hereinafter referred to as the Academic Board) which shall consist of the following persons :",
+            "pre_block_list": [
+              "Academic Board."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "i",
+                "text": "the Chairman of the Institute ;",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL4SubParagraph",
+                    "num": "ii",
+                    "text": "the Director-General of the Institute ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL4SubParagraph",
+                    "num": "iii",
+                    "text": "the Commissioner of the Department of Official Languages ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL4SubParagraph",
+                    "num": "iv",
+                    "text": "six Department Heads appointed by the Board in consultation with the University Grants Commission, from among the Department Heads of the Sinhala, Tamil and English Departments and the Linguistic Departments of all  Universities established under the Universities Act, No. 16 of 1978.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Academic Board shall be responsible to the Institute and shall have the power to",
+                "pre_block_list": [
+                  "Powers of the Academic Board."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "advise the Institute subject to the provisions of this Act, on such matters as may relate to the academic activities of the Institute ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "conduct examinations in accordance with the rules of the Institute and recommend to the Board, persons who having passed such examinations and satisfied such other conditions as the Institute may prescribe, are eligible for the award of diplomas, certificates and other academic distinctions of the Institute ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "consider the report on any matter referred to it by the Board ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "make and forward recommendations and reports to the Board on all matters connected with the courses for study, training programmes and examinations conducted by the Institute ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "recommend to the Board requirements that shall be imposed for admission of students to courses of study or training programmes and examinations conducted by the Institute ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "f",
+                    "text": "make rules relating to courses of study, training programmes and examinations conducted by the Institute and submit such rules to the Board ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "g",
+                    "text": "recommend to the Board, names of persons suitable for appointment as examiners at examinations conducted by the Institute ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "h",
+                    "text": "recommend to the Board rules, schemes of recruitment and procedures relating to the appointment, dismissal and disciplinary control of the academic staff of the Institute, their wages, remuneration, allowances and fees and their hours of work, holidays and leave ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "recommend to the Board, conditions that shall be applicable to the awarding of scholarships, exhibitions, bursaries, medals and prizes awarded by the Institute ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "j",
+                    "text": "recommend to the Board, persons who have satisfied the conditions approved by the Board for the scholarships, exhibitions, bursaries, medals and prizes ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "k",
+                    "text": "appoint, with the approval of the Board, committees comprising the representatives of the Academic Board ; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "l",
+                    "text": "make rules relating to the meetings of the Academic Board and for the regulation of the procedure to be followed at such meetings.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Board or any officer to whom powers in respect of any academic matter referred to in subsection (1) has been delegated shall not take any decision on that matter without the prior recommendation of the Academic Board being obtained. Where the decision of the Board or such officer is contrary to the recommendation of the Academic Board, the Board or such officer shall adduce reasons for not adhering to the recommendation of the Academic Board.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "No act, recommendation or report of the Academic Board shall be invalidated by reason only of the existence of a vacancy among its member or any defect in the appointment of any member thereof.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL0Part",
+        "num": "II",
+        "text": "",
+        "pre_block_list": [
+          "S TAFF   OF   THE  I NSTITUTE",
+          "Director-General of the Institute."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Minister shall, in consultation with the Board, appoint a Director-General of the Institute from among persons who have gained eminence in the field of Management.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Director-General shall be the chief executive officer of the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Director-General shall, subject to the directions of the Board :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "establish a network with local and international stakeholders;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "be responsible for the administration of the affairs of the Institute;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "be responsible for the appointment and disciplinary control of the staff of the Institute;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "be the Secretary to the Board;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "be responsible for the implementation of the decisions of the Board; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "f",
+                    "text": "discharge  such other functions as may be assigned by the Board.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The Director-General shall be entitled to be present and express his views at any meetings of the Board, but shall not be entitled to vote at such meetings.",
+                "pre_block_list": [
+                  "Appointment & c. of the staff of the Institute."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "The Institute shall, subject to the provisions of this Act, have the power to",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "appoint such staff as it considers necessary for the discharge of its functions, and exercise disciplinary control over  such staff;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "fix the rates at which member of the staff shall be remunerated; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "determine the terms and conditions of service of the staff of the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "11",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "At the request of the Board any officer in the public service may, with the consent of that officer and of the Secretary to the relevant Ministry or Ministries, be temporarily appointed to the staff of the Institute for such period as may be determined by the Board,  or with like consent be permanently appointed to such staff.",
+                "pre_block_list": [
+                  "Appointment of public officers to the staff of the Institute."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Where any officer in the public service is temporarily appointed to the staff of the Institute, the provisions of subsection (2) section 14 of the National Trasport Commission Act, No. 37 of 1991 shall  mutatis mutandis,  apply to, and in relation to him.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Where any officer in the public service is permanently appointed to the staff of the Institute, the provisions of subsection (3) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall,  mutatis mutandis, apply to, and in relation to, him.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Where the Institute employs any person who has entered into a contract with the Government to serve the Government for a specified period, any period of service to the Institute by such person shall be regarded as service to the Government, for the purpose of discharging the obligations of such contract.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "At the request of the Board any officer or servant of any Higher Educational Institution may with the consent of such officer or servant and the principal executive officer of that Higher Educational Institution, be temporarily appointed to the staff of the Institute for such period as may be",
+                "pre_block_list": [
+                  "determined by the Board or with like consent be permanently appointed to such staff, on such conditions, including those relating to pension and provident fund rights, as may be agreed upon by the Board and such principal executive officer."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "Where any officer or servant of any Higher Educational Institution is temporarily appointed to the staff of the Institute, he shall be subject to the same disciplinary control as any other member of such staff.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "7",
+                "text": "In this section, the expressions Higher Education Institution and principal executive officer shall have the respective meanings assigned to them by the Universities Act, No. 16 of 1978.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL0Part",
+        "num": "III",
+        "text": "",
+        "pre_block_list": [
+          "F INANCE"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "12",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Institute shall have its own Fund.",
+                "pre_block_list": [
+                  "Fund of the Institute."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "There shall be paid into the Fund of the Institute",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "all such sums of money as may be voted from time to time, by Parliament for the use of the Institute;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "all such sums of money as may be received by the Institute in the exercise, and discharge of its powers and functions;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "all such sums of money as may be received by the Institute by way of donations, gifts and grants from any source in Sri Lanka or abroad; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "all such sums of money as may be received as the income derived from the investment of its funds.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "There shall be paid out of the Fund of the Institute all such sums of money as may be required to  defray any expenditure incurred by the Institute in the exercise and discharge of its powers and functions under this Act, and any other expenditure which is authorized or required to be paid out of the Fund of the Institute by any provision of this Act.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "13",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The financial year of the Institute shall be the calendar year.",
+                "pre_block_list": [
+                  "Financial year and the audit of the accounts of the Institute."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Board shall cause proper books of accounts to be kept of the income and expenditure, assets and liabilities and all other transactions of the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The provisions of Article 154 of the Constitution relating to the audit of the accounts of public corporations shall apply to the audit of the accounts of the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL0Part",
+        "num": "IV",
+        "text": "",
+        "pre_block_list": [
+          "G ENERAL"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "14",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Board may delegate to the Chairman of the Board any of its power, duties or functions other than its powers under this subsection.",
+                "pre_block_list": [
+                  "Delegation of powers of the Board to the Chairman of the Board."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Chairman of the Board to whom any power, duty or function has been delegated under subsection (1) shall exercise, perform and discharge such power, duty or function subject to the directions of the Board.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "15",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "There shall be an Advisory Council (hereinafter referred to as the Council) which shall advise the Institute on the effectiveness of the measures taken for the promotion of the Institute and provide a forum to discuss issues relating to the Institute and the development of the Institute.",
+                "pre_block_list": [
+                  "Advisory Council."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Council shall consist of five persons appointed by the Minister in charge of the subject of National Integration from among persons who are engaged in the field of languages, literature and education and have achieved eminence in such fields.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "16",
+            "text": "The Board may appoint such number of standing committees or  ad hoc  committees as it may deem necessary for the exercise, performance and discharge of the powers, functions and duties of the Institute.",
+            "pre_block_list": [
+              "Power of the Board to appoint standing committees or  ad hoc  committees."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "17",
+            "text": "The Minister in charge of the subject of National Integration may, in consultation with the Board, from time to time, issue such general or special directions in writing to the Board as to the exercise and discharge by the Board of its powers and functions in so far as they relate to matters of policy and it shall be the duty of the Board to give effect to all such directions.",
+            "pre_block_list": [
+              "Directions to the Board."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "18",
+            "text": "All members of the Board and officers and servants of the Institute shall be deemed to be public officers within the meaning, and for the purposes, of the Penal Code.",
+            "pre_block_list": [
+              "Members, officers and servants of the Board deemed to be public officers."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "19",
+            "text": "The Institute shall be deemed to be a Scheduled Institution within the meaning of the Bribery Act and the provisions of that Act shall be construed accordingly.",
+            "pre_block_list": [
+              "Institute deemed to be a Scheduled Institution within the meaning of the Bribery Act."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "20",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Every member of the Board and all officers and servants of the Institute shall, before entering upon his duties sign a declaration pledging himself to observe secrecy respecting all matters connected with the working of the Institute, and shall by such declaration pledge himself not to reveal any matter which may come to his knowledge in the discharge of his functions, except",
+                "pre_block_list": [
+                  "Declaration of secretary."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "when required to do so by a court of law; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "in order to comply with any provisions of this Act.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "A member of the Board or officer or servant of the Institute who discloses any information obtained by him in connection with the discharge of his functions under this Act, to any person for any purpose other than for a purpose authorized by subsection (1), shall be guilty of an offence under this Act and shall on conviction after summary trial by a Magistrate be liable to a fine not exceeding ten thousand rupees.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "21",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Minister may make regulations in respect of all matters which are required by this  Act to be prescribed or in respect of which regulations are required or authorized to be made under this Act.",
+                "pre_block_list": [
+                  "Regulations."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Every regulation made by the Minister shall be published in the  Gazette  and shall come into operation on the date of publication or on such later date, as may be specified in the regulation.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Every regulation made by the Minister shall, as soon as convenient after its publication in the  Gazette , be brought before Parliament for approval.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "any regulation which is not so approved shall be deemed to be rescinded as from the date of disapproval but without prejudice to anything previously done thereunder.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "The notification of the date on which any regulation is deemed to be so rescinded shall be published in the  Gazette .",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "22",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Where any immovable property of the State is required for any purpose of the Institute, such purpose shall be deemed to be a purpose for which a special grant or lease of such property may be made under section 6 of the State Lands Ordinance, and accordingly, the provisions of that Ordinance shall apply to a special grant or lease of such property to the Institute.",
+                "pre_block_list": [
+                  "State property both movable and immovable be made available to the Institute."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Where any movable property of the State is required for the purpose of the Institute, the Minister who has authority and control over such property may, by Order published in the  Gazette , transfer to and vest in the Institute the possession and use of such movable property.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "23",
+            "text": "The Board shall at the end of each financial year publish a Report of the activities of the Institute during the year and it shall be submitted to the Minister for approval. On being approved by the Minister such Report shall be laid before Parliament.",
+            "pre_block_list": [
+              "Annual report."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "24",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of any inconsistency."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "25",
+            "text": "In this Act, unless the context otherwise requires",
+            "pre_block_list": [
+              "Interpretation.",
+              "local authority means any Municipal Council, Urban Council or Pradeshiya Sabha and includes any Authority created and established by or under any written law to exercise, perform and discharge powers, duties and functions corresponding to, or similar to, the powers, duties and functions exercised performed and discharged by any such Council or Sabha;",
+              "Provincial Council means a Provincial Council established by Chapter XVII A  of the Constitution ; and",
+              "University Grants Commission means the University Grants Commission established under the Universities Act, No. 16 of 1978.",
+              "SCHEDULE (Section 3)",
+              "P ROVISIONS   RELATING   TO   THE   MEMBERS   OF   THE  B OARD",
+              "1. A person shall be disqualified from being appointed or continuing as a member of the Board",
+              "( a ) if he is, or becomes, a member of Parliament, any Provincial Council or any local authority;",
+              "( b ) if he  is not, or ceases to be a citizen of Sri Lanka;",
+              "( c ) if he is under any law in force in Sri Lanka or in any other country, found or declared to be of unsound mind;",
+              "( d ) if he is serving or has served, a sentence of imprisonment imposed by any court in Sri Lanka or any other country; or",
+              "( e ) if he had been dealt with under the provisions of section 303 or section 306 of the Code of Criminal Procedure Act, No. 15 of 1979.",
+              "2. Every member of the Board shall, unless he vacates office earlier by death, resignation or removal, hold office for a term of three years from the date of his appointment and shall unless he has been removed from office, be eligible for re-appointment:",
+              "Provided, that a member appointed in place of a member who had vacated office by death, resignation or removal, shall hold office for the unexpired part of the term of office of the member whom he succeeds.",
+              "3. The Minister may, by Order published in the  Gazette , and for reasons assigned, remove any member of the Board from office. A member in respect of whom an Order is made under this paragraph shall be deemed to have vacated office on the date of publication of such Order in the  Gazette .",
+              "4. A member of the Board may at any time resign from office by letter to that effect addressed to the Minister and such resignation shall take effect upon it being accepted by the Minister in writing.",
+              "5. In the event of the vacation of office by death, resignation or removal by any member of the Board, the Minister may, having regard to the provisions of subsection (2) of section 3 appoint any other person in place of such member. Any person so appointed in place of such member, shall hold office during the unexpired part of the term of office of the member whom he succeeds.",
+              "6. Where a member of the Board by reason of illness, infirmity or absence from Sri Lanka for a period not less than three months, is temporarily unable to perform his duties it shall be the duty of such member to inform the Minister in writing of such inability. Thereupon, the Minister may having regard to the provisions of subsection (2) of section 3 appoint some other person to act in his place during such period.",
+              "7. The members of the Board may be paid such remuneration out of the Fund of the Institute as the Minister may, with the concurrence of the Minister in charge of the subject of Finance, determine.",
+              "8. (1) The Chairman of the Board shall, if present, preside at every meeting of the Board. In the absence of the Chairman from any such meeting, the members present shall elect one of the members present, to preside at such meeting."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The quorum for any meeting of the Board shall be three members.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The person presiding at any meeting of the Board shall, in addition to his own vote, have a casting vote.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Subject to the provisions of this paragraph, the Board may regulate the procedure in regard to the meetings of the Board and the transaction of business at such meetings.",
+                "pre_block_list": [
+                  "9. No act, decision or proceeding of the Board shall be deemed to be invalid by reason only of the existence of any vacancy in the Board or any defect in the appointment of any member thereof.",
+                  "10. (1) The Seal of the Institute may be determined and devised by the Board and may be altered in such manner as may be determined by the Board.",
+                  "(2) The Seal of the Institute shall be in the custody of such person as the Board may decide, from time to time.",
+                  "(3) The Seal of the Institute shall not be affixed to any instrument or document except with the sanction of the Board and in the presence of the Direction-General of the Institute and one member of the Board who shall sign the instrument or document in token of their presence.",
+                  "(4) The Board shall maintain a register of the instruments and documents to which the Seal of the Institute has been affixed.",
+                  "11. (1) If the Chairman is, by reason of illness or absence from Sri Lanka temporarily unable to perform the duties of his office, the Minister may appoint another member of the Board to act in his place.",
+                  "(2) The Minister may, for reasons assigned and by Order published in the  Gazette , remove the Chairman from the office of Chairman.",
+                  "(3) The Chairman may at any time resign from the office of Chairman by a letter addressed to the Minister. Such resignation shall take effect upon it being accepted by the Minister in writing.",
+                  "(4) Subject to the provisions of paragraphs (2) and (3), the term of office of the Chairman shall be his period of membership of the Board.",
+                  "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS   B UREAU , D EPARTMENT   OF G OVERNMENT   I NFORMATION ,  N O .  163,  K IRULAPONA   A VENUE ,  P OLHENGODA , C OLOMBO  05  before   15th December each year in respect of the year following."
+                ],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

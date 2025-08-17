@@ -10,6 +10,7 @@ L.D.O. 73/2021
 A N  A Ct   To   Amend   The  K Andyan  M Arriage   And  D Ivorce A Ct  (C Hapter  113)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Kandyan Marriage and Divorce (Amendment) Act, No. 37 of 2022.
         - Short  title
     2. Part II (sections 8, 9, 10, 11, 12, 13, 14 and 15) of the Kandyan Marriage and Divorce Act (Chapter 113) (hereinafter referred to as the principal enactment) is hereby repealed.

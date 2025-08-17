@@ -12,6 +12,7 @@ Preamble
 And Whereas The Said Institute Has Heretofore Successfully Carried Out And Transacted The Several Objects And Matters For Which It Was Established And Has Applied To Be Incorporated And It Will Be For The Public Advantage To Grant The Said Application:
 Be It Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the International Institute of Theravadha (Incorporation) Act, No. 32 of 2024
         - Short title
     2. From and after the date of commencement of this Act, such and so many persons as now are members of the International Institute of Theravadha  (hereinafter referred to as the Institute) and shall hereafter be  admitted as members of the body corporate hereby constituted, shall have perpetual succession under the name and style of  the International Institute of Theravadha (hereinafter referred to as the  body corporate), and by that name may sue and be sued with full power and  authority to have, and use a common seal and to  alter the same at its pleasure.

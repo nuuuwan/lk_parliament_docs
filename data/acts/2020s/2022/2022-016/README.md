@@ -10,6 +10,7 @@ L.D.O. 8/2019
 A N  A Ct   To   Amend   The  S Ri  L Anka  E Lectricity A Ct , N O . 20  Of  2009
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Sri Lanka Electricity (Amendment) Act, No.16 of 2022.
         - Short title
     2. Section 8 of the Sri Lanka Electricity Act, No. 20 of 2009 (hereinafter referred to as the principal enactment) is hereby repealed and the following section substituted therefor:-

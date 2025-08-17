@@ -16,6 +16,7 @@ And Whereas Sri Lanka Intends To Accede To The Aforesaid Convention:
 And Whereas It Is Necessary To Make Legal Provisions To Give Effect To Sri Lankas Obligations Under The Aforesaid Convention:
 Now Therefore, Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Carriage by Air Act, No. 29 of 2018 and shall come into operation on such date as the Minister, by Order published in the  Gazette , certifies as the date on which the Convention for the Unification of Certain Rules for International Carriage by Air (hereinafter referred to as the Convention) adopted at Montreal on May 28, 1999 enters into force in respect of Sri Lanka.
         - Short title and the date of operation.
     2. The Articles contained in the Schedule to this Act, being the provisions of the Convention shall in so far as they relate to the rights and liabilities of carriers, passengers, consignors, consignees and other persons and subject to the provisions of this Act have the force of law in Sri Lanka in relation to any carriage by air to which the Convention applies, irrespective of the nationality of the aircraft performing that carriage.

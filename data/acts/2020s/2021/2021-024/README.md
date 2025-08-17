@@ -9,6 +9,7 @@ L.D.O. 27/2019
 A N  A Ct   To   Amend   The  Y Outhful  O Ffenders (T Raining  S Chools ) O Rdinance  (C Hapter  25)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Youthful Offenders (Training Schools) (Amendment)  Act, No. 24 of 2021 and shall come into operation on such date as the Minister may appoint by Order published in the  Gazette .
         - Short title and date of operation
     2. Section 4 of the Youthful Offenders (Training Schools) Ordinance (Chapter 25) (hereinafter referred to as the principal enactment) is hereby amended in subsection (1) thereof, by the substitution for the words any male person-, of the words any person-.

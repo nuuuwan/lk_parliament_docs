@@ -9,6 +9,7 @@ L. D.O. 45/2013.
 A N  A Ct   To   Amend   The  R Egulation   Of  I Nsurance  I Ndustry  A Ct , N O . 43  Of  2000
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Regulation of Insurance Industry (Amendment) Act, No. 23 of  2017.
         - Short title.
         - Amendment of long title of Act, No. 43 of 2000.

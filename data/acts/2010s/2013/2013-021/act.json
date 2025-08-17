@@ -16,105 +16,111 @@
       "A N  A Ct   To   Amend   The  R Egistration   Of  D Ocuments  O Rdinance (C Hapter  117)",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Registration of Documents (Amendment)  Act, No. 21 of 2013 and shall be deemed to have come into operation on January 1, 2013.",
-        "pre_block_list": [
-          "Short title and date of operation."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 13 of the Registration of Documents Ordinance (Chapter 117) (hereinafter referred to as the principal enactment)  is hereby amended in subsection (6) of that section by the substitution for the words a fee of ten rupees shall be of the words a fee of ten rupees or such other amount as may be prescribed by the Minister, shall be.",
-        "pre_block_list": [
-          "Amendment of section 13 of the Registration of Documents Ordinance (Chapter 117)."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 22 of the principal enactment is hereby amended in subsection (2) of that section by the substitution for the words  a fee of five rupees shall be payable for the registration of the words  a fee of five rupees or such other amount as may be prescribed by the Minister, shall be payable for the registration.",
-        "pre_block_list": [
-          "Amendment of section 22 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "Section 48 of the principal enactment is hereby amended by the repeal of that section and the substitution therefor of the following:",
-        "pre_block_list": [
-          "Amendment of section 48 of the principal enactment.",
-          "48. The fees specified in the First Schedule as may be prescribed by the Minister, from time to time, shall be payable for the matters to which they relate",
-          "",
-          "Fees",
-          "2PL0070954,090 (03/2013)"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "The First Schedule of the principal enactment is hereby amended as follows:",
-        "pre_block_list": [
-          "Amendment of the First Schedule of the principal enactment."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "In Part I of that Schedule",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "i",
-                "text": "by the substitution for item 6 thereof, of the following item:",
-                "pre_block_list": [
-                  "(6) For each land described in the Caveat, for  each Land Registry in which each caveat in respect of each such land is registered and for each period of two years, a fee of",
-                  "2500.00;"
-                ],
-                "child_level_list": [
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "ii",
-                    "text": "by the substitution for item (9) thereof, of the following item:",
-                    "pre_block_list": [
-                      "(9) Every instrument of any kind  whatsoever  not expressly exempted, a fee of",
-                      "100.00;"
-                    ],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "iii",
-                    "text": "by the substitution for item (10) thereof, of the following item:",
-                    "pre_block_list": [
-                      "(10) An instrument presented to the Registrar-General under section 29 , in addition to any other fee payable, a fee of",
-                      "1000.00;"
-                    ],
-                    "child_level_list": []
-                  }
-                ]
-              }
-            ]
+            "text": "This Act may be cited as the Registration of Documents (Amendment)  Act, No. 21 of 2013 and shall be deemed to have come into operation on January 1, 2013.",
+            "pre_block_list": [
+              "Short title and date of operation."
+            ],
+            "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "By the substitution for Part III of that Schedule of the following:",
-            "pre_block_list": [],
+            "text": "Section 13 of the Registration of Documents Ordinance (Chapter 117) (hereinafter referred to as the principal enactment)  is hereby amended in subsection (6) of that section by the substitution for the words a fee of ten rupees shall be of the words a fee of ten rupees or such other amount as may be prescribed by the Minister, shall be.",
+            "pre_block_list": [
+              "Amendment of section 13 of the Registration of Documents Ordinance (Chapter 117)."
+            ],
             "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 22 of the principal enactment is hereby amended in subsection (2) of that section by the substitution for the words  a fee of five rupees shall be payable for the registration of the words  a fee of five rupees or such other amount as may be prescribed by the Minister, shall be payable for the registration.",
+            "pre_block_list": [
+              "Amendment of section 22 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 48 of the principal enactment is hereby amended by the repeal of that section and the substitution therefor of the following:",
+            "pre_block_list": [
+              "Amendment of section 48 of the principal enactment.",
+              "48. The fees specified in the First Schedule as may be prescribed by the Minister, from time to time, shall be payable for the matters to which they relate",
+              "",
+              "Fees",
+              "2PL0070954,090 (03/2013)"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "The First Schedule of the principal enactment is hereby amended as follows:",
+            "pre_block_list": [
+              "Amendment of the First Schedule of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "In Part I of that Schedule",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "by the substitution for item 6 thereof, of the following item:",
+                    "pre_block_list": [
+                      "(6) For each land described in the Caveat, for  each Land Registry in which each caveat in respect of each such land is registered and for each period of two years, a fee of",
+                      "2500.00;"
+                    ],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "by the substitution for item (9) thereof, of the following item:",
+                        "pre_block_list": [
+                          "(9) Every instrument of any kind  whatsoever  not expressly exempted, a fee of",
+                          "100.00;"
+                        ],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "by the substitution for item (10) thereof, of the following item:",
+                        "pre_block_list": [
+                          "(10) An instrument presented to the Registrar-General under section 29 , in addition to any other fee payable, a fee of",
+                          "1000.00;"
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "By the substitution for Part III of that Schedule of the following:",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           }
         ]
-      }
-    ],
-    "part_list": [
+      },
       {
         "class_name": "ActL0Part",
         "num": "III",

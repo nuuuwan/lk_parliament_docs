@@ -29,10 +29,10 @@ Programmes In Support Of The Unesco Priorities:
 Now Therefore Be It Enacted By The Parliament Of
 Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Sri Lanka National
         - Short title
         - Commission for the UNESCO Act, No. 38 of 2024.
-
 I. 
     - E STABLISHMENT   OF   THE  S RI  L ANKA  N ATIONAL  C OMMISSION
     - FOR   THE  UNESCO

@@ -9,6 +9,7 @@ L.D.O. 28/2013.
 A N  A Ct   To   Amend   The   P Rescription   O Rdinance  (C Hapter  68)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the  Prescription (Amendment)  Act, No. 26 of 2014.
         - Short title.
     2. Section 15 of the Prescription Ordinance, is hereby repealed and the following section is substituted therefor:

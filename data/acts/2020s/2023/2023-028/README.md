@@ -10,6 +10,7 @@ L.D.-O. 65/2023
 A N  A Ct   To   Amend   The  A Nti -C Orruption A Ct , N O . 9  Of  2023
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Anti-Corruption (Amendment) Act, No.   28 of 2023.
         - Short title
     2. The sections of the Anti-Corruption Act, No. 9 of 2023 specified in  Column I  of the Schedule hereto are hereby amended by the substitution for the words specified in the corresponding entry in  Column II , of the words specified in the corresponding entry in  Column III  of that Schedule.

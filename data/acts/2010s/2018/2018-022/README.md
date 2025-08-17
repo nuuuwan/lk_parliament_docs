@@ -10,6 +10,7 @@ L.D.O. 3/2018
 A N   A Ct   To   Amend   The  B Ribery  A Ct  (C Hapter  26)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Bribery (Amendment) Act, No. 22 of  2018.
         - Short title.
     2. Section 70 of the Bribery Act (Chapter 26) is hereby amended by the substitution for the words, upon summary trial and conviction by a Magistrate of the words upon trial and conviction by a High Court or upon summary trial and conviction by a Magistrate.

@@ -9,6 +9,7 @@ L.D.O. 5/2021
 A N   A Ct   To   Amend   The  P Oisons , O Pium   And  D Angerous D Rugs  O Rdinance  (C Hapter  218)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Poisons, Opium and Dangerous Drugs (Amendment) Act, No. 41 of 2022.
         - Short title
     2. Section 54 A  of the Poisons, Opium and Dangerous Drugs Ordinance (Chapter 218) (hereinafter referred to as the principal enactment) is hereby amended as follows: -
@@ -441,7 +442,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - or any other plant containing any dangerous drug or a substance substantially similar to dangerous drugs or an substituted analogue of a dangerous drug listed in above Sections 1 and 2, which typically exhibiting high abuse potential
         - 
         2. by the repeal of Part III of that Schedule and the substitution therefor of the following Part:-
-
 III. 
     - PART III
     - Traffics, Opium possess, imports or exports

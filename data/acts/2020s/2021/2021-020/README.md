@@ -10,6 +10,7 @@ L.D.  O. 46/2021
 A N  A Ct   To   Amend   The  C Onsumer  A Ffairs  A Uthority A Ct , N O . 9  Of  2003
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Consumer Affairs Authority (Amendment) Act, No. 20 of 2021.
         - Short title
     2. Section 60 of the Consumer Affairs Authority Act, No. 9 of 2003 (hereinafter referred to as the principal enactment) is hereby amended as follows :-

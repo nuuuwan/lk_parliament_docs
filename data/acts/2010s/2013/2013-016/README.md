@@ -9,6 +9,7 @@ L.D.O. 11/2013.
 A N   A Ct   To   Amend   The  S Trategic  D Evelopment  P Rojects A Ct , N O . 14  Of  2008
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows  :
 
+0. 
     1. This Act may be cited as the Strategic Development Projects (Amendment) Act, No. 16 of 2013 and shall be deemed to have come into operation on January 1, 2013.
         - Short title and date of operation.
     2. The Schedule to the Strategic Development Projects Act, No. 14 of 2008 is hereby amended, by the addition immediately after item 10 of the Schedule, of the following new items  :

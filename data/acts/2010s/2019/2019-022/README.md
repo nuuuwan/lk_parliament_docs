@@ -12,9 +12,9 @@ Innovation   Agency   And   For   Matters   Connected   Therewith   Or
 Incidental   Thereto
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the National Innovation Agency Act, No. 22 of 2019, and shall come into operation on such date as the President may appoint (hereinafter referred to as the appointed date) by Order published in the  Gazette .
         - Short title and the date of operation.
-
 I. 
     - N ATIONAL   I NNOVATION   A GENCY
     - Establishment of the National Innovation Agency.

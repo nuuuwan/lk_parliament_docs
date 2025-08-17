@@ -9,6 +9,7 @@ L.D.O. 11/2022
 A N  A Ct   To   Amend   The  P Etroleum  P Roducts  (S Pecial  P Rovisions ) A Ct , N O . 33  Of  2002
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Petroleum Products (Special Provisions)  (Amendment) Act, No. 27 of 2022.
             - Short title and date of operation

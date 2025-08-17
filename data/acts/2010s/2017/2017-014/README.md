@@ -9,6 +9,7 @@ L.D.O. 62/2016.
 A N  A Ct   To   Amend   The   S Ugathadasa  N Ational  S Ports  C Omplex A Uthority  A Ct , N O . 17  Of  1999
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the  Sugathadasa National Sports Complex Authority (Amendment)  Act, No. 14 of 2017.
         - Short title.
     2. The long title to the  Sugathadasa National Sports Complex Authority Act, No. 17 of 1999 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words TO MANAGE AND MAINTAIN of the words TO MANAGE, MAINTAIN, PROTECT AND DEVELOP.

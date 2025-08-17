@@ -10,6 +10,7 @@ L.D.-O. 41/2023
 A N  A Ct   To   Amend   The  A Ppropriation  A Ct , N O . 43  Of  2022
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Appropriation (Amendment) Act, No. 12 of 2023.
         - Short  title
     2. Section 2 of the Appropriation Act, No. 43 of 2022 (hereinafter referred to as the principal enactment) is hereby amended as follows:

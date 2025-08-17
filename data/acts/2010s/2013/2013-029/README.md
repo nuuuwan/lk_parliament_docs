@@ -9,6 +9,7 @@ L.D.O. 17/2012
 A N  A Ct   To   Amend   The  D Efence  S Ervices  C Ommand   And  S Taff C Ollege  A Ct , N O . 5  Of  2008
 Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Defence Services Command and Staff College (Amendment) Act, No. 29 of 2013.
         - Short title.
     2. Section 7 of the Defence Services Command and Staff College Act, No. 5 of 2008 (hereinafter referred to as the principal enactment) is hereby amended in subsection (1) of that section by the repeal of paragraph ( f ) of that subsection and the substitution therefor, of the following paragraph:

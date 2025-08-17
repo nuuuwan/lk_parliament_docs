@@ -9,6 +9,7 @@ L.D.O. 13/2013
 A N  A Ct   To   Amend   The  I Nland  R Evenue  A Ct , N O . 10  Of  2006
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :-
 
+0. 
     1. 
         1. This Act may be cited as the Inland Revenue (Amendment) Act, No. 18 of  2013.
             - Short title and the date of operation.
@@ -303,7 +304,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
             v. where a company buys back shares from its shareholders, the excess, if any, paid to any shareholder over the market price of such share quoted in the Colombo Stock Exchange or the market value of such share as the case may be, as at the date on which the shareholders of such company at a meeting approved such share buyback; and.
                 - Amendment of the First Schedule to the principal enactment.
     38. The First Schedule to the principal enactment, as last amended by Act, No. 8 of 2012, is hereby further amended by the substitution for PART V of that Schedule, of the following Part:-
-
 V. 
     - The rate of income tax applicable to any sum referred to in the proviso to subsection (2) of section 35-
     - ( a ) for  any  year  of  assessment commencing prior to April 1, 2013

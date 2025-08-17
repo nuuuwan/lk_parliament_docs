@@ -13,6 +13,7 @@ Preamble
 And Whereas The Said Vidyalaya Has Heretofore Successfully Carried Out And Transacted The Several Objects And Matters For Which It Was Established And Has Applied To Be Incorporated And It Will Be For The Public Advantage To Grant The Said Application:
 Be It Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Balapitiya Sri Rahularama Purana Viharastha Samanera Akalpa Sangwardena Bikshu Vidyalaya (Incorporation) Act, No. 25 of 2023.
         - Short title
     2. 

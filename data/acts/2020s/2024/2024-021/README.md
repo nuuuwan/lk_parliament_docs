@@ -9,6 +9,7 @@ L.D. - O. 66/2017
 A N  A Ct   To   Amend   The  F Inance  L Easing  A Ct , N O . 56  Of  2000
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Finance Leasing (Amendment) Act, No. 21 of  2024.
             - Short title and date of operation

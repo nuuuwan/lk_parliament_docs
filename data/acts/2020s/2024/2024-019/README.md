@@ -9,6 +9,7 @@ L.D.-O. 64/2017
 A N  A Ct   To   Amend   The  T Rust  R Eceipts  O Rdinance  (C Hapter  86)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Trust Receipts (Amendment)  Act, No. 19 of 2024.
             - Short title and date of operation

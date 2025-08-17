@@ -16,114 +16,121 @@
       "A N  A Ct   To   Amend   The  C Ompanies  A Ct , N O . 07  Of  2007",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "This Act may be cited as the Companies (Amendment)  Act, No. 23 of 2024.",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "This Act may be cited as the Companies (Amendment)  Act, No. 23 of 2024.",
+                "pre_block_list": [
+                  "Short  title and date of operation"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The provisions of this Act, other than the provisions of this section, shall come into operation on such date as the Minister may appoint by Order published in the  Gazette .",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The provisions of this section shall come into operation on the date on which the Bill becomes an Act of Parliament.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 427 of the Companies Act, No. 07 of 2007 (in this Act referred to as the principal enactment) is hereby amended in paragraph ( a ) of subsection (3) of that section, by the substitution for the words and figures the provisions of the Registration of Documents Ordinance (Cap.117), of the words and figures the provisions of the Secured  Transactions Act, No. 17 of 2024.",
             "pre_block_list": [
-              "Short  title and date of operation"
+              "Amendment of section 427 of Act, No. 07 of 2007"
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "The provisions of this Act, other than the provisions of this section, shall come into operation on such date as the Minister may appoint by Order published in the  Gazette .",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "3",
-            "text": "The provisions of this section shall come into operation on the date on which the Bill becomes an Act of Parliament.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 427 of the Companies Act, No. 07 of 2007 (in this Act referred to as the principal enactment) is hereby amended in paragraph ( a ) of subsection (3) of that section, by the substitution for the words and figures the provisions of the Registration of Documents Ordinance (Cap.117), of the words and figures the provisions of the Secured  Transactions Act, No. 17 of 2024.",
-        "pre_block_list": [
-          "Amendment of section 427 of Act, No. 07 of 2007"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 428 of the principal  enactment is hereby amended as follows: -",
-        "pre_block_list": [
-          "Amendment of section 428 of the  principal enactment"
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "in subsection (3) of that section, by the substitution for all the words and figures from registered under the Registration of Documents Ordinance (Cap. 117) to the",
+            "text": "Section 428 of the principal  enactment is hereby amended as follows: -",
             "pre_block_list": [
-              "end of that subsection, of the words and figures registered under the Secured Transactions Act, No. 17 of 2024 and the provisions of that Act shall apply in regard to such floating charge.;  and"
+              "Amendment of section 428 of the  principal enactment"
             ],
-            "child_level_list": []
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (3) of that section, by the substitution for all the words and figures from registered under the Registration of Documents Ordinance (Cap. 117) to the",
+                "pre_block_list": [
+                  "end of that subsection, of the words and figures registered under the Secured Transactions Act, No. 17 of 2024 and the provisions of that Act shall apply in regard to such floating charge.;  and"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the repeal of subsection (4) of that section.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "by the repeal of subsection (4) of that section.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "Section 431 of the principal enactment is hereby amended by the addition immediately after subsection (6) of that section, of the following new subsection: -",
-        "pre_block_list": [
-          "Amendment of section 431 of the  principal enactment"
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "7",
-            "text": "Where any movable property owned by a company   is subject to a floating charge which is registered under the Secured Transactions Act, No.  17 of 2024, the provisions relating to priority contained in that Act shall apply in determining the priority of such floating charge",
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 431 of the principal enactment is hereby amended by the addition immediately after subsection (6) of that section, of the following new subsection: -",
             "pre_block_list": [
+              "Amendment of section 431 of the  principal enactment"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "7",
+                "text": "Where any movable property owned by a company   is subject to a floating charge which is registered under the Secured Transactions Act, No.  17 of 2024, the provisions relating to priority contained in that Act shall apply in determining the priority of such floating charge",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "The following new section is hereby inserted immediately after section 433 of the principal enactment and shall have effect as section 433 A  of that enactment: -",
+            "pre_block_list": [
+              "Insertion of new section 433 A  in the principal enactment",
+              "Interpretation          433 A .  In this Part of this Act, the term floating charge means a security right for the purpose of the application of the provisions of  the Secured Transactions Act, No. 17 of 2024",
               ""
             ],
             "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+            ],
+            "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "The following new section is hereby inserted immediately after section 433 of the principal enactment and shall have effect as section 433 A  of that enactment: -",
-        "pre_block_list": [
-          "Insertion of new section 433 A  in the principal enactment",
-          "Interpretation          433 A .  In this Part of this Act, the term floating charge means a security right for the purpose of the application of the provisions of  the Secured Transactions Act, No. 17 of 2024",
-          ""
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "6",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

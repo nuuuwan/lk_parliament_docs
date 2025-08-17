@@ -10,6 +10,7 @@ L.D.O. 32/2017
 A N  A Ct   To   Amend   The  J Udicature  A Ct , N O . 2  Of  1978
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka  As Follows:
 
+0. 
     1. This Act may be cited as the Judicature (Amendment) Act, No. 26 of 2017.
         - Short title.
     2. Section 4 of the Judicature Act, No. 2 of 1978 is hereby amended by the repeal of paragraph ( a ) of that section and the substitution therefor of the following paragraph:

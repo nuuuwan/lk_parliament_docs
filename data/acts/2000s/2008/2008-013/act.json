@@ -1,0 +1,97 @@
+{
+  "n_pages": 4,
+  "title_page": {
+    "title": "Butchers (Amendment) Act",
+    "num": "13",
+    "year": "2008",
+    "date_certified": "2008-02-29",
+    "date_published": "2008-02-29",
+    "price": 4.0,
+    "price_postage": 5.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 29Th February, 2008]",
+      "L.D.O. 9/2008.",
+      "A N  A Ct   To   Amend   The  B Utchers  O Rdinance",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Butchers (Amendment) Act, No. 13 of 2008.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 18 of the Butchers Ordinance (Chapter 272) (hereinafter referred to as the principal enactment) is hereby amended by the repeal of subsection (1) of that section and the substitution therefor of the following subsection :",
+            "pre_block_list": [
+              "Amendment of section 18 of Chapter 272."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "It shall not be lawful for any person (not a licensed butcher) to slaughter any cattle without a permit from the proper authority :",
+                "pre_block_list": [
+                  "Provided that no pregnant or lactating cows shall be slaughtered whether under the authority of a permit or not",
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 20 of the principal enactment is hereby amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 20 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the re-numbering of that section as subsection (1) thereof ; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition immediately after the re-numbered subsection (1) of the following new subsection :",
+                "pre_block_list": [
+                  "(2) Any person who slaughters a pregnant cow or a lactating cow in contravention of the provisions of subsection (1) of section 18, shall be guilty of an",
+                  "offence and shall be liable to a fine of rupees fifty thousand and to imprisonment of either description for a period not exceeding three years",
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "In the event of any inconsistency between the Sinhala and the Tamil  texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

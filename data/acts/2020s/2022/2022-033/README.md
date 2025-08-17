@@ -12,11 +12,11 @@ Claims   Courts ;  And   To   Provide   For   The   Matters   Connected
 Therewith   Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. 
         1. This Act may be cited as the Small Claims Courts Procedure Act, No. 33 of 2022.
             - Short title and date of operation
         2. The provisions of this Act shall come into operation on such date as the Minister may appoint by Order published in the  Gazette .
-
 I. 
     - A CTIONS
     - Institution of actions

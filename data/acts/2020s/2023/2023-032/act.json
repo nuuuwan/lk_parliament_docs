@@ -17,118 +17,124 @@
       "A N  A Ct   To   Amend   The  V Alue  A Dded  T Ax   A Ct , N O . 14  Of  2002",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Value Added Tax (Amendment) Act, No. 32 of 2023.",
-        "pre_block_list": [
-          "Short title"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 22 of the Value Added Tax Act, No. 14 of 2002 (hereinafter in this Act referred to as the principal enactment) is hereby amended as follows: -",
-        "pre_block_list": [
-          "Amendment of section 22 of Act, No.14 of 2002"
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "in subsection (6) of that section, by the repeal of the first proviso to that subsection and the substitution therefor of the following: -",
+            "text": "This Act may be cited as the Value Added Tax (Amendment) Act, No. 32 of 2023.",
             "pre_block_list": [
-              "Provided that, notwithstanding the provisions of subsection (2) and the exemptions specified in-"
+              "Short title"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 22 of the Value Added Tax Act, No. 14 of 2002 (hereinafter in this Act referred to as the principal enactment) is hereby amended as follows: -",
+            "pre_block_list": [
+              "Amendment of section 22 of Act, No.14 of 2002"
             ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "item (i) and item (ii) of paragraph ( f ) of Part II of the First Schedule to this Act, for the period prior to the date of commencement of this (Amendment) Act; or",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (6) of that section, by the repeal of the first proviso to that subsection and the substitution therefor of the following: -",
+                "pre_block_list": [
+                  "Provided that, notwithstanding the provisions of subsection (2) and the exemptions specified in-"
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "item (i) and item (ii) of paragraph ( f ) of Part II of the First Schedule to this Act, for the period prior to the date of commencement of this (Amendment) Act; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "item (xxv) and item (xxvi) of paragraph ( b ) of Part III of the First Schedule to this Act, for any period on or after the date of commencement of this (Amendment) Act,",
+                    "pre_block_list": [
+                      "any registered person who is engaged in supplying of goods or services to any",
+                      "Strategic Development Project identified under subsection (4) of section 3 of the Strategic Development Project Act, No. 14 of 2008 or any special project identified by the Minister under item (ii) of paragraph ( f ) of Part II of the First Schedule to this Act or item (xxvi) of paragraph ( b ) of Part III of the First Schedule to this Act may be allowed to claim the input tax on the purchase of goods or services connected to supply of goods or services made to such projects.;"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (10) of that section, by the repeal of the third proviso to that subsection and the substitution therefor of the following: -",
+                "pre_block_list": [
+                  "Provided further, for the purpose of ascertainment of the input tax allowable under this subsection to any person who is supplying goods or services to any Strategic Development Project identified under subsection (4) of section 3 of the Strategic Development Project Act, No. 14 of 2008 or any special project identified by the Minister under item (ii) of paragraph ( f ) of Part II of the First Schedule to this Act or item (xxvi) of paragraph ( b ) of Part III of the First Schedule to this Act-"
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "for the period prior to the date of commencement of this (Amendment) Act, specified in item (i) and item (ii) of paragraph ( f ) of Part II of the First Schedule to this Act; or",
+                    "pre_block_list": [
+                      "Value Added Tax (Amendment) Act, No. 32 of 2023 3"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "for any period on or after the date of commencement of this (Amendment) Act, specified in item (xxv) and item (xxvi) of paragraph ( b ) of Part III of the First Schedule to this Act,",
+                    "pre_block_list": [
+                      "the value of the supply of the suppliers for the relevant period of such project shall be deemed to be a taxable supply on which the output tax is computed",
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 83 of the principal enactment is hereby amended, by the insertion immediately after the expression manufacture of the following expression:-",
+            "pre_block_list": [
+              "Amendment of section 83 of the principal enactment",
+              "Minister means the Minister assigned the subject of Finance in terms of Article 44 or 45 of the Constitution;;"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "The First Schedule to the principal enactment is hereby amended in Part II thereof as follows: -",
+            "pre_block_list": [
+              "Amendment of the First Schedule to the principal enactment"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in the Heading of that PART, by the substitution for the words and figures For any taxable period commencing on or after January 1, 2004 (subject to effective dates specified in subsequent amendments to the Schedule)., of the words and figures For any taxable period commencing on or after January 1, 2004 (subject to effective dates specified in subsequent amendments to the Schedule) but ending prior to January 1, 2024.; and",
                 "pre_block_list": [],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "item (xxv) and item (xxvi) of paragraph ( b ) of Part III of the First Schedule to this Act, for any period on or after the date of commencement of this (Amendment) Act,",
-                "pre_block_list": [
-                  "any registered person who is engaged in supplying of goods or services to any",
-                  "Strategic Development Project identified under subsection (4) of section 3 of the Strategic Development Project Act, No. 14 of 2008 or any special project identified by the Minister under item (ii) of paragraph ( f ) of Part II of the First Schedule to this Act or item (xxvi) of paragraph ( b ) of Part III of the First Schedule to this Act may be allowed to claim the input tax on the purchase of goods or services connected to supply of goods or services made to such projects.;"
-                ],
-                "child_level_list": []
-              }
-            ]
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "in subsection (10) of that section, by the repeal of the third proviso to that subsection and the substitution therefor of the following: -",
-            "pre_block_list": [
-              "Provided further, for the purpose of ascertainment of the input tax allowable under this subsection to any person who is supplying goods or services to any Strategic Development Project identified under subsection (4) of section 3 of the Strategic Development Project Act, No. 14 of 2008 or any special project identified by the Minister under item (ii) of paragraph ( f ) of Part II of the First Schedule to this Act or item (xxvi) of paragraph ( b ) of Part III of the First Schedule to this Act-"
-            ],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "for the period prior to the date of commencement of this (Amendment) Act, specified in item (i) and item (ii) of paragraph ( f ) of Part II of the First Schedule to this Act; or",
-                "pre_block_list": [
-                  "Value Added Tax (Amendment) Act, No. 32 of 2023 3"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "for any period on or after the date of commencement of this (Amendment) Act, specified in item (xxv) and item (xxvi) of paragraph ( b ) of Part III of the First Schedule to this Act,",
-                "pre_block_list": [
-                  "the value of the supply of the suppliers for the relevant period of such project shall be deemed to be a taxable supply on which the output tax is computed",
-                  ""
-                ],
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition immediately after paragraph ( m ) of that PART of the following new PART: -",
+                "pre_block_list": [],
                 "child_level_list": []
               }
             ]
           }
         ]
       },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 83 of the principal enactment is hereby amended, by the insertion immediately after the expression manufacture of the following expression:-",
-        "pre_block_list": [
-          "Amendment of section 83 of the principal enactment",
-          "Minister means the Minister assigned the subject of Finance in terms of Article 44 or 45 of the Constitution;;"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "The First Schedule to the principal enactment is hereby amended in Part II thereof as follows: -",
-        "pre_block_list": [
-          "Amendment of the First Schedule to the principal enactment"
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "in the Heading of that PART, by the substitution for the words and figures For any taxable period commencing on or after January 1, 2004 (subject to effective dates specified in subsequent amendments to the Schedule)., of the words and figures For any taxable period commencing on or after January 1, 2004 (subject to effective dates specified in subsequent amendments to the Schedule) but ending prior to January 1, 2024.; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "by the addition immediately after paragraph ( m ) of that PART of the following new PART: -",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      }
-    ],
-    "part_list": [
       {
         "class_name": "ActL0Part",
         "num": "III",

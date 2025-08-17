@@ -20,18 +20,24 @@
       "Or   Incidental   Thereto .",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
     ],
-    "pre_section_list": [
-      {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Prevention of Offences relating to Sports Act,   No. 24 of 2019.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      }
-    ],
     "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Prevention of Offences relating to Sports Act,   No. 24 of 2019.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

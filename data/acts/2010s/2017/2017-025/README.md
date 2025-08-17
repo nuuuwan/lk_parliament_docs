@@ -9,6 +9,7 @@ L.D.O 22/2016.
 A N  A Ct   To   Amend   The  E Lectronic  T Ransactions A Ct , N O . 19  Of  2006
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Electronic Transactions (Amendment) Act, No. 25 of 2017.
         - Short title.
     2. The long title of the Electronic Transactions Act, No. 19 of 2006 (hereinafter referred to as the principal enactment) is hereby amended, by the substitution for the words AND ACCREDITATION OF CERTIFICATION SERVICE PROVIDERS; AND, of the words AND LICENSING AND AUTHORISING OF CERTIFICATION SERVICE PROVIDERS; TO GIVE EFFECT TO THE PROVISIONS OF THE UNITED NATIONS CONVENTION ON THE USE OF ELECTRONIC COMMUNICATIONS IN INTERNATIONAL CONTRACTS AND.

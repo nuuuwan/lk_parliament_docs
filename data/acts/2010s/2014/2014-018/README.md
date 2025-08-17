@@ -9,6 +9,7 @@ L.D. O. 40/2011
 A N  A Ct   To   Amend   The   N Ational  E Nterprise  D Evelopment A Uthority   A Ct , N O . 17  Of  2006.
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the  National Enterprise Development Authority (Amendment) Act, No. 18 of 2014.
         - Short title.
     2. Section 3 of the  National Enterprise Development Authority  Act, No. 17 of 2006 is hereby amended by the repeal of paragraph ( a ) of subsection (1) of that section, and the substitution therefor of the following:

@@ -10,6 +10,7 @@ L.D.O. 55/2015
 A N  A Ct   To   Amend   The  M Edical  O Rdinance  (C Hapter  105)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Medical (Amendment) Act, No. 28 of 2018.
         - Short title.
     2. Section 12 of the Medical Ordinance (Chapter 105) (hereinafter referred to as the principal enactment) is hereby amended in subsection (1), by the insertion immediately after paragraph ( c ) thereof of the following paragraphs:

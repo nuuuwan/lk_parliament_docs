@@ -18,6 +18,7 @@ And Whereas   Relatives Of Missing Persons Are Entitled To Know The Circumstance
 And Whereas   It Is Recognised That The Establishment Of An Office On Missing Persons Is Necessary To Take All Necessary Measures To Search And Trace Missing Persons; To Protect The Rights And Interests Of Missing Persons And Their Relatives; And Towards Ensuring Non-Recurrence:
 Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. 
         1. This Act may be cited as the Office on Missing Persons (Establishment, Administration and Discharge of Functions) Act, No. 14 of 2016.
             - Short title and date of operation.
@@ -29,7 +30,6 @@ Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republ
             b. to make recommendations to the relevant authorities towards reducing the incidents of missing persons within the meaning of this Act;
             c. to protect the rights and interests of missing persons and their relatives as provided for in this Act;
             d. to identify proper avenues of redress to which such missing persons or their relatives may have recourse.
-
 I. 
     - E STABLISHMENT   OF   THE  O FFICE   ON  M ISSING  P ERSONS
     - Establishment of the Office on Missing Persons (OMP).

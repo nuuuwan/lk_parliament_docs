@@ -17,6 +17,7 @@ Provide   For   Matters   Connected   Therewith   Or   Incidental
 Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Conferring the Honour of Senior Instructing Attorneys-at-Law Act, No. 26 of 2023.
         - Short  title
     2. 

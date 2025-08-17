@@ -26,40 +26,46 @@
       "Connected   Therewith   Or   Incidental   Thereto .",
       "Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "This Act may be cited as the Assistance to and Protection of Victims of Crime and Witnesses Act, No. 10 of 2023.",
-            "pre_block_list": [
-              "Short title and date of operation"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "The provisions of this Act, other than this section, shall come into operation on such date as the Minister may by Order published in the  Gazette  appoint (in this Act referred to as the appointed date).",
+            "text": "",
             "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "The provisions of this section shall come into operation on the date on which the Certificate of the Speaker is endorsed on the Bill.",
-            "pre_block_list": [],
-            "child_level_list": []
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "This Act may be cited as the Assistance to and Protection of Victims of Crime and Witnesses Act, No. 10 of 2023.",
+                "pre_block_list": [
+                  "Short title and date of operation"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The provisions of this Act, other than this section, shall come into operation on such date as the Minister may by Order published in the  Gazette  appoint (in this Act referred to as the appointed date).",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The provisions of this section shall come into operation on the date on which the Certificate of the Speaker is endorsed on the Bill.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           }
         ]
-      }
-    ],
-    "part_list": [
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

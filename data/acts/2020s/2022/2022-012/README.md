@@ -10,6 +10,7 @@ L.D.O. 1/2022
 A N  A Ct   To   Amend   The  P Revention   Of  T Errorism (T Emporary  P Rovisions ) A Ct , N O . 48  Of  1979
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022.
         - Short  title
     2. Section 9 of the Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979 (hereinafter referred to as the principal enactment) is hereby amended in the proviso to subsection (1) thereof, by the substitution for the words eighteen months. of the words twelve months

@@ -10,6 +10,7 @@ L.D.O. 25/2005
 A N  A Ct   To   Amend   The  L And  D Evelopment  O Rdinance (C Hapter  464)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Land Development (Amendment) Act, No. 11 of  2022.
         - Short  title
     2. The Land Development Ordinance (Chapter 464) (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words Land Commissioner wherever those words occur in the principal enactment or in any written law, notice, notification, contract, communication or other document, of the words Commissioner-General of  Lands.

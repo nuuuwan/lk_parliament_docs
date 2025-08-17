@@ -12,6 +12,7 @@ Preamble
 And Whereas   The Said Society Has Heretofore Successfully Carried Out And Transacted  The Several Objects And Matters For Which It Was Formed And Has Applied To Be Incorporated And It Will Be For The Public Advanatge To Grant The Said Application:
 Be    It Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :-
 
+0. 
     1. This Act may be cited as the Kelaniya Buddhist Women's Charitable Society (Incorporation) Act, No. 30 of 2024.
         - Short title
     2. 

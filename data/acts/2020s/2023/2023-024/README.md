@@ -9,6 +9,7 @@ L.D.- O. 29/2023
 A N  A Ct   To   Amend   The  C Ivil  A Viation  A Ct , N O . 14  Of  2010
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Civil Aviation (Amendment) Act, No. 24 of  2023.
         - Short title
     2. Section 6 of the Civil Aviation Act, No. 14 of 2010 is hereby amended in subsection (3) thereof, by the repeal of paragraph  (e)  and the substitution therefor, of the following paragraph:-

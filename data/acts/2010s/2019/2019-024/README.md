@@ -13,9 +13,9 @@ Of   Offences   And   To   Provide   For   Matters   Connected   Therewith
 Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Prevention of Offences relating to Sports Act,   No. 24 of 2019.
         - Short title.
-
 I. 
     - O BJECTS   AND   THE  A PPLICATION   OF   THE  P ROVISIONS   OF   THE  A CT
     2. The objects  of the Act shall be

@@ -9,6 +9,7 @@ L.D.  O. 62/2021
 A N  A Ct   To   Amend   The  H Igh  C Ourt   Of   The  P Rovinces (S Pecial  P Rovisions ) A Ct , N O . 19  Of  1990
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the High Court of the Provinces (Special Provisions) (Amendment) Act, No. 35 of 2022.
             - Short title and date of operation

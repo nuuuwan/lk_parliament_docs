@@ -26,109 +26,115 @@
       "And Whereas The Establishment Of The National Womens Commission Operating At National Level, Will Serve As The Effective Mechanism For Ensuring The Empowerment Of Women:",
       "Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Women Empowerment Act, No. 37 of 2024.",
-        "pre_block_list": [
-          "Short title"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The   objects of this Act shall be -",
-        "pre_block_list": [
-          "Objects of the Act"
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "to make provisions for the advancement and empowerment of women by introducing mechanisms to secure womens rights subject to the provisions of the Constitution;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "to introduce mechanisms to give effect to the obligations undertaken by the Government of Sri Lanka in relation to women in terms of the Convention on the Elimination of All forms of Discrimination Against Women, and in terms of applicable laws;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "to formulate and implement the national policy for the advancement and empowerment of women by timely interventions at all levels across all sectors and developing a framework to facilitate and ensure empowerment of women;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "d",
-            "text": "to protect women from all forms of discrimination based on gender and sexual orientation;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "e",
-            "text": "to take steps to prevent discrimination, marginalization, sexual harassment and violence against women and to strengthen the measures for the prosecution and punishment of acts or omissions relating thereto;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "f",
-            "text": "to make recommendations for law reforms as a matter of priority, in order to provide for the prevention of discrimination against women, and empowerment of women;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "g",
-            "text": "to promote the realization of, and ensure equality and justice for women and take measures to ensure as far as possible, womens participation in all measures and mechanisms connected with administration of justice and the equal",
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Women Empowerment Act, No. 37 of 2024.",
             "pre_block_list": [
-              "representation of women in decision making structures and positions at every level within the Government;"
+              "Short title"
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL3Paragraph",
-            "num": "h",
-            "text": "to ensure economic empowerment having special regards to women with disabilities;",
-            "pre_block_list": [],
-            "child_level_list": []
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "The   objects of this Act shall be -",
+            "pre_block_list": [
+              "Objects of the Act"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to make provisions for the advancement and empowerment of women by introducing mechanisms to secure womens rights subject to the provisions of the Constitution;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to introduce mechanisms to give effect to the obligations undertaken by the Government of Sri Lanka in relation to women in terms of the Convention on the Elimination of All forms of Discrimination Against Women, and in terms of applicable laws;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to formulate and implement the national policy for the advancement and empowerment of women by timely interventions at all levels across all sectors and developing a framework to facilitate and ensure empowerment of women;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to protect women from all forms of discrimination based on gender and sexual orientation;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "to take steps to prevent discrimination, marginalization, sexual harassment and violence against women and to strengthen the measures for the prosecution and punishment of acts or omissions relating thereto;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "to make recommendations for law reforms as a matter of priority, in order to provide for the prevention of discrimination against women, and empowerment of women;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "g",
+                "text": "to promote the realization of, and ensure equality and justice for women and take measures to ensure as far as possible, womens participation in all measures and mechanisms connected with administration of justice and the equal",
+                "pre_block_list": [
+                  "representation of women in decision making structures and positions at every level within the Government;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "h",
+                "text": "to ensure economic empowerment having special regards to women with disabilities;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "i",
+                "text": "to conduct public education programmes relating to all aspects of empowerment of women; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "j",
+                "text": "to promote and revision of laws and procedures for the purpose of ensuring equal salaries between men and women engaged in employment with equal value,",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           },
           {
-            "class_name": "ActL3Paragraph",
-            "num": "i",
-            "text": "to conduct public education programmes relating to all aspects of empowerment of women; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "j",
-            "text": "to promote and revision of laws and procedures for the purpose of ensuring equal salaries between men and women engaged in employment with equal value,",
-            "pre_block_list": [],
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Every woman shall be entitled to womens rights and no women shall be denied of such rights.",
+            "pre_block_list": [
+              "Protection and advancement of womens rights"
+            ],
             "child_level_list": []
           }
         ]
       },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Every woman shall be entitled to womens rights and no women shall be denied of such rights.",
-        "pre_block_list": [
-          "Protection and advancement of womens rights"
-        ],
-        "child_level_list": []
-      }
-    ],
-    "part_list": [
       {
         "class_name": "ActL0Part",
         "num": "I",

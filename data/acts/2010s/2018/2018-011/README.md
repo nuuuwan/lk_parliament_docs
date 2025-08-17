@@ -9,6 +9,7 @@ L. D.O. 42/2016.
 A N  A Ct   To   Amend   The  C Ode   Of  C Riminal  P Rocedure A Ct , N O . 15  Of  1979
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Code of Criminal Procedure (Amendment) Act, No. 11 of  2018.
         - Short title.
     2. The following new section is hereby inserted immediately after section 122 of the Code of Criminal Procedure Act, No. 15 of 1979 and shall have effect as section 122 A  of that Act

@@ -11,6 +11,7 @@ A N  A Ct   To   Provide   For   The   Imposition   Of   Surcharge   Tax   And
 For   Matters   Connected   Therewith   And   Incidental   Thereto
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Surcharge Tax Act, No. 14 of  2022.
         - Short title
     2. 

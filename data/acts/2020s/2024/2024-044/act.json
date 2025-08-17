@@ -25,88 +25,94 @@
       "Thereto .",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "This Act may be cited as the Public Financial Management Act, No. 44 of 2024.",
-            "pre_block_list": [
-              "Short title and date of operation"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "All the provisions of this Act other than the provisions specified in subsection (3), shall come into operation on the date on which the Bill becomes an Act of Parliament.",
+            "text": "",
             "pre_block_list": [],
-            "child_level_list": []
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "This Act may be cited as the Public Financial Management Act, No. 44 of 2024.",
+                "pre_block_list": [
+                  "Short title and date of operation"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "All the provisions of this Act other than the provisions specified in subsection (3), shall come into operation on the date on which the Bill becomes an Act of Parliament.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Minister of Finance shall for the implementation of the provisions specified in paragraphs ( a ) and ( b ) of this subsection, appoint such date or dates by Order published in the  Gazette  -",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the date or dates from which the provisions of paragraph ( f ) of subsection (5) of section 11, subsection (1) of section 17, paragraph ( b ) of subsection (2) of section 18, section 36 and paragraph ( a ) of subsection (1) of section 47 shall come into operation:",
+                    "pre_block_list": [
+                      "Provided that, the provisions of paragraph ( f ) of subsection (5) of section 11 shall come into operation on a date not later than thirtieth day of June 2025; and"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the date from which the provisions of subsection (2) of section 34 shall apply in respect of the entities specified in subparagraph (ii) of paragraph ( a ) of subsection (2) of section 3.",
+                    "pre_block_list": [
+                      "Objects of the Act"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "The Minister of Finance shall for the implementation of the provisions specified in paragraphs ( a ) and ( b ) of this subsection, appoint such date or dates by Order published in the  Gazette  -",
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "The objects of this Act shall be",
             "pre_block_list": [],
             "child_level_list": [
               {
                 "class_name": "ActL3Paragraph",
                 "num": "a",
-                "text": "the date or dates from which the provisions of paragraph ( f ) of subsection (5) of section 11, subsection (1) of section 17, paragraph ( b ) of subsection (2) of section 18, section 36 and paragraph ( a ) of subsection (1) of section 47 shall come into operation:",
-                "pre_block_list": [
-                  "Provided that, the provisions of paragraph ( f ) of subsection (5) of section 11 shall come into operation on a date not later than thirtieth day of June 2025; and"
-                ],
+                "text": "to set out standards, requirements, rules, and procedures for transparency, accountability, discipline, effectiveness, efficiency, and economy in the management of the public finance including the revenues, expenditures, commitments, financing arrangements, equity, assets and liabilities;",
+                "pre_block_list": [],
                 "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
                 "num": "b",
-                "text": "the date from which the provisions of subsection (2) of section 34 shall apply in respect of the entities specified in subparagraph (ii) of paragraph ( a ) of subsection (2) of section 3.",
-                "pre_block_list": [
-                  "Objects of the Act"
-                ],
+                "text": "to specify the requirements and procedures to be adhered to, in the management of public finance including the implementation of fiscal responsibility objectives and rules, planning, formulation, adoption and implementation of annual budget along with the processes of monitoring, evaluation, internal controls, accounting, and reporting; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to specify performance and accountability requirements.",
+                "pre_block_list": [],
                 "child_level_list": []
               }
             ]
           }
         ]
       },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The objects of this Act shall be",
-        "pre_block_list": [],
-        "child_level_list": [
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "to set out standards, requirements, rules, and procedures for transparency, accountability, discipline, effectiveness, efficiency, and economy in the management of the public finance including the revenues, expenditures, commitments, financing arrangements, equity, assets and liabilities;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "to specify the requirements and procedures to be adhered to, in the management of public finance including the implementation of fiscal responsibility objectives and rules, planning, formulation, adoption and implementation of annual budget along with the processes of monitoring, evaluation, internal controls, accounting, and reporting; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "to specify performance and accountability requirements.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      }
-    ],
-    "part_list": [
       {
         "class_name": "ActL0Part",
         "num": "I",

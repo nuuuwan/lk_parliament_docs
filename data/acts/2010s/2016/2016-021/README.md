@@ -9,6 +9,7 @@ L.D.O. 15/2016.
 A N  A Ct   To   Amend   The  P Orts   And  A Irports  D Evelopment   L Evy A Ct , N O . 18  Of  2011
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Ports and Airports Development  Levy (Amendment) Act, No. 21  of 2016 and shall be deemed to have come into operation on January 1, 2016.
         - Short title and the date of operation.
     2. Section 3 of the Ports and Airports Development Levy Act, No. 18 of 2011 (hereinafter referred to as the principal enactment) is hereby amended by the repeal of subsection (1) thereof and substitution therefor of the following subsection:

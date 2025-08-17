@@ -1,0 +1,729 @@
+{
+  "n_pages": 15,
+  "title_page": {
+    "title": "Securities  Exchange  Of  Sri Lanka (Amendment) Act",
+    "num": "18",
+    "year": "2003",
+    "date_certified": "2003-04-29",
+    "date_published": "2003-05-02",
+    "price": 29.75,
+    "price_postage": 9.0
+  },
+  "body_pages": {
+    "preamble": [
+      "Securities And Exchange Commission Of Sri Lanka (Amendment), Act, No. 18 Of 2003 1",
+      "[Certified On 29Th April, 2003]",
+      "L. D.  O. 3/2002.",
+      "A N  A Ct   To   Amend   The  S Ecurities   And  E Xchange  C Ommission",
+      "Of  S Ri  L Anka  A Ct , N O . 36  Of  1987",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :",
+      "Short Title."
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Securities and Exchange Commission of Sri Lanka (Amendment) Act, No. 18 of 2003.",
+            "pre_block_list": [
+              "Amendment of the long title to Act, No. 36 of 1987."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "The long title to the Securities and Exchange Commission of Sri Lanka Act, No. 36 of 1987 (hereinafter referred to as the principal enactment) as amended by Act, No. 26 of 1991, is hereby further amended by the substitution for the words TO GRANT LICENCES TO STOCK EXCHANGES, UNIT TRUST, STOCK BROKERS AND STOCK DEALERS WHO ENGAGE IN THE BUSINESS OF TRADING IN SECURITIES;, of the words TO GRANT LICENCES TO STOCK EXCHANGES, MANAGING COMPANIES IN RESPECT OF EACH UNIT TRUST, STOCK BROKERS AND STOCK DEALERS WHO ENGAGE IN THE BUSINESS OF TRADING IN SECURITIES; TO REGISTER MARKET INTERMEDIARIES;.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 12 of the principal enactment as amended by Act, No. 26 of 1991 is hereby further amended in paragraph ( c ) thereof by the substitution for the words from the failure of a licensed stock broker or licensed stock dealer to meet of the words as a result of any licensed stock broker or licensed stock dealer being found incapable of meeting.",
+            "pre_block_list": [
+              "Amendment of section 12 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 13 of the principal enactment as amended by Act, No. 26 of 1991 is hereby further amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 13 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the insertion, immediately after paragraph ( bb ) of that section, of the following new paragraph :",
+                "pre_block_list": [
+                  "( bbb ) to grant a certificate of registration to any person to carry on business as a market intermediary and to ensure the proper conduct of such business ;;",
+                  "2H  017163  5,650 (2002/11)",
+                  "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 2"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the repeal of paragraph ( c ) of that section and the substitution therefor of the following paragraph :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "to give general or specific directions to a licensed stock exchange or a licensed stock broker or a licensed stock dealer or a licensed managing company or a trustee of a unit trust or a registered market intermediary, from time to time;;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "by the substitution in paragraph ( d ) of that section for the words resulting from the failure of a licensed stock broker or a licensed stock dealer to meet of the words, arising as a result of any licensed stock broker or licensed stock dealer being found incapable of meeting;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "by the insertion immediately after paragraph ( f ) of that section, of the following new paragraphs :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "g",
+                    "text": "to regulate the listing and issue of securities in a licensed stock exchange;",
+                    "pre_block_list": [
+                      "( gg ) to direct a licensed stock exchange to reject any application made to it for listing;;"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "by the substitution in paragraph ( h ) of that section, for the words any given listed securities, of the words any listed securities;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "by the repeal of paragraph ( i ) of that section, and the substitution therefor of the following paragraph :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "to inquire and conduct investigations into any activity of a licensed stock exchange, a licensed stock broker or licensed stock dealer, a licensed managing company or a trustee of a unit trust, a registered market intermediary or any listed public company;;",
+                    "pre_block_list": [
+                      "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 3"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "7",
+                "text": "by the repeal of paragraph ( j ) of that section and the substitution therefor of the following paragraph :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "j",
+                    "text": "to publish findings of malfeasance by any licensed stock broker or licensed stock dealer or a licensed managing company or a trustee of a unit trust, or a registered market intermediary or any listed public company;;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "8",
+                "text": "by the repeal of paragraph ( n ) of that section and the substitution therefor of the following paragrahps :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "n",
+                    "text": "to regulate take-overs or mergers where such take-over or merger is between one or more listed companies or where at least one of the parties involved in such take-over or merger is a listed public company ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "o",
+                    "text": "to conduct investigations into any alleged violation or contravention of the provisions of this Act or any rule or regulation made thereunder by any person ; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "p",
+                    "text": "to do all such other acts as may be incidental or conducive to, the attainment of the objects of the Commission or the exercise of its powers under this Act",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Section 14 of the principal enactment as amended by Act, No. 26 of 1991, is hereby further amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 14 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of paragraph ( a ) of that section and the substitution therefor of the following paragraph :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "carry out inspections of the activities of licensed stock exchanges, licensed stock brokers, licensed stock dealers, licensed managing companies or trustees of unit trusts or registered market intermediaries, in order to determine whether they are operating in conformity with the provisions of this Act",
+                    "pre_block_list": [
+                      "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 4",
+                      "or any regulations or rules made thereunder and to charge the costs incurred in carrying out such inspections from the licensed stock exchange, licensed stock broker, licensed stock dealer, licensed managing company or trustee of a unit trust or registered market intermediary as the case may be, whose activities are being inspected ;  ;"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the substitution in paragraph ( b ) of that section for the words  licensed stock exchanges, stock brokers, stock dealers and the managing companies of licensed unit trust, of the words licensed stock exchanges, licensed stock brokers, licensed  stock dealers, licensed managing companies of unit trusts and registered market intermediaries  ; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "by the substitution in paragraph ( c ), of that section for the words the managing company of a licensed unit trust and the prescribed particulars., respectively, of the words the licensed managing company of a unit trust  and such particulars as may from time  to  time be determined by the Commission",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "The following new sections are hereby inserted immediately after section 14 and shall have effect as sections 14 A  and 14 B  of the principal enactment :",
+            "pre_block_list": [
+              "Insertion of new sections 14 A  and 14 B  in the principal enactment. Levy of cess.",
+              "14 A .  (1) There shall be charged, levied and paid a cess at such rates as may be specified by the Minister by Order published in the Gazette on every purchase and sale of securities recorded in a licensed stock exchange or notified to it under its rules by both the  purchaser and the seller. Different rates may be specified in respect of different classes of securities."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The cess imposed under this section shall be in addition to any other tax or cess levied under any other written law.",
+                "pre_block_list": [
+                  "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 5",
+                  "14 B . (1) There shall be established a fund called the Cess Fund to which shall be credited the proceeds of the cess imposed under section 14 A .",
+                  "Cess Fund.",
+                  "(2) There shall be paid out of the Cess Fund such sums as may be authorised by the Commission for the purpose of "
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "developing the securities market ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "enhancing  monies lying to the credit of the Compensation Fund established under section 38 ; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "exercising, performing and discharging the powers, duties and functions of the Commission for the purpose of achieving its objects.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The money lying to the credit of the Cess Fund may be invested by the Commission in such manner as may be determined by the Commission. .",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "The heading appearing in Part III immediately before section 15 of the principal enactment is hereby repealed and the following heading substituted therefor :",
+            "pre_block_list": [
+              "Replacement of heading in Part III of the principal enactment.",
+              "G RANT   OF  L ICENCE   TO   A  S TOCK  E XCHANGE ,  A  S TOCK  B ROKER",
+              "OR   A  S TOCK  D EALER   AND   THE  R EGISTRATION   OF  M ARKET I NTERMEDIARIES "
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "Section 15 of the principal enactment is hereby amended by the repeal of all the words from shall  make an application , to the end of that section, and the substitution of the following therefor :",
+            "pre_block_list": [
+              "Amendment of section 15 of the principal enactment.",
+              "shall make an application to the Commission for the grant of a licence as a  stock exchange, stock broker or a stock dealer, as the case may be, in such form, together with such documents and such fee as may be specified by the Commission from time to time in that behalf. .",
+              "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 6"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "The following new section is hereby inserted immediately after section 19 and shall have effect as section 19 A  of the principal enactment :",
+            "pre_block_list": [
+              "Insertion of new section 19 A  in the principal enactment.",
+              "19 A . (1) Any person who is carrying on or who intends to carry on business as a market intermediary shall register with  the Commission for such purpose.",
+              "Registration of market intermediaries."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "An application for the purpose of registration under subsection (1) shall be made to the  Commission in such form, together  with such documents and such fee as may be prescribed by the Commission from time to time in that behalf.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "On receipt of an application for registration, the  Commission having considered the particulars stated therein and where it appears necessary having given the applicant an opportunity of being heard, shall by written notice inform the applicant whether  he is being registered as a market intermediary or not, and where he is registered as a market intermediary, issue him with a  certificate of registration valid for a period of one year effective from the date of issue of such certificate. Every person issued with a certificate of registration is  referred to in this Act as a registered market intermediary",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "No person shall be registered as a market intermediary unless he complies with the terms and conditions set out in Part V of the Schedule hereto. .",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "Section 20 of the principal enactment as amended by Act No. 26 of 1991 is hereby further amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 20 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (1) of that section by the substitution for the words within six months prior to the expiry, of the words six months prior to the expiry ;",
+                "pre_block_list": [
+                  "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 7"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the repeal of subsection (2) of that section and the substitution therefor of the following subsection :",
+                "pre_block_list": [
+                  "(2) A licensed stock broker, a licensed  stock dealer or a  registered market intermediary may  three months prior to the expiry of the licence or the registration as the case may be, make an application to the Commission in the prescribed form, together with the prescribed fee for a  renewal of his licence or the registration as the case may be. ; and"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "in subsection (3) of that section, by the repeal of all the words from   a renewal of a licence, to as the case may be,  and the substition of the  following therefor :",
+                "pre_block_list": [
+                  "a renewal of a licence or registration, the Commission shall satisfy itself that the licensed stock exchange, the licensed stock broker, the licensed stock dealer  or the registered market intermediary, as the case may be,."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "11",
+            "text": "Section 21 of the the principal enactment as amended by Act No. 26 of 1991 is hereby further amended in subsections (4) and (5) of that section by the substitution for the words licensed stock broker or stock dealer , wherever those words occur in those subsections, of the words licensed stock broker or licensed stock dealer .",
+            "pre_block_list": [
+              "Amendment of section 21 of  the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "12",
+            "text": "The following new section is hereby inserted immediately after section 21 and shall have effect as section 21 A  of the principal enactment :",
+            "pre_block_list": [
+              "Insertion of new section 21 A  in the principal enactment.",
+              "21 A . (1) The Commission shall have the power to suspend or cancel the certificate of registration granted to a market intermediary under section 19 A  of this Act.",
+              "Suspension and cancellation of registration.",
+              "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 8"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The provisions of section 21 of this Act shall,  mutatis mutandis,  apply to, and in relation to, any suspension or cancellation as the case may be, of a certificate of registration under subsection (1).  .",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "13",
+            "text": "Section 22 of the principal enactment as amended by Act No. 26 of 1991 is hereby repealed and the following section is substituted therefor :",
+            "pre_block_list": [
+              "Replacement of section 22 of the principal enactment.",
+              "22. (1) Any person aggrieved by the decision of the Commission ",
+              "Appeal to the Court of Appeal",
+              "( a ) suspending or cancelling a licence under section 18 A  ;",
+              "( b ) refusing to grant a  licence under section 19 or a registration under section 19 A  ;",
+              "( c ) refusing to grant a renewal of a licence or registration as the case may be under section 20; or",
+              "( d ) cancelling or suspending a licence or a registration as the case may be, under sections 21 or 21 A  ;",
+              "may appeal against such decision to the Court of Appeal, within fourteen days from the date on which the decision was communicated to such person."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Until rules are made under Article 136 of the Constitution pertaining to appeals under this section, the rules made under that Article pertaining to applications by  way of revision to the Court of Appeal shall apply to every appeal made under subsection (1) of this section.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Court of Appeal may, on an appeal made to it under subsection (1), reverse, modify or set-aside the decision made by the Commission or make such  order as the interests of justice may require",
+                "pre_block_list": [
+                  "",
+                  "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 9"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "14",
+            "text": "Section 25 of the principal enactment as amended by Act No 26 of 1991 is hereby further amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 25 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of subsection (1) of that section and the substitution therefor of the following subsection :",
+                "pre_block_list": [
+                  "(1) Where a licensed stock exchange, a licensed stock broker or a licensed stock dealer, as the case may be, proposes to alter any material particulars already furnished or undergoes or intends to undergo a change from the state specified in the application for a licence or  the renewal of a licence, as the case may be, as a stock exchange, stock broker or stock dealer, it  shall be the duty of such licensed stock exchange, licensed stock broker or licensed stock dealer, as the case may be, to inform the Commission and obtain its prior consent before such alteration or change is effected. ; and"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the insertion immediately after subsection (1) of that section of the following new  subsection :",
+                "pre_block_list": [
+                  "(1A) Where a registered market intermediary proposes to alter any particulars already furnished or undergoes or intends to undergo a change from the state specified in the application for registration or renewal of a registration as a market intermediary, it shall be the duty of such registered market intermediary to forthwith inform the Commission of such alteration or change. ."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "15",
+            "text": "Section 28 of the principal enactment as amended by Act No. 26 of 1991 is hereby further amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 28 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (1) of that section",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "by the substitution for the wordssharesor share wherever those words appear in that subsection, of the words securities or security respectively ;",
+                    "pre_block_list": [
+                      "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 10"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "by the repeal of paragraph ( b ) of that subsection ; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (2) of that section, by the substitution for the words stock broker or stock dealer shall , of the words licensed stock broker, licensed stock dealer, the licensed managing company of a unit trust or a registered market intermediary shall.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "16",
+            "text": "The following new section is hereby inserted immediately after section 28 and shall have effect as section 28 A  of the principal enactment :",
+            "pre_block_list": [
+              "Insertion of new section 28 A  in the principal enactment.",
+              "28 A . Where shares in any public company are allotted to any person prior to its listing in a licensed stock exchange, no shares or any security convertible to shares in any such company shall be listed on a licensed stock exchange within a period of one year from the date of the last allotment, unless the written approval of the Commission is obtained for that purpose prior to such listing. .",
+              "Prohibition against the listing of shares in certain cases."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "17",
+            "text": "The following new section is hereby inserted immediately after section 29 and shall have effect as section 29 A  of the principal enactment :",
+            "pre_block_list": [
+              "Insertion of new section 29 A  in the principal enactment.",
+              "29 A . (1) No listed public company or any public company  which has applied to obtain a listing in a licensed stock exchange, shall make any issue of securities unless the issue has been approved by the Commission or any person authorized in that behalf by the Commission.",
+              "Issue of securities.",
+              "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 11"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "For the purposes of this section, issue of securities  means",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "in relation to a public company which has applied to  obtain a listing, an introduction, an offer for subscription, an offer for sale or any placement of securities on a licensed stock  exchange ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "in relation to a listed public company",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "new issues or offer for sale of securities to the public, whether such issues or offers for sale are by way of public issues or otherwise or any placements of securities ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "rights issues of securities ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "bonus issues of securities;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iv",
+                        "text": "schemes of arrangements, schemes of reconstruction, take over schemes, share option schemes and acquisition of assets by way of issues of securities",
+                        "pre_block_list": [
+                          ""
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "18",
+            "text": "Section 31 of the principal enactment is hereby repealed.",
+            "pre_block_list": [
+              "Repeal of section 31 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "19",
+            "text": "The heading appearing in Part IIIA immediately before section 31 A  of the principal enactment is hereby repealed and the following heading substituted therefor :",
+            "pre_block_list": [
+              "Replacement of heading in Part IIIA of the principal enactment.",
+              "G RANT   OF   A   LICENCE   TO   OPERATE   A  U NIT  T RUST "
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "20",
+            "text": "Section 31 A  of the principal enactment is hereby amended by the renumbering of that section as section 31 of that enactment.",
+            "pre_block_list": [
+              "Renumbering of section 31 A  of the principal enactment.",
+              "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 12"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "21",
+            "text": "Section 31 B  of the principal enactment is hereby repealed and the following section substituted therefor :",
+            "pre_block_list": [
+              "Replacement of section 31 B  of the principal enactment.",
+              "31 A . (1) No licence shall be granted under this Part for the operation of a unit trust, unless",
+              "Requirements to be complied with for the purpose of granting a licence to operate a unit trust.",
+              "( a ) the trustee has been approved by the Commission ; and",
+              "( b ) the managing company complies with the terms and conditions set out in Part IV of the Schedule hereto."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Notwithstanding the provisions of paragraph ( a ) of subsection (1), where the trustee approved by the Commission is replaced by the appointment of a new trustee after the issue of a licence, such licence shall be deemed to be valid and continue in force until the new trustee is approved by the Commission",
+                "pre_block_list": [
+                  "",
+                  "Insertion of new section 31 B  in the principal enactment."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "22",
+            "text": "The following new section is hereby inserted immediately after section 31 A  and shall have effect as section 31 B  of the principal enactment :",
+            "pre_block_list": [
+              "31 B . (1) The Commission shall withdraw the approval of a trustee of a unit trust where the  Commission is satisfied that the trustee of that unit trust",
+              " Withdrawal of approval of a trustee.",
+              "( a ) has acted in breach of any provision of this Act or any rules or regulations made thereunder ;",
+              "( b ) has ceased to be of good financial standing ; or",
+              "( c ) is guilty of malpractice or irregularity in the management of its affairs.",
+              "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 13"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Upon  withdrawal of any approval under subsection (1), the trustee shall be deemed to have retired but such retirement shall not take effect until a new trustee duly approved by the Commission has been appointed. .",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "23",
+            "text": "Section 31 C  of the principal enactment is hereby amended by the substitution for the words under section 31 A the Commission,, of the words under section 31, the Commission,.",
+            "pre_block_list": [
+              "Amendment of section 31 C  of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "24",
+            "text": "Section 31 D  of the principal enactment is hereby amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 31 D  of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of subsections (1), (2), (3) and (4) of that section, and the substitution therefor of the following subsections :",
+                "pre_block_list": [
+                  "(1) The Commission shall cancel or suspend the licence granted to a managing company in respect of a particular unit trust, where the Commission is satisfied that "
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the managing company of such unit trust has acted  in breach of any provision of this Act or any rules or regulations made thereunder ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the managing company of such unit trust has ceased to be of good financial standing ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "the managing company of such unit trust is guilty of malpractice or irregularity in the management of its affairs ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "the managing company of such unit trust has been dismissed by the trustee of a unit trust ; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "the approval granted to the trustee of such unit trust has been withdrawn by the Commission under section 31 B  and a new trustee has not been approved by the Commission.",
+                    "pre_block_list": [
+                      "Securities and Exchange Commission of Sri Lanka (Amendment), Act, No. 18 of 2003 14",
+                      "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , N O . 32, T RANSWORKS   H OUSE ,  L OTUS   R OAD ,  C OLOMBO  01  before  15th  December  each  year  in   respect  of the year following."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -19,6 +19,7 @@ Whereas The Constitution Of The Democratic Socialist Republic Of Sri Lanka Recog
 And Whereas The Establishment Of The National Womens Commission Operating At National Level, Will Serve As The Effective Mechanism For Ensuring The Empowerment Of Women:
 Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Women Empowerment Act, No. 37 of 2024.
         - Short title
     2. The   objects of this Act shall be -
@@ -36,7 +37,6 @@ Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republ
             j. to promote and revision of laws and procedures for the purpose of ensuring equal salaries between men and women engaged in employment with equal value,
     3. Every woman shall be entitled to womens rights and no women shall be denied of such rights.
         - Protection and advancement of womens rights
-
 I. 
     - E STABLISHMENT   OF   THE  N ATIONAL  C OMMISSION   ON  W OMEN
     4. 

@@ -6,8 +6,8 @@ Date Certified: **2017-10-24**, Date Published: **2017-10-27**, Price: **250.0**
 
 A Rrangement   Of  S Ections
 
+0. 
     1. Short title and the effective date of the Act. 1
-
 I. 
     - CHAPTER I I MPOSITION   OF  I NCOME  T AX
     2. Charging provision. 1

@@ -9,6 +9,7 @@ L.D.O. 3/2016
 A N  A Ct   To   Amend   The  P Radeshiya  S Abhas  A Ct , N O . 15  Of  1987
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Pradeshiya Sabhas (Amendment) Act, No. 30 of 2018.
         - Short title.
     2. Section 19 of the Pradeshiya Sabhas Act, No. 15 of 1987 (hereinafter in this Act referred to as the principal enactment) is hereby amended in subsection (1) of that section as follows:

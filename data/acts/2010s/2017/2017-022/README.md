@@ -9,6 +9,7 @@ L.D.O. 51/2017
 A N  A Ct   To   Amend   The  P Radeshiya  S Abhas  A Ct , N O . 15  Of  1987
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Pradeshiya Sabhas (Amendment) Act, No. 22 of 2017.
         - Short title.
     2. Section 4 of the Pradeshiya Sabhas Act, No. 15 of 1987 is hereby repealed and the following section substituted therefor:

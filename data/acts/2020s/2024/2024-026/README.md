@@ -9,6 +9,7 @@ L.D.-O. 17/2024
 A N  A Ct   To   Amend   The  R Ecovery   Of  L Oans   By  B Anks (S Pecial  P Rovisions ) A Ct , N O . 4  Of  1990
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Recovery of Loans by Banks (Special Provisions) (Amendment) Act, No. 26 of 2024.
         - Short title
     2. The following new section is hereby inserted immediately after section 4 of the Recovery of Loans by Banks (Special Provisions) Act, No. 4 of 1990 and shall have effect as section 4 A  of that Act:-

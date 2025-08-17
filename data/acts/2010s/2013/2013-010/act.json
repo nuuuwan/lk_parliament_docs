@@ -16,52 +16,59 @@
       "A N   A Ct   To   Amend   The  R Esettlement  A Uthority A Ct , N O . 9  Of  2007",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Resettlement Authority (Amendment) Act, No. 10 of 2013.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 32 of the Resettlement Authority Act, No. 09 of 2007 is hereby amended as follows:",
-        "pre_block_list": [
-          "Amendment of section 32 of Act, No. 9 of 2007."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "by the substitution, for the words six years, of the words nine years; and",
-            "pre_block_list": [],
+            "text": "This Act may be cited as the Resettlement Authority (Amendment) Act, No. 10 of 2013.",
+            "pre_block_list": [
+              "Short title."
+            ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "by the substitution, in the marginal note to that section, for the words six years, of the words nine years.",
-            "pre_block_list": [],
+            "text": "Section 32 of the Resettlement Authority Act, No. 09 of 2007 is hereby amended as follows:",
+            "pre_block_list": [
+              "Amendment of section 32 of Act, No. 9 of 2007."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the substitution, for the words six years, of the words nine years; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the substitution, in the marginal note to that section, for the words six years, of the words nine years.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "In the event of any inconsistency between the Sinhala and the Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "2PL0070604090 (03/2013)",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
+            ],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "In the event of any inconsistency between the Sinhala and the Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency.",
-          "2PL0070604090 (03/2013)",
-          "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

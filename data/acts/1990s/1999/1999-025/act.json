@@ -1,0 +1,99 @@
+{
+  "n_pages": 4,
+  "title_page": {
+    "title": "Stamp Duty (Amendment) Act",
+    "num": "25",
+    "year": "1999",
+    "date_certified": "1999-08-30",
+    "date_published": "2025-09-03",
+    "price": 3.5,
+    "price_postage": 3.5
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 30Th August, 1999]",
+      "L.D.O. 66/98.",
+      "A N  A Ct   To   Amend   The  S Tamp  D Uty  A Ct , N O . 43  Of  1982",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Stamp Duty (Amendment) Act, No. 25 of 1999.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 5 of the Stamp Duty Act, No. 43 of 1982 (hereinafter referred to as the Principal enactment) as last amended by Act, No. 38 of 1996, is hereby further amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 5 of Act, No. 43 of 1982."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of paragraph (24) of that section, and the substitution thererfor of the following paragraph :",
+                "pre_block_list": [
+                  "(24) debt security or any  instrument executed for the sale or transfer of a debt security; and"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition at the end of that section, of the following new paragraph :",
+                "pre_block_list": [
+                  "(27) repurchase agreement, relating to Treasury  Bills or Government Securities entered into with any primary dealer",
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 71 of the principal enactment is amended by Act, No. 6 of 1996 is hereby further amended by the insertion immediately after the definition of the expression, power of attorney, of the following definition :",
+            "pre_block_list": [
+              "Amendment of section 71 of the principal enactment.",
+              "  primary dealer means any commercial bank. company or other person appointed by the Monetary Board of the Central Bank of Sri Lanka under the local Treasury Bills Ordinance as a primary dealer for the purpose of dealing in treasury bills or, registered stock and securities;.",
+              "H-022545",
+              "Stamp Duty (Amendment) Act, No. 25 of 1999 2"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "The amendments to section 5 and section 71 of the principal enactment made by section 2 and section 3 respectively of this Act, shall be deemed, for all purposes, to have come into force on November 6, 1998.",
+            "pre_block_list": [
+              "Retrospective effect."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "Annual subscription of English Bills and Acts of the Parliament Rs.885 (Local). Rs.1,180 (Foreign). Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , N O . 32, T RANSWORKS  H OUSE , L OTUS  R OAD , C OLOMBO  01 before 15 th December each year in respect of the year following."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

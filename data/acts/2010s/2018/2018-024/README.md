@@ -10,6 +10,7 @@ L.D.O. 67/2016
 A N  A Ct   To   Amend   The  M Utual  A Ssistance   In  C Riminal M Atters  A Ct , N O . 25  Of  2002
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Mutual Assistance in Criminal Matters (Amendment) Act, No. 24 of 2018.
         - Short title.
     2. Section 2 of the Mutual Assistance in Criminal Matters Act, No. 25 of 2002 (hereinafter referred to as the principal enactment) is hereby repealed and the following section substituted therefor:-
@@ -177,7 +178,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     15. The following new Part (sections 14 A  and 14 B ) is hereby inserted immediately after section 14 of the principal enactment and shall have effect as PART VA of that enactment:
         - Insertion of new Part VA in the principal enactment.
         - Mutual Assistance in Criminal Matters (Amendment) Act, No. 24 of 2018 15
-
 V. 
     - A SSISTANCE   IN  R ELATION   TO  F INDINGS   OF  B RIBERY   OF  F OREIGN P UBLIC  O FFICIAL   OR  O FFICIAL   OF   A  P UBLIC  I NTERNATIONAL O RGANIZATION
     - 14 A . Where an appropriate authority of a specified country or specified organization makes a request, having reasonable grounds to believe that a foreign public official or an official of a public international organization has been involved in bribery, the provisions of this Act shall apply in order to identify or locate the said official or to assess the value and locate the proceeds of bribery relating to the said foreign official, his proxies and beneficiaries.

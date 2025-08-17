@@ -10,6 +10,7 @@ L.D.-O. 19/2017
 A N  A Ct   To   Amend   The  I Ndustrial  D Isputes  A Ct (C Hapter  131)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Industrial Disputes (Amendment) Act, No. 24 of 2022.
         - Short title
     2. Section 46 of the  Industrial Disputes Act (Chapter 131) (hereinafter referred to as the principal enactment) is hereby amended by the repeal of subsections (1), (2) and (3) thereof, and the substitution therefor of the following subsections:

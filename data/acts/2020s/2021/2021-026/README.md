@@ -10,6 +10,7 @@ L.D.  O. 57/2021
 A N  A Ct   To   Amend   The  A Ppropriation  A Ct , N O . 7  Of  2020
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Appropriation (Amendment) Act, No. 26 of 2021.
         - Short title
         - Amendment of section 2 of Act, No. 7 of 2020

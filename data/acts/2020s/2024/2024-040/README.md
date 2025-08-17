@@ -13,6 +13,7 @@ And Whereas The Said Foundation Has Heretofore Successfully Carried Out And Tran
 And Whereas The Said Foundation Has Now Applied To Be Incorporated And It Will Be For The Public Advantage To Grant The Said Application:
 Be It Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Shaili Educational Foundation (Incorporation) Act, No. 40 of 2024.
         - Short title
     2. 

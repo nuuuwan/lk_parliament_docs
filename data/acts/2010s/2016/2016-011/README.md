@@ -14,9 +14,9 @@ To   The  N Ational  D Evelopment  A Genda ,  And   To   Provide   For
 Matters   Connected    Therewith    Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the National Research Council of Sri Lanka Act, No. 11 of 2016, and shall come into operation on such date (hereinafter referred to as the appointed date)  as the Minister may appoint by Order published in the  Gazette .
         - Short title and date of operation.
-
 I. 
     - E STABLISHMENT   OF   THE  N ATIONAL  R ESEARCH  C OUNCIL   OF S RI  L ANKA
     - Establishment of the National Research Council of Sri Lanka.

@@ -9,6 +9,7 @@ L.D.O. 42/2013
 A N  A Ct   To   Amend   The  S Hrama  V Asana  F Und A Ct , N O . 12  Of  1998
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Shrama Vasana Fund (Amendment) Act, No. 15 of 2019.
         - Short title.
     2. Section 4 of the Shrama Vasana Fund Act, No. 12 of 1998 (hereinafter referred to as the principal enactment) is hereby amended

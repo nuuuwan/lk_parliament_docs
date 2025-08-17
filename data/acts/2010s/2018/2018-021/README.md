@@ -10,6 +10,7 @@ L.D.O. 11/2018
 A N   A Ct   To   Amend   The  L And  (R Estrictions   On  A Lienation ) A Ct , N O . 38  Of  2014
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Land (Restrictions on Alienation)  (Amendment) Act, No. 21 of  2018 and shall be deemed to have come into operation on April 1, 2018.
         - Short title and date of operation.
     2. Section 3 of the Land (Restrictions on Alienation) Act, No. 38 of 2014 (hereinafter referred to as the principal enactment) is hereby amended in subsection (1)

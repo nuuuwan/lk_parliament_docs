@@ -1,0 +1,501 @@
+{
+  "n_pages": 9,
+  "title_page": {
+    "title": "Unesco  Scholarship  Fund Act",
+    "num": "44",
+    "year": "1999",
+    "date_certified": "1999-12-03",
+    "date_published": "1999-12-03",
+    "price": 6.75,
+    "price_postage": 3.5
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 3Rd December, 1999] L.D. O. 8/95.",
+      "A N   A Ct    To    Provide   For   The   Establishment   Of   A  F Und   Called T He  Unesco S Cholarship  F Und   For   The   Advancement",
+      "Of   Education   Of   Disabled   And   Displaced   Children   By   The",
+      "Award   Of   Scholarships  ;  And   To   Provide   For   Matters",
+      "Connected   Thereawith   Or   Incidental   Thereto .",
+      "Whereas  It Is The Policy Of The Government Of Sir Lanka To Provide For The Advancement Of The Education Of Disabled And Displaced Children By The Award Of Scholarships And To Establish A Fund For Such Purpose :",
+      "Preamble.",
+      "Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sir Lanka As Follows :-"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the UNESCO Scholarship Fund Act, No.44 of 1999.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "There shall be established a Fund to be called the UNESCO Scholarship Fund (hereinafter referred to as the Fund)",
+                "pre_block_list": [
+                  "Establishment of UNESCO Scholarship Fund."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Fund shall by the name assigned to it by sub-Section (1) be a body corporate and shall have perpetual succession and a common seal and may sue and be sued in such name.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Government may donate from time to time grants to the Fund for the purpose of enabling it to carry out the objects of the Fund.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The administration, management and control of the Fund shall be vested in a Board of  Management constituted as hereinafter provided.",
+                "pre_block_list": [
+                  "Board of Management of the Fund."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Board of Management of the Fund (hereinafter referred to as the Board) shall consist of  (a)  the Secretary to the Ministry of the Minister in charge of the subject of Education, who shall be the Chairman of the Board (hereinafter referred to as the Chairman) ;",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the Secretary - General of the Sri Lanka National Commission for UNESCO ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "the Chief Accountant of the Ministry of the Minister in charged of the subject of Education ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "the Director of the Special Education Division of the Ministry of the Minister in charge of Education;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "the Commissioner of the Department of  Child Care and Probation ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "f",
+                    "text": "the Director of the Department of Social Services ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "g",
+                    "text": "a representative of the Ministry of the Minister in Charge of the subject of Cultural and Religious Affairs, nominated by that Minister ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "h",
+                    "text": "a  representative of the General Treasury,nominated by the Minister in charge of the subject of Finance;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "the Deputy Secretary-General of the Sri Lanka National Commission for UNESCO who shall function as Secretary to the Board;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "j",
+                    "text": "two other members appointed by the Chairman each of whom shall, subject to the provisions of subsections (3) and (4), hold office for such period as may be specified in the letter of appointment issued to him by the Chairman.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Chairman may revoke the appointment of any member appointed by him under paragraph  (j)  of subsection(2).",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Any member of the Board appointed under paragraph  (j)  of subsection (2), may at any time resign from the Board by a letter in that behalf addressed to the Chairman.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "In the absence of the Chairman from any meeting of the Board, any member elected from among the members present, shall preside at such meeting.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "The quorum for a meeting of the Board shall be four members.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "7",
+                "text": "Subject to the provisions of subsection (6), the Board may regulate the procedure with regard to its meetings and the transaction of business at such meetings.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "8",
+                "text": "No act or proceeding of the Board shall be deemed to be invalid by reason only of the existence of a vacancy among its members or any defect in the appointment of a member thereof.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "The Board shall, have the power -",
+            "pre_block_list": [
+              "Powers of the Board."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to receive grants, gifts or donations in cash or in kind, whether from local or foreign sources ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to take or hold any movable property which may become vested in it by this Act or by virtue of any purchase, grant, gift or otherwise and to sell, grant or otherwise dispose of, any movable property to which the Fund may become entitled ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to award scholarships for the furtherance of the objects of the Fund ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to enter into or perform, either directly or through officers and servants or agents authorised in writing in that behalf by the Board, all such contracts and agreements as may be necessary for the exercise, performance and discharge of the powers, duties and functions, and in carrying out the objects, of the Fund ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "subject to the provisions of this Act, to appoint, employ and remunerate such officers and servants as may be necessary for the administration of the  affairs  of the Fund, and to make rules regarding the appointment, promotion, remuneration and disciplinary control of such officers and servants and the grant of leave and other benefits to them ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "to invest monies belonging to the Fund and to recall. re-invest and vary such investments at the discretion of the Board ; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "g",
+                "text": "to make rules in relation to all matters connected with the administration of the Fund.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "With effect from the date of commencement of this Act, all monies lying to the credit of -",
+            "pre_block_list": [
+              "Transferring of monies to the Fund."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "Account No.6,000-0-0-6-65 (UNESCO Fund) at the General Treasury ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "savings of foreign or local grants,",
+                "pre_block_list": [
+                  "shall vest in the Fund."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "The Board shall maintain an account called The UNESCO Scholorship Fund Account at a licensed Commercial Bank within the meaning of the Banking Act, No.30 of 1988 and there shall be credited to such account -",
+            "pre_block_list": [
+              "The UNESCO Fund Account."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "all monies which are vested in the Fund by reason of the operation of section 5 ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "any grants, gifts or donations of money made to the Fund ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "any income from investments or other receipts due to the Fund ; or",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "any income from sale of books and other income from various fund raising activities carried out by the Fund ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "all other monies that may accrue to the Fund after the date of commencement of this Act.",
+                "pre_block_list": [
+                  "Chief Administrative Officer of the Fund"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "The Secretary General of the Sri Lanka National Commission for  UNESCO shall, subject to the direction of the Board, be the Chief Administrative Officer of the Fund.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "It shall be the duty of the Board to apply the monies belonging to the Fund mainly for the following objects :-",
+            "pre_block_list": [
+              "Purposes for which the monies of the Fund may be applied."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to award scholarship to disabled and displaced children ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to meet expenses in publishing books for sale.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Board shall cause proper books of accounts to be kept of the income and expenditure and all other transactions of the Fund.",
+                "pre_block_list": [
+                  "Audit and accounts."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The provisions of Article 154 of the Constitution shall apply to the audit of the accounts of the Fund.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Board shall, at the end of every year, prepare a report on the administration of the affairs of the Fund during. that year, and shall submit such report of the Minister. The Minister shall cause such report to be placed in Parliament, before the end of the year succeeding the year to which such report relates.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "The financial year of the Fund shall be the calendar year.",
+            "pre_block_list": [
+              "Financial year of the Fund.",
+              "Exemption of the Fund from certain duties and taxes."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "11",
+            "text": "The Minister in charge of the subject of Education may, with the concurrence of the Minister in charge of the subject of Finace, exempt the Fund from payment of any customs duty on any goods imported by the Fund. if the import of such goods in considered by him to be conducive of the advancement of the objects of the Fund.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "12",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "At the requset of the Board any officer in the public service may,. with the consent of that officer and the Secretary to the Ministry of the Minister in charge of the subject of Public Administration, be temporarily appointed to the staff of the Fund for such a period as may be determined by the Board or with like consent be permanantly appointed to such staff.",
+                "pre_block_list": [
+                  "Appointment of public servants to the staff of the Fund."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Where any officer in the public service is temporarily appointed to the staff of the Fund, the provisions of sub- section (2) of section 14 of the National Transport Commission Act, No.37 of 1991 shall,  mutatis mutandis , apply to,and in relation to, him.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Where any officer in the public service is permanently appointed to the staff of the Fund, the provisions of subsection (3) of section 14 of the National Transport Commission Act, 37 of 1991 shall  mutatis mutandis , apply to, and in relation to, him.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Where the Board employs any person who has entered into a contract with the Government by which he has agreed to serve the Government for a specified period , any period of service to the Fund by that person shall be regarded as service to the Government for the purpose of discharging the obligations of such contract",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "13",
+            "text": "The Board may make such rules as it may consider necessary in relation to any matter affecting or connected with, or incidental, to the exercise and performance of its powers, duties and functions.",
+            "pre_block_list": [
+              "Powers of Board to make rules."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "14",
+            "text": "All officers and servants of the Fund shall be deemed to be public servants within the meaning, and for the purposes, of the Penal Code.",
+            "pre_block_list": [
+              "Officers and servants of the Fund deemed to be public servants under the Penal Code."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "15",
+            "text": "The Fund shall be deemed to be a Scheduled Institution within the meaning of the Bribery Act and the provisions of that Act shall be construed accordingly.",
+            "pre_block_list": [
+              "Fund deemed to be a scheduled institution within the meaning of the Bribery Act."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "16",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "17",
+            "text": "In this Act, unless the context otherwise requires -",
+            "pre_block_list": [
+              "Interpretation.",
+              "Disabled child means a child of school going age who is physically or mentally handicapped ;",
+              "Displaced child means a child of school going age who is abandoned by his or her parents or, whose parents have no means to educate him or her, or whose parents are dead, or whose surviving parent has no means to educate him or her.",
+              "Annual subscription of English Bills and Acts of the Parliament Rs.885 (Local). Rs.1,180 (Foreign), Payable to the S UPERINTENDENT . G OVERNMENT  P UBLICATIONS  B UREAU , No. 32, T RANSWORKS  H OUSE , L OTUS  R OAD , C OLOMBO  01 before 15th December each year in respect of the year following."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

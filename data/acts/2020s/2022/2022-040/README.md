@@ -9,6 +9,7 @@ L.D.O. 47/2021
 A N  A Ct   To   Amend   The  D Angerous  A Nimals  O Rdinance (C Hapter  49 )
 Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Dangerous Animals (Amendment) Act, No. 40 of 2022.
         - Short title
     2. Section 7 of the Dangerous Animals Ordinance (Chapter 49) (hereinafter referred to as the principal enactment) is hereby amended in paragraph ( a ) of subsection (4) of that section by the substitution for the words one thousand rupees, of the words two hundred and fifty thousand rupees.

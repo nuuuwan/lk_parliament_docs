@@ -11,9 +11,9 @@ For   The   Imposition   Of   A  F Oreign  C Ommercial  T Ransactions L Evy ;  A
 And    Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Finance Act, No. 21 of 2019.
         - Short title.
-
 I. 
     - A MENDMENT   OF  P ART  VII  OF   THE  F INANCE  A CT , N O . 35  OF  2018
     2. Section 23 of the Finance Act, No. 35 of 2018 is hereby amended by the substitution for the definition of the expression specified motor vehicle of the following definition:

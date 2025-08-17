@@ -9,6 +9,7 @@ L.D.O. 50/2017
 A N  A Ct   To   Amend   The  U Rban  C Ouncils  O Rdinance (C Hapter  255)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the  Urban Councils (Amendment) Act, No. 21 of 2017.
         - Short title.
     2. Section 5 of the  Urban Councils Ordinance (Chapter 255)   is hereby repealed and the following section substituted therefor:

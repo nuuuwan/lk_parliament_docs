@@ -9,6 +9,7 @@ L. D.O. 35/2013.
 A N  A Ct   To   Amend   The  U Niversities A Ct , N O . 16  Of  1978
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Universities (Amendment) Act, No. 17 of 2016.
         - Short title.
     2. Section 75 of the Universities Act,  No. 16 of 1978 (hereinafter referred to as the principal enactment) is hereby repealed and the following new section is substituted therefor:

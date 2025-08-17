@@ -10,6 +10,7 @@ A N   Act   To   Amend   The  S Hop   And  O Ffice   E Mployees  (R Egulation
 Of  E Mployment   And  R Emuneration ) A Ct  (C Hapter  129)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No.  28  of 2024.
         - Short title
     2. Section 10 of the Shop and Office Employees (Regulation of Employment and Remuneration) Act (Chapter 129) (in this Act referred to as the principal enactment) is hereby amended as follows: -

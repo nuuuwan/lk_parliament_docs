@@ -19,18 +19,24 @@
       "Provide   For   Matters   Connected   Therewith   Or   Incidental   Thereto .",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
-      {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Social Security Contribution Levy Act, No. 25 of 2022 and shall come into operation on the First day of October 2022.",
-        "pre_block_list": [
-          "Short title and date of operation"
-        ],
-        "child_level_list": []
-      }
-    ],
     "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Social Security Contribution Levy Act, No. 25 of 2022 and shall come into operation on the First day of October 2022.",
+            "pre_block_list": [
+              "Short title and date of operation"
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

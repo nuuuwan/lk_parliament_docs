@@ -15,6 +15,7 @@ And Whereas   Sri Lanka Intends To Design, Develop And Implement A National Poli
 And Whereas   Sri Lanka Would Set Its Own National Targets Guided By The Global Level Of Ambition But Taking Into Account National Interest And Circumstances And Also Incorporate Such Seventeen Sustainable Development Goals In National Planning Processes, Policies And Strategies In The Relevant Ongoing Processes In The Economic, Social And Environmental Fields:
 Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Sri Lanka Sustainable Development Act, No. 19  of 2017.
         - Short title.
     2. The objects of this Act shall be to
@@ -26,7 +27,6 @@ Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republ
             b. ensure an ecologically efficient use of natural, social and economic resources;
             c. to promote the integration and maintain the equipoise of  environmental, economic and social factors in the making of all decisions by government; and
             d. formulate strategies in accordance with paragraphs ( a ), ( b ) and ( c ) of this section.
-
 I. 
     - E STABLISHMENT   OF  S USTAINABLE  D EVELOPMENT  C OUNCIL
     3. 

@@ -12,6 +12,7 @@ Preamble.
 And Whereas The Said Foundation Has Heretofore Successfully Carried Out And Transacted The Several Objects And Matters For Which It Was Formed And Has Applied To Be Incorporated And It Is Expedient To Grant Such Application:
 Be It Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :-
 
+0. 
     1. This Act may be cited as the Rehabilitation of Buddhist Temples Foundation (Incorporation) Act, No. 17 of 2014.
         - Short title.
     2. From and after the date of commencement of this Act, such and so many persons as now are members of The Rehabilitation of Buddhist Temples Foundation (hereinafter referred to as the foundation) or shall hereafter be admitted as members of the Corporation hereby constituted shall be a body corporate with perpetual succession under the name and style of The Rehabilitation of Buddhist Temples Foundation (hereinafter referred to as the Corporation) and by that name may sue and be sued with full power and authority to have, and use a common seal and alter the same at its pleasure.

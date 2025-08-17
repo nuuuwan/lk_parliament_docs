@@ -13,6 +13,7 @@ And Whereas The Sri Lanka Institute Of Taxation Wishes To Change Its Name And Th
 And Whereas The Sri Lanka Institute Of Taxation Has Applied That Amendments Be Made To The Aforesaid Act And It Will Be For The Public Advantage To Grant The Said Application:
 Be It Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Sri Lanka Institute of Taxation (Incorporation) (Amendment) Act, No. 13 of 2023.
         - Short title
     2. In every context in which the Sri Lanka Institute of Taxation is mentioned in the Sri Lanka Institute of Taxation (Incorporation) Act, No. 21 of 2000 (hereinafter referred to as the principal enactment) or in any rule, notice or other document made or issued thereunder, there shall, unless the context otherwise requires, be substituted for the words Sri Lanka Institute of Taxation  of the words Chartered Institute of Taxation of Sri Lanka.

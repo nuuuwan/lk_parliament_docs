@@ -12,6 +12,7 @@ Preamble
 And Whereas The Said Society Has Heretofore Successfully Carried Out And Transacted The Several Objects And Matters For Which It Was Established And Has Applied To Be Incorporated And It Will Be For The Public Advantage To Grant The Said Application:
 Be It  Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Sri Balabhivurdhi Wardana Society (Incorporation) Act, No. 12 of  2024.
         - Short title
     2. 

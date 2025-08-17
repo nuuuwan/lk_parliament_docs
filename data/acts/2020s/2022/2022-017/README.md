@@ -10,6 +10,7 @@ L.D.O. 58/2021
 A N  A Ct   To   Amend   The  C Ivil  P Rocedure  C Ode  (C Hapter  101)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Civil Procedure Code (Amendment) Act, No. 17 of 2022.
         - Short title
     2. The following new section is hereby inserted immediately after section 154 of the Civil Procedure Code (Chapter 101) and shall have effect as section 154 A  of that Code:

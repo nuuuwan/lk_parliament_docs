@@ -10,11 +10,11 @@ A N  A Ct   To   Provide   For   The   Establishment   Of   The  C Entral  B Ank
 Therewith   Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Central Bank of Sri Lanka Act, No. 16 of 2023 and shall come into operation on such date as the Minister may appoint by Order published in the  Gazette  (in this Act referred to as the appointed date).
             - Short title and date of operation
         2. The appointed date shall be a date not later than a period of six months from the date on which the Certificate is endorsed in respect of this Act in terms of Article 79 of the Constitution.
-
 I. 
     - E STABLISHMENT   OF   THE  C ENTRAL  B ANK
     2. 

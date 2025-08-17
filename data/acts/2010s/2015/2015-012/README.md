@@ -9,6 +9,7 @@ L.D.O. 14/2015
 A N  A Ct   To   Amend   The  N Ation  B Uilding  T Ax A Ct , N O . 9  Of  2009
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. 
         1. This Act may be cited as the Nation Building Tax (Amendment) Act, No. 12  of 2015, and shall be deemed to have come into operation from January 1, 2015, unless different dates of operation are specified hereunder.
             - Short title and date of operation.

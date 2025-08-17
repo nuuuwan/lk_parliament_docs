@@ -9,6 +9,7 @@ L.D.O. 70/2016
 A N  A Ct   To   Amend   The  V Alue  A Dded  T Ax  A Ct , N O . 14  Of  2002.
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Value Added Tax (Amendment) Act, No. 25 of 2018.
         - Short title.
     2. Section 5 of the Value Added Tax Act, No. 14 of 2002 (hereinafter referred to as the principal enactment) is hereby amended in subsection (15) thereof, by the substitution for the words dialysis and, services provided by the Out Patients Department but excluding medical consultation services; of the words dialysis, any healthcare services provided by the Out Patients Department health care of any medical institution or professionally qualified person providing such care and medical consultation services:.

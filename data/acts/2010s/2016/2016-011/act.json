@@ -21,18 +21,24 @@
       "Matters   Connected    Therewith    Or   Incidental   Thereto .",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
-      {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the National Research Council of Sri Lanka Act, No. 11 of 2016, and shall come into operation on such date (hereinafter referred to as the appointed date)  as the Minister may appoint by Order published in the  Gazette .",
-        "pre_block_list": [
-          "Short title and date of operation."
-        ],
-        "child_level_list": []
-      }
-    ],
     "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the National Research Council of Sri Lanka Act, No. 11 of 2016, and shall come into operation on such date (hereinafter referred to as the appointed date)  as the Minister may appoint by Order published in the  Gazette .",
+            "pre_block_list": [
+              "Short title and date of operation."
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

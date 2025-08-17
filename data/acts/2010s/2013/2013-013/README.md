@@ -9,6 +9,7 @@ L.D.O. 20/2013.
 An   Act   To   Amend   The   Notaries   Ordinance  (C Hapter  107)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :-
 
+0. 
     1. This Act  may be cited  as the Notaries (Amendment) Act, No. 13 of   2013,  and shall be deemed to have come into operation on January 1, 2013.
         - Short title and date of operation.
         - Amendment of section 27 of the Notaries Ordinance (Chapter107).

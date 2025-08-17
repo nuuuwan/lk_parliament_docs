@@ -12,13 +12,13 @@ Public   Finance   And   To   Make   Provision   For   Matters   Connected
 Therewith   Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. 
         1. This Act may be cited as the National Audit Act, No. 19 of 2018.
             - Short title and date of operation.
         2. The provisions of this Act shall come into operation on such date as the President may appoint by Order published in the  Gazette  (hereinafter referred to as the appointed date).
     2. The provisions enshrined in Articles 153, 153 A , 153 B , 153 C , 153 D , 153 E , 153 F , 153 G , 153 H  and 154 of the Constitution, the provisions of this Act and any other written law, as may be applicable, shall apply to audits of auditee entities and matters connected therewith.
         - Applicable law pertaining to audits.
-
 I. 
     - S COPE   OF   AUDITS   CARRIED   OUT   BY    THE  A UDITOR -G ENERAL
     3. 

@@ -16,187 +16,194 @@
       "A N  A Ct   To   Amend   The  M Aternity  B Enefits  O Rdinance (C Hapter  140)",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Maternity Benefits (Amendment) Act, No. 15 of 2018.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 3 of the Maternity Benefits Ordinance (hereinafter referred to as the principal enactment) is hereby amended by the repealed of subsection (1) of that section and substitution therefor, of the following subsection:",
-        "pre_block_list": [
-          "Amendment of section 3 of Chapter 140."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "The period for which any woman worker shall be entitled to the payment of maternity benefits shall be",
-            "pre_block_list": [],
+            "text": "This Act may be cited as the Maternity Benefits (Amendment) Act, No. 15 of 2018.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 3 of the Maternity Benefits Ordinance (hereinafter referred to as the principal enactment) is hereby amended by the repealed of subsection (1) of that section and substitution therefor, of the following subsection:",
+            "pre_block_list": [
+              "Amendment of section 3 of Chapter 140."
+            ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "twelve weeks, that is to say two weeks up to and including the day of her confinement and ten weeks immediately following  that day, if the confinement results in the issue of a live child; and",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The period for which any woman worker shall be entitled to the payment of maternity benefits shall be",
                 "pre_block_list": [],
-                "child_level_list": []
-              },
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "twelve weeks, that is to say two weeks up to and including the day of her confinement and ten weeks immediately following  that day, if the confinement results in the issue of a live child; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "six weeks, that is to say two weeks up to and including the day of her confinement and four weeks immediately following that day, if the confinement does not result in the issue of a live child:",
+                    "pre_block_list": [
+                      "Provided however, that where such woman worker has worked in her employment for any number of days during the aforesaid period of two weeks referred to in paragraphs ( a ) and ( b ) she shall be entitled to the",
+                      "payment of maternity benefits for such number of days immediately after her confinement commencing from the day immediately after the date on which the aforesaid period of ten weeks or four weeks as the case may be, ends",
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 5 of the principal enactment is hereby repealed and the substitution therefor, of the following section:",
+            "pre_block_list": [
+              "Replacement of section 5 of the principal enactment. Liablity of employer and rate of maternity benefits.",
+              "5. (1) The employer of a woman worker shall pay to such woman worker maternity benefits at the prescribed rate",
+              "( a ) for the entirety of the period of two weeks immediately preceding the confinement and of the period of ten weeks immediately following her confinement if such confinement results in the issue of a live child; and",
+              "( b ) for the entirety of the period of two weeks immediately preceding the confinement and of the period of four weeks immediately following her confinement, if  the confinement does not result in the issue of a live child:",
+              "Provided however, where such woman worker has worked in her employment on any number of days during the aforesaid period of two weeks referred to in paragraphs ( a ) and ( b ), she shall be entitled to maternity benefits for such number of days after her confinement."
+            ],
+            "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "six weeks, that is to say two weeks up to and including the day of her confinement and four weeks immediately following that day, if the confinement does not result in the issue of a live child:",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The periods in respect of which payments of maternity benefits shall be made under this section shall be in addition to any holiday or leave to which she is entitled",
                 "pre_block_list": [
-                  "Provided however, that where such woman worker has worked in her employment for any number of days during the aforesaid period of two weeks referred to in paragraphs ( a ) and ( b ) she shall be entitled to the",
-                  "payment of maternity benefits for such number of days immediately after her confinement commencing from the day immediately after the date on which the aforesaid period of ten weeks or four weeks as the case may be, ends",
                   ""
                 ],
                 "child_level_list": []
               }
             ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 5 of the principal enactment is hereby repealed and the substitution therefor, of the following section:",
-        "pre_block_list": [
-          "Replacement of section 5 of the principal enactment. Liablity of employer and rate of maternity benefits.",
-          "5. (1) The employer of a woman worker shall pay to such woman worker maternity benefits at the prescribed rate",
-          "( a ) for the entirety of the period of two weeks immediately preceding the confinement and of the period of ten weeks immediately following her confinement if such confinement results in the issue of a live child; and",
-          "( b ) for the entirety of the period of two weeks immediately preceding the confinement and of the period of four weeks immediately following her confinement, if  the confinement does not result in the issue of a live child:",
-          "Provided however, where such woman worker has worked in her employment on any number of days during the aforesaid period of two weeks referred to in paragraphs ( a ) and ( b ), she shall be entitled to maternity benefits for such number of days after her confinement."
-        ],
-        "child_level_list": [
+          },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "The periods in respect of which payments of maternity benefits shall be made under this section shall be in addition to any holiday or leave to which she is entitled",
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 6 of the principal enactment is hereby repealed and the substitution therefor, of the following section:",
             "pre_block_list": [
-              ""
+              "Replacement of section 6 of the principal enactment.",
+              "6. Nothing in the provisions of section 5 shall be deemed to entitle any woman worker to claim the maternity benefits referred to in this Ordinance from more than one employer in respect of the same confinement",
+              "",
+              "Woman worker not to claim benefits, in respect of the same confinement, from more than one employer."
             ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "Section 6 of the principal enactment is hereby repealed and the substitution therefor, of the following section:",
-        "pre_block_list": [
-          "Replacement of section 6 of the principal enactment.",
-          "6. Nothing in the provisions of section 5 shall be deemed to entitle any woman worker to claim the maternity benefits referred to in this Ordinance from more than one employer in respect of the same confinement",
-          "",
-          "Woman worker not to claim benefits, in respect of the same confinement, from more than one employer."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "Section 7 of the principal enactment is hereby amended as follows:",
-        "pre_block_list": [
-          "Amendment of section 7 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by the repeal of subsection (2) of that section and substitution therefor, of the following subsection:",
-            "pre_block_list": [],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "A woman worker who has been confined shall, within one week of her confinement give notice to her employer of the date on which she was confined and for the purpose of ascertaining the number of days, she will be permitted to absent herself from the employment specify whether the confinement resulted in the issue of a live child or not;;and",
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Section 7 of the principal enactment is hereby amended as follows:",
             "pre_block_list": [
-              "(2) by the repeal of subsection (4) of that section and the substitution therefor, of the following subsection:",
-              "(4) The employer shall on receipt of the notice from a woman worker under subsection (1) or subsection (2), permit that woman worker to absent herself from employment"
+              "Amendment of section 7 of the principal enactment."
             ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "for two weeks immediately preceding, and ten weeks immediately following her",
-                "pre_block_list": [
-                  "confinement if the confinement results in the issue of a live child; and"
-                ],
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of subsection (2) of that section and substitution therefor, of the following subsection:",
+                "pre_block_list": [],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "for two weeks immediately preceding and four weeks immediately following her confinement, if the confinement does not result in the issue of a live child:",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "A woman worker who has been confined shall, within one week of her confinement give notice to her employer of the date on which she was confined and for the purpose of ascertaining the number of days, she will be permitted to absent herself from the employment specify whether the confinement resulted in the issue of a live child or not;;and",
                 "pre_block_list": [
-                  "Provided however, that where such woman worker has worked in her employment for any number of days during the aforesaid period of two weeks referred to in paragraphs ( a ) and ( b ), she shall be permitted to absent herself from employment for such number of   days after her confinement commencing from the day immediately after the date on which the aforesaid period of ten weeks or four weeks, as the case may be end.;"
+                  "(2) by the repeal of subsection (4) of that section and the substitution therefor, of the following subsection:",
+                  "(4) The employer shall on receipt of the notice from a woman worker under subsection (1) or subsection (2), permit that woman worker to absent herself from employment"
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "for two weeks immediately preceding, and ten weeks immediately following her",
+                    "pre_block_list": [
+                      "confinement if the confinement results in the issue of a live child; and"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "for two weeks immediately preceding and four weeks immediately following her confinement, if the confinement does not result in the issue of a live child:",
+                    "pre_block_list": [
+                      "Provided however, that where such woman worker has worked in her employment for any number of days during the aforesaid period of two weeks referred to in paragraphs ( a ) and ( b ), she shall be permitted to absent herself from employment for such number of   days after her confinement commencing from the day immediately after the date on which the aforesaid period of ten weeks or four weeks, as the case may be end.;"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "by the insertion immediately after subsection (4) of that section of the following new subsection:",
+                "pre_block_list": [
+                  "(5) The leave to which a woman worker is entitled under this Act in consequence of any confinement shall be in addition to any holiday or leave to which she is entitled under any other law or regulation",
+                  ""
                 ],
                 "child_level_list": []
               }
             ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "by the insertion immediately after subsection (4) of that section of the following new subsection:",
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "Section 8 of the principal enactment is hereby amended, by the substitution for the words notice of her confinement to her employer under section 7(2) of the following words:",
             "pre_block_list": [
-              "(5) The leave to which a woman worker is entitled under this Act in consequence of any confinement shall be in addition to any holiday or leave to which she is entitled under any other law or regulation",
+              "Amendment of section 8 of the principal enactment.",
+              "notice of her confinement to her employer under section 7(2):",
+              "Provided however, that for the purpose of ascertaining the period for which such woman",
+              "worker is entitled to the payment of maternity benefit, she shall inform her employer of whether or not her confinement resulted in the issue of a live child or not",
               ""
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "Section 11 of the principal enactment is hereby amended, in subsection (1) of that section by the substitution for the words depriving her of any maternity benefit or alternative maternity benefits to which, of the words, depriving her of any maternity benefits to which.",
+            "pre_block_list": [
+              "Amendment of section 11 of the principal enactment.",
+              "`"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "Section 15 of the principal enactment is hereby amended, in subsection (2) of that section, by the repeal of paragraph ( f ) thereof.",
+            "pre_block_list": [
+              "Amendment of section 15 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              ".",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
             ],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "6",
-        "text": "Section 8 of the principal enactment is hereby amended, by the substitution for the words notice of her confinement to her employer under section 7(2) of the following words:",
-        "pre_block_list": [
-          "Amendment of section 8 of the principal enactment.",
-          "notice of her confinement to her employer under section 7(2):",
-          "Provided however, that for the purpose of ascertaining the period for which such woman",
-          "worker is entitled to the payment of maternity benefit, she shall inform her employer of whether or not her confinement resulted in the issue of a live child or not",
-          ""
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "7",
-        "text": "Section 11 of the principal enactment is hereby amended, in subsection (1) of that section by the substitution for the words depriving her of any maternity benefit or alternative maternity benefits to which, of the words, depriving her of any maternity benefits to which.",
-        "pre_block_list": [
-          "Amendment of section 11 of the principal enactment.",
-          "`"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "8",
-        "text": "Section 15 of the principal enactment is hereby amended, in subsection (2) of that section, by the repeal of paragraph ( f ) thereof.",
-        "pre_block_list": [
-          "Amendment of section 15 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "9",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency.",
-          ".",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

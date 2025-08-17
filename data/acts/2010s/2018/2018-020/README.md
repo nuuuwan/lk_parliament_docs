@@ -10,6 +10,7 @@ L.D.O. 10/2018
 A N  A Ct   To   Amend   The  N Ation  B Uilding  T Ax  A Ct , N O . 9  Of  2009
 Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Nation Building Tax (Amendment) Act, No. 20 of 2018.
         - Short  title.
     2. Section 3 of the Nation Building Tax Act, No. 9 of 2009 (hereinafter referred to as the principal enactment) as last amended by Act, No. 22 of 2016, is hereby further amended in subparagraph (13) of paragraph (iv) of subsection (2) thereof, by the substitution for the words, importer himself. of the words and figures, importer himself, prior to April 1, 2018

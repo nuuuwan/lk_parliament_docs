@@ -10,6 +10,7 @@ L.D.O. 34/2017
 A N  A Ct   To   Amend   The  N Ational  D Efence  F Und A Ct , N O . 9  Of  1985
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka  As Follows:
 
+0. 
     1. This Act may be cited as the National Defence Fund (Amendment) Act, No. 16 of 2018.
         - Short title.
     2. Section 3 of National Defence Fund Act, No. 9 of 1985 (hereinafter referred to as the principal enactment) is hereby amended as follows:

@@ -9,6 +9,7 @@ L.D.O. 6/2013.
 A N  A Ct   To   Amend   The  M Arriage  R Egistration  O Rdinance (C Hapter  112)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Marriage Registration (Amendment) Act, No. 22 of  2013 and shall be deemed to have come into operation on January 1, 2013.
         - Short title and date of operation.
     2. Section 24 of the Marriage Registration Ordinance (Chapter 112) (hereinafter referred to as the principal enactment) is hereby amended by the repeal of subsection (6) of that section, and the substitution therefor, of the following subsection :

@@ -10,6 +10,7 @@ L.D.-O. 51/2021
 A N  A Ct   To   Amend   The  V Alue  A Dded  T Ax  A Ct , N O . 14  Of  2002
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Value Added Tax (Amendment) Act, No. 13 of  2022.
         - Short  title
         - Amendment of section 25 C  of Act, No. 14 of 2002

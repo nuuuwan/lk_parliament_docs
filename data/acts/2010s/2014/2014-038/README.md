@@ -19,6 +19,7 @@ Preamble.
 And Whereas   It Is The National Policy To Regulate The Use Of Lands, In A Sustainable Manner, Having Imposed Restrictions On The Alienation Of Lands To Foreigners, Foreign Companies And Certain Institutions With Foreign Shareholding And Having Granted Concessions To Citizens Of Sri Lanka For Certain Development Projects, As Specified In This Act:
 Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. 
         1. This Act may be cited as the Land (Restrictions on Alienation) Act, No. 38 of 2014.
             - Short title and date of operation.

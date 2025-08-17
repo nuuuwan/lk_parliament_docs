@@ -16,358 +16,365 @@
       "A N  A Ct   To   Amend   The  M Otor  T Raffic  A Ct  (C Hapter  203)",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Motor Traffic (Amendment) Act, No. 10 of 2019.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 123 of the Motor Traffic Act (Chapter 203) (hereinafter referred to as the principal enactment) is hereby amended as follows:",
-        "pre_block_list": [
-          "Amendment of section 123 of Chapter 203."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "in subsection (1) of that section-",
-            "pre_block_list": [],
+            "text": "This Act may be cited as the Motor Traffic (Amendment) Act, No. 10 of 2019.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 123 of the Motor Traffic Act (Chapter 203) (hereinafter referred to as the principal enactment) is hereby amended as follows:",
+            "pre_block_list": [
+              "Amendment of section 123 of Chapter 203."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (1) of that section-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "in paragraph ( a ) thereof, by the deletion of the word and, appearing at the end of that paragraph;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "in paragraph ( b ) thereof, by the insertion of the word and, at the end of that paragraph;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "by the addition immediately after paragraph ( b ) thereof, of the following new paragraph:-",
+                    "pre_block_list": [
+                      "( c ) no person shall drive a light vehicle on a road unless he has completed the age of eighteen years and shall not drive a heavy vehicle on a road unless he has completed the age of twenty-one years",
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (5) of that section-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "by the repeal, in paragraph ( a ) thereof, of all the words from to a fine not less than three",
+                    "pre_block_list": [
+                      "Motor Traffic (Amendment) Act, No. 10 of  2019 2",
+                      "thousand rupees to the end of that paragraph and the substitution therefor of the following words:",
+                      "to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees and on a second or subsequent conviction to a fine not less than thirty thousand rupees and not exceeding fifty thousand rupees.;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "by the repeal, in paragraph ( b ) thereof, of all the words from to a fine not less than four thousand rupees to the end of that paragraph and the substitution therefor of the following words:",
+                    "pre_block_list": [
+                      "to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees and on a second or subsequent conviction to a fine not less than thirty thousand rupees and not exceeding fifty thousand rupees.;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "by the addition immediately after paragraph ( b ) thereof, of the following new paragraph which shall have the effect as paragraph ( c ) thereof:-",
+                    "pre_block_list": [
+                      "( c ) A person who contravenes the provisions of paragraph ( c ) of subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not less than thirty thousand rupees and not exceeding forty thousand rupees  and on a second or subsequent conviction to a fine not less than forty thousand rupees and not exceeding fifty thousand rupees",
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "The following new section is hereby inserted immediately after section 141 of the principal enactment and shall have effect as section 141 A   of the that enactment:",
+            "pre_block_list": [
+              "Insertion of new section 141 A  in the principal enactment.",
+              "141 A . (1) Any person who contravenes the provisions of sections 140, 141 and 142 or any regulation made thereunder shall be guilty of an offence and shall on conviction be liable, where the speed is -",
+              "Penalty for driving at an excessive speed.",
+              "( a ) in excess of the prescribed speed limit up to twenty  per centum , to a fine not less than three thousand rupees and not exceeding five thousand rupees;",
+              "( b ) in excess of twenty  per centum  and less than thirty  per centum  of the prescribed speed limit, to a fine not less than five thousand rupees and not exceeding ten thousand rupees;",
+              "( c ) in excess of thirty  per centum  and less than fifty  per centum  of the prescribed speed limit, to a fine not less than ten thousand rupees and not exceeding fifteen thousand rupees; and",
+              "( d ) in excess of fifty  per centum  of the prescribed speed limit, to a fine not less than fifteen thousand rupees and not exceeding twenty five thousand rupees."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Notwithstanding the provisions of subsection (1), any person who contravenes the provisions of sections 140, 141 and 142 shall also be liable to on the spot fines as may be prescribed under section 215 A",
+                "pre_block_list": [
+                  "",
+                  "Motor Traffic (Amendment) Act, No. 10 of  2019 4"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "The following new section is hereby inserted immediately after section 148 of the principal enactment and shall have effect as section 148 A  of that enactment:-",
+            "pre_block_list": [
+              "Insertion of new section 148 A  of the principal enactment.",
+              "148 A . (1) No person shall drive a motor vehicle on or across a railway crossing",
+              "Precautions in crossing a railway.",
+              "(i) when the railway gate is closed;",
+              "(ii) disregarding the railway signal  system; or",
+              "(iii) without obeying directions of an authorized officer,",
+              "to likely endanger ones own safety or that of any other person."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "A person who contravenes the provisions of subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees and on a second conviction to a fine not less than thirty thousand rupees and not exceeding forty thousand rupees and the suspension of his driving licence for a period of not  exceeding six months, and on a third or subsequent conviction to a fine not less than forty thousand rupees and not exceeding fifty thousand rupees and the suspension of his driving licence for a period not exceeding twelve months",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "The following new section is hereby inserted immediately after section 152 of the principal enactment and shall have effect as section 152 A  of that enactment:",
+            "pre_block_list": [
+              "Insertion of new section 152 A  in the principal enactment.",
+              "152 A . (1) No person shall use a telephone, mobile phone or any other movable communication equipment when driving a motor vehicle on a road.",
+              "Prohibit the use of mobile phone etc. while driving."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "A person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to the penalty specified in section 224 and also be liable to the amount prescribed for on the spot fines under section 215 A",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "Section 196 of the principal enactment is hereby amended in subsection (5) thereof by the addition, immediately after the proviso to paragraph ( b ) of that subsection of the following paragraph:-",
+            "pre_block_list": [
+              "Amendment of section 196 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "a person who contravenes the provisions of this subsection shall be guilty of an offence and shall on conviction be liable to the penalty specified in section 224 and also be liable to the amount prescribed for on the spot fines under section 215 A",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "Section 216 of the principal enactment is hereby amended by the repeal of all the words from to a fine not less than three thousand five hundred rupees to the end of that section and the substitution of the words to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees or to imprisonment of either description for a term not exceeding three months or to both such fine and imprisonment and to the suspension of his driving licence for a period not exceeding twelve months",
+            "pre_block_list": [
+              "",
+              "Amendment of section 216 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "Section 216 A  of the principal enactment is hereby amended by the repeal of all the words from to a fine not less than four thousand rupees to the end of that section and the substitution of the words to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees or to imprisonment of either description for a term not exceeding six months or to both such fine and imprisonment and the cancellation of his driving licence",
+            "pre_block_list": [
+              "",
+              "Amendment of section 216 A  of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "Section 216 B  of the principal enactment is hereby amended as follows:-",
+            "pre_block_list": [
+              "Amendment of section 216 B  of the principal enactment."
+            ],
             "child_level_list": [
               {
                 "class_name": "ActL3Paragraph",
                 "num": "a",
-                "text": "in paragraph ( a ) thereof, by the deletion of the word and, appearing at the end of that paragraph;",
-                "pre_block_list": [],
+                "text": "by the repeal, in paragraph ( a ) thereof, of all the words from to imprisonment of either description",
+                "pre_block_list": [
+                  "Motor Traffic (Amendment) Act, No. 10 of  2019 6",
+                  "for a term not less than two years to the end of that paragraph and the subsititution of the words to a fine not less than one hundred thousand rupees and not exceeding one hundred and fifty thousand rupees or to imprisonment of either description for a term not less than two years and not exceeding ten years or to both such fine and imprisonment and to the cancellation of the diving licence; and"
+                ],
                 "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
                 "num": "b",
-                "text": "in paragraph ( b ) thereof, by the insertion of the word and, at the end of that paragraph;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "by the addition immediately after paragraph ( b ) thereof, of the following new paragraph:-",
+                "text": "by the repeal of paragraph ( b ) thereof and the substitution therefor of the following paragraphs:",
                 "pre_block_list": [
-                  "( c ) no person shall drive a light vehicle on a road unless he has completed the age of eighteen years and shall not drive a heavy vehicle on a road unless he has completed the age of twenty-one years",
-                  ""
+                  "( b ) where he causes"
                 ],
-                "child_level_list": []
+                "child_level_list": [
+                  {
+                    "class_name": "ActL4SubParagraph",
+                    "num": "i",
+                    "text": "hurt to any person, to a fine not less than thirty thousand rupees and not exceeding fifty thousand rupees or to imprisonment of either description for a term not  exceeding one year or to both such fine and imprisonment and to the cancellation of his driving licence; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL4SubParagraph",
+                    "num": "ii",
+                    "text": "grievous injury to any person, to a fine not less than fifty thousand rupees and not exceeding one hundred thousand rupees or to imprisonment of either description for a term not exceeding five years or to both such fine and imprisonment and to the cancellation of his driving licence",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
               }
             ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "in subsection (5) of that section-",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "by the repeal, in paragraph ( a ) thereof, of all the words from to a fine not less than three",
-                "pre_block_list": [
-                  "Motor Traffic (Amendment) Act, No. 10 of  2019 2",
-                  "thousand rupees to the end of that paragraph and the substitution therefor of the following words:",
-                  "to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees and on a second or subsequent conviction to a fine not less than thirty thousand rupees and not exceeding fifty thousand rupees.;"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "by the repeal, in paragraph ( b ) thereof, of all the words from to a fine not less than four thousand rupees to the end of that paragraph and the substitution therefor of the following words:",
-                "pre_block_list": [
-                  "to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees and on a second or subsequent conviction to a fine not less than thirty thousand rupees and not exceeding fifty thousand rupees.;"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "by the addition immediately after paragraph ( b ) thereof, of the following new paragraph which shall have the effect as paragraph ( c ) thereof:-",
-                "pre_block_list": [
-                  "( c ) A person who contravenes the provisions of paragraph ( c ) of subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not less than thirty thousand rupees and not exceeding forty thousand rupees  and on a second or subsequent conviction to a fine not less than forty thousand rupees and not exceeding fifty thousand rupees",
-                  ""
-                ],
-                "child_level_list": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "The following new section is hereby inserted immediately after section 141 of the principal enactment and shall have effect as section 141 A   of the that enactment:",
-        "pre_block_list": [
-          "Insertion of new section 141 A  in the principal enactment.",
-          "141 A . (1) Any person who contravenes the provisions of sections 140, 141 and 142 or any regulation made thereunder shall be guilty of an offence and shall on conviction be liable, where the speed is -",
-          "Penalty for driving at an excessive speed.",
-          "( a ) in excess of the prescribed speed limit up to twenty  per centum , to a fine not less than three thousand rupees and not exceeding five thousand rupees;",
-          "( b ) in excess of twenty  per centum  and less than thirty  per centum  of the prescribed speed limit, to a fine not less than five thousand rupees and not exceeding ten thousand rupees;",
-          "( c ) in excess of thirty  per centum  and less than fifty  per centum  of the prescribed speed limit, to a fine not less than ten thousand rupees and not exceeding fifteen thousand rupees; and",
-          "( d ) in excess of fifty  per centum  of the prescribed speed limit, to a fine not less than fifteen thousand rupees and not exceeding twenty five thousand rupees."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "Notwithstanding the provisions of subsection (1), any person who contravenes the provisions of sections 140, 141 and 142 shall also be liable to on the spot fines as may be prescribed under section 215 A",
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "Section 217 of the principal enactment is hereby amended as follows:",
             "pre_block_list": [
-              "",
-              "Motor Traffic (Amendment) Act, No. 10 of  2019 4"
-            ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "The following new section is hereby inserted immediately after section 148 of the principal enactment and shall have effect as section 148 A  of that enactment:-",
-        "pre_block_list": [
-          "Insertion of new section 148 A  of the principal enactment.",
-          "148 A . (1) No person shall drive a motor vehicle on or across a railway crossing",
-          "Precautions in crossing a railway.",
-          "(i) when the railway gate is closed;",
-          "(ii) disregarding the railway signal  system; or",
-          "(iii) without obeying directions of an authorized officer,",
-          "to likely endanger ones own safety or that of any other person."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "A person who contravenes the provisions of subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees and on a second conviction to a fine not less than thirty thousand rupees and not exceeding forty thousand rupees and the suspension of his driving licence for a period of not  exceeding six months, and on a third or subsequent conviction to a fine not less than forty thousand rupees and not exceeding fifty thousand rupees and the suspension of his driving licence for a period not exceeding twelve months",
-            "pre_block_list": [
-              ""
-            ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "The following new section is hereby inserted immediately after section 152 of the principal enactment and shall have effect as section 152 A  of that enactment:",
-        "pre_block_list": [
-          "Insertion of new section 152 A  in the principal enactment.",
-          "152 A . (1) No person shall use a telephone, mobile phone or any other movable communication equipment when driving a motor vehicle on a road.",
-          "Prohibit the use of mobile phone etc. while driving."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "A person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to the penalty specified in section 224 and also be liable to the amount prescribed for on the spot fines under section 215 A",
-            "pre_block_list": [
-              ""
-            ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "6",
-        "text": "Section 196 of the principal enactment is hereby amended in subsection (5) thereof by the addition, immediately after the proviso to paragraph ( b ) of that subsection of the following paragraph:-",
-        "pre_block_list": [
-          "Amendment of section 196 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "a person who contravenes the provisions of this subsection shall be guilty of an offence and shall on conviction be liable to the penalty specified in section 224 and also be liable to the amount prescribed for on the spot fines under section 215 A",
-            "pre_block_list": [
-              ""
-            ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "7",
-        "text": "Section 216 of the principal enactment is hereby amended by the repeal of all the words from to a fine not less than three thousand five hundred rupees to the end of that section and the substitution of the words to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees or to imprisonment of either description for a term not exceeding three months or to both such fine and imprisonment and to the suspension of his driving licence for a period not exceeding twelve months",
-        "pre_block_list": [
-          "",
-          "Amendment of section 216 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "8",
-        "text": "Section 216 A  of the principal enactment is hereby amended by the repeal of all the words from to a fine not less than four thousand rupees to the end of that section and the substitution of the words to a fine not less than twenty five thousand rupees and not exceeding thirty thousand rupees or to imprisonment of either description for a term not exceeding six months or to both such fine and imprisonment and the cancellation of his driving licence",
-        "pre_block_list": [
-          "",
-          "Amendment of section 216 A  of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "9",
-        "text": "Section 216 B  of the principal enactment is hereby amended as follows:-",
-        "pre_block_list": [
-          "Amendment of section 216 B  of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "by the repeal, in paragraph ( a ) thereof, of all the words from to imprisonment of either description",
-            "pre_block_list": [
-              "Motor Traffic (Amendment) Act, No. 10 of  2019 6",
-              "for a term not less than two years to the end of that paragraph and the subsititution of the words to a fine not less than one hundred thousand rupees and not exceeding one hundred and fifty thousand rupees or to imprisonment of either description for a term not less than two years and not exceeding ten years or to both such fine and imprisonment and to the cancellation of the diving licence; and"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "by the repeal of paragraph ( b ) thereof and the substitution therefor of the following paragraphs:",
-            "pre_block_list": [
-              "( b ) where he causes"
+              "Amendment of section 217 of the principal enactment."
             ],
             "child_level_list": [
               {
-                "class_name": "ActL4SubParagraph",
-                "num": "i",
-                "text": "hurt to any person, to a fine not less than thirty thousand rupees and not exceeding fifty thousand rupees or to imprisonment of either description for a term not  exceeding one year or to both such fine and imprisonment and to the cancellation of his driving licence; or",
-                "pre_block_list": [],
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (1) of that section by the repeal of all the words from to a fine not less than one thousand five hundred rupees to the end of that subsection",
+                "pre_block_list": [
+                  "and the substitution of the words to a fine not less than ten thousand rupees and not exceeding twenty five thousand rupees, and on a second conviction to a fine not less than fifteen thousand rupees and not exceeding thirty thousand rupees, and the suspension of his driving licence, and on a third or subsequent conviction, to a fine not less than twenty thousand rupees and not exceeding forty thousand rupees or to rigorous imprisonment for a term not exceeding six months or to both such fine and imprisonment and the cancellation of his driving licence.; and"
+                ],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL4SubParagraph",
-                "num": "ii",
-                "text": "grievous injury to any person, to a fine not less than fifty thousand rupees and not exceeding one hundred thousand rupees or to imprisonment of either description for a term not exceeding five years or to both such fine and imprisonment and to the cancellation of his driving licence",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (2) of that section by the repeal of all the words from to a fine not less than one thousand five hundred rupees to the end of that subsection and the substitution of the words to a fine not less than ten thousand rupees and not exceeding twenty five thousand rupees, and on a second conviction to a fine not less than fifteen thousand rupees and not exceeding thirty thousand rupees and on a third or subsequent conviction, to a fine not less than twenty thousand rupees and not exceeding forty thousand rupees and the suspension of his driving licence for a period of six months.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "11",
+            "text": "Section 218 of the principal enactment is hereby repealed and the following section substituted therefor:",
+            "pre_block_list": [
+              "Replacement of section 218 of the principal enactment.",
+              "218.  A person who contravenes the provisions of section 99 shall be guilty of an offence and shall on conviction be liable to a fine not less than twenty five thousand rupees and not exceeding fifty thousand rupees or to imprisonment for a term not exceeding one month or to both such fine and imprisonment",
+              "",
+              "Penalty for driving without certificate of insurance.",
+              "Motor Traffic (Amendment) Act, No. 10 of  2019 8"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "12",
+            "text": "Section 224 of the principal enactment is hereby amended by the repeal of all the words from to a fine not less than two thousand five hundred rupees to the end of that section and the substitution of the words to a fine not less than two thousand five hundred rupees and not exceeding seven thousand five hundred rupees, and on a second conviction to a fine not less than seven thousand five hundred rupees and not exceeding fifteen thousand rupees, and on a third or subsequent conviction to a fine not less than fifteen thousand rupees and not exceeding twenty five thousand rupees",
+            "pre_block_list": [
+              "",
+              "Amendment of section 224 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "13",
+            "text": "The Second Schedule to the principal enactment, is hereby amended as follows:",
+            "pre_block_list": [
+              "Amendment of the Second Schedule to the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of item 10 thereof and the substitution therefor of the following item:",
                 "pre_block_list": [
-                  ""
+                  "",
+                  "Section Provision",
+                  "10. 140, 141 and -",
+                  "142",
+                  "141 A (1)( a ) -",
+                  "141 A (1)( b ) -",
+                  "prescribed",
+                  "141 A (1)( c ) -",
+                  "of the speed limit prescribed",
+                  "141 A (1)( d ) -",
+                  "of the speed limit prescribed",
+                  ";;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition immediately after item 12 thereof, of the following new item which shall have the effect as item 12( a ):",
+                "pre_block_list": [
+                  "",
+                  "Section",
+                  "Provision",
+                  "152 A 12 a .",
+                  "Use of mobile phones while driving",
+                  ";."
                 ],
                 "child_level_list": []
               }
             ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "10",
-        "text": "Section 217 of the principal enactment is hereby amended as follows:",
-        "pre_block_list": [
-          "Amendment of section 217 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "in subsection (1) of that section by the repeal of all the words from to a fine not less than one thousand five hundred rupees to the end of that subsection",
-            "pre_block_list": [
-              "and the substitution of the words to a fine not less than ten thousand rupees and not exceeding twenty five thousand rupees, and on a second conviction to a fine not less than fifteen thousand rupees and not exceeding thirty thousand rupees, and the suspension of his driving licence, and on a third or subsequent conviction, to a fine not less than twenty thousand rupees and not exceeding forty thousand rupees or to rigorous imprisonment for a term not exceeding six months or to both such fine and imprisonment and the cancellation of his driving licence.; and"
-            ],
-            "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "in subsection (2) of that section by the repeal of all the words from to a fine not less than one thousand five hundred rupees to the end of that subsection and the substitution of the words to a fine not less than ten thousand rupees and not exceeding twenty five thousand rupees, and on a second conviction to a fine not less than fifteen thousand rupees and not exceeding thirty thousand rupees and on a third or subsequent conviction, to a fine not less than twenty thousand rupees and not exceeding forty thousand rupees and the suspension of his driving licence for a period of six months.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "11",
-        "text": "Section 218 of the principal enactment is hereby repealed and the following section substituted therefor:",
-        "pre_block_list": [
-          "Replacement of section 218 of the principal enactment.",
-          "218.  A person who contravenes the provisions of section 99 shall be guilty of an offence and shall on conviction be liable to a fine not less than twenty five thousand rupees and not exceeding fifty thousand rupees or to imprisonment for a term not exceeding one month or to both such fine and imprisonment",
-          "",
-          "Penalty for driving without certificate of insurance.",
-          "Motor Traffic (Amendment) Act, No. 10 of  2019 8"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "12",
-        "text": "Section 224 of the principal enactment is hereby amended by the repeal of all the words from to a fine not less than two thousand five hundred rupees to the end of that section and the substitution of the words to a fine not less than two thousand five hundred rupees and not exceeding seven thousand five hundred rupees, and on a second conviction to a fine not less than seven thousand five hundred rupees and not exceeding fifteen thousand rupees, and on a third or subsequent conviction to a fine not less than fifteen thousand rupees and not exceeding twenty five thousand rupees",
-        "pre_block_list": [
-          "",
-          "Amendment of section 224 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "13",
-        "text": "The Second Schedule to the principal enactment, is hereby amended as follows:",
-        "pre_block_list": [
-          "Amendment of the Second Schedule to the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by the repeal of item 10 thereof and the substitution therefor of the following item:",
+            "class_name": "ActL1Section",
+            "num": "14",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
             "pre_block_list": [
-              "",
-              "Section Provision",
-              "10. 140, 141 and -",
-              "142",
-              "141 A (1)( a ) -",
-              "141 A (1)( b ) -",
-              "prescribed",
-              "141 A (1)( c ) -",
-              "of the speed limit prescribed",
-              "141 A (1)( d ) -",
-              "of the speed limit prescribed",
-              ";;"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "by the addition immediately after item 12 thereof, of the following new item which shall have the effect as item 12( a ):",
-            "pre_block_list": [
-              "",
-              "Section",
-              "Provision",
-              "152 A 12 a .",
-              "Use of mobile phones while driving",
-              ";."
+              "Sinhala text to prevail in case of inconsistency.",
+              "Motor Traffic (Amendment) Act, No. 10 of  2019 10",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
             ],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "14",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency.",
-          "Motor Traffic (Amendment) Act, No. 10 of  2019 10",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

@@ -12,9 +12,9 @@ Turnover   Of   Every   Person   To   Whom   This  A Ct   Applies ;  And   To
 Provide   For   Matters   Connected   Therewith   Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Social Security Contribution Levy Act, No. 25 of 2022 and shall come into operation on the First day of October 2022.
         - Short title and date of operation
-
 I. 
     - I MPOSITION   OF  S OCIAL  S ECURITY C ONTRIBUTION  L EVY
     2. The provisions of this Act shall apply to every person (in this Act referred to as a taxable person) who -

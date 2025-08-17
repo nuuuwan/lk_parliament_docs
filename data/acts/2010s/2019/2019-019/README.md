@@ -9,6 +9,7 @@ L.D.O. 5/2019
 A N  A Ct   To   Amend   The  V Alue  A Dded  T Ax  A Ct , N O . 14  Of  2002
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Value Added Tax (Amendment) Act, No. 19 of 2019.
         - Short title.
     2. Section 6 of the Value Added Tax Act, No.14 of 2002 (hereinafter referred to as the principal enactment) is hereby repealed and the following section is substituted therefor:-

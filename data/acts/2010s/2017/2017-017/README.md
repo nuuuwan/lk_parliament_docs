@@ -9,6 +9,7 @@ L.D.O. 30/2015
 A N  A Ct   To   Amend   The  P Rovincial  C Ouncils  E Lections A Ct , N O . 2  Of  1988
 Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Provincial Councils Elections  (Amendment) Act, No. 17 of 2017.
         - Short title.
     2. Section 10 of the Provincial Councils Elections Act, No. 2 of 1988 (hereinafter referred to as the principal enactment) is hereby amended in subsection (1) of that section by the substitution for the words one week of the words four weeks wherever those words appear in that section.

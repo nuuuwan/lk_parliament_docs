@@ -23,12 +23,12 @@ And Whereas Reaffirming Sri Lankas Commitment To International Cooperation And C
 And Whereas   Considering The Objectives Of The Democratic Socialist Society As Provided In Subparagraphs ( C ) And ( D ) Of Paragraph (2) Of Article 27 Of The Constitution:
 Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Economic Transformation Act, No. 45 of 2024.
             - Short title and date of operation
         2. The provisions of this Act other than the provisions of Part II, Part III and section 193  shall come into operation on the date on which certificate of the Speaker is endorsed in respect of this Act in terms of Article 79 of the Constitution.
         3. The provisions of Part II, Part III and section 193 shall come into operation on such date as the Minister may appoint by Order published in  Gazette , which shall be a date within three months from date of the certificate of the Speaker referred to in subsection (2) (hereinafter referred to as the appointed date).
-
 I. 
     - CHAPTER I
     - N ATIONAL  P OLICY   ON  E CONOMIC  T RANSFORMATION

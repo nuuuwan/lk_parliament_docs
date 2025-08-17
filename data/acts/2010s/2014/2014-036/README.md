@@ -9,6 +9,7 @@ L.D.O. 03/2014.
 A N  A Ct   To   Amend   The  P Radeshiya  S Abha  A Ct , N O . 15  Of  1987
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Pradeshiya Sabha (Amendment) Act, No. 36 of 2014 and shall come into operation on such date as the Minister may appoint by Order Published in the  Gazette .
         - Short title and date of operation.
     2. The following new section is hereby inserted immediately after section 169 of the Pradeshiya Sabha Act, No.15 of 1987 and shall have effect as section 169 A  of that Act:

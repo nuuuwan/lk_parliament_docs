@@ -10,6 +10,7 @@ L.D.O. 28/2016
 A N  A Ct   To   Amend   The  N Ation  B Uilding  T Ax  A Ct , N O . 9  Of  2009
 Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Nation Building Tax (Amendment) Act, No. 22 of 2016,  and shall be deemed to have come into operation from  November 1, 2016 unless different dates of operation are specified hereunder.
         - Short  title and date of operation.
     2. Section 3 of the Nation Building Tax Act, No. 9 of 2009  (hereinafter referred to as the principal enactment), as last amended by Act, No. 12 of 2015 is hereby further amended in subsection (4) thereof as follows:-

@@ -9,6 +9,7 @@ L.D.O. 49/2017
 A N  A Ct   To   Amend   The  M Unicipal  C Ouncils  O Rdinance  (C Hapter  252)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the  Municipal Councils (Amendment) Act, No. 20 of 2017.
         - Short title.
     2. Section 5 of the  Municipal Councils Ordinance (Chapter 252)   is hereby repealed and the following section substituted therefor:

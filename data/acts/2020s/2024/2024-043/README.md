@@ -9,6 +9,7 @@ L.D.-O. 72/2021
 A N  A Ct   To   Amend   The  C Ivil  P Rocedure  C Ode  (C Hapter  101)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Civil Procedure Code (Amendment) Act, No. 43 of 2024.
         - Short title
     2. Section 5 of the Civil Procedure Code (Chapter 101) (hereinafter referred to as the principal enactment) is hereby amended by the insertion immediately after the definition of the expression decree, of the following new definition:-

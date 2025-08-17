@@ -27,70 +27,77 @@
       "2 Pl 0103882962 (10/2017)",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Local Authorities (Special Provisions) Act, No. 28 of 2017.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "Nomination papers submitted, under section 28 of the Local Authorities Elections Ordinance (Chapter 262) (hereinafter referred to as the Ordinance) in respect of elections to the Pradeshiya Sabhas set out in the Schedule hereto in response to the Notices published under section 26 of the Ordinance are hereby deemed to be of no force and effect and as if such nomination papers had never been submitted.",
+            "text": "This Act may be cited as the Local Authorities (Special Provisions) Act, No. 28 of 2017.",
             "pre_block_list": [
-              "provisions relating to nominations and deposits in respect of elections to certain Sabhas."
+              "Short title."
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "The Notices published under subsection (3) of section 38 of the Ordinance, in respect of elections to the Pradeshiya Sabhas set out in the Schedule are hereby revoked.",
+            "text": "",
             "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Nomination papers submitted, under section 28 of the Local Authorities Elections Ordinance (Chapter 262) (hereinafter referred to as the Ordinance) in respect of elections to the Pradeshiya Sabhas set out in the Schedule hereto in response to the Notices published under section 26 of the Ordinance are hereby deemed to be of no force and effect and as if such nomination papers had never been submitted.",
+                "pre_block_list": [
+                  "provisions relating to nominations and deposits in respect of elections to certain Sabhas."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Notices published under subsection (3) of section 38 of the Ordinance, in respect of elections to the Pradeshiya Sabhas set out in the Schedule are hereby revoked.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Deposits made under section 29 of the Ordinance in respect of candidates nominated by an independent group for election to the Pradeshiya Sabhas set out in the Schedule, shall notwithstanding anything to the contrary in section 30 of the Ordinance, be refunded, on the production by the person who made the deposit, of the receipt issued to such person under subsection (3) of section 29 of the Ordinance, together with interest on such deposit at the rate of twelve per centum, per annum,  from the date of deposit to the date of refund.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Notwithstanding anything to the contrary contained in section 82 of the  Local Authorities Elections (Amendment) Act, No. 22 of 2012, steps shall be commenced under the Ordinance for the holding of elections to the Pradeshiya Sabhas set out in the Schedule hereto:",
+            "pre_block_list": [
+              "Steps to be commenced for holding of elections.",
+              "Provided that the notice of nomination in terms of the Ordinance shall be published on such date as the Election Commission may determine by Order published in the Gazette,  and such date shall however, be a date not later than six months from the date of the coming into operation of this Act."
+            ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "Deposits made under section 29 of the Ordinance in respect of candidates nominated by an independent group for election to the Pradeshiya Sabhas set out in the Schedule, shall notwithstanding anything to the contrary in section 30 of the Ordinance, be refunded, on the production by the person who made the deposit, of the receipt issued to such person under subsection (3) of section 29 of the Ordinance, together with interest on such deposit at the rate of twelve per centum, per annum,  from the date of deposit to the date of refund.",
-            "pre_block_list": [],
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "S CHEDULE (Sections 2 and 3)",
+              "1. Pudukudiruppu Pradeshiya Sabha; and",
+              "2. Maritimepattu Pradeshiya Sabha."
+            ],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Notwithstanding anything to the contrary contained in section 82 of the  Local Authorities Elections (Amendment) Act, No. 22 of 2012, steps shall be commenced under the Ordinance for the holding of elections to the Pradeshiya Sabhas set out in the Schedule hereto:",
-        "pre_block_list": [
-          "Steps to be commenced for holding of elections.",
-          "Provided that the notice of nomination in terms of the Ordinance shall be published on such date as the Election Commission may determine by Order published in the Gazette,  and such date shall however, be a date not later than six months from the date of the coming into operation of this Act."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency.",
-          "S CHEDULE (Sections 2 and 3)",
-          "1. Pudukudiruppu Pradeshiya Sabha; and",
-          "2. Maritimepattu Pradeshiya Sabha."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

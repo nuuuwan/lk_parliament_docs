@@ -9,6 +9,7 @@ L.D.O. 55/2017
 A N  A Ct   To   Amend   The  L Ocal  A Uthorities  E Lections  O Rdinance (C Hapter  262)
 Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Local Authorities Elections (Amendment) Act, No. 31 of 2017.
         - Short title.
     2. Section 65 A  of the Local Authorities Elections Ordinance (Chapter 262) (hereinafter referred to as the principal enactement) is hereby amended as follows:

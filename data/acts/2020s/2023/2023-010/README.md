@@ -19,12 +19,12 @@ The  A Ssistance   To   And  P Rotection   Of  V Ictims   Of  C Rime   And W Itn
 Connected   Therewith   Or   Incidental   Thereto .
 Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Assistance to and Protection of Victims of Crime and Witnesses Act, No. 10 of 2023.
             - Short title and date of operation
         2. The provisions of this Act, other than this section, shall come into operation on such date as the Minister may by Order published in the  Gazette  appoint (in this Act referred to as the appointed date).
         3. The provisions of this section shall come into operation on the date on which the Certificate of the Speaker is endorsed on the Bill.
-
 I. 
     - O BJECTS   OF   THE  A CT
     2. The objects of this Act shall be-

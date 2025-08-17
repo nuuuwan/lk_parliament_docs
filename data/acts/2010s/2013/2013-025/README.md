@@ -10,6 +10,7 @@ A N  A Ct   To   Amend   The  B Irths   And  D Eaths  R Egistration  A Ct (C Hap
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 Short Title And Date Of Operation.
 
+0. 
     1. This Act may be cited as the Births and Deaths Registration (Amendment) Act, No 25 of  2013 and shall be deemed to have come into operation on January 1, 2013.
     2. Section 24 of the Births and Deaths Registration Act, (Chapter 110) (hereinafter referred to as the principal enactment) is hereby amended in subsection (2) of that section, by the substitution for all the words from every such declaration shall to the words the stamps shall be supplied by the declarant. of the words every such declaration shall be accompanied by a fee of rupees fifty or such other amount as may be prescribed by the Minister, which shall be paid by the declarant
         - 

@@ -1,0 +1,204 @@
+{
+  "n_pages": 6,
+  "title_page": {
+    "title": "Defence Services Command And Staff College (Amendment) Act",
+    "num": "13",
+    "year": "2012",
+    "date_certified": "2012-05-04",
+    "date_published": "2012-05-04",
+    "price": 5.0,
+    "price_postage": 10.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 04Th May, 2012]",
+      "L.D.O. 41/2010.",
+      "A N  A Ct   To   Amend  T He  D Efence  S Ervices  C Ommand   And S Taff  C Ollege  A Ct , N O . 5  Of  2008",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Defence Services Command and Staff College (Amendment) Act, No. 13 of 2012.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 17 of the Defence Services Command and Staff College Act, No. 5 of 2008 (hereinafter referred to as the principal enactment) is hereby amended as follows:",
+            "pre_block_list": [
+              "Amendment of section 17 of the Act, No. 5 of 2008."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of subsections (3) and (4) of that section;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the re-numbering of subsections (5) and (6) as subsections (3) and (4); and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "by the substitution for the marginal note to that section of the following:",
+                "pre_block_list": [
+                  "Code of Discipline and its application",
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "The following section is hereby inserted immediately after section 17 of the principal enactment and shall have effect as section 17 A  of that enactment:",
+            "pre_block_list": [
+              "Insertion of new section 17 A  in the principal enactment.",
+              "17 A . (1) The disciplinary control of the permanent staff of the Staff College shall be exercised by the Commandant of the Staff College or any other officer of the Staff College authorized in that behalf by the Commandant.",
+              "Disciplinary control of the permanent staff and civilian staff of the Staff College."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The disciplinary control of the civilian staff of the Staff College shall be exercised by",
+                "pre_block_list": [
+                  "2PL 0062934,090  (10/2011)",
+                  "Defence Services Command and Staff College (Amendment) Act, No. 13 of 2012 2",
+                  "the Commandant of the Staff College, in accordance with the procedure to be specified by rules made by the Board."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "There shall be a Civil Administrative Officer who shall be appointed in accordance with such procedures as shall be applicable to appointments in the public service. The appointment of such person shall be for a period of five years. The Civil Administrative Officer shall be responsible to the Commandant for the due administration of the civilian staff",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 21 of the principal enactment is hereby amended by the repeal of subsection (2) of that section, and the substitution therefor, of the following subsection:",
+            "pre_block_list": [
+              "Amendment of section 21 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Board shall appoint a qualified auditor who shall be a person belonging to the Accountants Service of Sri Lanka and shall be responsible to the Commandant for the audit of accounts of the Staff College. The provisions of Article 154 of the Constitution relating to the audit of accounts of public corporations shall apply to the audit of accounts of the Staff College",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Section 22 of the principal enactment is hereby amended by the repeal of subsection (2) of that section and the substitution therefor, of the following subsection:",
+            "pre_block_list": [
+              "Amendment of section 22 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Accountant of the Staff College shall be appointed by the Board and such Accountant shall belong to the Accountants Service of Sri Lanka. The Accountant shall be responsible to the Commandant for the preparation of estimates and of all financial matters relating to the administration of the Staff College",
+                "pre_block_list": [
+                  "",
+                  "Insertion of section 25 A  in the principal enactment."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "The following section is hereby inserted immediately after section 25, of the principal enactment and shall have effect as section 25 A  of that enactment:",
+            "pre_block_list": [
+              "25 A . (1) At the request of the Board, any officer in the public service may with the consent of that officer and the Chairman of the Public Service Commission, be temporarily appointed to the staff of the Staff College for such period as may be determined by the Council, or with like consent, be permanently appointed to such staff.",
+              "Appointment of Public Officers to the civilian staff of the Staff College."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Where any officer in public service is temporarily appointed to the staff of the Staff College, the provisions of subsection (2) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall  mutatis mutandis  apply to, and in relation to such officer.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Where any officer in public service is permanently appointed to the staff of the Staff College, the provisions of subsection (3) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall,  mutatis mutandis  apply to, and in relation to such officer.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Where Staff College employs an person who has entered into a contract with the Government by which he has agreed to serve the Government for a specific period, any period of service to the Staff College by that person shall be regarded as service to the Government for the purpose of discharging the obligations of that person under such contract.",
+                "pre_block_list": [
+                  "Defence Services Command and Staff College (Amendment) Act, No. 13 of 2012 4"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "At the request of the Board, a member of the Local Government Service or any officer of any Local Authority may with the consent of that member, officer or employee be temporarily appointed to the staff of the Staff College for such period as may be determined by the Staff College, or with like consent be permanently appointed to such staff on such terms and conditions including those relating to pension or provident fund rights as may be agreed upon by the Staff College and the Local Government Service Advisory Board or the Local Authority, as the case may be.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "Where a person is temporarily appointed to the staff on the Staff College under subsection (5) of this section, that person shall be subject to the same disciplinary control as any other member of the staff",
+                "pre_block_list": [
+                  "",
+                  "Sinhala text to prevail in case of inconsistency."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

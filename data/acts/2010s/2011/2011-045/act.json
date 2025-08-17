@@ -1,0 +1,88 @@
+{
+  "n_pages": 4,
+  "title_page": {
+    "title": "Housing Development Finance Corporation Bank Of Sri Lanka (Amendment) Act",
+    "num": "45",
+    "year": "2011",
+    "date_certified": "2011-11-21",
+    "date_published": "2011-11-25",
+    "price": 3.0,
+    "price_postage": 5.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 21St November, 2011]",
+      "L.D.O. 2/2011.",
+      "A N  A Ct   To   Amend   The  H Ousing  D Evelopment  F Inance C Orporation  B Ank   Of  S Ri  L Anka  A Ct , N O . 7  Of   1997",
+      "Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Housing Development Finance Corporation Bank of Sri Lanka (Amendment) Act, No.  45  of  2011.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "The Housing Development Finance Corporation Bank of Sri Lanka  Act, No. 7 of  1997 (hereinafter referred to as the principal enactment) is hereby amended in section 13 thereof as follows :",
+            "pre_block_list": [
+              "Amendment of section 13 of Housing Development Finance Corporation Bank of Sri Lanka Act, No. 7 of 1997.",
+              "( 1 ) by the repeal of paragraph ( l ) thereof and the substitution therefor of the following :",
+              "( l ) to borrow or raise money;;"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition immediately after paragraph ( m ) thereof of the following paragraph :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "n",
+                    "text": "to carry on such forms of business as are specified in Schedule IV to the Banking Act, No. 30 of 1980, subject to such restrictions as may be expressly stipulated in the licence issued by the Monetary Board under the said Act",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 16 of the principal enactment is hereby amended in sub section (1) thereof by the substitution for the words twenty million shares of one hundred rupees each. of the words two hundred million shares of ten rupees each",
+            "pre_block_list": [
+              "",
+              "Amendment of section 16 of the principal enactment.",
+              "Sinhala text to prevail in case of inconsistency."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

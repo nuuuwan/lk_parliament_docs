@@ -16,37 +16,44 @@
       "A N  A Ct   To   Amend   The  N Ational  M Inimum  W Age   Of  W Orkers A Ct , N O . 3  Of  2016",
       "Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the National Minimum Wage of Workers (Amendment) Act, No. 16 of  2021.",
-        "pre_block_list": [
-          "Short title",
-          "Amendment of section 3 of Act, No. 3 of 2016"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 3 of the National Minimum Wage of Workers Act, No. 3 of 2016 is hereby amended in subsection (1) thereof by the substitution for the words, shall be ten thousand rupees and the national minimum daily wage of a worker shall be four hundred rupees of the words, shall be twelve thousand five hundred rupees and the national minimum daily wage of a worker shall be five hundred rupees",
-        "pre_block_list": [
-          ""
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the National Minimum Wage of Workers (Amendment) Act, No. 16 of  2021.",
+            "pre_block_list": [
+              "Short title",
+              "Amendment of section 3 of Act, No. 3 of 2016"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 3 of the National Minimum Wage of Workers Act, No. 3 of 2016 is hereby amended in subsection (1) thereof by the substitution for the words, shall be ten thousand rupees and the national minimum daily wage of a worker shall be four hundred rupees of the words, shall be twelve thousand five hundred rupees and the national minimum daily wage of a worker shall be five hundred rupees",
+            "pre_block_list": [
+              ""
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+            ],
+            "child_level_list": []
+          }
+        ]
       }
-    ],
-    "part_list": []
+    ]
   }
 }

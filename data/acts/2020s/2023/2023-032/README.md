@@ -10,6 +10,7 @@ L.D.-O. 56/2022
 A N  A Ct   To   Amend   The  V Alue  A Dded  T Ax   A Ct , N O . 14  Of  2002
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Value Added Tax (Amendment) Act, No. 32 of 2023.
         - Short title
     2. Section 22 of the Value Added Tax Act, No. 14 of 2002 (hereinafter in this Act referred to as the principal enactment) is hereby amended as follows: -
@@ -34,7 +35,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - Amendment of the First Schedule to the principal enactment
         1. in the Heading of that PART, by the substitution for the words and figures For any taxable period commencing on or after January 1, 2004 (subject to effective dates specified in subsequent amendments to the Schedule)., of the words and figures For any taxable period commencing on or after January 1, 2004 (subject to effective dates specified in subsequent amendments to the Schedule) but ending prior to January 1, 2024.; and
         2. by the addition immediately after paragraph ( m ) of that PART of the following new PART: -
-
 III. 
     - For any taxable period commencing on or after January 1, 2024-
     - ( a ) The supply or import of-

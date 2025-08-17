@@ -9,6 +9,7 @@ L. D.O. 52/2015.
 A N  A Ct   To   Amend   The  L Aw  C Ommission A Ct , N O . 3  Of  1969
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the  Law Commission (Amendment) Act, No. 19 of 2016.
         - Short title.
     2. Section 2 of the  Law Commission  Act,  No. 3 of 1969 (hereinafter referred to as the principal enactment) as last amended by Act, No. 11 of 1978 is hereby repealed and the as following section substituted therefor:

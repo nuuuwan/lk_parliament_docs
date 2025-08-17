@@ -9,6 +9,7 @@ L.D.O. 3/2021
 A N  A Ct   To   Amend   The  C Onvention  A Gainst  T Orture   And   Other C Ruel , I Nhuman   Or  D Egrading  T Reatment   Or  P Unishment A Ct , N O . 22  Of 1994
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (Amendment) Act, No. 15 of 2021.
         - Short title
     2. Section 2 of the Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment Act, No. 22 of 1994 is hereby amended in subsection (4) of that section by the substitution for the words a fine not less than ten thousand rupees and not exceeding fifty thousand rupees., of the words a fine not less than fifty thousand rupees and not exceeding two hundred thousand rupees

@@ -15,6 +15,7 @@ And Whereas The State Has Formulated A Policy To Enable Internally Displaced Per
 And Whereas It Has Now Become Necessary To Make Special Legal Provision In Order To Give Effect To Such Policy:
 Be It Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Registration of Electors (Special Provisions) Act, No. 27 of 2013.
         - Short title.
         - Internally displaced persons eligible to be registered.

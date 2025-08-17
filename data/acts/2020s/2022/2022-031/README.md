@@ -9,6 +9,7 @@ L.D.O. 24/2014
 A N  A Ct   To   Amend   The  N Otaries  O Rdinance  (C Hapter  107)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Notaries (Amendment) Act, No. 31 of 2022.
         - Short title
         - Replacement of section 3 of Chapter 107

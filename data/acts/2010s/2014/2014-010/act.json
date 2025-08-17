@@ -16,74 +16,223 @@
       "A N  A Ct   To   Amend   The  N Ation  B Uilding  T Ax  A Ct , N O . 9  Of  2009",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Nation Building Tax (Amendment) Act, No. 10 of  2014 and shall be deemed to have come into operation from January 1, 2014.",
-        "pre_block_list": [
-          "Short title and date of operation."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 3 of the Nation Building Tax Act, No. 9 of 2009 as last amended by Act, No. 11 of 2013 (hereinafter referred to as the principal enactment) is hereby further amended in subsection (2) of that section as follows :",
-        "pre_block_list": [
-          "Amendment of section 3 of Act, No. 9 of 2009."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "by the substitution in paragraph (iii) thereof, for the words, other than any excepted service referred to in the First Schedule to this Act, of the following words and figures:",
+            "text": "This Act may be cited as the Nation Building Tax (Amendment) Act, No. 10 of  2014 and shall be deemed to have come into operation from January 1, 2014.",
             "pre_block_list": [
-              "other than any excepted service referred to in the First Schedule to this Act:",
-              "Provided that, the liable turnover from the supply of any financial service in Sri Lanka, by any person carrying on the business of banking or finance shall, notwithstanding anything contrary in any other provision of this Act, be the value addition attributable to such financial service, calculated for the purposes of applying the attributable method referred to in subsection (4) of section 25C of  the Value Added Tax Act, No. 14 of 2002, for the payment of Value Added Tax on the supply of finanical services :",
-              "Provided further, that in calculating the value addition attributable to such financial service, where",
-              "2PL 0080692900 (03/2014)",
-              "Nation Building Tax (Amendment) Act, No. 10 of 2014 2",
-              "the amount of profits for each relevant quarter cannot be accurately ascertained, such amount may be estimated on the basis of available information. The estimated amount shall be adjusted to reflect the actual amount with the audited statement of accounts on yearly basis and such adjustment shall be submitted within six months after the closing date of the relevant accounting period.;"
+              "Short title and date of operation."
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "in paragraph (iv)",
-            "pre_block_list": [],
+            "text": "Section 3 of the Nation Building Tax Act, No. 9 of 2009 as last amended by Act, No. 11 of 2013 (hereinafter referred to as the principal enactment) is hereby further amended in subsection (2) of that section as follows :",
+            "pre_block_list": [
+              "Amendment of section 3 of Act, No. 9 of 2009."
+            ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "i",
-                "text": "by the substitution for subparagraph (2) thereof of the following subparagraph:",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the substitution in paragraph (iii) thereof, for the words, other than any excepted service referred to in the First Schedule to this Act, of the following words and figures:",
                 "pre_block_list": [
-                  "(2) ( a ) sugar, dhal, potatoes, onions, dried fish, milk powder or chilies under the provisions of the Special Commodity Levy Act, No. 48 of 2007, where such article is sold on or before December 31, 2013, by the importer of such article; or",
-                  "( b ) any article which is subject to the Special Commodity Levy under the provisions of the Special Commodity Levy Act, No. 48 of 2007, where such article is sold on or after January 1, 2014, by the importer of such article without any processing except for adaption for sale;;"
+                  "other than any excepted service referred to in the First Schedule to this Act:",
+                  "Provided that, the liable turnover from the supply of any financial service in Sri Lanka, by any person carrying on the business of banking or finance shall, notwithstanding anything contrary in any other provision of this Act, be the value addition attributable to such financial service, calculated for the purposes of applying the attributable method referred to in subsection (4) of section 25C of  the Value Added Tax Act, No. 14 of 2002, for the payment of Value Added Tax on the supply of finanical services :",
+                  "Provided further, that in calculating the value addition attributable to such financial service, where",
+                  "2PL 0080692900 (03/2014)",
+                  "Nation Building Tax (Amendment) Act, No. 10 of 2014 2",
+                  "the amount of profits for each relevant quarter cannot be accurately ascertained, such amount may be estimated on the basis of available information. The estimated amount shall be adjusted to reflect the actual amount with the audited statement of accounts on yearly basis and such adjustment shall be submitted within six months after the closing date of the relevant accounting period.;"
                 ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in paragraph (iv)",
+                "pre_block_list": [],
                 "child_level_list": [
                   {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "ii",
-                    "text": "by the substitution in subparagraph (7) thereof for the words producer thereof; and of the words producer thereof;;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "iii",
-                    "text": "by the substitution in subparagraph (8) thereof for the words in a filling station. of the words in a filling station;;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "iv",
-                    "text": "by the addition immediately after  subparagraph (8) of that paragraph, of the following subparagraphs:",
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "by the substitution for subparagraph (2) thereof of the following subparagraph:",
                     "pre_block_list": [
-                      "(9) retail sale of any article at duty free shops for payment in foreign currency; and",
-                      "(10) distribution of LP Gas",
+                      "(2) ( a ) sugar, dhal, potatoes, onions, dried fish, milk powder or chilies under the provisions of the Special Commodity Levy Act, No. 48 of 2007, where such article is sold on or before December 31, 2013, by the importer of such article; or",
+                      "( b ) any article which is subject to the Special Commodity Levy under the provisions of the Special Commodity Levy Act, No. 48 of 2007, where such article is sold on or after January 1, 2014, by the importer of such article without any processing except for adaption for sale;;"
+                    ],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "by the substitution in subparagraph (7) thereof for the words producer thereof; and of the words producer thereof;;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "by the substitution in subparagraph (8) thereof for the words in a filling station. of the words in a filling station;;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iv",
+                        "text": "by the addition immediately after  subparagraph (8) of that paragraph, of the following subparagraphs:",
+                        "pre_block_list": [
+                          "(9) retail sale of any article at duty free shops for payment in foreign currency; and",
+                          "(10) distribution of LP Gas",
+                          ""
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "The First Schedule to the principal enactment as last amended by Act, No. 11 of 2013 ,is hereby further amended as follows:",
+            "pre_block_list": [
+              "Amendment of First Schedule of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "In PART I of that Schedule:",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "by the substitution for item (xiii) thereof, of the following item:",
+                    "pre_block_list": [
+                      "(xiii) pharmaceuticals identified under the Harmonized of Commodity Descripion and Coding Numbers for Custom purposes;;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "by the substitution for item (xix) thereof, of the following item:",
+                    "pre_block_list": [
+                      "(xix) locally manufactured tractors at the point of sale;;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "by the substitution in item (XLIV) for the words project implementation period; and of the words project implementation period;;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "by the substitution in item (XLV) for the words approved by the Minister of Finance. of the words approved by the Minister of Finance; and;",
+                    "pre_block_list": [
+                      "Nation Building Tax (Amendment) Act, No. 10 of 2014 4"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "by the insertion immediatly after item (XLV) thereof the following new item:",
+                    "pre_block_list": [
+                      "(XLVI)locally manufactured coconut oil at the point of sale by the manufacturer, for a period of three years commencing from January 1, 2014;and;"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "In PART II of that schedule :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "by the substitution for item (i) thereof of the following item:",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "the business of Banking or Finance for any period ended on or before December 31, 2013;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      }
+                    ]
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "by the substitution for item (vi) thereof of the following item:",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "vi",
+                        "text": "the provision of finance leasing facilities in respect of any movable property;;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      }
+                    ]
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "by the substitution for item (xxvi) thereof of the following item:",
+                    "pre_block_list": [
+                      "(xxvi) services provided to or within any port or airport in relation to international transportation;;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "by the substitution for item (xxviii) thereof of the following item:",
+                    "pre_block_list": [
+                      "(xxviii) telecommunication services, in respect  of  which  the telecommunication levy has been paid under the Telecommunication Levy Act, No. 21 of 2011;;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "by the substitution in item (xxxv) for the words Monetary Law Act (Chapter 422); and of the words Monetary Law Act (Chapter 422);;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "f",
+                    "text": "by the substitution in item (xxxvi) for the words on behalf of the Government. of the words on behalf of the Government; and;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "g",
+                    "text": "by the insertion immediately after the item (xxxvi), of the following new item:",
+                    "pre_block_list": [
+                      "(xxxvii) the services provided by any relocted international headquaters or regional head office of any institution in the international network, prescribed for the purpose of Inland Revenue Act, for payment in foreign currency",
                       ""
                     ],
                     "child_level_list": []
@@ -91,172 +240,30 @@
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "The First Schedule to the principal enactment as last amended by Act, No. 11 of 2013 ,is hereby further amended as follows:",
-        "pre_block_list": [
-          "Amendment of First Schedule of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "In PART I of that Schedule:",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "by the substitution for item (xiii) thereof, of the following item:",
-                "pre_block_list": [
-                  "(xiii) pharmaceuticals identified under the Harmonized of Commodity Descripion and Coding Numbers for Custom purposes;;"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "by the substitution for item (xix) thereof, of the following item:",
-                "pre_block_list": [
-                  "(xix) locally manufactured tractors at the point of sale;;"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "by the substitution in item (XLIV) for the words project implementation period; and of the words project implementation period;;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "d",
-                "text": "by the substitution in item (XLV) for the words approved by the Minister of Finance. of the words approved by the Minister of Finance; and;",
-                "pre_block_list": [
-                  "Nation Building Tax (Amendment) Act, No. 10 of 2014 4"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "e",
-                "text": "by the insertion immediatly after item (XLV) thereof the following new item:",
-                "pre_block_list": [
-                  "(XLVI)locally manufactured coconut oil at the point of sale by the manufacturer, for a period of three years commencing from January 1, 2014;and;"
-                ],
-                "child_level_list": []
-              }
-            ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "In PART II of that schedule :",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "by the substitution for item (i) thereof of the following item:",
-                "pre_block_list": [],
-                "child_level_list": [
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "i",
-                    "text": "the business of Banking or Finance for any period ended on or before December 31, 2013;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  }
-                ]
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "by the substitution for item (vi) thereof of the following item:",
-                "pre_block_list": [],
-                "child_level_list": [
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "vi",
-                    "text": "the provision of finance leasing facilities in respect of any movable property;;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  }
-                ]
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "by the substitution for item (xxvi) thereof of the following item:",
-                "pre_block_list": [
-                  "(xxvi) services provided to or within any port or airport in relation to international transportation;;"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "d",
-                "text": "by the substitution for item (xxviii) thereof of the following item:",
-                "pre_block_list": [
-                  "(xxviii) telecommunication services, in respect  of  which  the telecommunication levy has been paid under the Telecommunication Levy Act, No. 21 of 2011;;"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "e",
-                "text": "by the substitution in item (xxxv) for the words Monetary Law Act (Chapter 422); and of the words Monetary Law Act (Chapter 422);;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "f",
-                "text": "by the substitution in item (xxxvi) for the words on behalf of the Government. of the words on behalf of the Government; and;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "g",
-                "text": "by the insertion immediately after the item (xxxvi), of the following new item:",
-                "pre_block_list": [
-                  "(xxxvii) the services provided by any relocted international headquaters or regional head office of any institution in the international network, prescribed for the purpose of Inland Revenue Act, for payment in foreign currency",
-                  ""
-                ],
-                "child_level_list": []
-              }
-            ]
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Where the Commissioner-General of Inland Revenue or the Director-General of Customs as the case may be, collects under the provisions of section 4 or section 5 respectively of the principal enactment, the tax calculated considering the provisions of this Act, during the period commencing from January 1, 2014 and ending on the date on which the cerificate of the Speaker is endorsed in respect of this Act from a person to whom the provisions of this Act applies, such collection shall be deemed for all purposes to have been, and to be validly made:",
+            "pre_block_list": [
+              "Validation.",
+              "Provided that the aforesaid provisions of this section shall not affect any decision or order made by any Court or any proceedings pending in any Court in respect of any tax collected during the aforesaid period."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of an inconsistency.",
+              "Nation Building Tax (Amendment) Act, No. 10 of 2014 6",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
+            ],
+            "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "Where the Commissioner-General of Inland Revenue or the Director-General of Customs as the case may be, collects under the provisions of section 4 or section 5 respectively of the principal enactment, the tax calculated considering the provisions of this Act, during the period commencing from January 1, 2014 and ending on the date on which the cerificate of the Speaker is endorsed in respect of this Act from a person to whom the provisions of this Act applies, such collection shall be deemed for all purposes to have been, and to be validly made:",
-        "pre_block_list": [
-          "Validation.",
-          "Provided that the aforesaid provisions of this section shall not affect any decision or order made by any Court or any proceedings pending in any Court in respect of any tax collected during the aforesaid period."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of an inconsistency.",
-          "Nation Building Tax (Amendment) Act, No. 10 of 2014 6",
-          "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

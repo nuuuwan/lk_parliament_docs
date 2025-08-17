@@ -19,87 +19,93 @@
       "Connected   Therewith   Or   Incidental   Thereto .",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "This Act may be cited as the Petroleum Resources Act, No. 21 of 2021.",
-            "pre_block_list": [
-              "Short title and date of operation"
-            ],
-            "child_level_list": []
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "This Act may be cited as the Petroleum Resources Act, No. 21 of 2021.",
+                "pre_block_list": [
+                  "Short title and date of operation"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "All the provisions of this Act, other than the provisions of Part V, shall come into operation on the date on which the certificate of the speaker is endorsed in respect of this Act in terms of Article 79 of the Constitution.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The provisions of Part V of this Act shall come into operation on such date as the Minister may, by Order published in the  Gazette , appoint for such purpose.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "All the provisions of this Act, other than the provisions of Part V, shall come into operation on the date on which the certificate of the speaker is endorsed in respect of this Act in terms of Article 79 of the Constitution.",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "The provisions of Part V of this Act shall come into operation on such date as the Minister may, by Order published in the  Gazette , appoint for such purpose.",
-            "pre_block_list": [],
-            "child_level_list": []
+            "text": "The objects of the Act shall be -",
+            "pre_block_list": [
+              "Objects of the Act"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to establish a Policy Advisory Committee to advise on formulation of a National Policy for the upstream petroleum industry covering the exploration, development, production, and management of all petroleum resources in Sri Lanka;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to provide the legal framework to regulate all processes of the exploration, development,",
+                "pre_block_list": [
+                  "production and management of all petroleum resources in Sri Lanka including the provision of operational guidelines;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to establish an independent, efficient, and transparent regulatory framework in relation to the exploration, development, production and management of petroleum resources in Sri Lanka;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to manage the available petroleum resources in an equitable, safe, and environmentally sustainable manner; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "to design, implement, monitor and revise fiscal regimes that meet evolving economic needs of the country, while providing fiscal stability to contractors.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           }
         ]
       },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The objects of the Act shall be -",
-        "pre_block_list": [
-          "Objects of the Act"
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "to establish a Policy Advisory Committee to advise on formulation of a National Policy for the upstream petroleum industry covering the exploration, development, production, and management of all petroleum resources in Sri Lanka;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "to provide the legal framework to regulate all processes of the exploration, development,",
-            "pre_block_list": [
-              "production and management of all petroleum resources in Sri Lanka including the provision of operational guidelines;"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "to establish an independent, efficient, and transparent regulatory framework in relation to the exploration, development, production and management of petroleum resources in Sri Lanka;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "d",
-            "text": "to manage the available petroleum resources in an equitable, safe, and environmentally sustainable manner; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "e",
-            "text": "to design, implement, monitor and revise fiscal regimes that meet evolving economic needs of the country, while providing fiscal stability to contractors.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      }
-    ],
-    "part_list": [
       {
         "class_name": "ActL0Part",
         "num": "I",

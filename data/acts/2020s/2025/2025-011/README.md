@@ -10,6 +10,7 @@ An Act To Amend The National Minimum Wage Of
 Workers Act, No. 3 Of 2016
 Be It Enacted By The Parliament Of The Democratic Socialist  Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the National Minimum  Wage of Workers (Amendment) Act, No. 11 of 2025.
             - Short title and  date of operation

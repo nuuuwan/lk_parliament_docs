@@ -10,6 +10,7 @@ L.D.O. 29/2009.
 A N   Act   To   Amend   The  S Hop   And  O Ffice  E Mployees  (R Egulation   Of E Mployment   And  R Emuneration ) A Ct  (C Hapter  129)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Shop and Office Employees (Regulation of  Employment and Remuneration) (Amendment)   Act, No. 14 of  2018.
         - Short title.
     2. Section 18 of the Shop and Office Employees (Regulation of Employment and Remuneration) Act (Chapter 129) is hereby amended, as follows:

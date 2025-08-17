@@ -9,6 +9,7 @@ L.D.O. 16/2013.
 A N  A Ct   To   Amend   The  M Uslim  M Arriage   And  D Ivorce  A Ct (C Hapter  115)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Muslim Marriage and Divorce  ( Amendment) Act, No. 24 of 2013 and shall be deemed to have  come into operation on January 1, 2013.
         - Short title and date of operation.
     2. Section 18 of the Muslim Marriage and Divorce Act (Chapter 115) (hereinafter referred to as the principal enactment) is hereby amended by the repeal of subsection (3) of that section and the substitution therefor of the following subsection:

@@ -9,6 +9,7 @@ L. D.O. 1/2011.
 A N  A Ct   To   Amend   The   F Isheries   And  A Quatic  R Esources A Ct , N O . 2  Of  1996
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the  Fisheries and Aquatic Resources (Amendment)  Act, No. 35 of 2013.
         - Short title.
     2. The long title to the  Fisheries and Aquatic Resources Act, No. 2 of 1996 (hereinafter referred to as the principal enactment) is hereby amended, by the substitution, for the words and figures F ISHERIES   AND  A QUATIC  R ESOURCES   IN S RI  L ANKA ;  TO   REPEAL   THE  F ISHERIES  O RDINANCE  ( CHAPTER  212),,
@@ -46,7 +47,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - Amendment of heading appearing in PART II of the principal enactment.
     5. The following new part is hereby inserted immediately after PART II of the principal enactment and shall have efffect as PART II A of the enactment:
         - Insertion of new PART II A in the principal enactment.
-
 II. 
     - L ICENSING   OF  F ISHING  O PERATIONS   IN   THE  H IGH  S EAS
     - 14 A . No person shall engage in any prescribed fishing operations in the High Seas, except under the authority, and otherwise than in accordance with the terms and conditions, of a licence granted by the Director-General.

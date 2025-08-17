@@ -10,6 +10,7 @@ L.D.O. 46/2018
 A N  A Ct   To   Amend   The  E Xcise  O Rdinance  (C Hapter  52)
 Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the  Excise (Amendment) Act, No. 18 of 2019.
         - Short  title.
     2. Section 35 of the Excise Ordinance (Chapter 52) (hereinafter referred to as the principal enactment) is hereby amended in subsection (1) thereof by the substitution for the words and figures, section 46 or section 47; of the words and figures, section 46, section 47 or paragraph ( a ) of section 48;.

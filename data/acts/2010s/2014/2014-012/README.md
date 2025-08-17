@@ -9,6 +9,7 @@ L. D.O. 10/2014.
 A N  A Ct   To   Amend   The  S Pecial  C Ommodity  L Evy A Ct , N O . 48  Of  2007
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Special Commodity Levy (Amendment) Act, No. 12 of  2014.
         - Short title.
     2. The Schedule to the Special Commodity Levy Act, No. 48 of 2007 is hereby amended by the addition immediately after item 6 of that Schedule, of the following new item:

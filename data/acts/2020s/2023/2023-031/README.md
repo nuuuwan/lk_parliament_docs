@@ -16,6 +16,7 @@ And Whereas It Has Now Become Apparent That The Said Trust Is Not Functioning Pr
 And Whereas It Has Become Necessary To Enact Legislation To Provide For The Establishment Of A Trust Called The Galaha Bhaddrawathie National Bhikkhu Care Centre Trust To Achieve The Objects Of The Said Galaha Bhaddrawathie National Bhikkhu Care Centre For The Benefit Of The Bhikkhus Who Are Sick And Helpless And To Matters Connected Therewith Or Incidental Thereto:
 Now Therefore Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of  2023.
         - Short title
     2. 

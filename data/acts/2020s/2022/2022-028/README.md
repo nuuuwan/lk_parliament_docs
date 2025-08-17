@@ -9,6 +9,7 @@ L.D.-O. 35/2016
 A N  A Ct   To   Amend   The  P Owers   Of  A Ttorney  O Rdinance (C Hapter  122)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Powers of Attorney (Amendment) Act, No. 28 of 2022.
         - Short title
     2. Section 2 of the Powers of Attorney Ordinance (Chapter 122)  (hereinafter referred to as the principal enactment) is hereby amended

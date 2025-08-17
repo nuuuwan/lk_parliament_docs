@@ -17,90 +17,97 @@
       "A N  A Ct   To   Amend   The  C Ivil  P Rocedure  C Ode  (C Hapter  101)",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Civil Procedure Code (Amendment) Act, No. 20 of 2023.",
-        "pre_block_list": [
-          "Short title"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The Civil Procedure Code (Chapter 101) is hereby amended by the repeal of section 205 thereof and substitution therefor of the following section:-",
-        "pre_block_list": [
-          "Amendment of section 205 of Chapter 101",
-          "205.  (1) The Registrar of the court shall, where the respective parties to an action apply for a certified copy of the judgment or final decree of the action or both, issue one certified copy of the same to each such party free of charge.",
-          "Persons to be entitled to certified copies of judgment, decree or proceedings in any action"
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Civil Procedure Code (Amendment) Act, No. 20 of 2023.",
+            "pre_block_list": [
+              "Short title"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "Subject to the provisions of subsection (1), the Registrar of the court shall, upon any person-",
-            "pre_block_list": [],
+            "text": "The Civil Procedure Code (Chapter 101) is hereby amended by the repeal of section 205 thereof and substitution therefor of the following section:-",
+            "pre_block_list": [
+              "Amendment of section 205 of Chapter 101",
+              "205.  (1) The Registrar of the court shall, where the respective parties to an action apply for a certified copy of the judgment or final decree of the action or both, issue one certified copy of the same to each such party free of charge.",
+              "Persons to be entitled to certified copies of judgment, decree or proceedings in any action"
+            ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "making an application accompanied by such fee as may be determined from time to time by the Secretary to the Ministry of the Minister assigned the subject of Justice by Notification published in the  Gazette  and supplying the necessary stamps, furnish to such person copies of the judgment, decree or proceedings in an action or any part thereof; or",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Subject to the provisions of subsection (1), the Registrar of the court shall, upon any person-",
                 "pre_block_list": [],
-                "child_level_list": []
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "making an application accompanied by such fee as may be determined from time to time by the Secretary to the Ministry of the Minister assigned the subject of Justice by Notification published in the  Gazette  and supplying the necessary stamps, furnish to such person copies of the judgment, decree or proceedings in an action or any part thereof; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "making  an  application  and producing the necessary stamps, examine and certify to the correctness of any such copies made by such person:",
+                    "pre_block_list": [
+                      "Provided that, a person other than a party to a matrimonial action, an adoption application or a custody application shall not be entitled to obtain certified copies of any proceedings or documents of   such action or application, except the judgment, order or decree thereof:",
+                      "Provided further that, upon being satisfied as to the requirement of an applicant who is not a party to such matrimonial action, adoption application or custody application, the court may direct the Registrar of such court to issue to such applicant, certified copies of the   proceedings or documents of such action or application."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "making  an  application  and producing the necessary stamps, examine and certify to the correctness of any such copies made by such person:",
-                "pre_block_list": [
-                  "Provided that, a person other than a party to a matrimonial action, an adoption application or a custody application shall not be entitled to obtain certified copies of any proceedings or documents of   such action or application, except the judgment, order or decree thereof:",
-                  "Provided further that, upon being satisfied as to the requirement of an applicant who is not a party to such matrimonial action, adoption application or custody application, the court may direct the Registrar of such court to issue to such applicant, certified copies of the   proceedings or documents of such action or application."
-                ],
-                "child_level_list": []
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Notwithstanding anything to the contrary in section 76 of the Evidence Ordinance (Chapter 14) or any other written law, a document issued or transmitted electronically by a court shall be deemed for the purposes of authentication and verification, to have been signed, sealed and dated by court, where such document",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "if originally created in electronic form, contains the electronic signature and electronic seal of the Registrar or such other officer authorized by law to place the signature together with his name and official title, the electronic seal of the court, and the date; or",
+                    "pre_block_list": [
+                      "Civil Procedure Code (Amendment) Act, No. 20 of 2023 3"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "if originally created in paper form and converted into an electronic copy in portable document format (PDF) or by similar file converter technology, contains the signature and seal of the Registrar or such other officer authorized by law to place the signature, together with his name and official title, the seal of the court, and the date",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
               }
             ]
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "3",
-            "text": "Notwithstanding anything to the contrary in section 76 of the Evidence Ordinance (Chapter 14) or any other written law, a document issued or transmitted electronically by a court shall be deemed for the purposes of authentication and verification, to have been signed, sealed and dated by court, where such document",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "if originally created in electronic form, contains the electronic signature and electronic seal of the Registrar or such other officer authorized by law to place the signature together with his name and official title, the electronic seal of the court, and the date; or",
-                "pre_block_list": [
-                  "Civil Procedure Code (Amendment) Act, No. 20 of 2023 3"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "if originally created in paper form and converted into an electronic copy in portable document format (PDF) or by similar file converter technology, contains the signature and seal of the Registrar or such other officer authorized by law to place the signature, together with his name and official title, the seal of the court, and the date",
-                "pre_block_list": [
-                  ""
-                ],
-                "child_level_list": []
-              }
-            ]
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+            ],
+            "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

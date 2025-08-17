@@ -9,6 +9,7 @@ L.D.O. 26/2018
 A N  A Ct   To   Amend   The  R Egistration   Of  E Lectors A Ct , N O . 44  Of  1980
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Registration of Electors (Amendment) Act, No. 22 of 2021 and shall come into operation on February 1, 2022.
         - Short title and the date of operation
     2. Section 3 of the Registration of Electors  Act, No. 44 of 1980 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words, The first day of June, of the words The first day of February.

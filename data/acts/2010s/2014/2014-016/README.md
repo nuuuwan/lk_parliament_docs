@@ -12,6 +12,7 @@ Preamble.
 And Whereas The Said Board Has Heretofore Successfully Carried Out And Transacted The Several Objects And Matters For Which It Was Formed And Has Applied To Be Incorporated And It Will Be For The Public Advantage To Grant The Said Application:
 Be It Therefore, Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Samastha Lanka Sasanarakshaka Mandalaya (Incorporation) Act, No. 16 of 2014.
         - Short title.
     2. 

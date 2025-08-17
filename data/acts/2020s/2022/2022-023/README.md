@@ -9,6 +9,7 @@ L.D.O. 24/2021
 A N  A Ct   To   Amend   The  T Ermination   Of  E Mployment   Of  W Orkmen (S Pecial  P Rovisions ) A Ct , N O . 45  Of  1971
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Termination of Employment of Workmen (Special Provisions) (Amendment) Act,  No. 23 of 2022.
         - Short title
     2. Section 2 of the Termination of Employment of Workmen (Special Provisions) Act, No. 45 of 1971 (hereinafter referred to as the principal enactment) is hereby amended as follows:

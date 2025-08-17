@@ -1,0 +1,140 @@
+{
+  "n_pages": 6,
+  "title_page": {
+    "title": "Stamp  Duty  (Amendment) Act",
+    "num": "27",
+    "year": "2000",
+    "date_certified": null,
+    "date_published": "2000-07-21",
+    "price": 4.5,
+    "price_postage": 3.5
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified  On 19Th  July, 2000]",
+      "L.D.O. 13/2000.",
+      "A N  A Ct   To   Amend   The  S Tamp  D Uty  A Ct , N O . 43  Of  1982",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Stamp Duty (Amendment) Act, No.  27  of 2000.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 5 of the Stamp Duty Act, No. 43 of 1982 (hereinafter referred to as the principal enactment) as last amended by Act No. 25 of 1999 is hereby amended by the addition, at the end of that section, of the following paragraphs :",
+            "pre_block_list": [
+              "Amendment of section 5 of Act No. 43 of 1982."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "28",
+                "text": "a forward contract between a buyer and a seller, for the sale of agricultural produce ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "29",
+                "text": "a bill of exchange or inland bill of exchange drawn in connection with a contract referred to in paragraph (28)",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 13 of the principal enactment as last amended by Act No. 29 of 1993 is hereby amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 13 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of subsection (2) of that section, and the substitution of the following subsection therefor :",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Notwithstanding the preceding provisions of this section",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "any person making payments to one hundred employees or more in respect of their employment shall collect stamp duty payable on the receipts for such payment ;",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "every bank, approved credit agency, institution, company or licensed stock broker shall collect the stamp duty payable in respect of  every bill of",
+                        "pre_block_list": [
+                          "2H 006524 7,075 (00/03)",
+                          "exchange (other than a cheque), promissory note, trust receipt, letter of trust or declaration of trust taken by it, every pledge in respect of corporeal movables made to it, every application made to it for a letter of credit (other than an application in respect of which a letter of credit is opened on or after April 1, 2000, solely for the  purpose of import of goods into Sri Lanka from another country including imports on entrepot terms) every certificate of deposit issued by it, any one of the documents of payment presented to it in respect of any corporeal movable (being any corporeal movable in respect of which a letter of credit has not been opened with it), share certificate  issued by it, and the instrument effecting a transfer of shares in a quoted public company effected by him or it ; and"
+                        ],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "The Director - General of Customs shall collect stamp duty on every invoice presented to him for the purpose of import of goods into Sri Lanka including imports made on entrepot terms,",
+                        "pre_block_list": [
+                          "and shall, in every such case, unless otherwise  directed,  remit  to  the Commissioner-General quarterly, within fifteen days of the end of each quarter ending on March 31, June 30, September 30 and December 31 of every year, the sums payable as stamp duty during each preceding quarter, together with a certified statement of collection.; and",
+                          "(2) by the repeal of subsection (4) of that section, and the substitution, of the following subsection therefor :",
+                          "(4) Where the payment of the stamp duty with which every bill of exchange (other than a cheque) promissory note, trust receipt, letter of trust, declaration of  trust, pledge in respect of corporeal movables, application made for a letter of credit, an invoice presented to the Director- General of Customs for the  purpose of import of goods, certificate  of deposit, any one of the documents of payment presented to it in respect of  any corporeal movable (being any corporeal movable in respect of which a letter of credit has not been opened with it), share certificate or instrument effecting a transfer of shares in a quoted public company has been compounded or collected and remitted, as the case may be, in accordance with this section, the bank, the approved credit agency, institution, company, licensed stock broker or the Director-General of Customs, as the case may be, shall certify on such bill of exchange (other  than a cheque), promissory note, trust receipt, letter of trust, declaration of trust, pledge in respect of corporeal movable, application made for a letter of credit, invoice for the import of goods, certificate of deposit, document of  payment, share certificate or instrument effecting transfer of shares in a quoted public company, as the case may be, that the stamp duty payable on it has been compounded or collected and remitted, as  the case may be. Such certificate shall be substantially in the following form :",
+                          "It is hereby certified that the stamp duty payable in respect of this instrument, namely, Rs.  has been compounded in terms of section 13 of the Stamp Duty Act",
+                          ""
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "The provisions of this Act shall be deemed to have come into force on April 1, 2000, and accordingly, where the stamp duty payable on an invoice for the import of goods has been compounded by the Director-General of Customs, in accordance with the provisions of section 13 of the principal enactment as amended by section 3 of this Act, at any time during the period commencing on April 1, 2000 and ending on the date on which this Act is certified as an Act of Parliament, such compounding shall be deemed to have been, and to be, validly made.",
+            "pre_block_list": [
+              "Retrospective effect."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , N O . 32, T RANSWORKS  H OUSE , L OTUS  R OAD , C OLOMBO  01 before 15th December each year in respect of the year following."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

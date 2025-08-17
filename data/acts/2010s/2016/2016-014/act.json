@@ -25,72 +25,78 @@
       "And Whereas   It Is Recognised That The Establishment Of An Office On Missing Persons Is Necessary To Take All Necessary Measures To Search And Trace Missing Persons; To Protect The Rights And Interests Of Missing Persons And Their Relatives; And Towards Ensuring Non-Recurrence:",
       "Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "This Act may be cited as the Office on Missing Persons (Establishment, Administration and Discharge of Functions) Act, No. 14 of 2016.",
-            "pre_block_list": [
-              "Short title and date of operation.",
-              "2PL 0100323061  (06/2016)"
-            ],
-            "child_level_list": []
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "This Act may be cited as the Office on Missing Persons (Establishment, Administration and Discharge of Functions) Act, No. 14 of 2016.",
+                "pre_block_list": [
+                  "Short title and date of operation.",
+                  "2PL 0100323061  (06/2016)"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The provisions of this Act shall come into operation on such date as the Minister may appoint, by Order published in the  Gazette  (hereinafter referred to as the appointed date).",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "The provisions of this Act shall come into operation on such date as the Minister may appoint, by Order published in the  Gazette  (hereinafter referred to as the appointed date).",
-            "pre_block_list": [],
-            "child_level_list": []
+            "text": "The objectives of the Office on Missing Persons (Establishment, Administration and Discharge of Functions) Act is to ensure that all necessary measures are taken",
+            "pre_block_list": [
+              "Objectives of the Act."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to provide appropriate mechanisms for searching and tracing of missing persons, and to clarify the circumstances in which such persons went missing, and their fate ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to make recommendations to the relevant authorities towards reducing the incidents of missing persons within the meaning of this Act;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to protect the rights and interests of missing persons and their relatives as provided for in this Act;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to identify proper avenues of redress to which such missing persons or their relatives may have recourse.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           }
         ]
       },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The objectives of the Office on Missing Persons (Establishment, Administration and Discharge of Functions) Act is to ensure that all necessary measures are taken",
-        "pre_block_list": [
-          "Objectives of the Act."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "to provide appropriate mechanisms for searching and tracing of missing persons, and to clarify the circumstances in which such persons went missing, and their fate ;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "to make recommendations to the relevant authorities towards reducing the incidents of missing persons within the meaning of this Act;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "to protect the rights and interests of missing persons and their relatives as provided for in this Act;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "d",
-            "text": "to identify proper avenues of redress to which such missing persons or their relatives may have recourse.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      }
-    ],
-    "part_list": [
       {
         "class_name": "ActL0Part",
         "num": "I",

@@ -20,9 +20,9 @@ Ceylon German Technical Training Institute Act, No. 15 Of 2017 2
 Training Institute And It Has Therefore Now Become Necessary To Provide For The Establishment, By Legislation, Of An Institute As A Separate Legal Entity And To Specify The Powers, Functions And  Duties Thereof:
 Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Ceylon German Technical Training Institute Act, No. 15 of 2017 and shall come into operation on such date as the Minister may appoint by Order published in the  Gazette   (hereinafter referred to as the appointed date).
         - Short title and date of operation.
-
 I. 
     - E STABLISHMENT   OF   THE  C EYLON  G ERMAN  T ECHNICAL  T RAINING I NSTITUTE
     2. 

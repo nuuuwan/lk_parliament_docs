@@ -9,6 +9,7 @@ L.D.-O.68/2017
 A N  A Ct   To   Amend   The  C Ompanies  A Ct , N O . 07  Of  2007
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Companies (Amendment)  Act, No. 23 of 2024.
             - Short  title and date of operation

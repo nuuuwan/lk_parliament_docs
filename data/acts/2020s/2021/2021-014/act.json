@@ -17,87 +17,94 @@
       "A N  A Ct   To   Amend   The  C Ode   Of  C Riminal  P Rocedure A Ct , N O . 15  Of  1979",
       "Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Code of Criminal Procedure (Amendment) Act, No. 14 of  2021.",
-        "pre_block_list": [
-          "Short title"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The following new section is hereby inserted immediately after section 43 A  of the Code of Criminal Procedure Act, No. 15 of 1979 and shall have effect as section 43 B  of that Act:",
-        "pre_block_list": [
-          "Insertion of new section 43 B  in Act, No. 15 of 1979",
-          "43 B . (1) It shall be the duty of every Magistrate to visit every police station situated within the judicial division in respect of which he is appointed, at least once in every month to ensure that the suspects under the police custody at such police stations are protected to the extent provided for in the Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment Act, No. 22 of 1994.",
-          "Duty of Magistrates to visit police stations"
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Code of Criminal Procedure (Amendment) Act, No. 14 of  2021.",
+            "pre_block_list": [
+              "Short title"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "For the purpose of subsection (1), the Magistrate who visits the police station, shall-",
-            "pre_block_list": [],
+            "text": "The following new section is hereby inserted immediately after section 43 A  of the Code of Criminal Procedure Act, No. 15 of 1979 and shall have effect as section 43 B  of that Act:",
+            "pre_block_list": [
+              "Insertion of new section 43 B  in Act, No. 15 of 1979",
+              "43 B . (1) It shall be the duty of every Magistrate to visit every police station situated within the judicial division in respect of which he is appointed, at least once in every month to ensure that the suspects under the police custody at such police stations are protected to the extent provided for in the Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment Act, No. 22 of 1994.",
+              "Duty of Magistrates to visit police stations"
+            ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "personally see the suspect, and look into his well-being, welfare and conditions under which he is kept at such police station; and",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "For the purpose of subsection (1), the Magistrate who visits the police station, shall-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "personally see the suspect, and look into his well-being, welfare and conditions under which he is kept at such police station; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "record his observations and any complaint the suspect may make.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Where the Magistrate is of the opinion, that the suspect may have been subjected to",
+                "pre_block_list": [
+                  "torture, the Magistrate may direct that the suspect be produced before a judicial medical officer or a government medical officer for medical examination, and a report be submitted by such medical officer to the Magistrate."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Where the report of such medical officer reveals that the suspect has been subjected to torture, the Magistrate shall make an appropriate order, including directions to provide necessary medical treatment to the suspect and to change the place of custody of such suspect.",
                 "pre_block_list": [],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "record his observations and any complaint the suspect may make.",
-                "pre_block_list": [],
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "The Magistrate shall also direct the Inspector General of Police to commence an investigation into the alleged torture in order to enable the Attorney-General to institute criminal proceedings against the person who is alleged to have committed the torture",
+                "pre_block_list": [
+                  ""
+                ],
                 "child_level_list": []
               }
             ]
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "3",
-            "text": "Where the Magistrate is of the opinion, that the suspect may have been subjected to",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
             "pre_block_list": [
-              "torture, the Magistrate may direct that the suspect be produced before a judicial medical officer or a government medical officer for medical examination, and a report be submitted by such medical officer to the Magistrate."
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "4",
-            "text": "Where the report of such medical officer reveals that the suspect has been subjected to torture, the Magistrate shall make an appropriate order, including directions to provide necessary medical treatment to the suspect and to change the place of custody of such suspect.",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "5",
-            "text": "The Magistrate shall also direct the Inspector General of Police to commence an investigation into the alleged torture in order to enable the Attorney-General to institute criminal proceedings against the person who is alleged to have committed the torture",
-            "pre_block_list": [
-              ""
+              "Sinhala text to prevail in case of inconsistency",
+              "Code of Criminal Procedure (Amendment) Act, No. 14 of 2021 3",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
             ],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency",
-          "Code of Criminal Procedure (Amendment) Act, No. 14 of 2021 3",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

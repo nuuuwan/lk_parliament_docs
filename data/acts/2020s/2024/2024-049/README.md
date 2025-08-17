@@ -10,12 +10,12 @@ A N  A Ct   To   Make   Provision   For   The  R Eciprocal  R Ecognition , R Egi
 Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Reciprocal   Recognition, Registration and    Enforcement of Foreign Judgments Act, No. 49 of 2024.
             - Short title and date of operation
         2. The provisions of this Act, other than the provisions of this section shall come into operation on such date as the Minister may appoint by Order published in the  Gazette  (in this Act referred to as the appointed date).
         3. The provisions of this section shall come into operation on the date on which the Bill becomes an Act of Parliament.
-
 I. 
     - A PPLICATION   OF   THE  A CT
     2. 

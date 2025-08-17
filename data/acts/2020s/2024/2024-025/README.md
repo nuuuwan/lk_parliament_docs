@@ -9,6 +9,7 @@ L. D.- O 29/2022
 A N  A Ct   To   Amend   The  C Ode   Of  C Riminal  P Rocedure A Ct , N O . 15  Of  1979
 Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Code of Criminal Procedure (Amendment) Act, No. 25 of 2024.
         - Short title
     2. Section 185 of the Code of Criminal Procedure Act, No. 15 of 1979 (hereinafter referred to as the principal enactment) is hereby amended as follows: -

@@ -16,39 +16,46 @@
       "A N  A Ct   To   Amend   The  R Ecovery   Of  L Oans   By  B Anks (S Pecial  P Rovisions ) A Ct , N O . 4  Of  1990",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Recovery of Loans by Banks (Special Provisions) (Amendment) Act, No. 26 of 2024.",
-        "pre_block_list": [
-          "Short title"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The following new section is hereby inserted immediately after section 4 of the Recovery of Loans by Banks (Special Provisions) Act, No. 4 of 1990 and shall have effect as section 4 A  of that Act:-",
-        "pre_block_list": [
-          "Insertion of new section 4 A  in Act, No. 4 of 1990",
-          "4 A . Notwithstanding the provisions of, the proviso to section 3 and section 4, the Board shall not authorize any person to sell by public auction any property mortgaged to the bank as security for any loan in respect of which default has been made, during the period  commencing on the date of commencement this section and ending on 15 th  December, 2024",
-          "",
-          "Temporary suspension of selling of any property by public auction"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in the case of inconsistency",
-          "Department of Government Printing English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Recovery of Loans by Banks (Special Provisions) (Amendment) Act, No. 26 of 2024.",
+            "pre_block_list": [
+              "Short title"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "The following new section is hereby inserted immediately after section 4 of the Recovery of Loans by Banks (Special Provisions) Act, No. 4 of 1990 and shall have effect as section 4 A  of that Act:-",
+            "pre_block_list": [
+              "Insertion of new section 4 A  in Act, No. 4 of 1990",
+              "4 A . Notwithstanding the provisions of, the proviso to section 3 and section 4, the Board shall not authorize any person to sell by public auction any property mortgaged to the bank as security for any loan in respect of which default has been made, during the period  commencing on the date of commencement this section and ending on 15 th  December, 2024",
+              "",
+              "Temporary suspension of selling of any property by public auction"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in the case of inconsistency",
+              "Department of Government Printing English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+            ],
+            "child_level_list": []
+          }
+        ]
       }
-    ],
-    "part_list": []
+    ]
   }
 }

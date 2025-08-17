@@ -12,6 +12,7 @@ Through  M Odern  E Xploration , D Evelopment , P Roduction   And M Anagement   
 Connected   Therewith   Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. 
         1. This Act may be cited as the Petroleum Resources Act, No. 21 of 2021.
             - Short title and date of operation
@@ -25,7 +26,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
             c. to establish an independent, efficient, and transparent regulatory framework in relation to the exploration, development, production and management of petroleum resources in Sri Lanka;
             d. to manage the available petroleum resources in an equitable, safe, and environmentally sustainable manner; and
             e. to design, implement, monitor and revise fiscal regimes that meet evolving economic needs of the country, while providing fiscal stability to contractors.
-
 I. 
     - P ETROLEUM  D EVELOPMENT  A UTHORITY   OF  S RI  L ANKA
     3. 

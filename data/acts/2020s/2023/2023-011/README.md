@@ -10,6 +10,7 @@ L.D.O. 17/2022
 A N  A Ct   To   Amend   The  B Etting   And  G Aming  L Evy A Ct , N O . 40  Of  1988
 Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Betting and Gaming Levy (Amendment) Act, No. 11 of 2023.
         - Short  title
         - Amendment of section 2 of Act, No. 40 of 1988

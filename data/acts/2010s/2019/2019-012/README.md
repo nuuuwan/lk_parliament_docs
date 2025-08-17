@@ -10,6 +10,7 @@ L. D.O. 14/2018
 A N  A Ct   To   Repeal   The  R Evival   Of  U Nderperforming E Nterprises   Or  U Nderutilized  A Ssets  A Ct , N O . 43  Of  2011
 Be  It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Revival of Underperforming Enterprises or Underutilized Assets (Repeal) Act, No. 12 of 2019.
         - Short title.
     2. The Revival of Underperforming Enterprises or Underutilized Assets Act, No. 43 of 2011 (hereinafter referred to as the repealed Act) is hereby repealed.

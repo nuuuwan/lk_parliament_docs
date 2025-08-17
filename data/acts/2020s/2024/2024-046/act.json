@@ -17,205 +17,212 @@
       "A N  A Ct   To   Amend   The  M Edical  O Rdinance  (C Hapter  105)",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Medical (Amendment) Act, No. 46 of 2024.",
-        "pre_block_list": [
-          "Short  title"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 19 of the Medical Ordinance (Chapter 105) (hereinafter referred to as the principal enactment) is hereby amended as follows:-",
-        "pre_block_list": [
-          "Amendment of section 19 of Chapter 105"
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "in paragraph ( f ) thereof, by the substitution for the words universities and other institutions. of the words universities and other institutions;; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "immediately after paragraph ( f ) thereof, by the addition of the following:-",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "g",
-                "text": "the criteria of recognizing and renewal of recognition of any medical qualification relating to any degree programme conducted by a recognized university or institution;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "h",
-                "text": "the criteria of adopting the international ranking and categorization of any  recognized university or institution in recognizing the medical qualification relating to any degree programme conducted by any recognized university or institution;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "i",
-                "text": "the procedure to be followed in approving any medical qualification relating to degrees obtained from a recognized university or institution; and",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "j",
-                "text": "the evaluation criteria and conditions in respect of any examination to practice medicine or dentistry in Sri Lanka for citizens of Sri Lanka holding any medical qualification relating to any degree obtained from any foreign university or institution",
-                "pre_block_list": [
-                  ""
-                ],
-                "child_level_list": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 19 C  of the principal enactment is hereby amended as follows:-",
-        "pre_block_list": [
-          "Amendment of section 19 C  of the principal enactment"
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by the insertion immediately after subsection (2) thereof, of the following:-",
+            "text": "This Act may be cited as the Medical (Amendment) Act, No. 46 of 2024.",
             "pre_block_list": [
-              "(2 A ) Upon receipt of any comments from a recognized university or institution under subsection (2), the Minister shall refer such comments together with the recommendation made by the Medical Council under subsection (1) to a committee consisting of the following members:-"
-            ],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "the Additional Secretary (Medical Services) of the Ministry of the Minister assigned the subject of Health; and",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "four other eminent Professors in the medical field nominated by the Secretary to the Ministry of the Minister assigned the subject of Health in consultation with the University Grants Commission.;",
-                "pre_block_list": [],
-                "child_level_list": []
-              }
-            ]
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "by the repeal of subsection (3) thereof, and the substitution therefor of the following:-",
-            "pre_block_list": [
-              "Medical (Amendment)  Act, No. 46 of 2024 3"
+              "Short  title"
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "Where the Minister after examining the recommendation made by the Medical Council under subsection (1) and the comments, if any, made by a recognized university or institution under subsection (2), and in consultation with the committee appointed under subsection (2 A ), is satisfied that",
-            "pre_block_list": [],
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 19 of the Medical Ordinance (Chapter 105) (hereinafter referred to as the principal enactment) is hereby amended as follows:-",
+            "pre_block_list": [
+              "Amendment of section 19 of Chapter 105"
+            ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "the course of study provided by such university or institution leading to the grant or conferment of a medical qualification;",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in paragraph ( f ) thereof, by the substitution for the words universities and other institutions. of the words universities and other institutions;; and",
                 "pre_block_list": [],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "the degree of proficiency required at examinations held by such university or institution for grant or conferment of such qualification;",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "immediately after paragraph ( f ) thereof, by the addition of the following:-",
                 "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "the  staff,  equipment, accommodation and facilities provided by such university or institution for such course of study,",
-                "pre_block_list": [
-                  "do not conform to the prescribed standards, he shall, declare by Order published in the  Gazette  that any provision of this Ordinance which enables the holder of such qualification to be registered under this Ordinance shall cease to have effect in relation to such university or institution or in relation to any institution affiliated to such university, from such date as specified in such Order",
-                  ""
-                ],
-                "child_level_list": []
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "g",
+                    "text": "the criteria of recognizing and renewal of recognition of any medical qualification relating to any degree programme conducted by a recognized university or institution;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "h",
+                    "text": "the criteria of adopting the international ranking and categorization of any  recognized university or institution in recognizing the medical qualification relating to any degree programme conducted by any recognized university or institution;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "the procedure to be followed in approving any medical qualification relating to degrees obtained from a recognized university or institution; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "j",
+                    "text": "the evaluation criteria and conditions in respect of any examination to practice medicine or dentistry in Sri Lanka for citizens of Sri Lanka holding any medical qualification relating to any degree obtained from any foreign university or institution",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "Section 19 E  of the principal enactment is hereby amended in the definition of the expression recognized university or institution, by the substitution for the words any university or institution of the words any university or institution, or any institution affiliated to such university whether   local or foreign.",
-        "pre_block_list": [
-          "Amendment of section 19 E  of the principal enactment"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "Section 29 of the principal enactment is hereby amended as follows: -",
-        "pre_block_list": [
-          "Amendment of section 29 of the principal enactment"
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "in subsection (1) thereof, by the substitution in paragraph ( b ) (ii) ( bb ), for the words recognized by the Medical Council of the words recognized by the Medical Council as shall be prescribed,;",
-            "pre_block_list": [],
-            "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "in subsection (1) thereof, by the substitution in paragraph ( b ) (iv) ( bb ) (i) for the words recognized by the Medical Council of the words recognized by the Medical Council as shall be prescribed,;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "3",
-            "text": "in subsection (2) thereof, by the substitution in paragraph ( b ) (iii) ( bb ) (i) for the words recognized by the Medical Council of the words recognized by the Medical Council as shall be prescribed,; and",
-            "pre_block_list": [],
-            "child_level_list": []
+            "text": "Section 19 C  of the principal enactment is hereby amended as follows:-",
+            "pre_block_list": [
+              "Amendment of section 19 C  of the principal enactment"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the insertion immediately after subsection (2) thereof, of the following:-",
+                "pre_block_list": [
+                  "(2 A ) Upon receipt of any comments from a recognized university or institution under subsection (2), the Minister shall refer such comments together with the recommendation made by the Medical Council under subsection (1) to a committee consisting of the following members:-"
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the Additional Secretary (Medical Services) of the Ministry of the Minister assigned the subject of Health; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "four other eminent Professors in the medical field nominated by the Secretary to the Ministry of the Minister assigned the subject of Health in consultation with the University Grants Commission.;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the repeal of subsection (3) thereof, and the substitution therefor of the following:-",
+                "pre_block_list": [
+                  "Medical (Amendment)  Act, No. 46 of 2024 3"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Where the Minister after examining the recommendation made by the Medical Council under subsection (1) and the comments, if any, made by a recognized university or institution under subsection (2), and in consultation with the committee appointed under subsection (2 A ), is satisfied that",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the course of study provided by such university or institution leading to the grant or conferment of a medical qualification;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the degree of proficiency required at examinations held by such university or institution for grant or conferment of such qualification;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "the  staff,  equipment, accommodation and facilities provided by such university or institution for such course of study,",
+                    "pre_block_list": [
+                      "do not conform to the prescribed standards, he shall, declare by Order published in the  Gazette  that any provision of this Ordinance which enables the holder of such qualification to be registered under this Ordinance shall cease to have effect in relation to such university or institution or in relation to any institution affiliated to such university, from such date as specified in such Order",
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "4",
-            "text": "in subsection (2) thereof, by the substitution in paragraph ( b ) (iii) ( bb ) (ii) for the words recognized by the Medical Council of the words recognized by the Medical Council as shall be prescribed,.",
-            "pre_block_list": [],
+            "text": "Section 19 E  of the principal enactment is hereby amended in the definition of the expression recognized university or institution, by the substitution for the words any university or institution of the words any university or institution, or any institution affiliated to such university whether   local or foreign.",
+            "pre_block_list": [
+              "Amendment of section 19 E  of the principal enactment"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Section 29 of the principal enactment is hereby amended as follows: -",
+            "pre_block_list": [
+              "Amendment of section 29 of the principal enactment"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (1) thereof, by the substitution in paragraph ( b ) (ii) ( bb ), for the words recognized by the Medical Council of the words recognized by the Medical Council as shall be prescribed,;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (1) thereof, by the substitution in paragraph ( b ) (iv) ( bb ) (i) for the words recognized by the Medical Council of the words recognized by the Medical Council as shall be prescribed,;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "in subsection (2) thereof, by the substitution in paragraph ( b ) (iii) ( bb ) (i) for the words recognized by the Medical Council of the words recognized by the Medical Council as shall be prescribed,; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "in subsection (2) thereof, by the substitution in paragraph ( b ) (iii) ( bb ) (ii) for the words recognized by the Medical Council of the words recognized by the Medical Council as shall be prescribed,.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency",
+              "Medical (Amendment)  Act, No. 46 of 2024 5",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+            ],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "6",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency",
-          "Medical (Amendment)  Act, No. 46 of 2024 5",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

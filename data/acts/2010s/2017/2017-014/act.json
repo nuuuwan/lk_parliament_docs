@@ -16,252 +16,259 @@
       "A N  A Ct   To   Amend   The   S Ugathadasa  N Ational  S Ports  C Omplex A Uthority  A Ct , N O . 17  Of  1999",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the  Sugathadasa National Sports Complex Authority (Amendment)  Act, No. 14 of 2017.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The long title to the  Sugathadasa National Sports Complex Authority Act, No. 17 of 1999 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words TO MANAGE AND MAINTAIN of the words TO MANAGE, MAINTAIN, PROTECT AND DEVELOP.",
-        "pre_block_list": [
-          "Amendment of the long title to Act, No. 17 of 1999."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "The following new section is hereby inserted immediately after section 2 of the principal enactment and shall have effect as section 2 A  of that enactment:",
-        "pre_block_list": [
-          "Insertion of new section 2 A  in the principal enactment.",
-          "2 A . The objects of the Authority shall be to ",
-          "Objects of the Authority."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "manage, maintain, protect and develop the Sugathadasa National Sports Complex;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "improve sports and recreational activities and facilities at the Sugathadasa National Sports Complex to meet the requirements of sports economy and sports tourism;",
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the  Sugathadasa National Sports Complex Authority (Amendment)  Act, No. 14 of 2017.",
             "pre_block_list": [
-              "2PL 005274   2,961 (06/2017)"
+              "Short title."
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "provide the facilities available at the Sugathadasa National Sports Complex for the advancement of sports in the country;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "d",
-            "text": "ensure that sports and recreation are used as tools to support social cohesion and nation building; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "e",
-            "text": "make available, on such conditions and on such fees as may be determined by the Board, the facilities of the Sugathadasa National Sports Complex for sports, educational,  cultural,  and recreational activities",
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "The long title to the  Sugathadasa National Sports Complex Authority Act, No. 17 of 1999 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words TO MANAGE AND MAINTAIN of the words TO MANAGE, MAINTAIN, PROTECT AND DEVELOP.",
             "pre_block_list": [
-              ""
+              "Amendment of the long title to Act, No. 17 of 1999."
             ],
             "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "Section 3 of the principal enactment is hereby amended by the repeal of subsections (3) and (4) of that section and the substitution therefor of the following subsections:",
-        "pre_block_list": [
-          "Amendment of section 3 of the principal enactment."
-        ],
-        "child_level_list": [
+          },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "3",
-            "text": "The Minister shall appoint",
-            "pre_block_list": [],
+            "text": "The following new section is hereby inserted immediately after section 2 of the principal enactment and shall have effect as section 2 A  of that enactment:",
+            "pre_block_list": [
+              "Insertion of new section 2 A  in the principal enactment.",
+              "2 A . The objects of the Authority shall be to ",
+              "Objects of the Authority."
+            ],
             "child_level_list": [
               {
                 "class_name": "ActL3Paragraph",
                 "num": "a",
-                "text": "one of the members of  the Board to be the Chairman of the Authority; and",
+                "text": "manage, maintain, protect and develop the Sugathadasa National Sports Complex;",
                 "pre_block_list": [],
                 "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
                 "num": "b",
-                "text": "an appointed member of the Board to be the Working Director of the Authority to facilitate the management and administration of the affairs of the Authority.",
-                "pre_block_list": [],
+                "text": "improve sports and recreational activities and facilities at the Sugathadasa National Sports Complex to meet the requirements of sports economy and sports tourism;",
+                "pre_block_list": [
+                  "2PL 005274   2,961 (06/2017)"
+                ],
                 "child_level_list": []
-              }
-            ]
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "4",
-            "text": "The provisions of the Schedule to this Act shall have effect in relation to the terms of office of, and the vacation of office by, the Chairman, Working Director and the appointed members of the Board, meetings of the Board and the seal of the Authority",
-            "pre_block_list": [
-              ""
-            ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "Section 4 of the principal enactment is hereby amended in subsection (1) of that section as follows:",
-        "pre_block_list": [
-          "Amendment of section 4 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by the repeal of paragraph ( a ) thereof and the substitution therefor of the following paragraph:",
-            "pre_block_list": [],
-            "child_level_list": [
+              },
               {
                 "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "manage, maintain, protect and develop the Sugathadasa National Sports Complex and take necessary measures to safeguard it as a national asset;; and",
+                "num": "c",
+                "text": "provide the facilities available at the Sugathadasa National Sports Complex for the advancement of sports in the country;",
                 "pre_block_list": [],
                 "child_level_list": []
-              }
-            ]
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "by the repeal of paragraph ( h ) thereof and the substitution therefor of the following paragraph:",
-            "pre_block_list": [],
-            "child_level_list": [
+              },
               {
                 "class_name": "ActL3Paragraph",
-                "num": "h",
-                "text": "make available on such conditions and on such appropriate cost reflective fees as may be determined by the Board, the facilities of the Sugathadasa National Sports Complex for sports, educational, cultural and recreational activities",
+                "num": "d",
+                "text": "ensure that sports and recreation are used as tools to support social cohesion and nation building; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "make available, on such conditions and on such fees as may be determined by the Board, the facilities of the Sugathadasa National Sports Complex for sports, educational,  cultural,  and recreational activities",
                 "pre_block_list": [
                   ""
                 ],
                 "child_level_list": []
               }
             ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "6",
-        "text": "Section 5 of the principal enactment is hereby amended as follows:",
-        "pre_block_list": [
-          "Amendment of section 5 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by the repeal of paragraph ( a ) of that section and the substitution therefor of the following paragraph:",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "to purchase and hold property, both movable and immovable, and to give on lease or hire the same;; and",
-                "pre_block_list": [],
-                "child_level_list": []
-              }
-            ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "by the repeal of paragraph ( j ) of that section and the substitution therefor of the following paragraph:",
-            "pre_block_list": [],
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 3 of the principal enactment is hereby amended by the repeal of subsections (3) and (4) of that section and the substitution therefor of the following subsections:",
+            "pre_block_list": [
+              "Amendment of section 3 of the principal enactment."
+            ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "j",
-                "text": "to do all such other acts as may be necessary, incidental or conducive to the attainment of the objects of the Authority or the discharge of its functions under this Act",
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Minister shall appoint",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "one of the members of  the Board to be the Chairman of the Authority; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "an appointed member of the Board to be the Working Director of the Authority to facilitate the management and administration of the affairs of the Authority.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The provisions of the Schedule to this Act shall have effect in relation to the terms of office of, and the vacation of office by, the Chairman, Working Director and the appointed members of the Board, meetings of the Board and the seal of the Authority",
                 "pre_block_list": [
                   ""
                 ],
                 "child_level_list": []
               }
             ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "7",
-        "text": "The Schedule to the principal enactment is hereby amended as follows:",
-        "pre_block_list": [
-          "Amendment of the Schedule to the principal enactment."
-        ],
-        "child_level_list": [
+          },
           {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by the substitution for item 6 thereof, of the following item:",
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Section 4 of the principal enactment is hereby amended in subsection (1) of that section as follows:",
             "pre_block_list": [
-              "6. Where the Chairman, the Working Director or any appointed member of the Board is, by reason of illness, absence from Sri Lanka or other cause, temporarily unable to perform the duties of his office, the Minister may, taking into consideration the provisions of section 3, appoint another  ex-officio  member or appointed member, as the case may be, to act as such Chairman, Working Director or such member.;"
+              "Amendment of section 4 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of paragraph ( a ) thereof and the substitution therefor of the following paragraph:",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "manage, maintain, protect and develop the Sugathadasa National Sports Complex and take necessary measures to safeguard it as a national asset;; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the repeal of paragraph ( h ) thereof and the substitution therefor of the following paragraph:",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "h",
+                    "text": "make available on such conditions and on such appropriate cost reflective fees as may be determined by the Board, the facilities of the Sugathadasa National Sports Complex for sports, educational, cultural and recreational activities",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "Section 5 of the principal enactment is hereby amended as follows:",
+            "pre_block_list": [
+              "Amendment of section 5 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of paragraph ( a ) of that section and the substitution therefor of the following paragraph:",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "to purchase and hold property, both movable and immovable, and to give on lease or hire the same;; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the repeal of paragraph ( j ) of that section and the substitution therefor of the following paragraph:",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "j",
+                    "text": "to do all such other acts as may be necessary, incidental or conducive to the attainment of the objects of the Authority or the discharge of its functions under this Act",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "The Schedule to the principal enactment is hereby amended as follows:",
+            "pre_block_list": [
+              "Amendment of the Schedule to the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the substitution for item 6 thereof, of the following item:",
+                "pre_block_list": [
+                  "6. Where the Chairman, the Working Director or any appointed member of the Board is, by reason of illness, absence from Sri Lanka or other cause, temporarily unable to perform the duties of his office, the Minister may, taking into consideration the provisions of section 3, appoint another  ex-officio  member or appointed member, as the case may be, to act as such Chairman, Working Director or such member.;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in item 8 thereof, by the substitution for the words the Chairman from office of the words the Chairman or the Working Director from office;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "in item 9 thereof, by the substitution for the words The Chairman may resign  from the office of the Chairman of the words the Chairman or the Working Director may resign  from the office of the Chairman or the Working Director, respectively; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "in item 10 thereof, by the substitution for the words the term of office of the Chairman of the words the term of office of the Chairman or the Working Director.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
             ],
             "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "in item 8 thereof, by the substitution for the words the Chairman from office of the words the Chairman or the Working Director from office;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "in item 9 thereof, by the substitution for the words The Chairman may resign  from the office of the Chairman of the words the Chairman or the Working Director may resign  from the office of the Chairman or the Working Director, respectively; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "4",
-            "text": "in item 10 thereof, by the substitution for the words the term of office of the Chairman of the words the term of office of the Chairman or the Working Director.",
-            "pre_block_list": [],
-            "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "8",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency.",
-          "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

@@ -9,6 +9,7 @@ L.D.- O. 70/2023
 A N  A Ct   To   Amend   The  S Ocial  S Ecurity  C Ontribution  L Evy A Ct , N O . 25  Of  2022
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Social Security Contribution Levy (Amendment) Act, No. 15 of 2024.
         - Short title
     2. Section 4 of the Social Security Contribution Levy Act, No. 25 of 2022 (hereinafter referred to as the principal enactment) is hereby amended by the repeal of subsection (1) thereof and the substitution therefor, of the following:-

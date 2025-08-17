@@ -16,140 +16,146 @@
       "A N  A Ct   To   Amend   The   F Isheries   And  A Quatic  R Esources A Ct , N O . 2  Of  1996",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the  Fisheries and Aquatic Resources (Amendment)  Act, No. 35 of 2013.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The long title to the  Fisheries and Aquatic Resources Act, No. 2 of 1996 (hereinafter referred to as the principal enactment) is hereby amended, by the substitution, for the words and figures F ISHERIES   AND  A QUATIC  R ESOURCES   IN S RI  L ANKA ;  TO   REPEAL   THE  F ISHERIES  O RDINANCE  ( CHAPTER  212),,",
-        "pre_block_list": [
-          "Amendment of the long title to the  Fisheries and Aquatic Resources Act, No. 2 of 1996.",
-          "OF   THE   WORDS  F ISHERIES   AND  A QUATIC  R ESOURCES   IN  S RI  L ANKA ;",
-          "TO   GIVE   EFFECT   TO  S RI  L ANKA  S  O BLIGATIONS   UNDER   CERTAIN I NTERNATIONAL   AND  R EGIONAL  F ISHERIES  A GREEMENTS ;  TO   REPEAL   THE F ISHERIES  O RDINANCE  ( CHAPTER  212),."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 3 of the principal enactment is hereby amended in subsection (1) of that section as follows:",
-        "pre_block_list": [
-          "Amendment of section 3 of the principal enactment."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "by the repeal of paragraphs ( b ), ( c ), ( d ) and ( e ) of that subsection and the substitution therefor of the following paragraphs:",
-            "pre_block_list": [],
+            "text": "This Act may be cited as the  Fisheries and Aquatic Resources (Amendment)  Act, No. 35 of 2013.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "The long title to the  Fisheries and Aquatic Resources Act, No. 2 of 1996 (hereinafter referred to as the principal enactment) is hereby amended, by the substitution, for the words and figures F ISHERIES   AND  A QUATIC  R ESOURCES   IN S RI  L ANKA ;  TO   REPEAL   THE  F ISHERIES  O RDINANCE  ( CHAPTER  212),,",
+            "pre_block_list": [
+              "Amendment of the long title to the  Fisheries and Aquatic Resources Act, No. 2 of 1996.",
+              "OF   THE   WORDS  F ISHERIES   AND  A QUATIC  R ESOURCES   IN  S RI  L ANKA ;",
+              "TO   GIVE   EFFECT   TO  S RI  L ANKA  S  O BLIGATIONS   UNDER   CERTAIN I NTERNATIONAL   AND  R EGIONAL  F ISHERIES  A GREEMENTS ;  TO   REPEAL   THE F ISHERIES  O RDINANCE  ( CHAPTER  212),."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 3 of the principal enactment is hereby amended in subsection (1) of that section as follows:",
+            "pre_block_list": [
+              "Amendment of section 3 of the principal enactment."
+            ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "the Director-General;",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of paragraphs ( b ), ( c ), ( d ) and ( e ) of that subsection and the substitution therefor of the following paragraphs:",
                 "pre_block_list": [],
-                "child_level_list": []
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the Director-General;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "the Secretary to the Ministry of the Minister of the Board of Minsters of every province to whom the subject of fisheries has been assigned;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "the Chairman of the Council of the National Institute of Fisheries and Nautical",
+                    "pre_block_list": [
+                      "2PL 007686   4,090 (10/2013)",
+                      "Engineering, established under the National Institute of Fisheries and Nautical Engineering Act, No. 36 of 1999;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "the Director of Planning and Monitoring of the Ministry of Fisheries, who shall be the Secretary of the Council;;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "the Secretary to the Ministry of the Minister of the Board of Minsters of every province to whom the subject of fisheries has been assigned;",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the repeal of paragraphs ( i ) and ( j ) of that subsection and the substitution therefor of the following paragraphs:",
                 "pre_block_list": [],
-                "child_level_list": []
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "the Secretary to the Ministry of the Minister to whom the subject of Environment is assigned, or his nominee;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "j",
+                    "text": "the Director-General of the Coast Conservation and Coastal Resource Management Department, established under Coast Conservation and Coastal Resource Management Act, No. 57 of 1981;; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "d",
-                "text": "the Chairman of the Council of the National Institute of Fisheries and Nautical",
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "by the insertion, immediately after paragraph ( j ) of that subsection, of the following paragraphs:",
                 "pre_block_list": [
-                  "2PL 007686   4,090 (10/2013)",
-                  "Engineering, established under the National Institute of Fisheries and Nautical Engineering Act, No. 36 of 1999;"
+                  "( ja ) the Chairman of the National Aquaculture Development Authority of Sri Lanka established under the National Aquaculture Development Authority of Sri Lanka Act, No. 53 of 1998;",
+                  "( jb ) the Director-General (Technical) of the Ministry of Fisheries;",
+                  "( jc ) the Director-General of the Department of Coast Guard, established under the Department of Coast Guard Act, No. 41 of 2009;",
+                  "( jd ) the Conservator-General of Forests, appointed under the Forest Conservation Ordinance (Chapter 451);",
+                  "( je ) the Commissioner-General of Agrarian Development, appointed under the Agrarian Development Act, No. 46 of 2000;",
+                  "( jf ) the Secretary to the Ministry of the Minister to whom the subject of Irrigation has been assigned, or his nominee;",
+                  "( jg ) the Secretary to the Ministry of the Minister to whom the subject of Wild Life Conservation has been assigned, or his nominee;",
+                  "( jh ) the Secretary to the Ministry of the Minister to whom the subject of River Basins has been assigned, or his nominee;",
+                  "( ji ) the Secretary to the Ministry of the Minister to whom the subject of Land has been assigned, or his nominee;",
+                  "( jj ) the Secretary to the Ministry of the Minister to whom the subject of Tourism has been assigned, or his nominee;",
+                  "( jk ) the President of the All Ceylon Madel Owners Fisheries Co-operative Society Limited, registered under the Co-operative Societies Law, No. 5 of 1972;",
+                  "( jl ) the Chairman of National Fisheries Federation;",
+                  "( jm ) two persons engaged in fishing, nominated by the National Fisheries Federation of Fisheries Organizations;",
+                  "( jn ) two persons engaged in fishing nominated by the Multi Day Fishing Boat Owners Association;."
                 ],
                 "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "e",
-                "text": "the Director of Planning and Monitoring of the Ministry of Fisheries, who shall be the Secretary of the Council;;",
-                "pre_block_list": [],
-                "child_level_list": []
               }
             ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "by the repeal of paragraphs ( i ) and ( j ) of that subsection and the substitution therefor of the following paragraphs:",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "i",
-                "text": "the Secretary to the Ministry of the Minister to whom the subject of Environment is assigned, or his nominee;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "j",
-                "text": "the Director-General of the Coast Conservation and Coastal Resource Management Department, established under Coast Conservation and Coastal Resource Management Act, No. 57 of 1981;; and",
-                "pre_block_list": [],
-                "child_level_list": []
-              }
-            ]
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "by the insertion, immediately after paragraph ( j ) of that subsection, of the following paragraphs:",
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "The heading appearing in PART II of the principal enactment is hereby amended by the substitution for the words Licensing of Fishing Operations of the words Licensing of Fishing Operations in Sri Lanka Waters.",
             "pre_block_list": [
-              "( ja ) the Chairman of the National Aquaculture Development Authority of Sri Lanka established under the National Aquaculture Development Authority of Sri Lanka Act, No. 53 of 1998;",
-              "( jb ) the Director-General (Technical) of the Ministry of Fisheries;",
-              "( jc ) the Director-General of the Department of Coast Guard, established under the Department of Coast Guard Act, No. 41 of 2009;",
-              "( jd ) the Conservator-General of Forests, appointed under the Forest Conservation Ordinance (Chapter 451);",
-              "( je ) the Commissioner-General of Agrarian Development, appointed under the Agrarian Development Act, No. 46 of 2000;",
-              "( jf ) the Secretary to the Ministry of the Minister to whom the subject of Irrigation has been assigned, or his nominee;",
-              "( jg ) the Secretary to the Ministry of the Minister to whom the subject of Wild Life Conservation has been assigned, or his nominee;",
-              "( jh ) the Secretary to the Ministry of the Minister to whom the subject of River Basins has been assigned, or his nominee;",
-              "( ji ) the Secretary to the Ministry of the Minister to whom the subject of Land has been assigned, or his nominee;",
-              "( jj ) the Secretary to the Ministry of the Minister to whom the subject of Tourism has been assigned, or his nominee;",
-              "( jk ) the President of the All Ceylon Madel Owners Fisheries Co-operative Society Limited, registered under the Co-operative Societies Law, No. 5 of 1972;",
-              "( jl ) the Chairman of National Fisheries Federation;",
-              "( jm ) two persons engaged in fishing, nominated by the National Fisheries Federation of Fisheries Organizations;",
-              "( jn ) two persons engaged in fishing nominated by the Multi Day Fishing Boat Owners Association;."
+              "Amendment of heading appearing in PART II of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "The following new part is hereby inserted immediately after PART II of the principal enactment and shall have efffect as PART II A of the enactment:",
+            "pre_block_list": [
+              "Insertion of new PART II A in the principal enactment."
             ],
             "child_level_list": []
           }
         ]
       },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "The heading appearing in PART II of the principal enactment is hereby amended by the substitution for the words Licensing of Fishing Operations of the words Licensing of Fishing Operations in Sri Lanka Waters.",
-        "pre_block_list": [
-          "Amendment of heading appearing in PART II of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "The following new part is hereby inserted immediately after PART II of the principal enactment and shall have efffect as PART II A of the enactment:",
-        "pre_block_list": [
-          "Insertion of new PART II A in the principal enactment."
-        ],
-        "child_level_list": []
-      }
-    ],
-    "part_list": [
       {
         "class_name": "ActL0Part",
         "num": "II",

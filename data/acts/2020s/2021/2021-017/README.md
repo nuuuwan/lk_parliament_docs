@@ -18,11 +18,11 @@ Connected   Therewith   Or   Incidental   Thereto .
 Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 Short Title, Duration And Extension Of Operation Of The Act
 
+0. 
     1. 
         1. This Act may be cited as the Coronavirus Disease 2019 (COVID -19) (Temporary Provisions) Act, No. 17 of 2021. The provisions of this Act shall be in operation for a period of two years commencing from   March 1, 2020.
         2. The Minister may, at any time within one month prior to the expiration of the period of operation of this Act, by Order published in the  Gazette , extend for a further period the operation of the Act:
             - Provided however, the aggregate period of any extension shall not exceed two years from the date of such   extension.
-
 I. 
     - R ELIEF   FOR  I NABILITY   TO  C OMPLY   WITH  P RESCRIBED  T IME  P ERIODS
     2. 

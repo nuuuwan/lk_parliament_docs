@@ -9,6 +9,7 @@ L. D.O. 44/2015.
 A N  A Ct   To   Amend   The  C Ode   Of  C Riminal  P Rocedure A Ct , N O . 15  Of  1979
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Code of Criminal Procedure (Amendment) Act, No. 18 of 2016.
         - Short title.
         - Amendment of section 431 of Act, No. 15 of 1979.

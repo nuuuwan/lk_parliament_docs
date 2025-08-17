@@ -9,6 +9,7 @@ L.D.O.  2/2013.
 A N  A Ct   To   Amend   The  V Alue  A Dded  T Ax A Ct , N O . 14  Of  2002
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of  Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Value Added Tax (Amendment) Act,  No. 17 of 2013 and shall be deemed to have come into operation on January 1, 2013 unless different dates of operation are specified therefor, in the relevant sections.
         - Short Title and date of operation.
     2. Section 2 of the Value Added Tax Act, No. 14 of 2002 (hereinafter referred to as the  principal enactment ) as last amended by the Value Added Tax (Amendment) Act, No.7 of 2012 is hereby further amended as follows:

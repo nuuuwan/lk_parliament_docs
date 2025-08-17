@@ -9,6 +9,7 @@ L.D.O. 27/2016.
 A N  A Ct   To   Amend   The  V Alue  A Dded  T Ax  A Ct , N O . 14  Of  2002
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Value Added Tax (Amendment) Act, No. 20 of 2016 and shall come into operation on November 1, 2016 unless the dates on which certain provisions thereof shall come into operation are specified in such sections.
         - Short title and the date of operation.
     2. Section 2 of the Value Added Tax Act, No.14 of 2002 (hereinafter referred to as the principal enactment) is hereby amended as follows:

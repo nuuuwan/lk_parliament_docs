@@ -13,6 +13,7 @@ Registration  ;  To   Repeal   The  Dfcc B Ank  A Ct  (C Hapter  165)
 And   For   Matters   Connected   Therewith   Or   Incidental   Thereto
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the DFCC Bank (Repeal and Consequential Provisions) Act, No. 39 of 2014.
         - Short title.
     2. The DFCC Bank Act (Chapter 165) shall as from such date as may be specified by the Minister by Order published in the  Gazette  (hereinafter referred to as the specified date) be repealed. Such date shall be a date which is not later than six months from the date of commencement of this Act.

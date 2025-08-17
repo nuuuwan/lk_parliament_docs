@@ -22,60 +22,66 @@
       "And Whereas   Sri Lanka Would Set Its Own National Targets Guided By The Global Level Of Ambition But Taking Into Account National Interest And Circumstances And Also Incorporate Such Seventeen Sustainable Development Goals In National Planning Processes, Policies And Strategies In The Relevant Ongoing Processes In The Economic, Social And Environmental Fields:",
       "Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Sri Lanka Sustainable Development Act, No. 19  of 2017.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The objects of this Act shall be to",
-        "pre_block_list": [
-          "Objects of this Act."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "ensure that the National Policy and Strategy on Sustainable Development is prepared in accordance with section 11 of this Act and",
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Sri Lanka Sustainable Development Act, No. 19  of 2017.",
             "pre_block_list": [
-              "2PL 0049752962 (01/2017)",
-              "Sri Lanka Sustainable Development Act, No. 19 of 2017 2",
-              "provide the legal framework for developing and implementing such National Policy and Strategy on Sustainable Development;"
+              "Short title."
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "ensure an ecologically efficient use of natural, social and economic resources;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "to promote the integration and maintain the equipoise of  environmental, economic and social factors in the making of all decisions by government; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "d",
-            "text": "formulate strategies in accordance with paragraphs ( a ), ( b ) and ( c ) of this section.",
-            "pre_block_list": [],
-            "child_level_list": []
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "The objects of this Act shall be to",
+            "pre_block_list": [
+              "Objects of this Act."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "ensure that the National Policy and Strategy on Sustainable Development is prepared in accordance with section 11 of this Act and",
+                "pre_block_list": [
+                  "2PL 0049752962 (01/2017)",
+                  "Sri Lanka Sustainable Development Act, No. 19 of 2017 2",
+                  "provide the legal framework for developing and implementing such National Policy and Strategy on Sustainable Development;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "ensure an ecologically efficient use of natural, social and economic resources;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to promote the integration and maintain the equipoise of  environmental, economic and social factors in the making of all decisions by government; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "formulate strategies in accordance with paragraphs ( a ), ( b ) and ( c ) of this section.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           }
         ]
-      }
-    ],
-    "part_list": [
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

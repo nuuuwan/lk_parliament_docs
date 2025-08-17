@@ -10,6 +10,7 @@ L.D.-O. 45/2023
 A N  A Ct   To   Amend   The  I Nland  R Evenue  A Ct , N O . 24  Of  2017
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Inland Revenue (Amendment) Act, No. 14 of 2023.
             - Short title and the date of operation

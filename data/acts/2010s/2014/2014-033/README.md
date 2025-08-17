@@ -22,11 +22,11 @@ Of  S Ri  L Anka ;  And   For   Matters   Connected   Therewith   Or
 Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. 
         1. This Act may be cited as the Construction Industry Development Act, No. 33 of 2014 and shall come into operation on such date (hereinafter referred to as the appointed date) as the Minister may appoint by Order published in the  Gazette .
             - Short title, date of operation and application.
         2. This Act shall apply to all activities relating to the construction industry within the Democratic Socialist Republic of Sri Lanka, except otherwise provided herein.
-
 I. 
     - N ATIONAL  P OLICY   ON  C ONSTRUCTION   AND   ITS  I MPLEMENTATION
     2. 

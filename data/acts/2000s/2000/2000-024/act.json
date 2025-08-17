@@ -1,0 +1,445 @@
+{
+  "n_pages": 12,
+  "title_page": {
+    "title": "National Security Levy (Amendment) Act",
+    "num": "24",
+    "year": "2000",
+    "date_certified": "2000-07-12",
+    "date_published": "2000-07-14",
+    "price": 8.0,
+    "price_postage": 3.5
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 12Th July, 2000]",
+      "L.D.O. 21/2000",
+      "A N  A Ct To Amend The  N Ational  S Ecurity  L Evy A Ct , N O . 52  Of  1991",
+      "Be It Enacted  By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the National Security Levy (Amendment) Act, No. 24 of 2000.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 2 of the National Security Levy  Act, No.52 of 1991 (hereinafter referred to as the principal enactment) as last amended by Act No. 17 of 1998 is hereby  amended in subsection (1) of that section  as follows :",
+            "pre_block_list": [
+              "Amendment of section 2 of Act, No. 52 of 1991."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in paragraph ( d ) of that subsection, by the substitution for  the words, telecommunication services , of the words telecommunication services ; or ; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition, at the end of that subsection, of the following  paragraph :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "carries on the business of providing a service of any description other than a service referred to in paragraph ( c ) or paragraph ( d )  .",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 3 of the principal enactment as last amended by Act No. 37 of 1997 is hereby amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 3 of  the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of subsection (1) of that section, and the substitution, of the following subsection therefor :",
+                "pre_block_list": [
+                  "(1) Subject to the succeeding provisions of this Act, there shall be charged from every person to whom this Act applies being a person "
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "referred to in paragraph ( a ), ( b ) or ( c ) of subsection (1) of section 2, for every quarter or part thereof, of every year commencing on January 1, 1992, on January 1, 1993, on January 1, 1994, on January 1, 1995, on January 1, 1996 and on or after January 1, 1997;",
+                    "pre_block_list": [
+                      "2H 6530 7,075 (00/04)"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "referred to in paragraph ( d ) of subsection (1) of section 2, for every quarter of part thereof of every year commencing on or after April 1, 1998;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "referred to in paragraph ( e ) of subsection (1) of section 2, for",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "the period commencing on February 15, 2000 and ending on March 31, 2000, if the turnover of that person for that period is fifty thousand rupees or over,",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "every quarter or part thereof of every year commencing on or after April 1, 2000, if the turnover of that person for that quarter is one hundred thousand rupees or over,",
+                        "pre_block_list": [
+                          "(hereinafter in this Act referred to as the relevant quarter), a National Security levy (hereinafter referred to as the levy), calculated on the turnover or part thereof of that person for that quarter or part thereof, at the appropriate rates specified in the Schedule to this Act",
+                          ""
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (2) of that section",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "in paragraph ( h ) of that subsection, by the substitution, for the words owned or chartered by such airline or shipping company, and, of the words, owned or chartered by such airline or shipping company ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "in paragraph ( i ) of that subsection, by the substitution, for the words, any member of the diplomatic staff of such mission, of the words, any member of the diplomatic staff of such mission; ; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "by the addition, at the end of that subsection, of the following paragraphs :",
+                    "pre_block_list": [
+                      "( j ) any sum received or receivable by such  person from ",
+                      "(A) the provision of any one or more of the following services :"
+                    ],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "supply of electricity ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "medical services ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "supply of water ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iv",
+                        "text": "transport of goods or passengers ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "v",
+                        "text": "leasing of movable property ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "vi",
+                        "text": "repair services, of any description, if such person is registered under the Goods and Services Tax Act, No. 34 of 1996 ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "vii",
+                        "text": "educational services at an educational institution ;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "viii",
+                        "text": "services of a construction contractor, not being a sub-contractor, in so far as such services  are in respect of constructing  any building, road, bridge, water supply, drainage  or sewerage system, harbour, airport or any infrastructure project in telecommunication or electricity ;",
+                        "pre_block_list": [
+                          "(ix) services provided to any exporter of any article, being services directly related to improving the quality and character of such article ;",
+                          "(x) the services of sewing garments provided to any exporter of such garments ;",
+                          "(xi) services of a freight forwarder, shipping agent licensed under the Licensing  of  Shipping  Agents Act, No. 10 of 1972 or courier, insofar as such services are in respect of the export of any article from Sri Lanka ;",
+                          "(xii) services provided by a public corporation, in so far as such services are in respect of  the export of any article from Sri Lanka ;",
+                          "(xiii) operating a hotel, guest house, restaurant or other similar business, if, such hotel, guest house, restaurant or other similar business is registered under the Goods and Services Tax Act, No. 34 of 1996;",
+                          "(xiv) the services of an auctioneer, broker, Insurance agent or Commission agent of any local produce ;",
+                          "(xv) the services of a travel agent in respect of inbound tours, if such person  is registered with the Ceylon Tourist Board.",
+                          "(B) distribution, or production and supply, of any cinematographic films primarily for exhibition in cinemas ;",
+                          "(C) exhibiting films in a cinema ; and",
+                          "( k ) any sum on which the emoluments, for the purposes of the Save the Nation Contribution Act, No. 5 of 1996, of such person, or where such person is a partnership, of any partner of such partnership, is computed",
+                          ""
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 4 of the principal enactment is hereby amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 4 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "In paragraph (i) of that section by the substitution, for the words and figures, for every quarter commencing on or after January 1, 1999, of the words and figures, for every quarter commencing on or after January 1, 1999 but prior to April 1, 2000,.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition, immediately after paragraph (i) of that section, of the following paragraphs :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "j",
+                    "text": "for the quarter commencing on April 1, 2000",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "an amount equivalent to",
+                        "pre_block_list": [
+                          "(A) five and one half  per centum  of the turnover of that person not being turnover referred to in item (B) of  this subparagraph ; and",
+                          "(B) one half  per centum  of the turnover of that person arising from the import or manufacture of any plant, machinery or equipment, not being any motor car, motor coach or lorry within the meaning of the Motor Traffic Act (Chapter 203),",
+                          "for the period commencing on April 1, 2000 and ending on May 10, 2000 in that quarter, on or before the fifteenth day of May 2000 ;"
+                        ],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "an amount equivalent to",
+                        "pre_block_list": [
+                          "(A) six and one half  per centum  of the turnover of that person, not being turnover referred to in item (B) of this sub-paragraph ; and",
+                          "(B) one half  per centum  of the turnover of that person arising from the import or manufacture of any plant, machinery or",
+                          "equipment, not being any motor car, motor coach or lorry within the meaning of the Motor Traffic Act (Chapter 203),",
+                          "for the period commencing on May 10, 2000 and ending on May 31, 2000 in that quarter, on or before the fifteenth day of June 2000 ;"
+                        ],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "the amount of the levy payable by such person for that quarter reduced by the aggregate of the amounts paid by him in accordance with the provisions of sub-paragraph (i) and sub-paragraph (ii) of this paragraph, on or before the fifteenth day of the month immediately succeeding the end of that quarter ; and",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      }
+                    ]
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "k",
+                    "text": "for every quarter commencing on or after July 1, 2000",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "an amount equivalent to",
+                        "pre_block_list": [
+                          "(A) six and one half  per centum  of the turnover of that person, not being turnover referred to in item (B) of this sub-paragraph ; and",
+                          "(B) one half  per centum  of the turnover of that person arising from the import or manufacture of any plant, machinery or equipment, not being any motor car, motor coach or lorry within the meaning of the Motor Traffic Act (Chapter 203),",
+                          "for  the first month of that quarter, on or before the fifteenth day of the second month of that quarter,"
+                        ],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "an amount equivalent to",
+                        "pre_block_list": [
+                          "(A) six and one half  per centum  of the turnover of that person, not being turnover referred to in item (B) of this sub-paragraph ; and",
+                          "(B) one half  per centum  of the turnover of that person arising from the import or manufacture of any plant, machinery or equipment, not being any motor car, motor coach or lorry within the meaning of the Motor Traffic Act (Chapter 203),",
+                          "for the second month of that quarter, on or before the fifteenth day of the third month of that quarter ; and"
+                        ],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "the amount of the levy payable by such person for that quarter reduced by the aggregate of the amounts paid by him in accordance with the provisions of sub-paragraph (i) and sub-paragraph (ii) of this paragraph, on or before the fifteenth day of the month immediately succeeding the end of that quarter.; .",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Section 10 of the principal enactment as last amended by Act No. 37 of 1997 is hereby amended by the insertion, immediately after the definition of banker, of the following definition :",
+            "pre_block_list": [
+              "Amendment of section 10 of the principal enactment.",
+              "business of providing a service of any description includes the business of letting premises by a company",
+              ""
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "The Schedule to the principal enactment is hereby amended as follows :",
+            "pre_block_list": [
+              "Amendment of the Schedule to the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in item 9 of that schedule by the substitution for the words and figures every quarter of every year commencing on or after January 1, 1999 , of the words and figures every quarter of every year commencing on or after January 1, 1999 but prior to January 1, 2000 and for the quarter commencing on January 1, 2000:",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition, at the end of that Schedule of the following items :",
+                "pre_block_list": [
+                  "10. For the quarter commencing on April 1, 2000 "
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "on turnover other than turnover referred to in paragraph (ii)",
+                    "pre_block_list": [
+                      "11. For every quarter  commencing  on or after July 1, 2000 ",
+                      "Validation."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "Where the Director-General of Customs collects during the period commencing on May 11, 2000 and ending on the date of commencement of this Act, from an importer of an article not being plant, machinery or equipment, an amount in excess of five and one half  per centum  of the value of such article, such collection shall be deemed for all purposes to have been, and to be, validly made, and such Director- General of Customs is hereby indemnified against all actions, civil or criminal, in respect of such collection.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Where a person to whom this Act applies is required by section 4 of the principal enactment read with sections 2 and 3 of this Act, to pay any amount to the Commissioner- General, in respect of any month or quarter prior to the date on which this Act is deemed to have come into operation, such person shall be deemed for all purposes to have complied with the requirements of those sections, if he pays that amount to the Commissioner-General, within thirty days of the date on which this Act is certified as an Act of Parliament. Where such amount is not so paid, such amount shall be deemed to be in default after the expiration of  thirty days from the date on which this Act is certified as an Act of Parliament and such person shall be deemed to be a defaulter with effect from that date.",
+                "pre_block_list": [
+                  "Transitional provision."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Where a person to whom this Act applies is required by section 4 of the principal enactment as amended by section 4 of this Act, to pay to the Commissione-General in respect of the period from May 11, 2000 to the date of commencement of this Act, an amount in excess of five and one half  per centum of the turnover of that person for that period, such person shall be deemed for all purposes, to have complied with the requirements of that section, if he pays to the Commissioner- General, within thirty days of the date of commencement of this Act, the difference between the amount he was required by section 4 of the principal enactment as amended by section 4 of this Act, to pay for that period, and the amount paid by him for that period, as the case may be. Where such difference is not so paid, such difference shall be deemed to be in default after the expiration of thirty days from the date of commencement of this Act, and such person shall be deemed to be a defaulter within the meaning of the principal enactment, with effect from that date.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The amendment made to section 3 of the principal enactment, by section 3 of this Act, shall be deemed for all purposes to have come into force on February 15,2000.",
+                "pre_block_list": [
+                  "Retrospective effect."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The amendments made to section 4 of, and the Schedule to the principal enactment by sections 4 and 6 respectively of this Act, shall be deemed for all purposes to have come into force on May 10, 2000.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail. Sinhala text to prevail in case of inconsistency.",
+            "pre_block_list": [
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , N O . 32, T RANSWORKS  H OUSE , L OTUS  R OAD , C OLOMBO  01 before 15th December each year in respect of the year following."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

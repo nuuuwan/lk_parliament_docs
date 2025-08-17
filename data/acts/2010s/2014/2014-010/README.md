@@ -9,6 +9,7 @@ L. D.O. 6/2014.
 A N  A Ct   To   Amend   The  N Ation  B Uilding  T Ax  A Ct , N O . 9  Of  2009
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Nation Building Tax (Amendment) Act, No. 10 of  2014 and shall be deemed to have come into operation from January 1, 2014.
         - Short title and date of operation.
     2. Section 3 of the Nation Building Tax Act, No. 9 of 2009 as last amended by Act, No. 11 of 2013 (hereinafter referred to as the principal enactment) is hereby further amended in subsection (2) of that section as follows :

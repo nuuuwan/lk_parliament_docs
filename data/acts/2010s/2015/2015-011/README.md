@@ -9,6 +9,7 @@ L.D.O. 16/2015
 A N   Act   To   Amend   The  V Alue  A Dded  T Ax  A Ct , N O . 14  Of  2002
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. 
         1. This Act may be cited as the Value Added Tax (Amendment) Act, No. 11 of 2015 and subject to subsection (2) of this section, shall be deemed to have come into operation on January 1, 2015 unless the date on which certain provisions shall come into operation are specified in such sections.
             - Short title and the date of operation.

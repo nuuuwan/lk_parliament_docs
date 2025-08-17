@@ -17,78 +17,85 @@
       "A N  A Ct   To   Amend   The  I Ndustrial  D Isputes  A Ct (C Hapter  131)",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Industrial Disputes (Amendment) Act, No. 24 of 2022.",
-        "pre_block_list": [
-          "Short title"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 46 of the  Industrial Disputes Act (Chapter 131) (hereinafter referred to as the principal enactment) is hereby amended by the repeal of subsections (1), (2) and (3) thereof, and the substitution therefor of the following subsections:",
-        "pre_block_list": [
-          "Amendment of section 46 of Chapter 131"
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "Any party to any proceeding under this Act taken by or before any authorized officer, arbitrator, industrial court or labour tribunal or the Commissioner may, act through an Attorney-at-law or a representative of the party.",
-            "pre_block_list": [],
+            "text": "This Act may be cited as the Industrial Disputes (Amendment) Act, No. 24 of 2022.",
+            "pre_block_list": [
+              "Short title"
+            ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "For the purposes of this Act, a representative of a party shall",
-            "pre_block_list": [],
+            "text": "Section 46 of the  Industrial Disputes Act (Chapter 131) (hereinafter referred to as the principal enactment) is hereby amended by the repeal of subsections (1), (2) and (3) thereof, and the substitution therefor of the following subsections:",
+            "pre_block_list": [
+              "Amendment of section 46 of Chapter 131"
+            ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "where the party is a trade union, or consists of two or more trade unions, be a person  to represent such union or each such union;",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Any party to any proceeding under this Act taken by or before any authorized officer, arbitrator, industrial court or labour tribunal or the Commissioner may, act through an Attorney-at-law or a representative of the party.",
                 "pre_block_list": [],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "where the party consists partly of any trade union or unions and partly of employers or workmen who are not members of any such union, be a person  to represent such union or of each such union and a prescribed number of persons nominated in accordance with regulations by such employers or workmen; and",
-                "pre_block_list": [
-                  "Industrial Disputes (Amendment) Act, No. 24 of 2022 2"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "where the party consists of employers or workmen, be a prescribed number of persons nominated by such employers or workmen",
-                "pre_block_list": [
-                  ""
-                ],
-                "child_level_list": []
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "For the purposes of this Act, a representative of a party shall",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "where the party is a trade union, or consists of two or more trade unions, be a person  to represent such union or each such union;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "where the party consists partly of any trade union or unions and partly of employers or workmen who are not members of any such union, be a person  to represent such union or of each such union and a prescribed number of persons nominated in accordance with regulations by such employers or workmen; and",
+                    "pre_block_list": [
+                      "Industrial Disputes (Amendment) Act, No. 24 of 2022 2"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "where the party consists of employers or workmen, be a prescribed number of persons nominated by such employers or workmen",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
               }
             ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency",
+              "Industrial Disputes (Amendment) Act, No. 24 of 2022 3",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+            ],
+            "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency",
-          "Industrial Disputes (Amendment) Act, No. 24 of 2022 3",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

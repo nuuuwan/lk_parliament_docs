@@ -1,0 +1,447 @@
+{
+  "n_pages": 8,
+  "title_page": {
+    "title": "Parliamentary  Scholarship  Board Act",
+    "num": "22",
+    "year": "2002",
+    "date_certified": "2002-10-04",
+    "date_published": "2002-10-04",
+    "price": 7.75,
+    "price_postage": 4.5
+  },
+  "body_pages": {
+    "preamble": [
+      "Parliamentary Scholarship Board Act, No. 22 Of 2002 1",
+      "[Certified On 04Th October, 2002]",
+      "L. D.  O. 48/2002.",
+      "A N  A Ct   To   Provide   For   The  G Overnment   Of  S Ri  L Anka   To",
+      "Promote   Educational   Advancement   By   Providing   Assistance",
+      "To   Facilitate   Study   And   Research ;  To   Establish   A P Arliamentary  S Cholarship  B Oard   To   Administer   The   Award",
+      "Of  S Cholarships ;  And   To   Provide   For   Matters   Connected",
+      "Therewith   Or   Incidental   Thereto",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Parliamentary Scholarship Board Act, No. 22 of 2002.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "There shall be established for the purposes of this Act, a body to be called the Parliamentary Scholarship Board, (hereinafter referred to as the Board) charged with the administration of the Act and the exercise, performance and discharge of the powers, duties and functions assigned to or conferred on the Board, by this Act.",
+            "pre_block_list": [
+              "Establishment of the Parliamentary Scholarship Board."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The objectives of the Act shall be to promote international co-operation for educational advancement by providing for exchanges in higher education by financing studies, research, instructions and other educational activities and by making provision for the award of post-graduate scholarships",
+                "pre_block_list": [
+                  "Objectives of the Act."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "to citizens of Sri Lanka, who are pursuing higher education in Sri Lanka, to attend institutes of higher education abroad; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "to citizens of foreign countries, to pursue higher education  in institutes of higher education in Sri Lanka.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The objectives of the Act as set out in subsection (1) shall be implemented by the Board.",
+                "pre_block_list": [
+                  "2H 0164415,550 (07/2002)",
+                  "Parliamentary Scholarship Board Act, No. 22 of 2002 2"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The fields of study in respect of which postgraduate awards may be made shall be determined by the Prime Minister and approved by a Resolution of Parliament. Such Resolution shall be moved in accordance with the Standing Orders of Parliament.",
+                "pre_block_list": [
+                  "Manner of determination of fields of study."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Prime Minister shall after consultation with the Speaker, the Leader of the opposition and the Chairman of the Board, determine the number of scholarships to be awarded annually, and an estimate of the funding required for such grants, which shall be included in such Resolution as is specified in subsection (1).",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Board shall consist of",
+                "pre_block_list": [
+                  "Composition of the Board &c."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "three members appointed by the Speaker, on the recommendation of the Constitutional Council, one of whom shall be a woman;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "one member nominated by the Vice Chancellors; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "the Secretary to the Ministry of the Minister in charge of the subject of Higher Education.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Prime Minister shall nominate one of the members appointed under paragraph ( a ) of subsection (1),  as the Chairman of the Board.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "There shall be a Secretary to the Board, who shall be the Chief Administrative Officer of the Board and who shall be responsible for the implementation of all decisions of the Board and for the excercise and discharge of any power or function delegated to him by the Board or which is conferred on or assigned to him by or under this law.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The term of office of the Chairman and the members appointed under paragraphs ( a ) and ( b ) of subsection (1) shall be three years calculated from the date of their appointment.",
+                "pre_block_list": [
+                  "Parliamentary Scholarship Board Act, No. 22 of 2002 3"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "The Speaker may, prior to the expiration of the term of office specified above, remove from office, on the recommendation of the Constitutional Council, the Chairman or any member of the Board, for reasons assigned.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "The Chairman or a member as the case may be, shall be eligible for re-appointment as Chairman or member, unless he has been removed from office in terms of subsection (2).",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "7",
+                "text": "The Chairman and the members shall be paid such remuneration and allowances as may be determined by the Minister in charge of the subject of Finance.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "8",
+                "text": "The Board may act notwithstanding any vacancy in its composition and accordingly no act or decision of the Board shall be invalidated by reason only of the existence of a vacancy among its members or any defect in the appointment of any member thereof.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "9",
+                "text": "The procedure to be followed in the conduct of the affairs of the Board and the conduct of the meetings of the Board, shall be as prescribed.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "The Board shall have the power",
+            "pre_block_list": [
+              "Powers of the Corporation."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to exercise, perform and discharge the powers, duties and functions conferred on or assigned to it, by this Act ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to award post-graduate scholarships to citizens of Sri Lanka who obtained their first degree from an University or degree awarding institute within Sri Lanka ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to award post-graduate scholarships to citizens of foreign countries who obtained their first degree from an University or  of a degree awarding institute abroad ;",
+                "pre_block_list": [
+                  "Parliamentary Scholarship Board Act, No. 22 of 2002 4"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to conduct orientation programmes, language training courses for persons to whom awards have been made under the Act ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "to provide other services out of the Fund of the Board, to recipients of awards, whether local or foreign inclusive of expenses to facilitate travel from the residence of such persons ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "to evaluate every award periodically in order to increase the effectiveness of such programmes; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "g",
+                "text": "to do all such acts as may be necessary or incidental to the exercise, performance and discharge of its powers, duties and functions under this Act.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The award of the Post-graduate scholarships by the Board shall be by way of a grant. The terms and conditions of such grant shall be embodied in a contract or an agreement entered into between the Board and the recipient of such award. The matters to be included in such contract or agreement shall be as prescribed.",
+                "pre_block_list": [
+                  "Grants to be made by contracts or agreements."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The criteria to be followed by the Board in awarding the scholarships shall be determined in consultation with the Prime Minister, the Speaker and the Leader of the Opposition.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "A grant made under subsection (1), shall include tution fees, cost of travel, charges for accommodation, daily subsistence rates as may be determined by the Board in consultation with the Minister in charge of the subject of Finance, health and accident insurance inclusive of the cost of any emergency medical expenses.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "If the recipient of an award dies whilst pursuing the course of study, the necessary expenses for transporting the remains of such person to their places of residence shall be met by the Board.",
+                "pre_block_list": [
+                  "Parliamentary Scholarship Board Act, No. 22 of 2002 5"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "The Board may also approve requests for any other unforeseen expenses by the recipient of a grant, upon the production to the Board of satisfactory proof in support of such request.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "There shall be a Fund of the Board out of which all disbursements connected with the grant of scholarships shall be made and into which shall be paid",
+            "pre_block_list": [
+              "Fund of the Board."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "all moneys voted by Parliament for the purposes of this Act;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "all donations and grants, foreign or local, received by the Board ;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "all other gifts by way of money.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "The Board shall cause to be placed before Parliament for every calendar year, a report of the activities of the Board containing a statement of the scholarships awarded for such year and the funds utilised for the same.",
+            "pre_block_list": [
+              "Report of the Board."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Prime Minister may make regulations for giving effect to the principles and provisions of this Act and for any matter required or authorized by this Act to be prescribed.",
+                "pre_block_list": [
+                  "Regulations."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Without prejudice to the generality of the powers conferred by subsection (1), regulations may be made in respect of all or any of the following matters :",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the procedure to be followed in the conduct of the affairs of the board and at meetings of the Board ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the matters to be embodied in any contract or agreements relating to the award of a scholarship.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Every regulation made under subsection (1) shall be published in the Gazette and shall come into operation on the date of such publication, or on such later date as may be specified in the regulation.",
+                "pre_block_list": [
+                  "Parliamentary Scholarship Board Act, No. 22 of 2002 6"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Every regulation made under subsection (1) shall as soon as convenient after its publication in the Gazette, be brought before Parliament for its approval. Any regulation which is not so approved shall be deemed to be rescinded as from the date of such disapproval but without prejudice to anything previously done thereunder.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "Notification of the date on which any regulation is deemed to be so rescinded shall be published in the Gazette.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "11",
+            "text": "In this Act",
+            "pre_block_list": [
+              "Interpretation.",
+              "Constitutional Council means the Constitutional Council appointed under Chapter VIIA of the Constitution."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "12",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "Parliamentary Scholarship Board Act, No. 22 of 2002 7",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , N O . 32, T RANSWORKS   H OUSE ,  L OTUS   R OAD ,  C OLOMBO  01  before  15th  December  each  year  in   respect  of the year following."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

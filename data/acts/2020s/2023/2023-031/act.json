@@ -23,466 +23,473 @@
       "And Whereas It Has Become Necessary To Enact Legislation To Provide For The Establishment Of A Trust Called The Galaha Bhaddrawathie National Bhikkhu Care Centre Trust To Achieve The Objects Of The Said Galaha Bhaddrawathie National Bhikkhu Care Centre For The Benefit Of The Bhikkhus Who Are Sick And Helpless And To Matters Connected Therewith Or Incidental Thereto:",
       "Now Therefore Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of  2023.",
-        "pre_block_list": [
-          "Short title"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "There shall be established a Trust to be called the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust (hereinafter referred to as the Trust).",
+            "text": "This Act may be cited as the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of  2023.",
             "pre_block_list": [
-              "Establishment of the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust"
+              "Short title"
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "The Trust shall, by the name assigned to it by subsection (1), be a body corporate and shall have perpetual succession and by that name may sue and be sued with full power and authority to have, and use a common seal and to alter the same.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "The object of the Trust shall be to facilitate the accommodation and caring for sick and helpless Bhikkhus in the Galaha Bhaddrawathie National Bhikkhu Care Centre (hereinafter referred to as the Bhikkhu Care Centre).",
-        "pre_block_list": [
-          "The object of the Trust"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "The functions of the Trust are",
-        "pre_block_list": [
-          "Functions of the Trust"
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "to maintain the Bhikkhu Care Centre for Bhikkhus who are sick and helpless and accommodate sick and helpless Bhikkhus in the Bhikkhu Care Centre on such conditions and criteria as prescribed by section 8;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "to provide the Bhikkhus residing in the Bhikkhu Care Centre who are sick, with all the necessities including the day to day requirements and to facilitate the obtaining of medicines and medical treatment;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "to organize and conduct meditation programmes and other Buddhist programmes for the Bhikkhus residing in the Bhikkhu Care Centre with a view to improving the mental health of those Bhikkhus; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "d",
-            "text": "to  maintain a library in order to facilitate improving and refreshing the knowledge of Buddhism of the resident Bhikkhus.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "",
-        "pre_block_list": [],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "The administration, management and control of the affairs of the Trust shall be vested in a Board of Management (hereinafter referred to as the Board).",
-            "pre_block_list": [
-              "Board  of Management of the Trust",
-              "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 3"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "The Board shall consist of",
+            "text": "",
             "pre_block_list": [],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "the following  ex-officio  members:",
-                "pre_block_list": [],
-                "child_level_list": [
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "i",
-                    "text": "the Secretary to the Ministry of the Minister assigned the subject of Health or his representative who is not below the rank of an Additional Secretary;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "ii",
-                    "text": "the Secretary to the Ministry of the Minister assigned the subject of Buddha Sasana or his representative who is not below the rank of an Additional Secretary;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "iii",
-                    "text": "the Secretary to the Ministry of the Minister assigned the subject of Social Services or his representative who is not below the rank of an Additional Secretary;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "iv",
-                    "text": "the Secretary to the Ministry of the Minister assigned the subject of Finance or his representative who is not below the rank of an Additional Secretary;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "v",
-                    "text": "the Commissioner-General of the Department of Buddhist Affairs or his representative;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "vi",
-                    "text": "the Public Trustee or his representative;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "vii",
-                    "text": "the District Secretary of the Kandy District;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "viii",
-                    "text": "the Provincial Director of Health Services of the Central Province;",
-                    "pre_block_list": [
-                      "(ix) the Divisional Secretary of Divisional Secretary's Division of Doluwa; and",
-                      "(x) the Diyawadana Nilame of Sri Dalada Maligawa or his representative; and"
-                    ],
-                    "child_level_list": []
-                  }
-                ]
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "There shall be established a Trust to be called the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust (hereinafter referred to as the Trust).",
+                "pre_block_list": [
+                  "Establishment of the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust"
+                ],
+                "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "the following members appointed by the Minister (hereinafter referred to as the appointed members):",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Trust shall, by the name assigned to it by subsection (1), be a body corporate and shall have perpetual succession and by that name may sue and be sued with full power and authority to have, and use a common seal and to alter the same.",
                 "pre_block_list": [],
-                "child_level_list": [
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "i",
-                    "text": "two members having knowledge and experience in administration and accountancy appointed by the Minister in consultation with the Secretary to the Ministry;",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "ii",
-                    "text": "four Bhikkhus nominated by the Mahanayaka Theros of the Malwathu, Asgiri, Amarapura and Ramanna Chapters to represent such Chapters one of whom shall be appointed as the Chairperson of the Board; and",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  },
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "iii",
-                    "text": "the President of the Dayaka Sabha of the Galaha Bhaddrawathie temple.",
-                    "pre_block_list": [],
-                    "child_level_list": []
-                  }
-                ]
+                "child_level_list": []
               }
             ]
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "3",
-            "text": "Any person who has become a member of the Board in his  ex-offficio  capacity shall hold office as long as he holds such office by virtue of which he is a member of the Board.",
-            "pre_block_list": [],
+            "text": "The object of the Trust shall be to facilitate the accommodation and caring for sick and helpless Bhikkhus in the Galaha Bhaddrawathie National Bhikkhu Care Centre (hereinafter referred to as the Bhikkhu Care Centre).",
+            "pre_block_list": [
+              "The object of the Trust"
+            ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "4",
-            "text": "Any appointed member of the Board shall unless a vacancy arises in his post by resignation, death or removal from office, hold office for three years from the date of appointment. Any member whose term is due to end otherwise than by removal shall be eligible for reappointment. Such reappointment shall be for not more than one further term, whether consecutive or not.",
+            "text": "The functions of the Trust are",
             "pre_block_list": [
-              "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 5"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "5",
-            "text": "In the event of the vacation of office by death, resignation or removal of any appointed member, the Minister shall, subject to paragraph ( b ) of subsection (2), appoint another person to fill such vacancy and such person shall hold office for the un-expired period of the term of office of the member whom he succeeds.",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "6",
-            "text": "Any appointed member who is temporarily unable to discharge his duties and functions as a member of the Board due to ill health, infirmity, being absent from Sri Lanka or for other reason for not less than three months shall inform that to the Minister in writing. In such event the Minister shall having regard to the provisions of subsection (2), appoint another person to act in the place of such member.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "6",
-        "text": "Any person",
-        "pre_block_list": [
-          "Disqualification for being a member"
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "if such person is or becomes a Member of Parliament or a Provincial Council or any Local Authority;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "if such person is under any law in force in Sri Lanka or in any other country found or declared to be of unsound mind;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "if such person is a person having been declared as an insolvent or a bankrupt person under any law in Sri Lanka or any other country and is an undischarged insolvent or bankrupt;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "d",
-            "text": "if such person is serving or has served a sentence of imprisonment imposed by any court in Sri Lanka or any other country,",
-            "pre_block_list": [
-              "he shall be disqualified from being appointed or continue to be a member of the Board."
-            ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "7",
-        "text": "The Board shall subject to the provisions of this Act or any other written law, have the power",
-        "pre_block_list": [
-          "Powers of the Board"
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "to receive grants, gifts and donations, both movable and immovable in cash or in kind, whether from local or foreign sources:",
-            "pre_block_list": [
-              "Provided that, the Board shall obtain prior written approval of the Department of External Resources in respect of all foreign grants, gifts or donations made to the Trust;"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "to acquire or hold any property, movable or immovable, which may become vested in the Trust by this Act or by virtue of any purchase, gift, grant, testamentary disposition or otherwise and, for the purpose of this Act to sell, mortgage, lease, grant, convey, device, assign, exchange or otherwise dispose of any property to which the Trust may become entitled to;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "to enter into and perform, either directly or through officers, employees and agents authorized in that behalf by the Board, all such contracts and agreements as may be necessary for the exercise, performance and discharge of the powers, duties and functions of the Trust; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "d",
-            "text": "to open, operate and close bank accounts in any Bank as may be recommended by the Board.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "8",
-        "text": "The conditions and criteria for accommodating Bhikkhus in the Bhikkhu Care Centre and caring for such Bhikkhus shall be as prescribed by regulations.",
-        "pre_block_list": [
-          "Accommodation etc. of Bhikkhus"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "9",
-        "text": "The Trust shall be capable in law to take and hold property, movable or immovable, which may become vested in it by virtue of any purchase, grant, gift, testamentary disposition or otherwise and all such property shall be held by the Trust for the purposes of this Act.",
-        "pre_block_list": [
-          "Power of the Trust to hold property",
-          "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 7",
-          "Meetings of the Board 10. (1) Meetings of the Board shall be held at least once in three months."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "The Chairman shall, if present preside at every meeting of the Board. In the absence of the Chairman from any meeting of the Board, the members present at such meeting shall elect from among themselves a member to preside at such meeting.",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "The quorum for any meeting of the Board shall be eleven members.",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "4",
-            "text": "If there is an equality of votes at any meeting, the Chairman or the member presiding at such meeting shall in addition to his vote, have a casting vote.",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "5",
-            "text": "The Board may subject to the provisions of this Act regulate the procedure to be followed in regard to its meetings and the transaction of its business.",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "6",
-            "text": "No act, decision or proceeding of the Board shall be deemed to be invalid by reason only of the existence of a vacancy among its members or any defect in the appointment of any member thereof.",
-            "pre_block_list": [
-              "Remuneration for attending the meetings of the Board",
-              "11. The members of the Board may be paid such remuneration for attendance at meetings of the Board as may be determined by the Minister with the concurrence of the Minister assigned the subject of Finance.",
-              "Advisory Committee",
-              "12. There shall be an advisory committee consisting of the Mahanayake Theros of the Malwathu, Asgiri, Amarapura and Ramanna Chapters to advise the Board on matters relating to the Bhikkhu Care Centre.",
-              "Establishment of Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Fund",
-              "13. (1) There shall be established a Fund called the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Fund (hereinafter referred to as the Fund). The management, administration, control and operation of the Fund shall be vested in the Board.",
-              "(2) There shall be paid into the Fund"
+              "Functions of the Trust"
             ],
             "child_level_list": [
               {
                 "class_name": "ActL3Paragraph",
                 "num": "a",
-                "text": "all such sums of monies allocated by the Parliament, from time to time, for the purpose of carrying out the objects of the Fund;",
+                "text": "to maintain the Bhikkhu Care Centre for Bhikkhus who are sick and helpless and accommodate sick and helpless Bhikkhus in the Bhikkhu Care Centre on such conditions and criteria as prescribed by section 8;",
                 "pre_block_list": [],
                 "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
                 "num": "b",
-                "text": "any grant, gift or donation in cash or kind, from Sri Lanka or outside to achieve the objects of the Fund, subject to section 7( a ).",
-                "pre_block_list": [
-                  "(3) There shall be paid out of the Fund all such sums of money required to defray the expenditure incurred by the Trust in the exercise, performance and discharge of its powers, duties and functions under this Act.",
-                  "Appointment of the staff of the Trust",
-                  "14. (1) The Trust may appoint such number of officers and employees as it may consider necessary for the efficient discharge of its functions.",
-                  "(2) The Trust may in respect of the officers and employees appointed under subsection (1) ",
-                  "( a ) exercise disciplinary control over or dismiss such officers and employees;",
-                  "( b ) determine the terms and conditions of employment of such officers and employees; and"
-                ],
+                "text": "to provide the Bhikkhus residing in the Bhikkhu Care Centre who are sick, with all the necessities including the day to day requirements and to facilitate the obtaining of medicines and medical treatment;",
+                "pre_block_list": [],
                 "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
                 "num": "c",
-                "text": "pay such officers and employees such remuneration as may be determined by the Board in consultation with the Minister assigned the subject of Finance.",
-                "pre_block_list": [
-                  "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 9",
-                  "15. (1) At the request of the Board, any officer in the public service may, with the consent of that officer and of the Public Service Commission be temporarily appointed to the staff of the Trust for such period as may be determined by the Board, or with like consent, be permanently appointed to such staff.",
-                  "Appointment of public officers",
-                  "(2) Where any officer in the public service is temporarily appointed to the staff of the Trust the provisions of subsection (2) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall,  mutatis mutandis , apply to and in relation to such officer.",
-                  "(3) Where any officer in the public service is permanently appointed to the staff of the Trust the provisions of subsection (3) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall,  mutatis mutandis , apply to and in relation to such officer.",
-                  "16. (1) The financial year of the Trust shall be the calendar year.",
-                  "Financial year and audit of accounts",
-                  "(2) The Board shall cause proper books of accounts to be kept of the income and expenditure of the Trust.",
-                  "(3) The provisions of Article 154 of the Constitution relating to the audit of accounts of Public Corporations shall apply to the audit of accounts of the Trust.",
-                  "17. (1) The Board shall within six months of the end of each financial year submit to the Minister an annual report on the activities carried out by the Trust along with the audited accounts of the Trust for the year.",
-                  "Annual reports",
-                  "(2) The Minister shall within three months from the date of receipt of the annual report, table such report along with the documents specified in subsection (1) in Parliament for its consideration.",
-                  "The seal of the Board",
-                  "18. (1) The seal of the Board",
-                  "( a ) shall be determined by the Board and may be altered in such manner as may be determined by the Board;",
-                  "( b ) shall be in the custody of such person as the Board may determine, from time to time;",
-                  "( c ) shall not be affixed to any instrument or document except with the sanction of the Board and in the presence of the Chairman and another member of the Board who shall sign the instrument or document in token of their presence.",
-                  "(2) The Board shall maintain a register in respect of the instruments and documents to which the seal of the Board is affixed.",
-                  "19. (1) Any expense incurred by the Trust in any suit or prosecution brought by, or against the Trust before any court, shall be paid out of the moneys of the Fund and any cost recovered by the Trust in any such suit or prosecution shall be credited to the Fund.",
-                  "Recovery of expenses from any suit or prosecution",
-                  "(2) Any expense incurred by any member of the Board or any officer or employee of the Trust in any suit or prosecution brought against him in any court in respect of any act which is done or purported to be done by him under this Act or on the direction of the Board shall, if the court holds that such act was  done in good faith, be paid out of the Fund unless such expense is recovered by him in such suit or prosecution.",
-                  "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 11",
-                  "20. (1) The Minister may in consultation with the Mahanayaka Theros of the Malwathu, Asgiri, Amarapura and Ramanna Chapters, make regulations for matters required by this Act to be prescribed or in respect of which regulations are authorized to be made.",
-                  "Regulations",
-                  "(2) Every regulation made by the Minister shall be published in the  Gazette  and shall come into operation on the date of such publication or such later date as may be specified in such regulations.",
-                  "(3) Every regulation made by the Minister shall within three months after its publication in the  Gazette , be brought before Parliament for its approval. Every regulation which is not so approved by Parliament shall be deemed to be rescinded as from the date of such disapproval, but without prejudice to anything previously done thereunder.",
-                  "21. (1) The Board may make rules in respect of all matters authorized to be made by this Act.",
-                  "Rules",
-                  "(2) Without prejudice to the generality of the provisions of subsection (1), rules may be made in respect of all or any of the following matters:",
-                  "( a ) the administration and management of the Trust;",
-                  "( b ) conduct of its meetings and matters relating thereto;",
-                  "( c ) to conduct inquiries in respect of breach of conditions  and  criteria  relating  to accommodating and caring for Bhikkhus in the Bhikku Care Centre; and"
-                ],
+                "text": "to organize and conduct meditation programmes and other Buddhist programmes for the Bhikkhus residing in the Bhikkhu Care Centre with a view to improving the mental health of those Bhikkhus; and",
+                "pre_block_list": [],
                 "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
                 "num": "d",
-                "text": "the programmes organized and conducted by the Bhikkhu Care Centre.",
+                "text": "to  maintain a library in order to facilitate improving and refreshing the knowledge of Buddhism of the resident Bhikkhus.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The administration, management and control of the affairs of the Trust shall be vested in a Board of Management (hereinafter referred to as the Board).",
                 "pre_block_list": [
-                  "22. All officers and servants of the Trust shall be deemed to be public servants within the meaning and for the purpose of the Penal Code (Chapter 19).",
-                  "Officers and servants of the Trust deemed to be public servants under the Penal Code",
-                  "23. The Trust shall be deemed to be a Scheduled Institution within the meaning of the Anti Corruption Act, No. 9 of 2023 and the provisions of that Act shall be construed accordingly.",
-                  "Trust deemed to be a scheduled institution within the meaning of the Anti corruption Act",
-                  "24. In this Act, unless the context otherwise requires",
-                  "Interpretation",
-                  "Bhikkhu shall have the same meaning as assigned to it in the Buddhist Temporalities Ordinance (Chapter 318);",
-                  "Minister means the Minister to whom the implementation of the provisions of this Act is assigned.",
-                  "25. In the event of any inconsistency between the Sinhala and the Tamil texts of this Act, the Sinhala text shall prevail.",
-                  "Sinhala text to prevail in case of inconsistency",
-                  "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 13",
-                  "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+                  "Board  of Management of the Trust",
+                  "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 3"
                 ],
                 "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Board shall consist of",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the following  ex-officio  members:",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "the Secretary to the Ministry of the Minister assigned the subject of Health or his representative who is not below the rank of an Additional Secretary;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "the Secretary to the Ministry of the Minister assigned the subject of Buddha Sasana or his representative who is not below the rank of an Additional Secretary;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "the Secretary to the Ministry of the Minister assigned the subject of Social Services or his representative who is not below the rank of an Additional Secretary;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iv",
+                        "text": "the Secretary to the Ministry of the Minister assigned the subject of Finance or his representative who is not below the rank of an Additional Secretary;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "v",
+                        "text": "the Commissioner-General of the Department of Buddhist Affairs or his representative;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "vi",
+                        "text": "the Public Trustee or his representative;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "vii",
+                        "text": "the District Secretary of the Kandy District;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "viii",
+                        "text": "the Provincial Director of Health Services of the Central Province;",
+                        "pre_block_list": [
+                          "(ix) the Divisional Secretary of Divisional Secretary's Division of Doluwa; and",
+                          "(x) the Diyawadana Nilame of Sri Dalada Maligawa or his representative; and"
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the following members appointed by the Minister (hereinafter referred to as the appointed members):",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "two members having knowledge and experience in administration and accountancy appointed by the Minister in consultation with the Secretary to the Ministry;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "four Bhikkhus nominated by the Mahanayaka Theros of the Malwathu, Asgiri, Amarapura and Ramanna Chapters to represent such Chapters one of whom shall be appointed as the Chairperson of the Board; and",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "the President of the Dayaka Sabha of the Galaha Bhaddrawathie temple.",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Any person who has become a member of the Board in his  ex-offficio  capacity shall hold office as long as he holds such office by virtue of which he is a member of the Board.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Any appointed member of the Board shall unless a vacancy arises in his post by resignation, death or removal from office, hold office for three years from the date of appointment. Any member whose term is due to end otherwise than by removal shall be eligible for reappointment. Such reappointment shall be for not more than one further term, whether consecutive or not.",
+                "pre_block_list": [
+                  "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 5"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "In the event of the vacation of office by death, resignation or removal of any appointed member, the Minister shall, subject to paragraph ( b ) of subsection (2), appoint another person to fill such vacancy and such person shall hold office for the un-expired period of the term of office of the member whom he succeeds.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "Any appointed member who is temporarily unable to discharge his duties and functions as a member of the Board due to ill health, infirmity, being absent from Sri Lanka or for other reason for not less than three months shall inform that to the Minister in writing. In such event the Minister shall having regard to the provisions of subsection (2), appoint another person to act in the place of such member.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "Any person",
+            "pre_block_list": [
+              "Disqualification for being a member"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "if such person is or becomes a Member of Parliament or a Provincial Council or any Local Authority;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "if such person is under any law in force in Sri Lanka or in any other country found or declared to be of unsound mind;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "if such person is a person having been declared as an insolvent or a bankrupt person under any law in Sri Lanka or any other country and is an undischarged insolvent or bankrupt;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "if such person is serving or has served a sentence of imprisonment imposed by any court in Sri Lanka or any other country,",
+                "pre_block_list": [
+                  "he shall be disqualified from being appointed or continue to be a member of the Board."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "The Board shall subject to the provisions of this Act or any other written law, have the power",
+            "pre_block_list": [
+              "Powers of the Board"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to receive grants, gifts and donations, both movable and immovable in cash or in kind, whether from local or foreign sources:",
+                "pre_block_list": [
+                  "Provided that, the Board shall obtain prior written approval of the Department of External Resources in respect of all foreign grants, gifts or donations made to the Trust;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to acquire or hold any property, movable or immovable, which may become vested in the Trust by this Act or by virtue of any purchase, gift, grant, testamentary disposition or otherwise and, for the purpose of this Act to sell, mortgage, lease, grant, convey, device, assign, exchange or otherwise dispose of any property to which the Trust may become entitled to;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to enter into and perform, either directly or through officers, employees and agents authorized in that behalf by the Board, all such contracts and agreements as may be necessary for the exercise, performance and discharge of the powers, duties and functions of the Trust; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to open, operate and close bank accounts in any Bank as may be recommended by the Board.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "The conditions and criteria for accommodating Bhikkhus in the Bhikkhu Care Centre and caring for such Bhikkhus shall be as prescribed by regulations.",
+            "pre_block_list": [
+              "Accommodation etc. of Bhikkhus"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "The Trust shall be capable in law to take and hold property, movable or immovable, which may become vested in it by virtue of any purchase, grant, gift, testamentary disposition or otherwise and all such property shall be held by the Trust for the purposes of this Act.",
+            "pre_block_list": [
+              "Power of the Trust to hold property",
+              "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 7",
+              "Meetings of the Board 10. (1) Meetings of the Board shall be held at least once in three months."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Chairman shall, if present preside at every meeting of the Board. In the absence of the Chairman from any meeting of the Board, the members present at such meeting shall elect from among themselves a member to preside at such meeting.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The quorum for any meeting of the Board shall be eleven members.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "If there is an equality of votes at any meeting, the Chairman or the member presiding at such meeting shall in addition to his vote, have a casting vote.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "The Board may subject to the provisions of this Act regulate the procedure to be followed in regard to its meetings and the transaction of its business.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "No act, decision or proceeding of the Board shall be deemed to be invalid by reason only of the existence of a vacancy among its members or any defect in the appointment of any member thereof.",
+                "pre_block_list": [
+                  "Remuneration for attending the meetings of the Board",
+                  "11. The members of the Board may be paid such remuneration for attendance at meetings of the Board as may be determined by the Minister with the concurrence of the Minister assigned the subject of Finance.",
+                  "Advisory Committee",
+                  "12. There shall be an advisory committee consisting of the Mahanayake Theros of the Malwathu, Asgiri, Amarapura and Ramanna Chapters to advise the Board on matters relating to the Bhikkhu Care Centre.",
+                  "Establishment of Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Fund",
+                  "13. (1) There shall be established a Fund called the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Fund (hereinafter referred to as the Fund). The management, administration, control and operation of the Fund shall be vested in the Board.",
+                  "(2) There shall be paid into the Fund"
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "all such sums of monies allocated by the Parliament, from time to time, for the purpose of carrying out the objects of the Fund;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "any grant, gift or donation in cash or kind, from Sri Lanka or outside to achieve the objects of the Fund, subject to section 7( a ).",
+                    "pre_block_list": [
+                      "(3) There shall be paid out of the Fund all such sums of money required to defray the expenditure incurred by the Trust in the exercise, performance and discharge of its powers, duties and functions under this Act.",
+                      "Appointment of the staff of the Trust",
+                      "14. (1) The Trust may appoint such number of officers and employees as it may consider necessary for the efficient discharge of its functions.",
+                      "(2) The Trust may in respect of the officers and employees appointed under subsection (1) ",
+                      "( a ) exercise disciplinary control over or dismiss such officers and employees;",
+                      "( b ) determine the terms and conditions of employment of such officers and employees; and"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "pay such officers and employees such remuneration as may be determined by the Board in consultation with the Minister assigned the subject of Finance.",
+                    "pre_block_list": [
+                      "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 9",
+                      "15. (1) At the request of the Board, any officer in the public service may, with the consent of that officer and of the Public Service Commission be temporarily appointed to the staff of the Trust for such period as may be determined by the Board, or with like consent, be permanently appointed to such staff.",
+                      "Appointment of public officers",
+                      "(2) Where any officer in the public service is temporarily appointed to the staff of the Trust the provisions of subsection (2) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall,  mutatis mutandis , apply to and in relation to such officer.",
+                      "(3) Where any officer in the public service is permanently appointed to the staff of the Trust the provisions of subsection (3) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall,  mutatis mutandis , apply to and in relation to such officer.",
+                      "16. (1) The financial year of the Trust shall be the calendar year.",
+                      "Financial year and audit of accounts",
+                      "(2) The Board shall cause proper books of accounts to be kept of the income and expenditure of the Trust.",
+                      "(3) The provisions of Article 154 of the Constitution relating to the audit of accounts of Public Corporations shall apply to the audit of accounts of the Trust.",
+                      "17. (1) The Board shall within six months of the end of each financial year submit to the Minister an annual report on the activities carried out by the Trust along with the audited accounts of the Trust for the year.",
+                      "Annual reports",
+                      "(2) The Minister shall within three months from the date of receipt of the annual report, table such report along with the documents specified in subsection (1) in Parliament for its consideration.",
+                      "The seal of the Board",
+                      "18. (1) The seal of the Board",
+                      "( a ) shall be determined by the Board and may be altered in such manner as may be determined by the Board;",
+                      "( b ) shall be in the custody of such person as the Board may determine, from time to time;",
+                      "( c ) shall not be affixed to any instrument or document except with the sanction of the Board and in the presence of the Chairman and another member of the Board who shall sign the instrument or document in token of their presence.",
+                      "(2) The Board shall maintain a register in respect of the instruments and documents to which the seal of the Board is affixed.",
+                      "19. (1) Any expense incurred by the Trust in any suit or prosecution brought by, or against the Trust before any court, shall be paid out of the moneys of the Fund and any cost recovered by the Trust in any such suit or prosecution shall be credited to the Fund.",
+                      "Recovery of expenses from any suit or prosecution",
+                      "(2) Any expense incurred by any member of the Board or any officer or employee of the Trust in any suit or prosecution brought against him in any court in respect of any act which is done or purported to be done by him under this Act or on the direction of the Board shall, if the court holds that such act was  done in good faith, be paid out of the Fund unless such expense is recovered by him in such suit or prosecution.",
+                      "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 11",
+                      "20. (1) The Minister may in consultation with the Mahanayaka Theros of the Malwathu, Asgiri, Amarapura and Ramanna Chapters, make regulations for matters required by this Act to be prescribed or in respect of which regulations are authorized to be made.",
+                      "Regulations",
+                      "(2) Every regulation made by the Minister shall be published in the  Gazette  and shall come into operation on the date of such publication or such later date as may be specified in such regulations.",
+                      "(3) Every regulation made by the Minister shall within three months after its publication in the  Gazette , be brought before Parliament for its approval. Every regulation which is not so approved by Parliament shall be deemed to be rescinded as from the date of such disapproval, but without prejudice to anything previously done thereunder.",
+                      "21. (1) The Board may make rules in respect of all matters authorized to be made by this Act.",
+                      "Rules",
+                      "(2) Without prejudice to the generality of the provisions of subsection (1), rules may be made in respect of all or any of the following matters:",
+                      "( a ) the administration and management of the Trust;",
+                      "( b ) conduct of its meetings and matters relating thereto;",
+                      "( c ) to conduct inquiries in respect of breach of conditions  and  criteria  relating  to accommodating and caring for Bhikkhus in the Bhikku Care Centre; and"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "the programmes organized and conducted by the Bhikkhu Care Centre.",
+                    "pre_block_list": [
+                      "22. All officers and servants of the Trust shall be deemed to be public servants within the meaning and for the purpose of the Penal Code (Chapter 19).",
+                      "Officers and servants of the Trust deemed to be public servants under the Penal Code",
+                      "23. The Trust shall be deemed to be a Scheduled Institution within the meaning of the Anti Corruption Act, No. 9 of 2023 and the provisions of that Act shall be construed accordingly.",
+                      "Trust deemed to be a scheduled institution within the meaning of the Anti corruption Act",
+                      "24. In this Act, unless the context otherwise requires",
+                      "Interpretation",
+                      "Bhikkhu shall have the same meaning as assigned to it in the Buddhist Temporalities Ordinance (Chapter 318);",
+                      "Minister means the Minister to whom the implementation of the provisions of this Act is assigned.",
+                      "25. In the event of any inconsistency between the Sinhala and the Tamil texts of this Act, the Sinhala text shall prevail.",
+                      "Sinhala text to prevail in case of inconsistency",
+                      "Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 13",
+                      "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
               }
             ]
           }
         ]
       }
-    ],
-    "part_list": []
+    ]
   }
 }

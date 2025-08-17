@@ -9,6 +9,7 @@ L.D.O. 25/2019
 A N  A Ct   To   Amend   The  N Ational  M Inimum  W Age   Of  W Orkers A Ct , N O . 3  Of  2016
 Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the National Minimum Wage of Workers (Amendment) Act, No. 16 of  2021.
         - Short title
         - Amendment of section 3 of Act, No. 3 of 2016

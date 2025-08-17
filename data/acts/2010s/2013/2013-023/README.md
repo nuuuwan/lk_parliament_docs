@@ -9,6 +9,7 @@ L.D. O. 15/2013
 A N  A Ct   To   Amend   The  K Andyan  M Arriage   And D Ivorce   A Ct   (C Hapter  113)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Kandyan Marriage and Divorce  (Amendment) Act, No. 23 of 2013 and shall be deemed to have come into operation on January 1, 2013.
         - Short title and date of operation.
     2. Section 16 of the Kandyan Marriage and Divorce Act (Chapter 113) (hereinafter referred to as the principal enactment) is hereby amended in subsection (6) thereof, by the repeal of paragraph ( d ) of that subsection and the substitution therefor of the following paragraph :-

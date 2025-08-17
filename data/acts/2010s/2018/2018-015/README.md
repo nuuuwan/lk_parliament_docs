@@ -9,6 +9,7 @@ L.D.O. 23/2015.
 A N  A Ct   To   Amend   The  M Aternity  B Enefits  O Rdinance (C Hapter  140)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Maternity Benefits (Amendment) Act, No. 15 of 2018.
         - Short title.
     2. Section 3 of the Maternity Benefits Ordinance (hereinafter referred to as the principal enactment) is hereby amended by the repealed of subsection (1) of that section and substitution therefor, of the following subsection:

@@ -9,6 +9,7 @@ L.D.O. 35/2019
 A N  A Ct   To   Amend   The  E Mployees  P Rovident  F Und A Ct , N O . 15  Of  1958
 Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Employees Provident Fund (Amendment) Act, No. 23  of  2021 and shall come into operation on such date as the Minister may appoint by Order published in the  Gazette .
         - Short title and date of operation
     2. Section 47 of the Employees Provident Fund Act, No. 15 of 1958 is hereby amended as follows:

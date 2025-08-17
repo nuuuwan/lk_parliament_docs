@@ -9,6 +9,7 @@ L.D.O. 71/2021
 A N  A Ct   To   Amend   The  P Revention   Of  F Rauds  O Rdinance (C Hapter  70)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Prevention of Frauds (Amendment) Act, No. 30 of 2022.
         - Short title
     2. Section 2 of the Prevention of Frauds Ordinance (Chapter 70) (hereinafter referred to as the principal enactment) is hereby amended by the repeal of all the words from shall be of force to the end of that section and the substitution therefore of the following:-

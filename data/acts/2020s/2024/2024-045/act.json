@@ -30,40 +30,46 @@
       "And Whereas   Considering The Objectives Of The Democratic Socialist Society As Provided In Subparagraphs ( C ) And ( D ) Of Paragraph (2) Of Article 27 Of The Constitution:",
       "Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "This Act may be cited as the Economic Transformation Act, No. 45 of 2024.",
-            "pre_block_list": [
-              "Short title and date of operation"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "The provisions of this Act other than the provisions of Part II, Part III and section 193  shall come into operation on the date on which certificate of the Speaker is endorsed in respect of this Act in terms of Article 79 of the Constitution.",
+            "text": "",
             "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "The provisions of Part II, Part III and section 193 shall come into operation on such date as the Minister may appoint by Order published in  Gazette , which shall be a date within three months from date of the certificate of the Speaker referred to in subsection (2) (hereinafter referred to as the appointed date).",
-            "pre_block_list": [],
-            "child_level_list": []
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "This Act may be cited as the Economic Transformation Act, No. 45 of 2024.",
+                "pre_block_list": [
+                  "Short title and date of operation"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The provisions of this Act other than the provisions of Part II, Part III and section 193  shall come into operation on the date on which certificate of the Speaker is endorsed in respect of this Act in terms of Article 79 of the Constitution.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The provisions of Part II, Part III and section 193 shall come into operation on such date as the Minister may appoint by Order published in  Gazette , which shall be a date within three months from date of the certificate of the Speaker referred to in subsection (2) (hereinafter referred to as the appointed date).",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           }
         ]
-      }
-    ],
-    "part_list": [
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

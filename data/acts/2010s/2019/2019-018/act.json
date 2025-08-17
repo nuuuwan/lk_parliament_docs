@@ -17,102 +17,109 @@
       "A N  A Ct   To   Amend   The  E Xcise  O Rdinance  (C Hapter  52)",
       "Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the  Excise (Amendment) Act, No. 18 of 2019.",
-        "pre_block_list": [
-          "Short  title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 35 of the Excise Ordinance (Chapter 52) (hereinafter referred to as the principal enactment) is hereby amended in subsection (1) thereof by the substitution for the words and figures, section 46 or section 47; of the words and figures, section 46, section 47 or paragraph ( a ) of section 48;.",
-        "pre_block_list": [
-          "Amendment of section 35 of the Excise Ordinance (Chapter 52).",
-          "Amendment of section 52 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 52 of the principal enactment is hereby amended in subsection (1) thereof as follows:-",
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "by the repeal of paragraph ( a ) thereof and the substitution therefor of the following:-",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "under section 46, section 47 or paragraph ( a ) of section 48, except on his own knowledge or suspicion or on the complaint or report of an excise officer or a police officer:",
-                "pre_block_list": [
-                  "Provided however, where a police officer makes a complaint or produces a report under paragraph ( a ) of section 48, such officer shall be an officer not below the rank of a sub inspector and shall obtain the written sanction of the Commissioner-General of Excise or any other officer authorised by the Commissioner- General of Excise;;"
-                ],
-                "child_level_list": []
-              }
-            ]
+            "text": "This Act may be cited as the  Excise (Amendment) Act, No. 18 of 2019.",
+            "pre_block_list": [
+              "Short  title."
+            ],
+            "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "in paragraph ( b ) thereof,-",
+            "text": "Section 35 of the Excise Ordinance (Chapter 52) (hereinafter referred to as the principal enactment) is hereby amended in subsection (1) thereof by the substitution for the words and figures, section 46 or section 47; of the words and figures, section 46, section 47 or paragraph ( a ) of section 48;.",
+            "pre_block_list": [
+              "Amendment of section 35 of the Excise Ordinance (Chapter 52).",
+              "Amendment of section 52 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 52 of the principal enactment is hereby amended in subsection (1) thereof as follows:-",
             "pre_block_list": [],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "by the substitution for the words and figure, under section 48 of the words and figure under paragraph ( b ) or ( c ) of section 48; and",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of paragraph ( a ) thereof and the substitution therefor of the following:-",
                 "pre_block_list": [],
-                "child_level_list": []
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "under section 46, section 47 or paragraph ( a ) of section 48, except on his own knowledge or suspicion or on the complaint or report of an excise officer or a police officer:",
+                    "pre_block_list": [
+                      "Provided however, where a police officer makes a complaint or produces a report under paragraph ( a ) of section 48, such officer shall be an officer not below the rank of a sub inspector and shall obtain the written sanction of the Commissioner-General of Excise or any other officer authorised by the Commissioner- General of Excise;;"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "by the substitution for the words, on that behalf. of the words on that behalf; or; and",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in paragraph ( b ) thereof,-",
                 "pre_block_list": [],
-                "child_level_list": []
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "by the substitution for the words and figure, under section 48 of the words and figure under paragraph ( b ) or ( c ) of section 48; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "by the substitution for the words, on that behalf. of the words on that behalf; or; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "by the insertion immediately after paragraph ( b ) thereof of the following:-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "under section 50, except on his own knowledge or suspicion or on the complaint or report of an excise officer",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
               }
             ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "by the insertion immediately after paragraph ( b ) thereof of the following:-",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "under section 50, except on his own knowledge or suspicion or on the complaint or report of an excise officer",
-                "pre_block_list": [
-                  ""
-                ],
-                "child_level_list": []
-              }
-            ]
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "Excise (Amendment) Act, No. 18 of 2019 3",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+            ],
+            "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency.",
-          "Excise (Amendment) Act, No. 18 of 2019 3",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

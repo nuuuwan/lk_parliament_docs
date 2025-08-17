@@ -10,6 +10,7 @@ L.D.O. (Inc.) 4/2019
 A N   A Ct   To   Amend   The  C Hartered  I Nstitute   Of  T Ransport   Of S Ri  L Anka  (I Ncorporation ) A Ct , N O . 8  Of  2000
 Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Chartered Institute of Transport of Sri Lanka (Incorporation) (Amendment) Act, No. 18 of  2023.
         - Short title
     2. The long title to the Chartered Institute of Transport of Sri Lanka (Incorporation) Act, No. 8 of 2000, (hereinafter referred to as the principal enactment) is hereby amended by the substitution, for the words Chartered Institute of Transport of Sri Lanka. of the words Chartered Institute of Logistics and Transport of Sri Lanka

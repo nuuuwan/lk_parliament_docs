@@ -9,6 +9,7 @@ L.D.O. 21/2016.
 A N  A Ct   To   Amend   The   F Isheries   And  A Quatic  R Esources A Ct , N O . 2  Of  1996
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the  Fisheries and Aquatic Resources (Amendment)  Act, No. 11 of 2017.
         - Short title.
     2. The following new section is hereby inserted immediately after section 28 of the Fisheries and Aquatic Resources Act, No. 2 of 1996 (hereinafter referred to as the principal enactment) and shall have effect as section 28 A  of that enactment:

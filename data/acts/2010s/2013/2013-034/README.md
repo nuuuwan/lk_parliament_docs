@@ -9,6 +9,7 @@ L.D.O. 27/2012
 A N  A Ct   To   Amend   The  B Uddhist  T Emporalities  O Rdinance
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Buddhist Temporalities (Amendment)  Act,   No. 34 of 2013.
         - Short title.
     2. The Buddhist Temporalities Ordinance (hereinafter referred to as the  principal enactment) is hereby amended by the substitution for the expression Commissioner of Buddhist Affairs, wherever that experssion occurs in the principal enactment, other than in section 2, of the expression Commissioner-General of Buddhist Affairs.

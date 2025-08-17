@@ -10,6 +10,7 @@ L.D.-O 11/2012
 A N  A Ct   To   Amend   The  S Ri  L Anka    L And  D Evelopment C Orporation  A Ct , N O . 15  Of  1968
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Sri Lanka Land Development Corporation (Amendment) Act, No. 13 of 2021.
         - Short title
     2. Section 2 A  of the Sri Lanka Land Development Corporation Act, No. 15 of 1968 (hereinafter referred to as the principal enactment) is hereby amended as follows: -

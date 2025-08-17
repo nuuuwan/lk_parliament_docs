@@ -19,6 +19,7 @@ To   Make   Provision   For   Matters   Connected   Therewith   Or
 Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Appropriation Act, No. 34 of  2023.
         - Short title
     2. 

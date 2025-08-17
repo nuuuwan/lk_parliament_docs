@@ -17,6 +17,7 @@ For   Such   Licensed  B Anks ;  And   To   Provide   For   Matters   Connected
 Therewith   Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Banking (Special Provisions) Act, No. 17  of 2023.
             - Short title and date of operation
@@ -24,7 +25,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         3. The provisions of this section shall come into operation on the date on which the Bill becomes an Act of Parliament.
     2. Notwithstanding anything to the contrary in any other written law for the time being in force, provisions of this Act shall apply in the exercise, performance and discharge of the powers, duties and functions relating to the authority vested with the Central Bank to resolve banks licensed under the Banking Act (in this Act referred to as the licensed banks).
         - Application of the Act
-
 I. 
     - R ESOLUTION   AUTHORITY   OF   THE  C ENTRAL  B ANK
     3. The Central Bank shall be responsible for the exercise of resolution authority in respect of licensed banks under this Act.

@@ -11,6 +11,7 @@ Elected   Under   The  L Ocal  A Uthorities  E Lections  O Rdinance (C Hapter  2
 Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the  Local Authorities Filling of Vacancies (Special Provisions)  Act, No. 30 of 2013.
         - Short title.
     2. For the purpose of filling of a vacancy in the office of Mayor, Deputy Mayor or a Member, elected to any local authority under the provisions of the Local Authorities Elections Ordinance (Chapter 262), which were in operation on the date immediately preceding the date of coming into operation of the Local Authorities Elections (Amendment) Act, No. 22 of 2012, the provisions of the said Ordinance, shall apply to and in relation to the filling of such vacancies, notwithstanding the repealing or amendment of  the relevant provisions by the Act, No. 22 of 2012:

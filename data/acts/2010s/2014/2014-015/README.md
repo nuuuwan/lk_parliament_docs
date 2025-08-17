@@ -9,6 +9,7 @@ L. D.O. 13/2014.
 A N  A Ct   To   Amend   The     M Onetary  L Aw  A Ct  (C Hapter  422)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the  Monetary Law (Amendment) Act, No. 15 of 2014.
         - Short title.
     2. Section 6 of the  Monetary Law  Act (Chapter 422) is hereby amended by the substitution for the words which sum is hereby appropriated to the bank from the surplus assets of the Board of Commissioners of Currency. of the following words:

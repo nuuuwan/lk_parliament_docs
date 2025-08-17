@@ -1,0 +1,156 @@
+{
+  "n_pages": 5,
+  "title_page": {
+    "title": "Nation Building Tax (Amendment) Act",
+    "num": "32",
+    "year": "2009",
+    "date_certified": "2009-05-18",
+    "date_published": "2009-05-22",
+    "price": 4.0,
+    "price_postage": 5.0
+  },
+  "body_pages": {
+    "preamble": [
+      "Nation Building Tax (Amendment) Act, No. 32 Of 2009 1",
+      "[Certified On 18Th May, 2009]",
+      "L.D.O. 7/2009.",
+      "A N  A Ct   To   Amend   The  N Ation  B Uilding  T Ax  A Ct , N O . 9  Of  2009",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Nation Building Tax (Amendment) Act, No. 32 of 2009.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 3 of the Nation Building Tax Act, No. 9 of 2009 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words calculated at the rate of one  per centum  in the following manner :- of the following:",
+            "pre_block_list": [
+              "Amendment of section 3 of  Act, No. 9 of 2009.",
+              "calculated"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "at the rate of one  per centum  for the period ending on, April 30, 2009 ; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "at the rate of three  per centum  for the period commencing on May 1, 2009,",
+                "pre_block_list": [
+                  "in the following manner :-."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 8 of the principal enactment is hereby amended by the addition immediately after paragraph ( c ) thereof of the following new paragraph:",
+            "pre_block_list": [
+              "Amendment of section 8 of  the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "return for any relevant quarter under this Act shall be furnished  on or before the twentieth day of the month commencing immediately after the expiry of such  quarter",
+                "pre_block_list": [
+                  "",
+                  "2PL 0038474,250 (03/2009)",
+                  "Nation Building Tax (Amendment) Act, No. 32 of 2009 2"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "The Schedule to the principal enactment is hereby amended",
+            "pre_block_list": [
+              "Amendment of the Schedule to the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in PART I",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "by the substitution for item (iii) thereof of the following item:",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "any article sold by any person to whom this Act applies to any exporter, if the Commissioner General is satisfied on the production of any documentary evidence that",
+                        "pre_block_list": [
+                          "(i) such article; or",
+                          "(ii) any other article manufactured, of which such article is a constituent part,",
+                          "has in fact been exported from Sri Lanka;;"
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "by the addition immediately after item (xiv) thereof of the following new item:",
+                    "pre_block_list": [
+                      "(xv) any article for the use in any project approved by the relevant Minister and by the Minister in charge of the subject of Finance taking into consideration the economic benefit to the country and where the tax in respect of such project is borne by the Government.;"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in PART II by the addition immediately after item (xxii) thereof of the following new item:",
+                "pre_block_list": [
+                  "(xxiii) the services of any General Sales Agent registered under the Civil Aviation Authority of Sri Lanka Act, No. 34 of 2002",
+                  "",
+                  "Nation Building Tax (Amendment) Act, No. 32 of 2009 3"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "Nation Building Tax (Amendment) Act, No. 32 of 2009 4",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS   B UREAU , D EPARTMENT   OF G OVERNMENT   I NFORMATION ,  N O . 163,  K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05  before  15th December each year in respect of the year following."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

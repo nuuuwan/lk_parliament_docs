@@ -19,33 +19,39 @@
       "Therewith   Or   Incidental   Thereto .",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "This Act may be cited as the Small Claims Courts Procedure Act, No. 33 of 2022.",
-            "pre_block_list": [
-              "Short title and date of operation"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "The provisions of this Act shall come into operation on such date as the Minister may appoint by Order published in the  Gazette .",
+            "text": "",
             "pre_block_list": [],
-            "child_level_list": []
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "This Act may be cited as the Small Claims Courts Procedure Act, No. 33 of 2022.",
+                "pre_block_list": [
+                  "Short title and date of operation"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The provisions of this Act shall come into operation on such date as the Minister may appoint by Order published in the  Gazette .",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           }
         ]
-      }
-    ],
-    "part_list": [
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

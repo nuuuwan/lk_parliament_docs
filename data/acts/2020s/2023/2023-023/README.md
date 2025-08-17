@@ -10,6 +10,7 @@ L.D.-O. 4/2023
 A N  A Ct   To   Amend   The  S Ri  L Anka  P Orts  A Uthority A Ct , N O . 51  Of  1979
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Sri Lanka Ports Authority (Amendment) Act, No. 23 of 2023.
         - Short  title
     2. Section 5 of the Sri Lanka Ports Authority Act, No. 51 of 1979, is hereby amended in subsection (1) thereof,  as follows:-

@@ -10,6 +10,7 @@ L.D.O. 9/2018
 A N   A Ct   To   Amend   The  E Conomic  S Ervice  C Harge A Ct , N O .13  Of  2006
 Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Economic Service Charge (Amendment) Act, No. 33 of  2018.
         - Short title.
     2. Section 2 of the Economic Service Charge Act, No. 13 of 2006 (hereinafter referred to as the principal enactment) is hereby amended as follows:

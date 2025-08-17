@@ -10,6 +10,7 @@ L. D.- O. 2/2024
 A N  A Ct   To   Amend   The  M Edical  O Rdinance  (C Hapter  105)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Medical (Amendment) Act, No. 46 of 2024.
         - Short  title
     2. Section 19 of the Medical Ordinance (Chapter 105) (hereinafter referred to as the principal enactment) is hereby amended as follows:-

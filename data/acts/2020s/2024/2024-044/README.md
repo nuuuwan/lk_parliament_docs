@@ -18,6 +18,7 @@ Provide   For    Matters   Connected   Therewith   Or   Incidental
 Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Public Financial Management Act, No. 44 of 2024.
             - Short title and date of operation
@@ -31,7 +32,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
             a. to set out standards, requirements, rules, and procedures for transparency, accountability, discipline, effectiveness, efficiency, and economy in the management of the public finance including the revenues, expenditures, commitments, financing arrangements, equity, assets and liabilities;
             b. to specify the requirements and procedures to be adhered to, in the management of public finance including the implementation of fiscal responsibility objectives and rules, planning, formulation, adoption and implementation of annual budget along with the processes of monitoring, evaluation, internal controls, accounting, and reporting; and
             c. to specify performance and accountability requirements.
-
 I. 
     - A PPLICATION   OF   THE  A CT
     3. 

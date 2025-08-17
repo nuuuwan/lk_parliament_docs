@@ -15,6 +15,7 @@ Preamble.
 And Whereas A Comprehensive Reparations Scheme Anchored In The Rights Of All Sri Lankans To An Effective Remedy Will Contribute To The Promotion Of Reconciliation For The Wellbeing, And Security Of All Sri Lankans Including Future Generations:
 Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Office for Reparations Act,  No. 34 of  2018.
         - Short title.
     2. The objectives of this Act shall be
@@ -24,7 +25,6 @@ Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republ
                 - by the Office for Reparations, including specialized policies on public education, memorialization and on children, youths, women  and victims of sexual violence and  persons with disabilities;
             c. to establish links to ensure the compatibility of the Office for Reparations with other mechanisms aimed at reconciliation; and
             d. to monitor and evaluate the progress of delivery of reparations to eligible aggrieved persons.
-
 I. 
     - E STABLISHMENT   OF   THE  O FFICE   FOR  R EPARATIONS
     3. 

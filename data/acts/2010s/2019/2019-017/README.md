@@ -9,6 +9,7 @@ L.D.  O 31/2015
 A N  A Ct   To   Amend   The  M Erchant  S Hipping A Ct , N O . 52  Of  1971
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :-
 
+0. 
     1. This Act may be cited as the Merchant Shipping (Amendment) Act, No. 17 of 2019.
         - Short title.
     2. Section 138 of the Merchant Shipping Act, No. 52 of 1971 (hereinafter referred to as the principal enactment) is hereby amended as follows:-
@@ -168,7 +169,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
             - 
     26. The following new Part is hereby inserted immediately after PART  VII of the principal enactment, and shall have effect as PART VIIA of that enactment :-
         - Insertion of Part VIIA to the principal enactment.
-
 VII. 
     - P REVENTION   OF  P OLLUTION   FROM  S HIPS
     - Chapter 1

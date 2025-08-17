@@ -10,6 +10,7 @@ A N  A Ct   To   Amend   The  T Ax  A Ppleals  C Ommission A Ct , N O . 23  Of  
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 Short Title.
 
+0. 
     1. This Act may be cited as the Tax Appeals Commission (Amendment) Act, No. 20 of 2013.
         - Amendment of section 2 of the Tax Appeals Commission Act, No.23 of 2011.
     2. Section 2 of the Tax Appeals Commission Act, No. 23 of 2011 (hereinafter referred to as the principal enactment) as last amended by the Tax Appeals Commission (Amendment) Act, No.4 of 2012 is hereby further amended as follows:-

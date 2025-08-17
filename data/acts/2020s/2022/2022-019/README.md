@@ -14,6 +14,7 @@ Provisions   Of   Specified   Enactments   And   For   Matters
 Connected   Therewith   Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Industrial Disputes (Special Provisions) Act, No. 19 of 2022 and shall come into operation on such date as the Minister may, in consultation with the Minister assigned the subject of Justice, appoint by Order published in the  Gazette .
         - Short title and date of operation
     2. 

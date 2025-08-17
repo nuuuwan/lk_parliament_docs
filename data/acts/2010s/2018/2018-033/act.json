@@ -17,180 +17,187 @@
       "A N   A Ct   To   Amend   The  E Conomic  S Ervice  C Harge A Ct , N O .13  Of  2006",
       "Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Economic Service Charge (Amendment) Act, No. 33 of  2018.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 2 of the Economic Service Charge Act, No. 13 of 2006 (hereinafter referred to as the principal enactment) is hereby amended as follows:",
-        "pre_block_list": [
-          "Amendment of section 2 of Act, No. 13 of 2006."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "in subsection (1) of that section",
-            "pre_block_list": [],
+            "text": "This Act may be cited as the Economic Service Charge (Amendment) Act, No. 33 of  2018.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 2 of the Economic Service Charge Act, No. 13 of 2006 (hereinafter referred to as the principal enactment) is hereby amended as follows:",
+            "pre_block_list": [
+              "Amendment of section 2 of Act, No. 13 of 2006."
+            ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "in paragraph ( a ) of that subsection by the substitution for the words for that relevant quarter; and, of the words for that relevant quarter;;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "in paragraph ( b ) of that subsection",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (1) of that section",
                 "pre_block_list": [],
                 "child_level_list": [
                   {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "i",
-                    "text": "by the substitution, in sub-paragraph (ii) thereof, for the words gold or other precious metal; or, of the words gold or other precious metal;; and",
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "in paragraph ( a ) of that subsection by the substitution for the words for that relevant quarter; and, of the words for that relevant quarter;;",
                     "pre_block_list": [],
                     "child_level_list": []
                   },
                   {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "ii",
-                    "text": "by the repeal of sub-paragraph (iii) thereof, and the substitution therefor of the following:",
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "in paragraph ( b ) of that subsection",
                     "pre_block_list": [],
-                    "child_level_list": []
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "by the substitution, in sub-paragraph (ii) thereof, for the words gold or other precious metal; or, of the words gold or other precious metal;; and",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "by the repeal of sub-paragraph (iii) thereof, and the substitution therefor of the following:",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "on or after April 1, 2017, but prior to the date of commencement of",
+                        "pre_block_list": [
+                          "this Act in respect of every consignment of imports of motor vehicles; or;"
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
                   },
                   {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "iii",
-                    "text": "on or after April 1, 2017, but prior to the date of commencement of",
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "by the addition, immediately after sub-paragraph (iii) thereof, of the following new sub-paragraph:",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iv",
+                        "text": "on or after the date of commencement of this Act in respect of every consignment of imports of motor vehicles, which are not liable for excise duty imposed under the Excise (Special Provisions) Act, No. 13 of 1989; and; and",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      }
+                    ]
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "by the addition, immediately after paragraph ( b ) thereof, of the following new paragraph:",
                     "pre_block_list": [
-                      "this Act in respect of every consignment of imports of motor vehicles; or;"
+                      "( c ) on or after the date of commencement of this Act, on the amount of excise duty imposed under the Excise (Special Provisions) Act, No. 13 of 1989 in respect of every consignment of imports of motor vehicles, which are liable for excise duty;."
                     ],
                     "child_level_list": []
                   }
                 ]
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "by the addition, immediately after sub-paragraph (iii) thereof, of the following new sub-paragraph:",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "the proviso to paragraph ( b ) of subsection (3) of that section is hereby amended as follows:",
                 "pre_block_list": [],
                 "child_level_list": [
                   {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "iv",
-                    "text": "on or after the date of commencement of this Act in respect of every consignment of imports of motor vehicles, which are not liable for excise duty imposed under the Excise (Special Provisions) Act, No. 13 of 1989; and; and",
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "in paragraph ( a ) by the substitution for the words turnover of such bank; and, of the words turnover of such bank;;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "in paragraph ( b ) by the substitution for the words turnover of such person., of the words turnover of such person; and; and",
+                    "pre_block_list": [
+                      "Economic Service Charge (Amendment) Act, No. 33 of 2018 3"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "immediately after paragraph ( b ) by the insertion of the following new paragraph:",
+                    "pre_block_list": [
+                      "( c ) in the case of Central Bank of Sri Lanka, unrealized gain from price revaluation and foreign exchange revalution, shall be deemed not to form part of the turnover of Central Bank of Sri Lanka",
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Schedule IV to the principal enactment is hereby amended as follows:",
+                "pre_block_list": [
+                  "Amendment of Schedule IV of the principal enactment."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "in the item 1 of that Schedule, by the substitution for the words partnership of the retail, of the words partnership from the wholesale or retail ; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "in the item 2 of that Schedule, by the substitution for the words partnership from the retail, of the words partnership from the wholesale or retail.",
                     "pre_block_list": [],
                     "child_level_list": []
                   }
                 ]
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "d",
-                "text": "by the addition, immediately after paragraph ( b ) thereof, of the following new paragraph:",
-                "pre_block_list": [
-                  "( c ) on or after the date of commencement of this Act, on the amount of excise duty imposed under the Excise (Special Provisions) Act, No. 13 of 1989 in respect of every consignment of imports of motor vehicles, which are liable for excise duty;."
-                ],
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The amendments made to the principal enactment by this section, shall be deemed to have come into operation on April 1, 2017.",
+                "pre_block_list": [],
                 "child_level_list": []
               }
             ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "the proviso to paragraph ( b ) of subsection (3) of that section is hereby amended as follows:",
-            "pre_block_list": [],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "in paragraph ( a ) by the substitution for the words turnover of such bank; and, of the words turnover of such bank;;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "in paragraph ( b ) by the substitution for the words turnover of such person., of the words turnover of such person; and; and",
-                "pre_block_list": [
-                  "Economic Service Charge (Amendment) Act, No. 33 of 2018 3"
-                ],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "immediately after paragraph ( b ) by the insertion of the following new paragraph:",
-                "pre_block_list": [
-                  "( c ) in the case of Central Bank of Sri Lanka, unrealized gain from price revaluation and foreign exchange revalution, shall be deemed not to form part of the turnover of Central Bank of Sri Lanka",
-                  ""
-                ],
-                "child_level_list": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "",
-        "pre_block_list": [],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "Schedule IV to the principal enactment is hereby amended as follows:",
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
             "pre_block_list": [
-              "Amendment of Schedule IV of the principal enactment."
+              "Sinhala text to prevail in case of inconsistency.",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
             ],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "in the item 1 of that Schedule, by the substitution for the words partnership of the retail, of the words partnership from the wholesale or retail ; and",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "in the item 2 of that Schedule, by the substitution for the words partnership from the retail, of the words partnership from the wholesale or retail.",
-                "pre_block_list": [],
-                "child_level_list": []
-              }
-            ]
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "The amendments made to the principal enactment by this section, shall be deemed to have come into operation on April 1, 2017.",
-            "pre_block_list": [],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency.",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

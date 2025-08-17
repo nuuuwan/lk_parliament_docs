@@ -9,6 +9,7 @@ L. D.O. 80/2021
 A N  A Ct   To   Amend   The  C Ode   Of  C Riminal  P Rocedure A Ct , N O . 15  Of  1979
 Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Code of Criminal Procedure (Amendment) Act, No. 38 of 2022.
         - Short title
         - Amendment of section 281 of Act, No. 15 of 1979

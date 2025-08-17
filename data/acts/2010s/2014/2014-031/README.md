@@ -20,11 +20,11 @@ And Whereas It Has Become Necessary To Ensure That The Higher Educational Qualif
 And Whereas It Has Become A Matter Of National Importance To Establish A University To Impart Knowledge In The Above Fields In Order That The Knowledge Acquired By The Persons Engaged In Those Fields Be Utilized For The Development Of The Country.
 Be It Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Ocean University of Sri Lanka Act, No. 31of 2014 and shall come into operation on such date as the Minister may appoint by Order published in the  Gazette  (hereinafter in this Act referred to as the appointed date).
         - Short title and date of operation.
         - 2PL 0083902,050 (08/2014)
         - Ocean University of Sri Lanka  Act, No. 31 of 2014 2
-
 I. 
     - E STABLISHMENT   OF   THE  O CEAN  U NIVERSITY   OF  S RI  L ANKA .
     2. 

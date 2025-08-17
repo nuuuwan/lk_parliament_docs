@@ -9,6 +9,7 @@ L.D.O. 9/2024
 A N  A Ct   To   Amend   The  S Ri  L Anka  T Elecommunications A Ct , N O . 25  Of  1991
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Sri Lanka Telecommunications (Amendment) Act, No. 39 of 2024.
         - Short title
     2. Section 4 of the Sri Lanka Telecommunications Act, No. 25 of 1991 (hereinafter referred to as the principal enactment) is hereby amended as follows:-
@@ -266,7 +267,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - 
     23. The following new Part is hereby inserted immediately after section 22 J  of the principal enactment and shall have effect as Part II C  of that enactment:-
         - Insertion of new Part II C  in the principal enactment
-
 II. 
     - I MPOSITION   OF  S URCHARGE   ON  L ICENCE  F EE   AND  C ESS
     - Commission to impose surcharge on the default of payment of any licence fee or cess under this Act

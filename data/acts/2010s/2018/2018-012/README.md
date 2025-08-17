@@ -10,6 +10,7 @@ L.D.O. 7/2017
 A N  A Ct   To   Amend   The  C Ivil  A Viation  A Ct , N O . 14  Of  2010
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka  As Follows:
 
+0. 
     1. This Act may be cited as the Civil Aviation (Amendment) Act, No. 12 of 2018.
         - Short title.
     2. The following new section is hereby inserted immediately after section 18, of the Civil Aviation Act, No. 14 of 2010 and shall have effect as section 18 A  of that enactment:

@@ -10,6 +10,7 @@ L.D.O. 36/2022
 A N  A Ct   To   Amend   The  A Ppropriation  A Ct , N O . 30  Of  2021
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka  As Follows:-
 
+0. 
     1. This Act may be cited as the Appropriation (Amendment) Act, No. 42 of 2022.
         - Short title
     2. Section 2 of the Appropriation Act, No. 30 of 2021 as amended by Act, No. 21 of 2022 is hereby further amended in paragraph ( b ) of subsection (1) thereof,  by the substitution for the words rupees three thousand eight hundred fourty four billion, of the words rupees four thousand five hundred seven billion.

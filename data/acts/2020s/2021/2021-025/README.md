@@ -9,6 +9,7 @@ L.D.O. 12/2021
 A N  A Ct   To   Amend   The  P Enal  C Ode  (C Hapter  19)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Penal Code (Amendment) Act, No. 25 of 2021.
         - Short title
     2. Section 53 of the Penal Code (Chapter 19) is hereby repealed and the following section is substituted therefor:

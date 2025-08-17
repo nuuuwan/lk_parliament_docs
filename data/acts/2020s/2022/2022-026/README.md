@@ -10,6 +10,7 @@ L.D.O. 1/2020
 A N  A Ct   To   Amend   The  S Ri  L Anka  R Upavahini  C Orporation A Ct , No. 6  Of  1982
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Sri Lanka Rupavahini Corporation (Amendment) Act, No. 26 of  2022.
         - Short title
     2. Section 3 of the Sri Lanka Rupavahini Corporation Act, No. 6 of 1982 (hereinafter referred to as the principal enactment) is hereby amended as follows :-

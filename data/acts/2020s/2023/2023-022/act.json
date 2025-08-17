@@ -26,18 +26,24 @@
       "And Whereas Now The Government Of Sri Lanka Is Desirous Of Incorporating The National Eye Bank Of Sri Lanka With A View To Alleviating Blindness And For The Prevention And Control Of  Avoidable Blindness.",
       "Be   It Therefore   Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
     ],
-    "pre_section_list": [
-      {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the National Eye Bank Trust of Sri Lanka Act, No. 22 of 2023.",
-        "pre_block_list": [
-          "Short title"
-        ],
-        "child_level_list": []
-      }
-    ],
     "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the National Eye Bank Trust of Sri Lanka Act, No. 22 of 2023.",
+            "pre_block_list": [
+              "Short title"
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

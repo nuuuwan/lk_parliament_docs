@@ -22,58 +22,64 @@
       "And Whereas A Comprehensive Reparations Scheme Anchored In The Rights Of All Sri Lankans To An Effective Remedy Will Contribute To The Promotion Of Reconciliation For The Wellbeing, And Security Of All Sri Lankans Including Future Generations:",
       "Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Office for Reparations Act,  No. 34 of  2018.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The objectives of this Act shall be",
-        "pre_block_list": [
-          "Objectives of this Act."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "to formulate and recommend to the Cabinet of Ministers, Policies on Reparations  to grant individual and collective reparations to aggrieved persons;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "to facilitate and implement such Policies on reparations as  approved by the Cabinet of Ministers,",
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Office for Reparations Act,  No. 34 of  2018.",
             "pre_block_list": [
-              "by the Office for Reparations, including specialized policies on public education, memorialization and on children, youths, women  and victims of sexual violence and  persons with disabilities;"
+              "Short title."
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL3Paragraph",
-            "num": "c",
-            "text": "to establish links to ensure the compatibility of the Office for Reparations with other mechanisms aimed at reconciliation; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "d",
-            "text": "to monitor and evaluate the progress of delivery of reparations to eligible aggrieved persons.",
-            "pre_block_list": [],
-            "child_level_list": []
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "The objectives of this Act shall be",
+            "pre_block_list": [
+              "Objectives of this Act."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to formulate and recommend to the Cabinet of Ministers, Policies on Reparations  to grant individual and collective reparations to aggrieved persons;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to facilitate and implement such Policies on reparations as  approved by the Cabinet of Ministers,",
+                "pre_block_list": [
+                  "by the Office for Reparations, including specialized policies on public education, memorialization and on children, youths, women  and victims of sexual violence and  persons with disabilities;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to establish links to ensure the compatibility of the Office for Reparations with other mechanisms aimed at reconciliation; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to monitor and evaluate the progress of delivery of reparations to eligible aggrieved persons.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           }
         ]
-      }
-    ],
-    "part_list": [
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

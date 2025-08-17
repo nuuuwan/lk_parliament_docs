@@ -13,6 +13,7 @@ National   Interest   And   To   Provide   For   Matters   Connected
 Therewith   Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the General Sir John Kotelawala Defence University (Special Provisions) Act, No. 17 of 2018 and shall come into operation on such date as the Minister may appoint by Order published in the  Gazette (hereinafter referred to as the appointed date).
         - Short  title and date of operation.
     2. The General Sir John Kotelawala Defence University (hereinafter referred to as the University) shall have the power -

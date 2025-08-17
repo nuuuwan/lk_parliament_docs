@@ -10,6 +10,7 @@ L.D.O. 62/2018
 A N  A Ct   To   Amend   The  W Orkmen  S  C Ompensation  O Rdinance (C Hapter  139)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Workmens Compensation (Amendment) Act, No. 10 of 2022.
         - Short  title
     2. The long title to the Workmens Compensation Ordinance (Chapter 139) (hereinafter in this Act referred to as the principal enactment) is hereby amended by the substitution, for the words who are injured in the course of their employment. of the words who are injured in the course of their employment or while coming from their place of residence to the work place or while returing back to their place of residence from the work place

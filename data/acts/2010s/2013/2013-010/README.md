@@ -9,6 +9,7 @@ L.D.O. 41/2012.
 A N   A Ct   To   Amend   The  R Esettlement  A Uthority A Ct , N O . 9  Of  2007
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Resettlement Authority (Amendment) Act, No. 10 of 2013.
         - Short title.
     2. Section 32 of the Resettlement Authority Act, No. 09 of 2007 is hereby amended as follows:

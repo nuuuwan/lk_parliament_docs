@@ -16,76 +16,83 @@
       "A N  A Ct   To   Amend   The  P Enal  C Ode  (C Hapter  19)",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Penal Code (Amendment) Act, No. 10 of 2018.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 75 of the Penal Code (Chapter 19) (hereinafter referred to as the principal enactment) is hereby amended by the substitution",
-        "pre_block_list": [
-          "Amendment of section 75 of Chapter 19."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "for the words eight years of the words twelve years; and",
-            "pre_block_list": [],
+            "text": "This Act may be cited as the Penal Code (Amendment) Act, No. 10 of 2018.",
+            "pre_block_list": [
+              "Short title."
+            ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "in the marginal note thereof, for the words eight years, of the words twelve years.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 76 of the principal enactment is hereby amended by the substitution",
-        "pre_block_list": [
-          "Amendment of section 76 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "for the words above eight years of age and under twelve, of the words above twelve years of age and under fourteen; and",
-            "pre_block_list": [],
-            "child_level_list": []
+            "text": "Section 75 of the Penal Code (Chapter 19) (hereinafter referred to as the principal enactment) is hereby amended by the substitution",
+            "pre_block_list": [
+              "Amendment of section 75 of Chapter 19."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "for the words eight years of the words twelve years; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in the marginal note thereof, for the words eight years, of the words twelve years.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "in the marginal note thereof, for the words above eight and under twelve of the words above twelve and under fourteen.",
-            "pre_block_list": [],
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 76 of the principal enactment is hereby amended by the substitution",
+            "pre_block_list": [
+              "Amendment of section 76 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "for the words above eight years of age and under twelve, of the words above twelve years of age and under fourteen; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in the marginal note thereof, for the words above eight and under twelve of the words above twelve and under fourteen.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "Penal Code (Amendment) Act, No. 10 of 2018 2",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+            ],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency.",
-          "Penal Code (Amendment) Act, No. 10 of 2018 2",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

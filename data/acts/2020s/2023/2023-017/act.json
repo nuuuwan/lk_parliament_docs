@@ -24,49 +24,55 @@
       "Therewith   Or   Incidental   Thereto .",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "This Act may be cited as the Banking (Special Provisions) Act, No. 17  of 2023.",
-            "pre_block_list": [
-              "Short title and date of operation"
-            ],
-            "child_level_list": []
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "This Act may be cited as the Banking (Special Provisions) Act, No. 17  of 2023.",
+                "pre_block_list": [
+                  "Short title and date of operation"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The provisions of this Act other than the provisions of this section shall come into operation on such date as the Minister may appoint by Order published in the  Gazette (in this Act referred to as the appointed date).",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The provisions of this section shall come into operation on the date on which the Bill becomes an Act of Parliament.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "The provisions of this Act other than the provisions of this section shall come into operation on such date as the Minister may appoint by Order published in the  Gazette (in this Act referred to as the appointed date).",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "The provisions of this section shall come into operation on the date on which the Bill becomes an Act of Parliament.",
-            "pre_block_list": [],
+            "text": "Notwithstanding anything to the contrary in any other written law for the time being in force, provisions of this Act shall apply in the exercise, performance and discharge of the powers, duties and functions relating to the authority vested with the Central Bank to resolve banks licensed under the Banking Act (in this Act referred to as the licensed banks).",
+            "pre_block_list": [
+              "Application of the Act"
+            ],
             "child_level_list": []
           }
         ]
       },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Notwithstanding anything to the contrary in any other written law for the time being in force, provisions of this Act shall apply in the exercise, performance and discharge of the powers, duties and functions relating to the authority vested with the Central Bank to resolve banks licensed under the Banking Act (in this Act referred to as the licensed banks).",
-        "pre_block_list": [
-          "Application of the Act"
-        ],
-        "child_level_list": []
-      }
-    ],
-    "part_list": [
       {
         "class_name": "ActL0Part",
         "num": "I",

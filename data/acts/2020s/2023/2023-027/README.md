@@ -11,6 +11,7 @@ L.D.O. 1/2021
 A N  A Ct   To   Amend   The  F Isheries   And  A Quatic  R Esources A Ct , N O . 2  Of  1996
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Fisheries and Aquatic Resources (Amendment) Act, No. 27 of 2023.
         - Short title
     2. Section 14 F  of the Fisheries and Aquatic Resources Act, No. 2 of 1996 (hereinafter referred to as the principal enactment) is hereby repealed and the following new section is substituted therefor: -
@@ -24,7 +25,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
             - 
             - Insertion of new PART II B in the principal enactment
     3. The following new part is hereby inserted immediately after PART II A of the principal enactment and shall have effect as PART II B of that enactment:-
-
 II. 
     - 14 O . (1) A person shall not engage in any Illegal, Unreported or Unregulated fishing operations in Sri Lanka Waters or High seas.
     - Prohibition of Illegal, Unreported or Unregulated fishing in Sri Lanka Waters or High Seas

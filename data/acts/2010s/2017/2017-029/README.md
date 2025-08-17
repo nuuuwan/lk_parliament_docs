@@ -10,6 +10,7 @@ A N  A Ct   To   Amend   The   P Revention   Of  C Rimes
 O Rdinance  (C Hapter  22)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the  Prevention of Crimes (Amendment)  Act, No. 29 of 2017.
         - Short title.
     2. Section 2 of the  Prevention of Crimes Ordinance (Chapter 22) (hereinafter referred to as the principal enactment) is hereby amended in sub-paragraph (i) of paragraph ( b ) of subsection (3) thereof, by the substitution for the words and figures, by section 302 of the Criminal Procedure Code, of the words and figures, by section 277 of the Code of Criminal Procedure  Act, No. 15 of 1979.

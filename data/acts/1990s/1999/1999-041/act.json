@@ -1,0 +1,548 @@
+{
+  "n_pages": 13,
+  "title_page": {
+    "title": "Inland Revenue (Amendment) Act",
+    "num": "41",
+    "year": "1999",
+    "date_certified": "1999-11-30",
+    "date_published": "2025-12-03",
+    "price": 9.0,
+    "price_postage": 3.5
+  },
+  "body_pages": {
+    "preamble": [
+      "Inland Revenue (Amendment) Act, No. 41 Of 1999 1",
+      "[Certified On 30Th November, 1999]",
+      "L.D.O. 6/99.",
+      "A N  A Ct   To   Amend   The  I Nland  R Evenue  A Ct , N O . 28  Of  1979",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as The Inland Revenue (Amendment) Act, No, 41 of 1999.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 8 of the Inland Revenue Act, No. 28 of 1979 (hereinafter referred to as the principal enactment ) as last amended by Act, No. 52 of 1998 is hereby further amended in paragraph ( a ) of that section as follows :",
+            "pre_block_list": [
+              "Amendment of section 8 of Act, No. 28 of 1979."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in sub-paragraph (Lxxv) of that paragraph, by the substitution, for the words and figures  the Geological Survey and Mines Bureau established under the Mines and Minerals Act, No. 33 of 1992, of the words and figures  the Geological Survey and Mines Bureau established under the Mines and Minerals Act, No. 33 of 1992;;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition, at the end of that paragraph, of the following sub-paragraphs :",
+                "pre_block_list": [
+                  " (LXXVI) the Commonwealth Development Corporation ;",
+                  " (LXXVII) the India-Sri Lanka Foundation incorporated under the Companies Act, No. 17 of 1982."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 9 of the principal enactment as last amended by Act, No. 52 of 1998, is hereby further amended in sub-pragraph (viii) of paragraph ( f ) of sub-section (1) of that section, by the substitution, for the words the commonwealth Secretariat in any of its programmes for technical co-operation",
+            "pre_block_list": [
+              "Amendment of section 9 of the principal enactment.",
+              "H-022545",
+              "Inland Revenue (Amendment) Act, No. 41 of 1999 2",
+              "with Sri Lanka, of the words the Commonwealth Secretariat on any of its programmes for technical co-operation with Sri Lanka, or the Commonwealth Development Corporation."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 14 of the principal enactment as last amended by Act No. 52 of 1998 is hereby further amended in sub- paragraph ( a ) of sub-section (1) of that Section as follows :",
+            "pre_block_list": [
+              "Amendment of section 14 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the renumbering of sub-paragraphs (xxii) and (xxiii) (inserted by Act No. 52 of 1998) as sub-paragraphs (xxiv) and (xxv) respectively, of sub-section (1) ;and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition, immediately after the renumbered sub- paragraph (xxv) of that sub-section of the following sub-paragraphs :",
+                "pre_block_list": [
+                  "(xxvi) the sale, on or after April 1, 1999 but before April 1 , 2000 by any person, of any share held by him in any company, being a company the shares of which are quoted on or before March 31, 2000 in any official list published by any stock exchange licensed by the securities and exchange Commission of Sri Lanka ;",
+                  "(xxvii) change of ownership of any "
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "share warrant or",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "financial instrument which is derived from, and dependant on, another financial instrument,",
+                        "pre_block_list": [
+                          "issued by any company and which at the time of such change of ownership, is quoted in any official list published by any stock exchange licensed by the Securities and Exchange Commission of Sri Lanka.",
+                          "Inland Revenue (Amendment) Act, No. 41 of 1999 3"
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Section 15 of the principal enactment as last amended by Act, No. 52 of 1998, is hereby further amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 15 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in paragraph ( v ) of that section, by the substitution for all the words and figures from such part of any sum to established by the Sri Lanka Bureau of Foreign Employment Act, No. 21 of 1985 of the following :",
+                "pre_block_list": [
+                  "such part of any sum as does not exceed"
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "two thousand rupees paid in any year of assessment commencing on or after April 1, 1990 but prior to April 1, 1999 ; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "three thousand rupees paid in any year of assessment commencing on or after April 1, 1999",
+                    "pre_block_list": [
+                      "by the Sri Lanka Bureau of Foreign Employment established by the Sri Lanka Bureau of Foreign Employment Act, No. 21 of 1985."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the repeal of paragraph ( vv ) of that section and the substitution therefor of the following paragraph :",
+                "pre_block_list": [
+                  "( vv ) such part of any sum as does not exceed"
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "two thousand rupees received in any year of assessment commencing on or after April 1, 1990 but to April 1, 1999 ; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "three thousand rupees received in any year of assessment commencing on or after April 1, 1999.",
+                    "pre_block_list": [
+                      "by the Sri Lankan Bureau of Foreign Employment established by the Sri Lanka Bureau of Foreign Employment Act, No. 21 of 1985, in respect of any",
+                      "Inland Revenue (Amendment) Act, No. 41 of 1999 4",
+                      "Sri Lankan for whom employment outside Sri Lanka has been provided or Secured by such Bureau ;."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "Section 23 of the principal enactment, as last amended by Act No. 52 of 1998, is hereby further amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 23 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in sub-section (1) of that section,.",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "in paragraph ( eee ) of that sub-section",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "by the substitution, in sub-paragraph (i a ) of that paragraph for the words and figures [other than plant, machinery or fixtures referred to in sub-paragraph (ii) or (ii a )] of the words and figures [other than plant, machinery or fixtures referred to in sub- paragraph (ii), (ii a ) or (ii b ) ; and",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "by the insertion, immediately after sub- paragraph (ii a ) of that paragraph, of the following sub-paragraph :",
+                        "pre_block_list": [
+                          "(ii b ) any  computer  hardware, telecommunication equipment or any accessory to such hardware or equipment acquired by him on or after April 1, 1998 but prior to April 1, 2000 for the replacement of or for upgrading, any computer hardware, telecommunication equipment or any accessory thereto acquired prior to April 1, 1998 and used in any trade, business, profession or vocation carried on or exercised by such person if such computer hardware or telecommunication    equipment",
+                          "Inland Revenue (Amendment) Act, No. 41 of 1999 5",
+                          "or accessory to such hardware or equipment acquired on or after April 1, 1998 is millennium complaint, at the rate of one hundred  per centum  of its cost of its acquisition;"
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "by the repeal of paragraph ( eeeee ), of that sub-section and the substitution therefor of the following paragraph :",
+                    "pre_block_list": [
+                      "( eeeee ) an allowance in respect of"
+                    ],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "any computer software (other than computer software referred to in sub-paragraph (ii) acquired by such person during the period of which the profits and  income  are  being ascertained and used by such person in any trade, business, profession, or vocation carried on or exercised by  him, such allowance being an amount equal to",
+                        "pre_block_list": [
+                          "(A) thirty-three and one third  per centum  of the cost of acquisition of  such  computer software where such computer software is so acquired prior to April 1, 1997 ; and",
+                          "(B) fifty  per centum  of the cost of acquisition of  such  computer software,  where  such",
+                          "Inland Revenue (Amendment) Act, No. 41 of 1999 6",
+                          "computer software is so acquired on or after April 1, 1997 ;"
+                        ],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "any  computer  software acquired by such person, on or after April 1, 1998, but prior to April 1, 2000, for the replacement of , or for upgrading, the computer software acquired prior to April 1, 1998, and used in any trade business,  profession  or vocation carried on   or exercised by him, if such computer software acquired on or after April 1, 1998 is millennium complaint, at the rate of one hundred  per centum  of the cost of its acquisition :",
+                        "pre_block_list": [
+                          "provided  that  no deduction  under  the preceeding provisions of this paragraph shall be allowed to any person in respect of any computer software if the total of the allowances granted in the preceeding  years  of assessment in respect of such computer software is equal to the cost of acquisition such computer software",
+                          ""
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "Section 30 of the principal enactment as last amended by Act No. 52 of 1998 is hereby further amended in sub-section (2) of that section as follows :",
+            "pre_block_list": [
+              "Amendment of section 30 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in the third proviso to that sub-section, by the substitution for the words and figures any year of assessment commencing on or after April 1, 1989, but",
+                "pre_block_list": [
+                  "Inland Revenue (Amendment) Act, No. 41 of 1999 7",
+                  "prior to March 31, 1997 and for the period commencing from March 31, 1997 to December 31, 1997, of the words and figures any year of assessment commencing on or after April 1, 1989 ;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in the fourth proviso to that sub-section, by the substitution for the words and figures any year of assessment commencing on or after April 1, 1989 of the words and figures any year of assessment commencing on or after April 1, 1989, but prior to April 1, 1997 and for the period commencing from April 1, 1997 to December 31, 1997",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "Section 31 of the principal enactment as last amended by Act No. 52 of 1998 is hereby further amended in sub-section (6) of that section as follows :",
+            "pre_block_list": [
+              "Amendment of section 31 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the substitution, in paragraph (i) of that sub-section, for the words and letters paragraph ( b ), ( c ), ( m ) or ( n ) of sub-section (2), of the words and letters paragraph ( b ), ( c ), ( m ), (n) or ( s ) of sub-section (2);",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the sub-stitution, in paragraph (ii) of that sub-section, for the words and letters paragraph ( q ) or ( s ), of the word and letter paragraph ( q ).",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "Section 32 DDD  of the principal enactment inserted by Act No. 52 of 1998, is hereby further amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 32 DDD   of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in sub-section (1) of that section, by the substitution, for the words and figures from where the taxable income to  the tax shall be computed as follows :, of the following :",
+                "pre_block_list": [
+                  "Where the taxable income of any person (other than any company )",
+                  "(A) for the year of assessment commencing on April 1, 1998, includes any profits and income",
+                  "Inland Revenue (Amendment) Act, No. 41 of 1999 8",
+                  "[within the meaning of section 3( a )] from any agricultural undertaking or any undertaking for the promotion of tourism ; or",
+                  "(B) for any year of assessment commencing on of after April 1, 1999,includes any profits and income [within the meaning of section 3( a ) from any agricultural undertaking, undertaking for the promotion of tourism  or  undertaking  for construction work,",
+                  "(hereinafter in this section reffered to as specified profits) and the rate of income tax payable on a part of such income (hereinafter in this section referred to as relevant part of income) exceeds fifteen  per centum ,    then in regard to the relevant part of income, tax shall be computed as follows :;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in sub-section (2) of that section",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "in the proviso to paragraph (c) of that sub- section, by the substitution, for the words profits arising from such deemed sale; of the words profits arising from such deemed sale;",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "by the addition immediately after paragraph ( c)  of that sub-section of the following paragraph :",
+                        "pre_block_list": [
+                          "( d ) undertaking for construction work means an undertaking carried on by a resident person for the construction of any ",
+                          "(i) building ;",
+                          "(ii) roads or bridges ; or"
+                        ],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "water supply, drainage or sewerage systems,.",
+                        "pre_block_list": [
+                          "Inland Revenue (Amendment) Act, No. 41 of 1999 9",
+                          "Amendment of section 32 DDDD of the principal enactment."
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "Section 32 DDDD  of the principal enactment inserted by Act No. 52 of 1998, is hereby further amended as follows:",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of sub-section (1) of that section and the substitution therefor of the following sub-section :",
+                "pre_block_list": [
+                  "(1) Where the taxable income of any company"
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "for the year of assessment commencing on April 1, 1998, includes any profits and income [within the meaning of section 3( a ) from any agricultural undertaking or",
+                    "pre_block_list": [
+                      "any undertaking for the promotion of tourism ;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "for any year of assessment commencing on or after April 1, 1999, includes any profits and income [within the meaning of sections (3( a ) from any agricultural undertaking or",
+                    "pre_block_list": [
+                      "any undertaking for the promotion of tourism ; or any undertaking for construction work,",
+                      "such part of such taxable income as consist of such profits and income shall, notwithstanding anything to the contrary in any other provision of this Chapter, Chapter VIII A or Chapter IX, be chargeable with income tax at the rate of fifteen  per centum    ; and"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in sub-section (2) of that section by the substitution, for the words the profits and income from any agricultural undertaking shall, of the words the profits and income from any agricultural undertaking and undertaking for construction work shall.",
+                "pre_block_list": [
+                  "Inland Revenue (Amendment) Act, No. 41 of 1999 10"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "11",
+            "text": "Section 32 EEEE  of the principal enactment is hereby amended in sub-section (3) of that section by the substitution, for the words and figures shall apply to that company for the year of assessment commencing on April 1, 1997, of  the words and figures  shall apply to that company for the year of assessment commencing on April 1, 1997.",
+            "pre_block_list": [
+              "Amendment of section 32 EEEE of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "12",
+            "text": "Section 32 EEEEE  of the principal enactment is hereby amended in paragraph ( b ) of sub-section (3) of that section by the substitution for all the words from is not less than three hundred to the end of that paragraph of the following :",
+            "pre_block_list": [
+              "Amendment of section 32 EEEEE of the principal enactment.",
+              "is not less than three hundred,",
+              "the deduction referred to in sub-section (1), shall apply to that company for the year of assessment commencing on April 1, 1997, as an amount equal to two and one half  per centum  of such part",
+              ""
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "13",
+            "text": "Section 113 A  of the principal enactment as last amended by Act No. 24 of 1997 is hereby further amended in paragraph (b) the definition of interest of sub-section (1) of that section by the insertion, immediately after item (ii) of that paragraph of the following item :",
+            "pre_block_list": [
+              "Amendment of section 113 A   of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL4SubParagraph",
+                "num": "iii",
+                "text": "a bond, note, debenture, loan, stock or other security held by such person and which is quoted in any official list published by any stock exchange licensed by the Securities and Exchange Commission of Sri Lanka ;.",
+                "pre_block_list": [
+                  "Amendment of the First Schedule to the principal enactment."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "14",
+            "text": "The First Schedule to the principal enactment as last amended by Act No. 24 of 1997, is hereby further amended in Part IV of that Schedule as follows :",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "in paragraph ( d ) of that Part by the substitution for the words and figures for any year of assessment commencing on or after April 1, 1997, of the words and figures for any year of assessment commencing on or after April 1, 1997 but prior to April 1, 1999.;",
+                "pre_block_list": [
+                  "Inland Revenue (Amendment) Act, No. 41 of 1999 11"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "by the addition, immediately after paragraph ( d ) of that Part, of the following paragraph :",
+                "pre_block_list": [
+                  "( e ) for any year of assessment commencing on or after April 1, 1999",
+                  "On the first Rs. 500,000 Nil",
+                  "On the balance 15  per centum",
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "15",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The amendments to section 14, Section 15, section 32 DDD , Section 32 DDDD , section 113 A  and the First Schedule to the principal enactment made respectively by section 4, section5, section 9, section 10,section 13, and section 14 of this Act shall be deemed for all purposes to have come into force on April 1, 1999.",
+                "pre_block_list": [
+                  "Retrospective effect."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The amendment to section 23 of the principal enactment made by the section 6 of this Act shall be deemed for all purposes to have come into force on April 1, 1998.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The amendment to section 30 of the principal enactment made by the section 7 of this Act shall be deemed for all purposes to have come into force on January 1, 1998.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The amendment to section 31 of the principal enactment made by the section 8 of this Act shall be deemed for all purposes to have come into force on November 6, 1997.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "The amendment to section 8 of the principal enactment made by the section 2(1)( c )  Act No. 52 of 1998 in relation to the Geological Survey and Mines Bureau established under the Mines and Minerals Act No. 33 of1992, shall be deemed for all purposes to have come into force on March 18, 1993 notwithstanding anything to the contrary in the said Act.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "16",
+            "text": "In the event of any inconsistency between the Sinhala and the Tamil texts of this Act, the Sinhala Text shall prevail. Sinhala text to prevail in case of inconsistency.",
+            "pre_block_list": [
+              "Annual subscription of English Bills and Acts of the Parliament Rs.885 (Local). Rs.1,180 (Foreign). Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , N O . 32, T RANSWORKS  H OUSE , L OTUS  R OAD , C OLOMBO  01 before 15 th December each year in respect of the year following."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

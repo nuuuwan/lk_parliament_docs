@@ -1,0 +1,310 @@
+{
+  "n_pages": 9,
+  "title_page": {
+    "title": "Water  Resources  Board  (Amendment) Act",
+    "num": "42",
+    "year": "1999",
+    "date_certified": "1999-11-30",
+    "date_published": null,
+    "price": 6.0,
+    "price_postage": 3.5
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 30Th November, 1999]",
+      "L.D. O. 27/98.",
+      "A N  A Ct   To  A Mend   The  W Ater  R Esources  B Oard A Ct , N O . 29  Of  1964",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :- 1. This Act May Be Cited As The Water Resources Board (Amendment) Act, No. 42 Of  1999.",
+      "Short Title."
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 12 of the Water Resources Board Act, No.29 of 1964 (hereinafter referred to as the  principal enactment) is hereby repealed and the following  section substituted there- for :-",
+            "pre_block_list": [
+              "Replacement of section 12 of Act No.29 of 1964.",
+              "12. (1) It shall be the duty of the Board to advise the Minister on the following matters, and on any other matter that is referred to the Board for advice by the Minister :-",
+              "Duties of the Board.",
+              "(a)  the  control,  regulation  and development  (including  the conservation and utilization), of the  water  resources  of  the country ;",
+              "(b)  the prevention of the pollution of rivers, streams and other water resources ;",
+              "(c)  the  formulation  of  national policies relating to the control and use of the water resources of the country  with  the  following objectives in view :- (i) the  multi-purpose development  and  use  of water resources ; H - 022545",
+              "2 Water Resources Board (Amendment) Act, No.42 of 199 9",
+              "(ii) the short- term and long- term provision of water resources for  domestic  supplies  and industrial supplies ;",
+              "(iii) the control of salinity ;",
+              "(iv) any other like objective ;",
+              "(d)  the preparation of comprehensive and integrated plans for the conservation, utilization, control and development of the groundwater resources of the country ;",
+              "(e)  the co- ordination of the activities of government  departments,  local authorities and public corporations, in regard to surveys of basic data and other investigations, relating to hydrogeology ;",
+              "(f)  the analysis of reports based on investigations, statistical surveys, plans and proposals relating to the groundwater resources of the country made by government departments, local  authorities  and  public corporations ;",
+              "(g)  the  co-ordination  of  projects undertaken  by  government departments, local authorities and public corporations, relating to the conservation,  utilization  and development of the subterranean water resources of the country, and the assessment of the possibilities, benefits and economic feasibility of such projects ;",
+              "(h)  any other suitable measures to be taken by the Government for the proper control and economic use of groundwater."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The  Board  may  undertake  such investigations and surveys as would enable it to collect the data and information necessary to advise the Minister on the matters specified in sub-section (1) of this section.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Board may carry out such other activities, for payment or otherwise, as would enable it to effectually perform its duties under subsection (1) of this section. The activities which  the  Board  may  carry  out  shall include the following :-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "carrying out of  feasibility studies on the availability of ground water resources ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "carrying  out  of    hydrogeological investigations to identify ground water sites for deep tube wells and agro wells ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "the  construction  of  tube  wells  in  a scientific  manner  to  enable  the extraction of groundwater for domestic, agricultural and industrial purposes ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "the drilling of bore holes to investigate the sub surface strata",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 14 of the principal enactment is hereby amended by the repeal of subsection (1) of that section and the substitution therefore of the following subsection :-",
+            "pre_block_list": [
+              "Amendment of section 14 of the principal enactment.",
+              "4 Water Resources Board (Amendment) Act, No.42 of 199 9"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "There shall be a Committee which shall be called the Inter-departmental Advisory Committee to the Water Resources Board (hereinafter referred to as the Advisory Committee) consisting of -",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the Secretary to the Ministry of the Minister to whom the Water Resources Board has been assigned ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "The Additional Secretary to the Ministry of the Minister to whom the Water Resources Board has been assigned ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "The Secretary to the Ministry of the Minister to whom the subject of Health has been assigned or his nominee ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "The Secretary to the Ministry of the Minister to whom the subject of Indigenous Medicine has been assigned or his nominee ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "The Secretary to the Ministry of the Minister to whom the subject of Local Government has been assigned or his nominee ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "f",
+                    "text": "The Secretary to the Ministry of the Minister to whom the subject of Provincial Councils has been assigned or his nominee ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "g",
+                    "text": "The Director- General of Irrigation ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "h",
+                    "text": "The Chairman, of the Ceylon Electricity Board established by the Ceylon Electricity Board Act, No. 17 of 1969 ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "The Chairman, of the Geological Survey and Mines Bureau established by the Mines and Minerals Act, No.33 of 1992 ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "j",
+                    "text": "The Director - General of the Department of Agriculture ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "k",
+                    "text": "The Land Commissioner ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "l",
+                    "text": "The Surveyor- General ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "m",
+                    "text": "The Commissioner of Agrarian Services ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "n",
+                    "text": "The Director- General of the Department of National Planning ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "o",
+                    "text": "The Chairman, of the National Water Supply and Drainage Board established by the National Water Supply and Drainage Board Act, No.2 of 1974 ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "p",
+                    "text": "The Conservator of Forests ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "q",
+                    "text": "The Chairman, of the Road Development Authority,  established  by  the  Road Development Authority Act, No.73 of 1981 or his nominee ; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "r",
+                    "text": "The General Manager, Sri Lanka Railways",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 20 of the principal enactment is hereby amended in subsection (1) of that section, by the substitution for the words five hundred rupees or the words  five thousand rupees.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Section 21 of the principal enactment is hereby amended as follows :-",
+            "pre_block_list": [
+              "Amendment of section 20 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "by the substitution for the definition of the expres- sion local authority of the following definition :-",
+                "pre_block_list": [
+                  "local authority means any Municipal Council, Urban Council or Pradeshiya Sabha and includes any other authority created or established by or under any law to exercise, discharge and perform powers, functions and duties corresponding to, or similar to, the powers, duties and functions exercised, performed and discharged by any such Council or Sabha ; : and",
+                  "Amendment of section 21 of  the principal enactment",
+                  "6 Water Resources Board (Amendment) Act, No.42 of 199 9"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "by the substitution, in the definition of the expression Local Government Service for the words Local Government Service Ordinance of the words  Local Government Service Act, No.16 of 1974",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "The principal enactment is hereby amended in the provision specified in Column I of the Schedule to this Act, by the substitution, for the word or expression specified in the corresponding entry in Column II of that Schedule, of the word or expression specified in the corresponding entry in Column III of that Schedule.",
+            "pre_block_list": [
+              "Amendment of certain provisions of the principal enactment"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall pre- vail.",
+            "pre_block_list": [
+              "Sinhala text to Prevail in case of inconsisitency",
+              "4 (5) Ceylon Sri Lanka",
+              "5 (2) Ceylon Sri Lanka 9 (2) Secretary to the Secretary to the Ministry of the Treasury Minister in charge of the subject of Public Administration",
+              "11 Ceylon Sri Lanka",
+              "13 Ceylon Sri Lanka 14 (4) Permanent Secretary to the Ministry of the Secretary Minister in charge of the Water Resources Board",
+              "14 (5) Permanent Secretary to the Minisrty of the Secretary Minister in charge of the Water Resources Board",
+              "17 (3) (c) The Senate and Parliament the House of Representatives",
+              "19 (1) The Senate and Parliament the House of Represenatatives",
+              "19 (3) The Senate and Parliament the House of Representatives",
+              "8 Water Resources Board (Amendment) Act, No.42 of 199 9",
+              "Annual subscription of English Bills and Acts of the Parliament Rs.885 (Local). Rs.1,180 (Foreign). Payable to the S UPERINTENDENT . G OVERNMENT  P UBLICATIONS  B UREAU , No. 32, T RANSWORKS  H OUSE , L OTUS  R OAD , C OLOMBO  01 before 15th December each year in respect                                                   of the year following."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -36,19 +36,25 @@
       "Now Therefore Be It Enacted By The Parliament Of",
       "Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
-      {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Sri Lanka National",
-        "pre_block_list": [
-          "Short title",
-          "Commission for the UNESCO Act, No. 38 of 2024."
-        ],
-        "child_level_list": []
-      }
-    ],
     "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Sri Lanka National",
+            "pre_block_list": [
+              "Short title",
+              "Commission for the UNESCO Act, No. 38 of 2024."
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

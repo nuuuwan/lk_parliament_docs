@@ -32,75 +32,81 @@
       "And Whereas   It Is Also Necessary To Recognise The Government Of Sri Lankas Commitment To The Evolution Of The Electricity Industry Through The Implementation Of Its Decarbonisation Goals, Climate Change Policies And The Enhancement Of The Contribution Of Renewable Energy To The Generation Of Electricity Facilitated By Modern  Technology And Processes To Optimise Generation Of Energy  From Domestic Renewable Energy Sources To Minimize The Dependence On Imported Fossil Fuel Sources And Adaption Of Emerging Technologies In Energy Conversion, Storage And Management To Facilitate The Integration Of Renewable Energy And To Promote Competition Amongst Alternate Processes Of Generation Of Electricity In An Efficient And Transparent Manner:",
       "Now Therefore, Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "This Act may be cited as the Sri Lanka Electricity Act, No. 36 of 2024.",
-            "pre_block_list": [
-              "Short title and dates of operation"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "The provisions of this Act other than the provisions of this section, section 2, section 3, section 4, section 9, subsection (1) of section 10, paragraph ( b ) of subsection (2) of section 10, subsection (3) of section 10, subsection (5) of section 10, section 14, section 15, section 17, section 18, section 38, section 39 and the sections specified in subsection (4) of this section shall come into operation on such date as shall be appointed by the Minister by Order published in the  Gazette  (hereinafter referred to as the appointed date):",
-            "pre_block_list": [
-              "Provided that, prior to making such Order, the Minister shall be satisfied that the Preliminary Transfer Plan, the National Electricity Policy, including the National Tariff Policy, the Annual Power Procurement Plan and the Long Term Power System Development Plan have been prepared, approved and are in place in accordance with the provisions of this Act:",
-              "Provided further, if no appointed date is published in the  Gazette  as required by this subsection even though the Minister is satisfied that the requirements in the first proviso have been met,  the provisions of this Act, other than the provisions of this section, section 2, section 3, section 4, section 9, subsection (1) of section 10, paragraph ( b ) of subsection (2) of section 10, subsection (3) of section 10, subsection (5) of section 10, section 14, section 15, section 17, section 18, section 38, section 39 and the sections specified in subsection (4) of this section shall come into operation immediately upon the expiry of twelve months from the date on which the Bill becomes an Act of Parliament."
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "The provisions of this section, section 2, section 3, section 4, section 9, subsection (1) of section 10, paragraph ( b ) of subsection (2) of section 10, subsection (3) of section 10, subsection (5) of section 10, section 14, section 15, section 17, section 18, section 38 and section 39 shall come into operation on the date on which the Bill becomes an Act of Parliament.",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "4",
-            "text": "The Minister may, taking into consideration the special circumstances required by this Act to be created or fulfilled for the implementation of the provisions specified in paragraphs ( a ) and ( b ) of this subsection, appoint by Order published in the  Gazette,  different dates for the coming into operation of each of such sections as follows:-",
+            "text": "",
             "pre_block_list": [],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "the date from which the provisions of section 13 relating to open access shall come into operation; and",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "This Act may be cited as the Sri Lanka Electricity Act, No. 36 of 2024.",
+                "pre_block_list": [
+                  "Short title and dates of operation"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The provisions of this Act other than the provisions of this section, section 2, section 3, section 4, section 9, subsection (1) of section 10, paragraph ( b ) of subsection (2) of section 10, subsection (3) of section 10, subsection (5) of section 10, section 14, section 15, section 17, section 18, section 38, section 39 and the sections specified in subsection (4) of this section shall come into operation on such date as shall be appointed by the Minister by Order published in the  Gazette  (hereinafter referred to as the appointed date):",
+                "pre_block_list": [
+                  "Provided that, prior to making such Order, the Minister shall be satisfied that the Preliminary Transfer Plan, the National Electricity Policy, including the National Tariff Policy, the Annual Power Procurement Plan and the Long Term Power System Development Plan have been prepared, approved and are in place in accordance with the provisions of this Act:",
+                  "Provided further, if no appointed date is published in the  Gazette  as required by this subsection even though the Minister is satisfied that the requirements in the first proviso have been met,  the provisions of this Act, other than the provisions of this section, section 2, section 3, section 4, section 9, subsection (1) of section 10, paragraph ( b ) of subsection (2) of section 10, subsection (3) of section 10, subsection (5) of section 10, section 14, section 15, section 17, section 18, section 38, section 39 and the sections specified in subsection (4) of this section shall come into operation immediately upon the expiry of twelve months from the date on which the Bill becomes an Act of Parliament."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The provisions of this section, section 2, section 3, section 4, section 9, subsection (1) of section 10, paragraph ( b ) of subsection (2) of section 10, subsection (3) of section 10, subsection (5) of section 10, section 14, section 15, section 17, section 18, section 38 and section 39 shall come into operation on the date on which the Bill becomes an Act of Parliament.",
                 "pre_block_list": [],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "the date from which the provisions of Part IX relating to the Wholesale Electricity Market shall come into operation.",
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The Minister may, taking into consideration the special circumstances required by this Act to be created or fulfilled for the implementation of the provisions specified in paragraphs ( a ) and ( b ) of this subsection, appoint by Order published in the  Gazette,  different dates for the coming into operation of each of such sections as follows:-",
                 "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the date from which the provisions of section 13 relating to open access shall come into operation; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the date from which the provisions of Part IX relating to the Wholesale Electricity Market shall come into operation.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "Every Order made in terms of subsection (4), shall within ninety days from the date of publication of the relevant Order in the  Gazette  be placed before Parliament:",
+                "pre_block_list": [
+                  "Provided that, the Orders required to be made in terms of subsection (4) shall be made before the expiry of a period of five years from the date on which the Bill becomes an Act of Parliament. If no Order has been made within this period of five years, the provisions of the sections referred to in subsection (4) shall be deemed to come into operation on the date on which the said period of five years expires:",
+                  "Provided further, the Minister may, at any time within three months prior to the expiration of the said five years, with the approval of the Cabinet of Ministers extend such period, by Order published in the  Gazette  for another period of one year at a time so however, the aggregate period of such extensions shall not exceed five years."
+                ],
                 "child_level_list": []
               }
             ]
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "5",
-            "text": "Every Order made in terms of subsection (4), shall within ninety days from the date of publication of the relevant Order in the  Gazette  be placed before Parliament:",
-            "pre_block_list": [
-              "Provided that, the Orders required to be made in terms of subsection (4) shall be made before the expiry of a period of five years from the date on which the Bill becomes an Act of Parliament. If no Order has been made within this period of five years, the provisions of the sections referred to in subsection (4) shall be deemed to come into operation on the date on which the said period of five years expires:",
-              "Provided further, the Minister may, at any time within three months prior to the expiration of the said five years, with the approval of the Cabinet of Ministers extend such period, by Order published in the  Gazette  for another period of one year at a time so however, the aggregate period of such extensions shall not exceed five years."
-            ],
-            "child_level_list": []
           }
         ]
-      }
-    ],
-    "part_list": [
+      },
       {
         "class_name": "ActL0Part",
         "num": "I",

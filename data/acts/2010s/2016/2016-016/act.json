@@ -16,181 +16,187 @@
       "A N  A Ct   To   Amend   The  R Egistration   Of  D Eaths  (T Emporary P Rovisions ) A Ct , N O . 19  Of  2010",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Registration of Deaths (Temporary Provisions) (Amendment) Act, No. 16 of 2016.",
-        "pre_block_list": [
-          "Short Title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "The long title to the Registration of Deaths (Temporary Provisions) Act, No. 19 of 2010 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO. of the words TO PROVIDE FOR THE REGISTRATION OF PERSONS REPORTED MISSING AS A RESULT OF THE CONFLICT WHICH TOOK PLACE IN THE NORTHERN AND EASTERN PROVINCES OR ITS AFTERMATH OR POLITICAL UNREST OR CIVIL DISTURBANCES OR ENFORCED DISAPPEARANCES OR OF MEMBERS OF THE ARMED FORCES OR POLICE IDENTIFIED AS MISSING IN ACTION; AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO",
-        "pre_block_list": [
-          "",
-          "Amendment of the long title of Act, No. 19 of 2010."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "The Preamble of the principal enactment is hereby amended as follows:-",
-        "pre_block_list": [
-          "Amendment of the Preamble of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "for the words subversive activities or civil commotion of the words subversive activities, or as a result of the conflict which took place  in the Northern and Eastern Provinces or its aftermath or political unrest or civil disturbances or enforced disappearances;;",
-            "pre_block_list": [
-              "2PL 0100692,961  (07/2016)",
-              "(Amendment) Act, No. 16 of 2016 2"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "for the words for the registration of such deaths: of the words for the registration of such deaths and such missing persons:.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
+        "class_name": "ActL0Part",
+        "num": "0",
         "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "In the principal enactment and in any other written law there shall be substituted for the words Registration of Deaths (Temporary Provisions) Act whenever those words occur in the principal enactment or any other written law, the words Registration of Deaths and Missing Persons (Special Provisions) Act.",
+            "text": "This Act may be cited as the Registration of Deaths (Temporary Provisions) (Amendment) Act, No. 16 of 2016.",
             "pre_block_list": [
-              "General amendments to the principal enactment."
+              "Short Title."
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "Every reference to the Registration of Deaths (Temporary Provisions) Act in any notice, notification, contract, communication or other document shall be read and construed as a reference respectively to the Registration of Deaths and Missing Persons (Special Provisions) Act.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "Section 1 of the principal enactment is hereby amended by the repeal of subsections (2) and (3) of that section and the substitution therefor of the following sections:-",
-        "pre_block_list": [
-          "Amendment of section 1 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "Notwithstanding any extension of the period of operation of this Act, the Minister may not less than one month prior to the expiration of any period of operation of this Act, by Order published in the  Gazette , extend the period of operation of Parts I and IA of this Act:",
+            "text": "The long title to the Registration of Deaths (Temporary Provisions) Act, No. 19 of 2010 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO. of the words TO PROVIDE FOR THE REGISTRATION OF PERSONS REPORTED MISSING AS A RESULT OF THE CONFLICT WHICH TOOK PLACE IN THE NORTHERN AND EASTERN PROVINCES OR ITS AFTERMATH OR POLITICAL UNREST OR CIVIL DISTURBANCES OR ENFORCED DISAPPEARANCES OR OF MEMBERS OF THE ARMED FORCES OR POLICE IDENTIFIED AS MISSING IN ACTION; AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO",
             "pre_block_list": [
-              "Provided that, "
+              "",
+              "Amendment of the long title of Act, No. 19 of 2010."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "The Preamble of the principal enactment is hereby amended as follows:-",
+            "pre_block_list": [
+              "Amendment of the Preamble of the principal enactment."
             ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "any period of operation may be extended by the Minister upon review of such period having considered the number of applications seeking relief under the said Parts; and",
-                "pre_block_list": [],
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "for the words subversive activities or civil commotion of the words subversive activities, or as a result of the conflict which took place  in the Northern and Eastern Provinces or its aftermath or political unrest or civil disturbances or enforced disappearances;;",
+                "pre_block_list": [
+                  "2PL 0100692,961  (07/2016)",
+                  "(Amendment) Act, No. 16 of 2016 2"
+                ],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "any such extension shall not, in any one instance, be for more than a period of five years.",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "for the words for the registration of such deaths: of the words for the registration of such deaths and such missing persons:.",
                 "pre_block_list": [],
                 "child_level_list": []
               }
             ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "Notwithstanding the expiry of the period of operation of Parts I and IA, the provisions of Parts II and III shall continue to be in operation",
-            "pre_block_list": [
-              ""
-            ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "6",
-        "text": "Section 2 of the principal enactment is hereby amended in subsection (2) of that section by the substitution for the words, in the Form specified in the Schedule of the words in the Form A specified in the Schedule.",
-        "pre_block_list": [
-          "Amendment of section 2 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "7",
-        "text": "Section 6 of the principal enactment is hereby amended by the addition immediately after subsection (4) of that section of the following new subsection:-",
-        "pre_block_list": [
-          "Amendment of section 6 of the principal enactment."
-        ],
-        "child_level_list": [
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "In the principal enactment and in any other written law there shall be substituted for the words Registration of Deaths (Temporary Provisions) Act whenever those words occur in the principal enactment or any other written law, the words Registration of Deaths and Missing Persons (Special Provisions) Act.",
+                "pre_block_list": [
+                  "General amendments to the principal enactment."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Every reference to the Registration of Deaths (Temporary Provisions) Act in any notice, notification, contract, communication or other document shall be read and construed as a reference respectively to the Registration of Deaths and Missing Persons (Special Provisions) Act.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "5",
-            "text": "Where a Certificate of Absence has been issued under section 8 E  in respect of a missing person a Certificate of Death shall not be issued in relation to the same missing person until the cancellation of the Certificate of Absence",
+            "text": "Section 1 of the principal enactment is hereby amended by the repeal of subsections (2) and (3) of that section and the substitution therefor of the following sections:-",
             "pre_block_list": [
-              ""
+              "Amendment of section 1 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Notwithstanding any extension of the period of operation of this Act, the Minister may not less than one month prior to the expiration of any period of operation of this Act, by Order published in the  Gazette , extend the period of operation of Parts I and IA of this Act:",
+                "pre_block_list": [
+                  "Provided that, "
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "any period of operation may be extended by the Minister upon review of such period having considered the number of applications seeking relief under the said Parts; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "any such extension shall not, in any one instance, be for more than a period of five years.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Notwithstanding the expiry of the period of operation of Parts I and IA, the provisions of Parts II and III shall continue to be in operation",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "Section 2 of the principal enactment is hereby amended in subsection (2) of that section by the substitution for the words, in the Form specified in the Schedule of the words in the Form A specified in the Schedule.",
+            "pre_block_list": [
+              "Amendment of section 2 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "Section 6 of the principal enactment is hereby amended by the addition immediately after subsection (4) of that section of the following new subsection:-",
+            "pre_block_list": [
+              "Amendment of section 6 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "Where a Certificate of Absence has been issued under section 8 E  in respect of a missing person a Certificate of Death shall not be issued in relation to the same missing person until the cancellation of the Certificate of Absence",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "The following new section is hereby inserted immediately after section 7 of the principal enactment and shall have effect as section 7 A  of the principal enactment:-",
+            "pre_block_list": [
+              "Insertion of new section 7 A  in  the principal enactment.",
+              "7 A . An applicant who is dissatisfied with the decision of the Registrar-General made under section 7, may within one month of the notification of such refusal or issue, as the case may be, make an application to the District Court against such refusal or issue. The District Court may after review of the material before it, either affirm the decision of the Registrar-General, or direct the Registrar- General to issue a Certificate of Absence, or disallow the report issued by the Registrar- General as the case may be",
+              "",
+              "If dissatisfied may apply to District Court."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "Section 8 of the principal enactment is hereby amended in subsection (1) of that section by the substitution for the words substantially in the Form set out in the Schedule, of the words substantially in the Form A set out in the Schedule.",
+            "pre_block_list": [
+              "Amendment of section 8 of the principal enactment.",
+              "(Amendment) Act, No. 16 of 2016 4"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "The following new Part (sections 8 A  to 8 L ) is hereby inserted immediately after Part I and shall have effect as Part IA, of the principal enactment:-",
+            "pre_block_list": [
+              "Insertion of new Part IA in the principal enactment."
             ],
             "child_level_list": []
           }
         ]
       },
-      {
-        "class_name": "ActL1Section",
-        "num": "8",
-        "text": "The following new section is hereby inserted immediately after section 7 of the principal enactment and shall have effect as section 7 A  of the principal enactment:-",
-        "pre_block_list": [
-          "Insertion of new section 7 A  in  the principal enactment.",
-          "7 A . An applicant who is dissatisfied with the decision of the Registrar-General made under section 7, may within one month of the notification of such refusal or issue, as the case may be, make an application to the District Court against such refusal or issue. The District Court may after review of the material before it, either affirm the decision of the Registrar-General, or direct the Registrar- General to issue a Certificate of Absence, or disallow the report issued by the Registrar- General as the case may be",
-          "",
-          "If dissatisfied may apply to District Court."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "9",
-        "text": "Section 8 of the principal enactment is hereby amended in subsection (1) of that section by the substitution for the words substantially in the Form set out in the Schedule, of the words substantially in the Form A set out in the Schedule.",
-        "pre_block_list": [
-          "Amendment of section 8 of the principal enactment.",
-          "(Amendment) Act, No. 16 of 2016 4"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "10",
-        "text": "The following new Part (sections 8 A  to 8 L ) is hereby inserted immediately after Part I and shall have effect as Part IA, of the principal enactment:-",
-        "pre_block_list": [
-          "Insertion of new Part IA in the principal enactment."
-        ],
-        "child_level_list": []
-      }
-    ],
-    "part_list": [
       {
         "class_name": "ActL0Part",
         "num": "I",

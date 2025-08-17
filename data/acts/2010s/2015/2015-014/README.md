@@ -10,6 +10,7 @@ L.D.O. 12/2015
 A N  A Ct   To   Amend   The  B Etting   And  G Aming  L Evy  A Ct , N O . 40  Of  1988
 Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Betting and Gaming Levy (Amendment) Act, No. 14 of 2015  and shall be deemed for all purposes, to have come into operation on January 1, 2015.
         - Short  title and the date of operation.
     2. Section 2 of the Betting and Gaming Levy Act, No. 40 of 1988 (hereinafter referred to as the principal enactment), as last amended by Act, No. 19 of 2013 is hereby further amended as follows:-

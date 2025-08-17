@@ -14,9 +14,9 @@ Provide   For   Matters   Connected   Therewith   Or   Incidential
 Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Elections (Special Provisions) Act, No. 21 of 2023.
         - Short  title
-
 I. 
     - A MENDMENTS   TO   THE  L OCAL  A UTHORITIES  E LECTIONS  O RDINANCE (C HAPTER  262)
     2. The sections of the Local Authorities Elections Ordinance (Chapter 262) (hereinafter in this Part referred to as the principal enactment) specified in Column I of the First Schedule hereto, are hereby amended by the substitution for the words specified in the corresponding entry in Column II, of the words specified in the corresponding entry in Column III of that Schedule for the purpose of increase of fines specified in such sections.

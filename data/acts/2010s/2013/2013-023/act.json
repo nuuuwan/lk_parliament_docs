@@ -16,104 +16,111 @@
       "A N  A Ct   To   Amend   The  K Andyan  M Arriage   And D Ivorce   A Ct   (C Hapter  113)",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Kandyan Marriage and Divorce  (Amendment) Act, No. 23 of 2013 and shall be deemed to have come into operation on January 1, 2013.",
-        "pre_block_list": [
-          "Short title and date of operation."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 16 of the Kandyan Marriage and Divorce Act (Chapter 113) (hereinafter referred to as the principal enactment) is hereby amended in subsection (6) thereof, by the repeal of paragraph ( d ) of that subsection and the substitution therefor of the following paragraph :-",
-        "pre_block_list": [
-          "Amendment of section 16 of the Kandyan Marriage and Divorce Act (Chapter 113)."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL3Paragraph",
-            "num": "d",
-            "text": "shall be accompanied by a receipt issued by the Divisional Registrar or the District Registrar as the case may be, in proof of payment of the prescribed fee; and. .",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 18 of the principal enactment is hereby amended in subsection (5) thereof, by the substitution for the words the declaration shall bear a stamp or stamps of the prescribed value which shall be supplied by the party making the declaration of the words the declaration shall be accompanied by a receipt issued by the District Registrar in proof of payment of the prescribed fee which shall be made by the party making the declaration. .",
-        "pre_block_list": [
-          "Amendment of section 18 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "Section 19 of the principal enactment is hereby amended by the repeal of subsection (4) of that section, and the substitution therefor of the following subsection:-",
-        "pre_block_list": [
-          "Amendment of section 19 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "4",
-            "text": "Where the declaration is made before the District Registrar or the Divisional Registrar it shall be accompanied by a receipt issued by the District",
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Kandyan Marriage and Divorce  (Amendment) Act, No. 23 of 2013 and shall be deemed to have come into operation on January 1, 2013.",
             "pre_block_list": [
-              "2PL 0070503990 (03/2013)",
-              "Kandyan Marriage And Divorce  (Amendment) Act, No. 23 of 2013 2",
-              "Registrar in proof of payment of a sum of rupees one hundred or such other amount as may be prescribed by the Minister. Such fees shall be paid by the party making the declaration",
-              ""
+              "Short title and date of operation."
             ],
             "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "Section 24 of the principal enactment is hereby amended by the repeal of subsection (2) of that section and the substitution therefor of the following subsection:-",
-        "pre_block_list": [
-          "Amendment of section 24 of the principal enactment."
-        ],
-        "child_level_list": [
+          },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "Every application authorised to be made under the preceding provisions of this section, shall be accompanied by a receipt issued by the District Registrar or the Divisional Registrar in proof of payment of the prescribed value",
+            "text": "Section 16 of the Kandyan Marriage and Divorce Act (Chapter 113) (hereinafter referred to as the principal enactment) is hereby amended in subsection (6) thereof, by the repeal of paragraph ( d ) of that subsection and the substitution therefor of the following paragraph :-",
             "pre_block_list": [
-              ""
+              "Amendment of section 16 of the Kandyan Marriage and Divorce Act (Chapter 113)."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "shall be accompanied by a receipt issued by the Divisional Registrar or the District Registrar as the case may be, in proof of payment of the prescribed fee; and. .",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 18 of the principal enactment is hereby amended in subsection (5) thereof, by the substitution for the words the declaration shall bear a stamp or stamps of the prescribed value which shall be supplied by the party making the declaration of the words the declaration shall be accompanied by a receipt issued by the District Registrar in proof of payment of the prescribed fee which shall be made by the party making the declaration. .",
+            "pre_block_list": [
+              "Amendment of section 18 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 19 of the principal enactment is hereby amended by the repeal of subsection (4) of that section, and the substitution therefor of the following subsection:-",
+            "pre_block_list": [
+              "Amendment of section 19 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Where the declaration is made before the District Registrar or the Divisional Registrar it shall be accompanied by a receipt issued by the District",
+                "pre_block_list": [
+                  "2PL 0070503990 (03/2013)",
+                  "Kandyan Marriage And Divorce  (Amendment) Act, No. 23 of 2013 2",
+                  "Registrar in proof of payment of a sum of rupees one hundred or such other amount as may be prescribed by the Minister. Such fees shall be paid by the party making the declaration",
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Section 24 of the principal enactment is hereby amended by the repeal of subsection (2) of that section and the substitution therefor of the following subsection:-",
+            "pre_block_list": [
+              "Amendment of section 24 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Every application authorised to be made under the preceding provisions of this section, shall be accompanied by a receipt issued by the District Registrar or the Divisional Registrar in proof of payment of the prescribed value",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "Any  fees charged or collected by or on behalf of the Registrar- General or any person authorised under this Act, for any purpose authorised by this Act to charge or collect, during the period commencing on January 1, 2013 and ending on the date on which the certificate of the speaker is endorsed in respect of this Act, shall be deemed to have been validly charged or collected by the Registrar- General or by any such person authorised under this Act:",
+            "pre_block_list": [
+              "Validation.",
+              "Provided that, the aforesaid provisions shall not affect any decision or Order made by any Court or any proceedings pending in any Court in respect of any fee charged or collected during the aforesaid period.",
+              "Sinhala text to prevail in case of inconsistency."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil Texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
             ],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "6",
-        "text": "Any  fees charged or collected by or on behalf of the Registrar- General or any person authorised under this Act, for any purpose authorised by this Act to charge or collect, during the period commencing on January 1, 2013 and ending on the date on which the certificate of the speaker is endorsed in respect of this Act, shall be deemed to have been validly charged or collected by the Registrar- General or by any such person authorised under this Act:",
-        "pre_block_list": [
-          "Validation.",
-          "Provided that, the aforesaid provisions shall not affect any decision or Order made by any Court or any proceedings pending in any Court in respect of any fee charged or collected during the aforesaid period.",
-          "Sinhala text to prevail in case of inconsistency."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "7",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil Texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

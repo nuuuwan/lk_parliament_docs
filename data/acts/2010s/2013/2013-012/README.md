@@ -13,9 +13,9 @@ To   Provide   For   Matters   Connected   Therewith   And   Incidental
 Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :-
 
+0. 
     1. This Act may be cited as the Finance Act, No.12 of 2013.
         - Short title.
-
 I. 
     - A MENDMENT   OF  P ART  II  OF   THE  F INANCE  A CT , N O . 16  OF  1995
     2. The Finance Act, No. 16 of 1995 (hereinafter in this Part referred to as the  principal enactment) is hereby amended, in section 5 thereof by the insertion immediately after subsection (1) thereof of the following subsection:-

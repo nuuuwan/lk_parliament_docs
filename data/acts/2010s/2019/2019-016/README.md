@@ -10,6 +10,7 @@ L.D.O. 46/2013
 A N  A Ct   To   Amend   The  P Eople ' S  B Ank  A Ct , N O . 29  Of  1961
 Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the  People's Bank (Amendment)   Act, No. 16 of 2019.
         - Short  title.
         - Replacement of section 12 of Act, No. 29 of 1961.

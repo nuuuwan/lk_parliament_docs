@@ -10,12 +10,12 @@ L. D. - O. 47/2015
 An Act To Provide For An Institutional Framework   For   The   Regulation   Of    Secured Transactions  In  Movable Property  By  The Establishment  Of The  Secured  Transactions Registration Authority; To Set Out The Powers , Duties  And   Functions  Of Such Authority; To  Provide  For  The   Determining Of Priorities Amongst Creditors Having Competing  Security  Rights  In The  Movable Property Of Their  Debtors; To Set Out  The Rights  And  Duties  Of  Parties  To Security Agreements; To Provide  For The Establishment  And   Maintenance  Of A Register Of Security Rights In Movable Property;  To  Repeal  The  Secured Transactions Act, No.49 Of 2009; And For Matters   Connected   Therewith  Or Incidental   Thereto.
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Secured Transactions Act, No. 17 of 2024.
             - Short title and date of operation
             - (3)  The provisions of this section shall come into operation on the date on which the Bill becomes an Act of Parliament.
             - Secured Transactions Act, No. 17 of 2024 2
-
 I. 
     - PRELIMINARY
     2. Subject to the provisions of section 3, the provisions of this Act shall apply-

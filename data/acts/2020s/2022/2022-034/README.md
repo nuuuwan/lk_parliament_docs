@@ -9,6 +9,7 @@ L.D.O. 45/2021
 A N  A Ct   To   Amend   The  J Udicature  A Ct , N O . 2  Of  1978
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Judicature (Amendment) Act, No. 34 of 2022.
             - Short title and date of operation

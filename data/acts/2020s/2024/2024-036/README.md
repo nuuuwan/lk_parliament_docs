@@ -25,6 +25,7 @@ Be Established Under This Act, Through A Transparent System Of Tariffs, Transpar
 And Whereas   It Is Also Necessary To Recognise The Government Of Sri Lankas Commitment To The Evolution Of The Electricity Industry Through The Implementation Of Its Decarbonisation Goals, Climate Change Policies And The Enhancement Of The Contribution Of Renewable Energy To The Generation Of Electricity Facilitated By Modern  Technology And Processes To Optimise Generation Of Energy  From Domestic Renewable Energy Sources To Minimize The Dependence On Imported Fossil Fuel Sources And Adaption Of Emerging Technologies In Energy Conversion, Storage And Management To Facilitate The Integration Of Renewable Energy And To Promote Competition Amongst Alternate Processes Of Generation Of Electricity In An Efficient And Transparent Manner:
 Now Therefore, Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Sri Lanka Electricity Act, No. 36 of 2024.
             - Short title and dates of operation
@@ -38,7 +39,6 @@ Now Therefore, Be   It Enacted By The Parliament Of The Democratic Socialist Rep
         5. Every Order made in terms of subsection (4), shall within ninety days from the date of publication of the relevant Order in the  Gazette  be placed before Parliament:
             - Provided that, the Orders required to be made in terms of subsection (4) shall be made before the expiry of a period of five years from the date on which the Bill becomes an Act of Parliament. If no Order has been made within this period of five years, the provisions of the sections referred to in subsection (4) shall be deemed to come into operation on the date on which the said period of five years expires:
             - Provided further, the Minister may, at any time within three months prior to the expiration of the said five years, with the approval of the Cabinet of Ministers extend such period, by Order published in the  Gazette  for another period of one year at a time so however, the aggregate period of such extensions shall not exceed five years.
-
 I. 
     - O BJECTS   OF   THE  A CT
     2. The objects of this Act, in relation to the generation, transmission, distribution, trade, supply and procurement of electricity shall be -

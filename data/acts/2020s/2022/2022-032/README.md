@@ -9,6 +9,7 @@ L.D.O. 2/2021
 A N  A Ct   To   Amend   The  R Egistration   Of  D Ocuments  O Rdinance (C Hapter  117)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Registration of Documents (Amendment) Act, No. 32 of 2022.
         - Short title
     2. Section 32 of the Registration of Documents Ordinance (Chapter 117) (hereinafter referred to as the principal enactment) is hereby amended as follows:-

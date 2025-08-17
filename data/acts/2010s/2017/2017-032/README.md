@@ -10,6 +10,7 @@ L.D.O. 58/2017
 A N  A Ct   To   Amend   The  A Ppropriation  A Ct , N O . 24  Of  2016
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka  As Follows:
 
+0. 
     1. This Act may be cited as the Appropriation (Amendment) Act, No. 32 of 2017.
         - Short title.
         - Amendment of section 2 of Act, No. 24 of 2016.

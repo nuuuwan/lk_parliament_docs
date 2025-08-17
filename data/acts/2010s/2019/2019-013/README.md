@@ -10,6 +10,7 @@ L.D.O. 70/2017
 A N  A Ct   To   Amend   The  C Ompanies  A Ct , N O . 07  Of  2007
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Companies (Amendment) Act, No. 13 of 2019.
         - Short  title.
         - Amendment of section 5 of Act, No. 07 of 2007.

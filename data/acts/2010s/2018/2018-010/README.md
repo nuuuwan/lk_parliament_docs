@@ -9,6 +9,7 @@ L. D.O. 33/2016.
 A N  A Ct   To   Amend   The  P Enal  C Ode  (C Hapter  19)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Penal Code (Amendment) Act, No. 10 of 2018.
         - Short title.
     2. Section 75 of the Penal Code (Chapter 19) (hereinafter referred to as the principal enactment) is hereby amended by the substitution

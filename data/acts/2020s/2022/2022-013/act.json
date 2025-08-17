@@ -17,101 +17,108 @@
       "A N  A Ct   To   Amend   The  V Alue  A Dded  T Ax  A Ct , N O . 14  Of  2002",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Value Added Tax (Amendment) Act, No. 13 of  2022.",
-        "pre_block_list": [
-          "Short  title",
-          "Amendment of section 25 C  of Act, No. 14 of 2002"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 25 C  of the Value Added Tax Act, No. 14 of 2002 (hereinafter referred to as the principal enactment) is hereby amended in subsection (3) thereof as follows:-",
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
         "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "by the substitution in paragraph ( f ) of that subsection, for the words and figures, commencing from November 1, 2016, shall be fifteen  per centum . of the words and figures commencing from November 1, 2016 but ending on or before December 31, 2021, shall be fifteen  per centum ;;",
-            "pre_block_list": [],
+            "text": "This Act may be cited as the Value Added Tax (Amendment) Act, No. 13 of  2022.",
+            "pre_block_list": [
+              "Short  title",
+              "Amendment of section 25 C  of Act, No. 14 of 2002"
+            ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "by the addition immediately after paragraph ( f ) of that subsection of the following:-",
+            "text": "Section 25 C  of the Value Added Tax Act, No. 14 of 2002 (hereinafter referred to as the principal enactment) is hereby amended in subsection (3) thereof as follows:-",
             "pre_block_list": [],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "g",
-                "text": "commencing on or after January 1, 2022, shall be eighteen  per centum",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the substitution in paragraph ( f ) of that subsection, for the words and figures, commencing from November 1, 2016, shall be fifteen  per centum . of the words and figures commencing from November 1, 2016 but ending on or before December 31, 2021, shall be fifteen  per centum ;;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the addition immediately after paragraph ( f ) of that subsection of the following:-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "g",
+                    "text": "commencing on or after January 1, 2022, shall be eighteen  per centum",
+                    "pre_block_list": [
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "The First Schedule to the principal enactment is hereby amended in paragraph ( a ) of PART II thereof as follows:-",
+            "pre_block_list": [
+              "Amendment of the First Schedule to the principal enactment"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by  the  substitution  in  item  (xxxi)  of  that paragraph, for the words and figures, with effect from May 20, 2020. of the words and figures with effect  from  May 20, 2020,  and  ending  on December 31, 2021;;",
                 "pre_block_list": [
-                  ""
+                  "(2 ) by the addition immediately after item (xxxi) of the following new item:",
+                  "(xxxii) on or after January 1, 2022, medical equipment, machinery, apparatus, accessories and parts thereof, hospital furniture, drugs and chemicals donated to a government hospital or the Ministry of Health for the provision of health services to address any pandemic or public health emergency, approved by the Minister assigned the subject of Finance on the recommendation of the Secretary to the Ministry of the Minister assigned the subject of Health",
+                  "",
+                  "Validation"
                 ],
                 "child_level_list": []
               }
             ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "The First Schedule to the principal enactment is hereby amended in paragraph ( a ) of PART II thereof as follows:-",
-        "pre_block_list": [
-          "Amendment of the First Schedule to the principal enactment"
-        ],
-        "child_level_list": [
+          },
           {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by  the  substitution  in  item  (xxxi)  of  that paragraph, for the words and figures, with effect from May 20, 2020. of the words and figures with effect  from  May 20, 2020,  and  ending  on December 31, 2021;;",
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Any person who is authorized to collect the Value Added Tax as provided for in this Act during the period commencing on or after January 1, 2022, and ending on the date on which the Certificate of the Speaker is endorsed in respect of this Act,  shall be deemed to have acted with due authority and such collection shall be deemed to have been, and to be, validly made and such person is hereby indemnified against all actions, civil or criminal, in respect of such collection:",
             "pre_block_list": [
-              "(2 ) by the addition immediately after item (xxxi) of the following new item:",
-              "(xxxii) on or after January 1, 2022, medical equipment, machinery, apparatus, accessories and parts thereof, hospital furniture, drugs and chemicals donated to a government hospital or the Ministry of Health for the provision of health services to address any pandemic or public health emergency, approved by the Minister assigned the subject of Finance on the recommendation of the Secretary to the Ministry of the Minister assigned the subject of Health",
-              "",
-              "Validation"
+              "Provided that, the aforesaid provisions shall not affect any decision or order made by any Court or any proceedings pending in any Court in respect of any tax collected as provided for in this Act during the said period.",
+              "Value Added Tax (Amendment) Act, No. 13 of 2022 3"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "For the avoidance of doubt it is stated that, where a specified institution or other person has not paid the tax in accordance with the provisions of subsection (2) of section 2 of this Act, for any period commencing on January 1, 2022 and ending on the date of the commencement of this Act, pays the amount of tax payable by such intitution or person, on or before the twentieth day of the succeeding month of the date of the commencement of this Act, such specified institution or person shall not be deemed to be a defaulter in terms of the provisions of the principal enactment.",
+            "pre_block_list": [
+              "Not to be deemed as a defaulter"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
             ],
             "child_level_list": []
           }
         ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "Any person who is authorized to collect the Value Added Tax as provided for in this Act during the period commencing on or after January 1, 2022, and ending on the date on which the Certificate of the Speaker is endorsed in respect of this Act,  shall be deemed to have acted with due authority and such collection shall be deemed to have been, and to be, validly made and such person is hereby indemnified against all actions, civil or criminal, in respect of such collection:",
-        "pre_block_list": [
-          "Provided that, the aforesaid provisions shall not affect any decision or order made by any Court or any proceedings pending in any Court in respect of any tax collected as provided for in this Act during the said period.",
-          "Value Added Tax (Amendment) Act, No. 13 of 2022 3"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "For the avoidance of doubt it is stated that, where a specified institution or other person has not paid the tax in accordance with the provisions of subsection (2) of section 2 of this Act, for any period commencing on January 1, 2022 and ending on the date of the commencement of this Act, pays the amount of tax payable by such intitution or person, on or before the twentieth day of the succeeding month of the date of the commencement of this Act, such specified institution or person shall not be deemed to be a defaulter in terms of the provisions of the principal enactment.",
-        "pre_block_list": [
-          "Not to be deemed as a defaulter"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "6",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
       }
-    ],
-    "part_list": []
+    ]
   }
 }

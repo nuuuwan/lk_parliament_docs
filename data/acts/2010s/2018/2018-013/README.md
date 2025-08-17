@@ -10,6 +10,7 @@ L.D.O. 27/2017
 A N   A Ct   To   Amend   The  S Ri  L Anka  T Ea  B Oard L Aw , N O . 14  Of  1975
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Sri Lanka Tea Board (Amendment) Act, No. 13 of  2018.
         - Short title.
     2. The following new section is hereby inserted immediately after section 6 of the Sri Lanka Tea Board Law, No. 14 of 1975 (hereinafter referred to as the principal enactment) and shall have effect as section 6 A  of that enactment:

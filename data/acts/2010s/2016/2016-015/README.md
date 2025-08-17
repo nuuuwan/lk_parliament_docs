@@ -9,6 +9,7 @@ L.D.O. 69/2006.
 A N  A Ct   To  A Mend   The   A Nimal  F Eed  A Ct , N O . 15  Of  1986
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the  Animal Feed (Amendment)  Act, No. 15 of 2016.
         - Short title.
         - Amendment of the long title of Act, No. 15 of 1986.

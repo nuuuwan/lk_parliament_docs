@@ -12,9 +12,9 @@ Persons   From   The   Application   Of   The  I Mports   And  E Xports (C Ontro
 Therewith   Or    Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Finance Act, No. 33 of 2023.
         - Short title
-
 I. 
     - A MENDMENT   OF   THE  F INANCE  A CT , N O . 35  OF  2018
     2. Section 48 of the   Finance Act, No.35 of 2018 (hereinafter in this part referred to as the principal enactment) is hereby amended by the insertion of the following subsections immediately after subsection (2) thereof:

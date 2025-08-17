@@ -20,6 +20,7 @@ And Whereas Due To The Period Of Time That Has Elapsed Since The Submission Of N
 2 Pl 0103882962 (10/2017)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Local Authorities (Special Provisions) Act, No. 28 of 2017.
         - Short title.
     2. 

@@ -17,9 +17,9 @@ And    To   Make   Provision   For   Matters   Connected    Therewith    Or
 Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Homoeopathy Act, No. 10 of 2016  and shall come into operation on such date as may be appointed by the Minister (hereinafter referred to as the appointed date) by Order Published in the  Gazette .
         - Short title and date of operation.
-
 I. 
     - E STABLISHMENT   OF   THE  H OMOEOPATHIC  M EDICAL  C OUNCIL
     2. ( 1) There shall be established a Council which shall be called the Homoeopathic Medical Council (hereinafter referred to as the Council).

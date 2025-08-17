@@ -9,6 +9,7 @@ L.D.O. 9/2019
 A N  A Ct   To   Amend   The  N Ation  B Uilding  T Ax  A Ct , N O . 9  Of  2009
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Nation Building Tax (Amendment) Act, No. 20  of 2019, and shall be deemed to have come into operation on November 1, 2019, unless different dates of operation are specified hereunder.
         - Short title and date of operation.
     2. Section 3 of the Nation Building Tax Act, No. 9 of 2009 (hereinafter referred to as the principal enactment) as last amended by Act, No. 20 of 2018, is hereby further amended in subparagraph (12) of paragraph (iv) of subsection (2), by the substitution for the words importer himself.; and, of the words and figures importer himself, prior to November 1, 2019 ; and.

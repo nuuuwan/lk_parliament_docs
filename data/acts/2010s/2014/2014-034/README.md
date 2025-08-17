@@ -9,6 +9,7 @@ L.D.O. 03/2014.
 A N  A Ct   To   Amend   The  M Unicipal  C Ouncils  O Rdinance (C Hapter  252)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Municipal Councils (Amendment) Act, No. 34 of 2014 and shall come into operation on such date as the Minister may appoint by Order Published in the  Gazette .
         - Short title and date of operation.
     2. The following new section is hereby inserted immediately after section 215 A  of the Municipal Councils Ordinance (Chapter 252) and shall have effect as section 215 B  of that Ordinance :

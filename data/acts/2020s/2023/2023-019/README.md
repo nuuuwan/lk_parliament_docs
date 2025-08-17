@@ -10,6 +10,7 @@ L.D.O. 39/2022
 A N  A Ct   To   Amend   The  A Yurveda  A Ct , N O . 31  Of  1961
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. This Act may be cited as the Ayurveda (Amendment) Act, No. 19 of 2023.
         - Short title
     2. The long title of the Ayurveda Act, No. 31 of 1961 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words commencing from FOR THE REGISTRATION OF AYURVEDA HOSPITALS to the words DISPENSARIES ATTACHED THERETO; of the following: -

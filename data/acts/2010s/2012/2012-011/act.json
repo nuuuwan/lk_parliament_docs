@@ -1,0 +1,225 @@
+{
+  "n_pages": 6,
+  "title_page": {
+    "title": "Economic Service Charge (Amendment) Act",
+    "num": "11",
+    "year": "2012",
+    "date_certified": "2012-03-30",
+    "date_published": "2012-03-30",
+    "price": 5.0,
+    "price_postage": 5.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 30Th March, 2012]",
+      "L.D.O. 6/2012",
+      "A N  A Ct   To   Amend   The  E Conomic  S Ervice  C Harge",
+      "A Ct , N O . 13  Of  2006",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Economic Service Charge (Amendment) Act, No. 11 of 2012.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 2 of the Economic Service Charge Act, No. 13 of 2006 (hereinafter referred to as the principal enactment) is hereby amended as follows:-",
+            "pre_block_list": [
+              "Amendment of section 2 of Act, No. 13 of 2006."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (1) of that section, by the substitution for the words and figures Schedule I or Schedule II as the case may be of the words and figures Schedule I, Schedule II or Schedule III as the case may be;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (2) of that section, by the repeal of paragraph ( c ) thereof, and the substitution therefor of the following new paragraphs -",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "commencing on or after April 1, 2011, but before April 1, 2012,  does not exceed rupees twenty-five million;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "commencing on or after April 1, 2012, does not exceed rupees fifty million.; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "in subsection (3) of that section-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "in paragraph ( a ) by the substitution for the words whether directly or through an agent or more than one agent: of the following:-",
+                    "pre_block_list": [
+                      "Economic Service Charge (Amendment) Act No. 11 of 2012 2",
+                      "whether directly or through an agent or more than one agent:",
+                      "Provided that, in relation to any relevant quarter commencing on or after April 1, 2012, where such part of the taxable income as consists of profits from any trade, business, profession or vocation assessed under the provisions of Inland Revenue Act, No. 10 of 2006 for the year of assessment which ended immediately prior to the commencement of the year of assessment to which such quarter belongs, is more than zero, the relevant turnover for such quarter shall be deemed to be zero.;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "in paragraph ( b )-",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "in item (viii) of sub-paragraph ( a ) of that paragraph, by the substitution for the words Tourism Act, No. 38 of 2005; and of the words Tourism Act, No. 38 of 2005; and",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "by the addition, immediately after item (viii) of sub-paragraph ( a ) of that paragraph, of the following new item:",
+                        "pre_block_list": [
+                          "(ix) proceeds from the sale of any clay roof tile or pottery product by any manufacturer of such product; and."
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Schedule II to the principal enactment is hereby repealed and the following Schedule is substituted therefor:- Replacement of Schedule II to the principal enactment.",
+            "pre_block_list": [
+              "Schedule II (Section 2)",
+              "For the period commencing on April 1, 2011 ending on March 31, 2012",
+              "",
+              "1. ( a ) of BOI apparel exporters"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "of BOI trading houses",
+                "pre_block_list": [
+                  "0.1%"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "of BOI textile manufacturers",
+                "pre_block_list": [
+                  "for supplying to exporters",
+                  "2. ( a ) the profits from which are exempt",
+                  "",
+                  "from income tax.",
+                  "( b ) tax at concessionary rates.",
+                  "( c ) a loss."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "of persons engaged in whole sale",
+                "pre_block_list": [
+                  "or retail sale (other than sale by manufacturers, distributors as defined in the ESC Act, and Dealers in Motor vehicles, liquor or tobacco products).",
+                  "0.25%"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "from primary conversion of tea,",
+                "pre_block_list": [
+                  "rubber or coconuts including desiccated coconuts, coconut oil, coconut fiber, copra and sheet rubber  (excluding  alcoholic beverages)."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "of advertising agents.",
+                "pre_block_list": [
+                  "3.  of any other business including-",
+                  "",
+                  "( a ) dealers in motor vehicles, liquor or",
+                  "tobacco products.",
+                  "1%",
+                  "( b ) businesses opted to follow the",
+                  "respective definition of turnover as defined by  Gazette  Notification (notwithstanding the threshold)",
+                  "Economic Service Charge (Amendment) Act No. 11 of 2012 4"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "The following new Schedule is hereby inserted immediately after Schedule II of the principal enactment and shall have effect as Schedule III of that enactment:-",
+            "pre_block_list": [
+              "Insertion of Schedule III in the principal enactment.",
+              "Schedule III (Section 2)",
+              "For the period commencing on April 1, 2012",
+              "On the liable turnover 0.25 per centum",
+              ""
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Schedule II of the principal enactment as replaced by section 3 of this Act shall for all purposes be deemed to have come into operation on April 1, 2011.",
+            "pre_block_list": [
+              "Retrospective effect."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "In the event of inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in the case of inconsistency.",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

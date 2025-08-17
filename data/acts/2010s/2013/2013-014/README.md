@@ -9,6 +9,7 @@ L.D.O. 19/2013
 A N  A Ct   To   Amend   The   P Owers   Of  A Ttorney  O Rdinance (C Hapter  122)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act  may be cited  as the Powers of Attorney (Amendment) Act, No.14 of 2013  and shall be deemed to have come into operation on January 1, 2013.
         - Short title and date of operation.
         - Replacement of section 9 of the Powers of Attorney Ordinance (Chapter 122).

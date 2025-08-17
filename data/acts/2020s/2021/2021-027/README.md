@@ -9,6 +9,7 @@ L.D.O. 24/2018
 A N  A Ct   To   Amend   The  I Mmigrants   And  E Migrants  A Ct (C Hapter  351)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the Immigrants and Emigrants (Amendment)  Act, No. 27 of 2021.
         - Short title
         - Amendment of section 14 of Chapter 351

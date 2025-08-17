@@ -10,6 +10,7 @@ L.D.O. 54/2018
 A N  A Ct   To   Amend   The   S Ri   L Anka   L And  R Eclamation    And D Evelopment   C Orporation   A Ct , N O . 15  Of  1968
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Sri Lanka Land Reclamation and Development Corporation (Amendment) Act, No. 11 of 2019.
         - Short  title.
     2. The Long title to the  Sri Lanka Land Reclamation and Development Corporation Act, No. 15 of 1968 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words Sri Lanka Land Reclamation and Development Corporation wherever such words appear in the Long title of the words Sri Lanka Land Development Corporation .

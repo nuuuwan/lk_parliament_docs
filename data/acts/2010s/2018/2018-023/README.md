@@ -12,6 +12,7 @@ Agency ;  And   To   Make   Provision   For   Matters   Connected
 Therewith   Or   Incidental   Thereto .
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Apartment Ownership (Special Provisions) Act, No. 23 of 2018.
         - Short  title.
     2. The provisions of this Act shall be in operation for a period of five years from the date of commencement of this Act.

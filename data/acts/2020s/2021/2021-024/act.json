@@ -16,57 +16,64 @@
       "A N  A Ct   To   Amend   The  Y Outhful  O Ffenders (T Raining  S Chools ) O Rdinance  (C Hapter  25)",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Youthful Offenders (Training Schools) (Amendment)  Act, No. 24 of 2021 and shall come into operation on such date as the Minister may appoint by Order published in the  Gazette .",
-        "pre_block_list": [
-          "Short title and date of operation"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 4 of the Youthful Offenders (Training Schools) Ordinance (Chapter 25) (hereinafter referred to as the principal enactment) is hereby amended in subsection (1) thereof, by the substitution for the words any male person-, of the words any person-.",
-        "pre_block_list": [
-          "Amendment of section 4 of Chapter 25"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 5 of the principal enactment is hereby amended in subsection (1) thereof, by the substitution for the words a male person, of the words a person.",
-        "pre_block_list": [
-          "Amendment of section 5 of the principal enactment"
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "Section 16 of the principal enactment is hereby amended, by the repeal of the definition of the expression youthful person and substitution therefor of the following definition:",
-        "pre_block_list": [
-          "Amendment of section 16 of the principal enactment",
-          "youthful person means a person who has attained the age of eighteen years and who has not attained the age of twenty two years; and youthful offender has a corresponding meaning",
-          ""
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
-        "pre_block_list": [
-          "Sinhala text to prevail in case of inconsistency",
-          "Youthful Offenders (Training Schools) (Amendment) Act, No. 24 of 2021 2",
-          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
-        ],
-        "child_level_list": []
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Youthful Offenders (Training Schools) (Amendment)  Act, No. 24 of 2021 and shall come into operation on such date as the Minister may appoint by Order published in the  Gazette .",
+            "pre_block_list": [
+              "Short title and date of operation"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "Section 4 of the Youthful Offenders (Training Schools) Ordinance (Chapter 25) (hereinafter referred to as the principal enactment) is hereby amended in subsection (1) thereof, by the substitution for the words any male person-, of the words any person-.",
+            "pre_block_list": [
+              "Amendment of section 4 of Chapter 25"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 5 of the principal enactment is hereby amended in subsection (1) thereof, by the substitution for the words a male person, of the words a person.",
+            "pre_block_list": [
+              "Amendment of section 5 of the principal enactment"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 16 of the principal enactment is hereby amended, by the repeal of the definition of the expression youthful person and substitution therefor of the following definition:",
+            "pre_block_list": [
+              "Amendment of section 16 of the principal enactment",
+              "youthful person means a person who has attained the age of eighteen years and who has not attained the age of twenty two years; and youthful offender has a corresponding meaning",
+              ""
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency",
+              "Youthful Offenders (Training Schools) (Amendment) Act, No. 24 of 2021 2",
+              "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+            ],
+            "child_level_list": []
+          }
+        ]
       }
-    ],
-    "part_list": []
+    ]
   }
 }

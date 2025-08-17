@@ -16,238 +16,72 @@
       "A N  A Ct   To   Amend   The  M Erchant  S Hipping A Ct , N O . 52  Of  1971",
       "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :-"
     ],
-    "pre_section_list": [
+    "part_list": [
       {
-        "class_name": "ActL1Section",
-        "num": "1",
-        "text": "This Act may be cited as the Merchant Shipping (Amendment) Act, No. 17 of 2019.",
-        "pre_block_list": [
-          "Short title."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "2",
-        "text": "Section 138 of the Merchant Shipping Act, No. 52 of 1971 (hereinafter referred to as the principal enactment) is hereby amended as follows:-",
-        "pre_block_list": [
-          "Amendment of section 138 of the Act, No. 52 of 1971."
-        ],
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
         "child_level_list": [
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "1",
-            "text": "by the repeal of the definition of the expression certificate, and the substitution therefor, of the following new definitions:",
+            "text": "This Act may be cited as the Merchant Shipping (Amendment) Act, No. 17 of 2019.",
             "pre_block_list": [
-              "certificate means, unless the context otherwise requires, the appropriate certificate as may be prescribed by regulations made under sections 143(1)( b ), 144(1)( b ), 144(2)( a ) and 144(2)( b ) as the case may be;",
-              "Code means, an instrument made mandatory under the Convention;;"
+              "Short title."
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
+            "class_name": "ActL1Section",
             "num": "2",
-            "text": "by the repeal of the definition of the expression Convention, and the substitution therefor, of the following new definition:-",
+            "text": "Section 138 of the Merchant Shipping Act, No. 52 of 1971 (hereinafter referred to as the principal enactment) is hereby amended as follows:-",
             "pre_block_list": [
-              "Convention means, the International Convention for the Safety of Life at Sea 1974, Protocol of 1988 as amended from time to time and any subsequent amendment made to such Protocol;;",
-              "Merchant Shipping (Amendment) Act, No. 17 of 2019 2"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "by the repeal of the definition of the expression country to which the Convention applies, and the substitution therefor, of the following new definition:-",
-            "pre_block_list": [
-              " country to which the Convention applies means, a country which is a contracting Government to the Convention;;"
-            ],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "4",
-            "text": "by the repeal of the definition of the expression international voyage, and the substitution therefor, of the following new definition:",
-            "pre_block_list": [
-              " international voyage means, a voyage between-   ( a ) a port or place in Sri Lanka and a port or place outside Sri Lanka; or"
+              "Amendment of section 138 of the Act, No. 52 of 1971."
             ],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "a port or place in a country to which the Convention applies (other than Sri Lanka) and a port or place in any other country or territory which is outside Sri Lanka",
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of the definition of the expression certificate, and the substitution therefor, of the following new definitions:",
                 "pre_block_list": [
-                  ""
-                ],
-                "child_level_list": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "3",
-        "text": "Section 139 of the principal enactment is hereby amended as follows:-",
-        "pre_block_list": [
-          "Amendment of section 139 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by the repeal of subsection (1) thereof and the substitution therefor, of the following:",
-            "pre_block_list": [
-              "(1) The Minister may make such regulations as he considers necessary or expedient to give effect to and for the better carrying out of the objectives and purposes of this Part and to provide generally for safety at sea and for carrying out the Convention, Codes, any Annexes thereto and any amendments or replacements of such Convention, Codes and Annexes and for ships which the",
-              "Convention does not apply and without prejudice to the generality of such powers, may make regulations making provision for-"
-            ],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "inspection and survey of ships, surveys of life-saving appliances and other equipment of ships, surveys of  radio installation of ships, surveys of structure, machinery, equipment and other installations of ships;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "maintenance of condition after survey;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "c",
-                "text": "issue or endorsement of certificates and their availability, acceptance and qualification;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "d",
-                "text": "forms of certificates and records of equipment;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "e",
-                "text": "duration and validity of certificates issued by Sri Lanka or issued by countries to which the Convention applies;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "f",
-                "text": "control of ships when in a port or place in Sri Lanka;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "g",
-                "text": "safety investigation of marine casualties and marine incidents;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "h",
-                "text": "the construction-structure, subdivision and stability of ships, their equipment, machinery and electrical installations, fire protection, fire detection and fire extinction in passenger and cargo ships, the general fire precautions to be taken on such ships and special fire safety measures for passenger ships;",
-                "pre_block_list": [
-                  "Merchant Shipping (Amendment) Act, No. 17 of 2019 4"
+                  "certificate means, unless the context otherwise requires, the appropriate certificate as may be prescribed by regulations made under sections 143(1)( b ), 144(1)( b ), 144(2)( a ) and 144(2)( b ) as the case may be;",
+                  "Code means, an instrument made mandatory under the Convention;;"
                 ],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "i",
-                "text": "life-saving appliances and arrangements;",
-                "pre_block_list": [],
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the repeal of the definition of the expression Convention, and the substitution therefor, of the following new definition:-",
+                "pre_block_list": [
+                  "Convention means, the International Convention for the Safety of Life at Sea 1974, Protocol of 1988 as amended from time to time and any subsequent amendment made to such Protocol;;",
+                  "Merchant Shipping (Amendment) Act, No. 17 of 2019 2"
+                ],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "j",
-                "text": "radio communications;",
-                "pre_block_list": [],
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "by the repeal of the definition of the expression country to which the Convention applies, and the substitution therefor, of the following new definition:-",
+                "pre_block_list": [
+                  " country to which the Convention applies means, a country which is a contracting Government to the Convention;;"
+                ],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "k",
-                "text": "safety of navigation;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "l",
-                "text": "carriage of cargoes and oil fuels;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "m",
-                "text": "carriage of dangerous goods;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "n",
-                "text": "nuclear ships;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "o",
-                "text": "management of safe operation of ships;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "p",
-                "text": "safety measures for high-speed craft;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "q",
-                "text": "special measures to enhance maritime safety;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "r",
-                "text": "special measures to enhance maritime security;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "s",
-                "text": "additional safety measures for bulk carriers;",
-                "pre_block_list": [],
-                "child_level_list": []
-              },
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "t",
-                "text": "safety measures for ships operating in Polar waters;",
-                "pre_block_list": [],
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "by the repeal of the definition of the expression international voyage, and the substitution therefor, of the following new definition:",
+                "pre_block_list": [
+                  " international voyage means, a voyage between-   ( a ) a port or place in Sri Lanka and a port or place outside Sri Lanka; or"
+                ],
                 "child_level_list": [
                   {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "v",
-                    "text": "such other matters as are to be prescribed under this part;",
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "a port or place in a country to which the Convention applies (other than Sri Lanka) and a port or place in any other country or territory which is outside Sri Lanka",
                     "pre_block_list": [
-                      "( w ) any other matters generally giving effect to the provisions of the Convention, Codes, any Annex thereto and any amendments of such Convention, Codes and Annexes",
                       ""
                     ],
                     "child_level_list": []
@@ -257,444 +91,616 @@
             ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "in subsection (2) thereof, by the substitution for the words fine not exceeding one thousand rupees., of the words a fine not exceeding five million rupees",
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "Section 139 of the principal enactment is hereby amended as follows:-",
+            "pre_block_list": [
+              "Amendment of section 139 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of subsection (1) thereof and the substitution therefor, of the following:",
+                "pre_block_list": [
+                  "(1) The Minister may make such regulations as he considers necessary or expedient to give effect to and for the better carrying out of the objectives and purposes of this Part and to provide generally for safety at sea and for carrying out the Convention, Codes, any Annexes thereto and any amendments or replacements of such Convention, Codes and Annexes and for ships which the",
+                  "Convention does not apply and without prejudice to the generality of such powers, may make regulations making provision for-"
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "inspection and survey of ships, surveys of life-saving appliances and other equipment of ships, surveys of  radio installation of ships, surveys of structure, machinery, equipment and other installations of ships;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "maintenance of condition after survey;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "issue or endorsement of certificates and their availability, acceptance and qualification;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "forms of certificates and records of equipment;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "duration and validity of certificates issued by Sri Lanka or issued by countries to which the Convention applies;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "f",
+                    "text": "control of ships when in a port or place in Sri Lanka;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "g",
+                    "text": "safety investigation of marine casualties and marine incidents;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "h",
+                    "text": "the construction-structure, subdivision and stability of ships, their equipment, machinery and electrical installations, fire protection, fire detection and fire extinction in passenger and cargo ships, the general fire precautions to be taken on such ships and special fire safety measures for passenger ships;",
+                    "pre_block_list": [
+                      "Merchant Shipping (Amendment) Act, No. 17 of 2019 4"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "life-saving appliances and arrangements;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "j",
+                    "text": "radio communications;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "k",
+                    "text": "safety of navigation;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "l",
+                    "text": "carriage of cargoes and oil fuels;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "m",
+                    "text": "carriage of dangerous goods;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "n",
+                    "text": "nuclear ships;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "o",
+                    "text": "management of safe operation of ships;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "p",
+                    "text": "safety measures for high-speed craft;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "q",
+                    "text": "special measures to enhance maritime safety;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "r",
+                    "text": "special measures to enhance maritime security;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "s",
+                    "text": "additional safety measures for bulk carriers;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "t",
+                    "text": "safety measures for ships operating in Polar waters;",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "v",
+                        "text": "such other matters as are to be prescribed under this part;",
+                        "pre_block_list": [
+                          "( w ) any other matters generally giving effect to the provisions of the Convention, Codes, any Annex thereto and any amendments of such Convention, Codes and Annexes",
+                          ""
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (2) thereof, by the substitution for the words fine not exceeding one thousand rupees., of the words a fine not exceeding five million rupees",
+                "pre_block_list": [
+                  "",
+                  "Amendment of section 143 of the principal enactment."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 143 of the principal enactment is hereby amended as follows:-",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of subsection (1) thereof and the substitution therefor, of the following :",
+                "pre_block_list": [
+                  "(1) ( a ) A passenger ship shall not go to sea on a voyage to or from any port or place in Sri Lanka, or a Sri Lanka passenger ship shall not perform an international voyage, unless there are in force Convention certificates prescribed by regulations."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "A passenger ship shall not perform a voyage from one port or place in Sri Lanka to another such port or place in Sri Lanka, unless there are in force certificates as may be prescribed by regulations.;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (2) thereof, by the substitution for the words a fine not exceeding two hundred rupees, of the words a fine not exceeding one million rupees.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "Section 144 of the principal enactment is hereby amended as follows:-",
+            "pre_block_list": [
+              "Amendment of section 144 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of subsections (1) and (2) thereof and the substitution therefor, of the following:",
+                "pre_block_list": [
+                  "(1)( a ) A cargo ship to which the Convention applies shall not go to sea on a voyage to or from any port or place in Sri Lanka, or a Sri Lanka cargo ship which the Convention applies shall not perform an international voyage, unless there are in force Convention certificates as may be prescribed by regulations.",
+                  "Merchant Shipping (Amendment) Act, No. 17 of 2019 6"
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "A cargo ship of five hundred tons gross or more shall not perform a voyage from one port or place in Sri Lanka to another such port or place in Sri Lanka, unless there are in force certificates as may be prescribed by regulations.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "A cargo ship to which the Convention does not apply shall not go to sea on a voyage to or from any port or place in Sri Lanka, or a Sri Lanka cargo ship which the Convention does not apply shall not perform an international voyage, unless there are in force valid certificates as may be prescribed by regulations and in the case of foreign ships, such equivalent certificates as are acceptable to the Director -General of Merchant Shipping.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "A cargo ship of less than five hundred tons gross shall not perform a voyage from one port or place in Sri Lanka to another such port or place in Sri Lanka, unless there are in force certificates as may be prescribed by regulations.;",
+                    "pre_block_list": [
+                      "(2) in subsection (3) thereof, by the substitution for the words a fine not exceeding one thousand rupees., of the words a fine not exceeding five million rupees",
+                      ""
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "Section 152 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words a fine not exceeding five hundred rupees., of the words a fine not exceeding three million rupees",
             "pre_block_list": [
               "",
-              "Amendment of section 143 of the principal enactment."
+              "Amendment of section 152 of the principal enactment."
             ],
             "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "4",
-        "text": "Section 143 of the principal enactment is hereby amended as follows:-",
-        "pre_block_list": [],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by the repeal of subsection (1) thereof and the substitution therefor, of the following :",
-            "pre_block_list": [
-              "(1) ( a ) A passenger ship shall not go to sea on a voyage to or from any port or place in Sri Lanka, or a Sri Lanka passenger ship shall not perform an international voyage, unless there are in force Convention certificates prescribed by regulations."
-            ],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "A passenger ship shall not perform a voyage from one port or place in Sri Lanka to another such port or place in Sri Lanka, unless there are in force certificates as may be prescribed by regulations.;",
-                "pre_block_list": [],
-                "child_level_list": []
-              }
-            ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "in subsection (2) thereof, by the substitution for the words a fine not exceeding two hundred rupees, of the words a fine not exceeding one million rupees.",
-            "pre_block_list": [],
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "Section 155 of the principal enactment is hereby amended, by the substitution for the words a fine not exceeding three thousand rupees,, of the words a fine not exceeding ten million rupees,.",
+            "pre_block_list": [
+              "Amendment of section 155 of the principal enactment."
+            ],
             "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "5",
-        "text": "Section 144 of the principal enactment is hereby amended as follows:-",
-        "pre_block_list": [
-          "Amendment of section 144 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by the repeal of subsections (1) and (2) thereof and the substitution therefor, of the following:",
-            "pre_block_list": [
-              "(1)( a ) A cargo ship to which the Convention applies shall not go to sea on a voyage to or from any port or place in Sri Lanka, or a Sri Lanka cargo ship which the Convention applies shall not perform an international voyage, unless there are in force Convention certificates as may be prescribed by regulations.",
-              "Merchant Shipping (Amendment) Act, No. 17 of 2019 6"
-            ],
-            "child_level_list": [
-              {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "A cargo ship of five hundred tons gross or more shall not perform a voyage from one port or place in Sri Lanka to another such port or place in Sri Lanka, unless there are in force certificates as may be prescribed by regulations.",
-                "pre_block_list": [],
-                "child_level_list": []
-              }
-            ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "",
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "Section 156 of the principal enactment is hereby amended, by the substitution for the words a fine not exceeding three thousand rupees,, of the words a fine not exceeding ten million rupees,.",
+            "pre_block_list": [
+              "Amendment of section 156 of the principal enactment.",
+              "Amendment of section 157 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "Section 157 of the principal enactment is hereby amended as follows:-",
             "pre_block_list": [],
             "child_level_list": [
               {
-                "class_name": "ActL3Paragraph",
-                "num": "a",
-                "text": "A cargo ship to which the Convention does not apply shall not go to sea on a voyage to or from any port or place in Sri Lanka, or a Sri Lanka cargo ship which the Convention does not apply shall not perform an international voyage, unless there are in force valid certificates as may be prescribed by regulations and in the case of foreign ships, such equivalent certificates as are acceptable to the Director -General of Merchant Shipping.",
-                "pre_block_list": [],
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the repeal of subsections (1) and (2) thereof and the substitution therefor, of the following:-",
+                "pre_block_list": [
+                  "(1) Every ship shall be supplied with such information as prescribed by regulations as is necessary for the accurate guidance as to the stability of the ship under varying conditions of service."
+                ],
                 "child_level_list": []
               },
               {
-                "class_name": "ActL3Paragraph",
-                "num": "b",
-                "text": "A cargo ship of less than five hundred tons gross shall not perform a voyage from one port or place in Sri Lanka to another such port or place in Sri Lanka, unless there are in force certificates as may be prescribed by regulations.;",
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The information required by subsection (1) shall be in such form as may be prescribed.;",
                 "pre_block_list": [
-                  "(2) in subsection (3) thereof, by the substitution for the words a fine not exceeding one thousand rupees., of the words a fine not exceeding five million rupees",
+                  "(2)  in subsection (4) thereof, by the substitution for the words a fine not exceeding one thousand rupees., of the words a fine not exceeding five million rupees",
                   ""
                 ],
                 "child_level_list": []
               }
             ]
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "6",
-        "text": "Section 152 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words a fine not exceeding five hundred rupees., of the words a fine not exceeding three million rupees",
-        "pre_block_list": [
-          "",
-          "Amendment of section 152 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "7",
-        "text": "Section 155 of the principal enactment is hereby amended, by the substitution for the words a fine not exceeding three thousand rupees,, of the words a fine not exceeding ten million rupees,.",
-        "pre_block_list": [
-          "Amendment of section 155 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "8",
-        "text": "Section 156 of the principal enactment is hereby amended, by the substitution for the words a fine not exceeding three thousand rupees,, of the words a fine not exceeding ten million rupees,.",
-        "pre_block_list": [
-          "Amendment of section 156 of the principal enactment.",
-          "Amendment of section 157 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "9",
-        "text": "Section 157 of the principal enactment is hereby amended as follows:-",
-        "pre_block_list": [],
-        "child_level_list": [
+          },
           {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "by the repeal of subsections (1) and (2) thereof and the substitution therefor, of the following:-",
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "Section 158 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words a fine not exceeding two hundred rupees., of the words a fine not exceeding one million rupees",
             "pre_block_list": [
-              "(1) Every ship shall be supplied with such information as prescribed by regulations as is necessary for the accurate guidance as to the stability of the ship under varying conditions of service."
+              "",
+              "Amendment of section 158 of the principal enactment."
             ],
             "child_level_list": []
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "The information required by subsection (1) shall be in such form as may be prescribed.;",
+            "class_name": "ActL1Section",
+            "num": "11",
+            "text": "Section 159 of the principal enactment is hereby amended by the repeal of the definitions of the expressions Convention certificate, Convention of 1966 and Convention country, and the substitution therefor, of the following new definitions:",
             "pre_block_list": [
-              "(2)  in subsection (4) thereof, by the substitution for the words a fine not exceeding one thousand rupees., of the words a fine not exceeding five million rupees",
-              ""
+              "Amendment of section 159 of the principal enactment.",
+              "Merchant Shipping (Amendment) Act, No. 17 of 2019 8",
+              "Convention means, the International Convention on Load Lines, 1966 as modified by the Protocol of 1988 and any subsequent amendment made to such Protocol;",
+              "Convention certificate means, a certificate issued in accordance with the Convention;",
+              "Convention country means, a country which is a contracting Government to the Convention;."
             ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "10",
-        "text": "Section 158 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words a fine not exceeding two hundred rupees., of the words a fine not exceeding one million rupees",
-        "pre_block_list": [
-          "",
-          "Amendment of section 158 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "11",
-        "text": "Section 159 of the principal enactment is hereby amended by the repeal of the definitions of the expressions Convention certificate, Convention of 1966 and Convention country, and the substitution therefor, of the following new definitions:",
-        "pre_block_list": [
-          "Amendment of section 159 of the principal enactment.",
-          "Merchant Shipping (Amendment) Act, No. 17 of 2019 8",
-          "Convention means, the International Convention on Load Lines, 1966 as modified by the Protocol of 1988 and any subsequent amendment made to such Protocol;",
-          "Convention certificate means, a certificate issued in accordance with the Convention;",
-          "Convention country means, a country which is a contracting Government to the Convention;."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "12",
-        "text": "Section 160 of the principal enactment is hereby amended by the repeal of paragraph ( b ) thereof and the substitution therefor, of the following:-",
-        "pre_block_list": [
-          "Amendment of section 160 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "new ships of less than 24 metres in length;.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "13",
-        "text": "Sections 161 and 162 of the principal enactment are hereby repealed and the following substituted therefor:-",
-        "pre_block_list": [
-          "Replacement of sections 161 and 162  of the principal enactment. Definition of international voyage.",
-          "161. In this part, international voyage means a voyage between-"
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL3Paragraph",
-            "num": "a",
-            "text": "a port or place in Sri Lanka and a port or place outside Sri Lanka; or",
-            "pre_block_list": [],
             "child_level_list": []
           },
           {
-            "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "a port or place in a country to which the Convention applies (other than Sri Lanka) and a port or place in any other country or territory which is outside Sri Lanka:",
+            "class_name": "ActL1Section",
+            "num": "12",
+            "text": "Section 160 of the principal enactment is hereby amended by the repeal of paragraph ( b ) thereof and the substitution therefor, of the following:-",
             "pre_block_list": [
-              "Provided, however, that in determining the ports between which a voyage is made no account shall be taken of any deviation by a ship from her intended voyage which is due solely to such stress of weather or such other circumstance that neither the master nor owner",
-              "nor the charterers (if any) of the ship could have prevented or forestalled.",
-              "162. In this part, new ship means, a ship the keel of which is laid, or which is at a similar stage of construction, on or after",
-              "Definition of new ship.",
-              "( a ) in the case of a ship registered in or flying the flag of a country which is a Convention country (other than Sri Lanka), the date from which the present Convention has entered into force; and",
-              "( b ) in the case of any other ship, the 25th day of January, 1972",
-              ""
+              "Amendment of section 160 of the principal enactment."
             ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "14",
-        "text": "Section 164 of the principal enactment is hereby amended as follows:-",
-        "pre_block_list": [
-          "Amendment of section 164 of the principal enactment."
-        ],
-        "child_level_list": [
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "new ships of less than 24 metres in length;.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
           {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "in subsection (1) thereof-",
-            "pre_block_list": [],
+            "class_name": "ActL1Section",
+            "num": "13",
+            "text": "Sections 161 and 162 of the principal enactment are hereby repealed and the following substituted therefor:-",
+            "pre_block_list": [
+              "Replacement of sections 161 and 162  of the principal enactment. Definition of international voyage.",
+              "161. In this part, international voyage means a voyage between-"
+            ],
             "child_level_list": [
               {
                 "class_name": "ActL3Paragraph",
                 "num": "a",
-                "text": "by the substitution for the words and figures Convention of 1966,, of the word Convention,.",
+                "text": "a port or place in Sri Lanka and a port or place outside Sri Lanka; or",
                 "pre_block_list": [],
                 "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
                 "num": "b",
-                "text": "by the repeal of paragraphs ( h ), ( i ), and ( j ) thereof and the substitution therefor of the following:-",
+                "text": "a port or place in a country to which the Convention applies (other than Sri Lanka) and a port or place in any other country or territory which is outside Sri Lanka:",
                 "pre_block_list": [
-                  "( h ) control of ships when in a port of Sri Lanka;"
+                  "Provided, however, that in determining the ports between which a voyage is made no account shall be taken of any deviation by a ship from her intended voyage which is due solely to such stress of weather or such other circumstance that neither the master nor owner",
+                  "nor the charterers (if any) of the ship could have prevented or forestalled.",
+                  "162. In this part, new ship means, a ship the keel of which is laid, or which is at a similar stage of construction, on or after",
+                  "Definition of new ship.",
+                  "( a ) in the case of a ship registered in or flying the flag of a country which is a Convention country (other than Sri Lanka), the date from which the present Convention has entered into force; and",
+                  "( b ) in the case of any other ship, the 25th day of January, 1972",
+                  ""
                 ],
-                "child_level_list": [
-                  {
-                    "class_name": "ActL4SubParagraph",
-                    "num": "i",
-                    "text": "safety investigation of marine casualties and marine incidents;",
-                    "pre_block_list": [
-                      "( j ) forms of certificates;",
-                      "( k ) verification of compliance;",
-                      "Merchant Shipping (Amendment) Act, No. 17 of 2019 10",
-                      "( l ) zones, areas and seasonal periods;",
-                      "( m ) repairs, alterations and modification;",
-                      "( n ) maintenance of condition after survey;",
-                      "( o ) the  validity  of  certificates issued under the Convention by Governments, other than the Government of Sri Lanka;",
-                      "( p ) such other matters as are to be prescribed under this Part; and",
-                      "( q ) any other matters generally for giving effect to the provisions of the Convention and any amendments of such Convention",
-                      ""
-                    ],
-                    "child_level_list": []
-                  }
-                ]
+                "child_level_list": []
               }
             ]
           },
           {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "in subsection (2) thereof, by the substitution for the words a fine not exceeding one thousand rupees., of the words a fine not exceeding five million rupees",
+            "class_name": "ActL1Section",
+            "num": "14",
+            "text": "Section 164 of the principal enactment is hereby amended as follows:-",
             "pre_block_list": [
+              "Amendment of section 164 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (1) thereof-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "by the substitution for the words and figures Convention of 1966,, of the word Convention,.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "by the repeal of paragraphs ( h ), ( i ), and ( j ) thereof and the substitution therefor of the following:-",
+                    "pre_block_list": [
+                      "( h ) control of ships when in a port of Sri Lanka;"
+                    ],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "safety investigation of marine casualties and marine incidents;",
+                        "pre_block_list": [
+                          "( j ) forms of certificates;",
+                          "( k ) verification of compliance;",
+                          "Merchant Shipping (Amendment) Act, No. 17 of 2019 10",
+                          "( l ) zones, areas and seasonal periods;",
+                          "( m ) repairs, alterations and modification;",
+                          "( n ) maintenance of condition after survey;",
+                          "( o ) the  validity  of  certificates issued under the Convention by Governments, other than the Government of Sri Lanka;",
+                          "( p ) such other matters as are to be prescribed under this Part; and",
+                          "( q ) any other matters generally for giving effect to the provisions of the Convention and any amendments of such Convention",
+                          ""
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (2) thereof, by the substitution for the words a fine not exceeding one thousand rupees., of the words a fine not exceeding five million rupees",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "15",
+            "text": "Section 166 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words a fine not exceeding two hundred rupees., of the words a fine not exceeding one million rupees",
+            "pre_block_list": [
+              "",
+              "Amendment of section 166 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "16",
+            "text": "Section 167 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words a fine not exceeding five hundred rupees, and to an additional fine (not exceeding ten rupees for each centimeter by which the load line is submerged) as the court may think fit to impose., of the words a fine not exceeding three million rupees, and to an additional fine (not exceeding one hundred thousand rupees for each centimeter by which the load line is submerged) as the court may think fit to impose",
+            "pre_block_list": [
+              "",
+              "Amendment of section 167 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "17",
+            "text": "Section 168 of the principal enactment is hereby amended, by the substitution for the words a fine not exceeding two hundred rupees., of the words a fine not exceeding one hundred thousand rupees",
+            "pre_block_list": [
+              "",
+              "Amendment of section 168 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "18",
+            "text": "Section 169 of the principal enactment is hereby amended, in paragraph ( a ) of subsection (2) thereof, by the substitution for the words and figures International Load Line Certificate (1966);, of the words International Load Line Certificate;.",
+            "pre_block_list": [
+              "Amendment of section 169 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "19",
+            "text": "Section 171 of the principal enactment is hereby amended, in subsection (3) thereof, by the substitution for the words a fine not exceeding two hundred rupees., of the words a fine not exceeding one hundred thousand rupees",
+            "pre_block_list": [
+              "",
+              "Amendment of section 171 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "20",
+            "text": "Section 172 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words a fine not exceeding fifty rupees., of the words a fine not exceeding fifty thousand rupees",
+            "pre_block_list": [
+              "",
+              "Amendment of section 172 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "21",
+            "text": "Section 173 of the principal enactment is hereby amended, by the substitution for the words and figures International Load Line Certificate (1966);, of the words International Load Line Certificate;.",
+            "pre_block_list": [
+              "Amendment of section 173 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "22",
+            "text": "Section 174 of the principal enactment is hereby amended, in subsection (3) thereof, by the substitution for the words a fine not exceeding two hundred rupees., of the words a fine not exceeding one hundred thousand rupees",
+            "pre_block_list": [
+              "",
+              "Amendment of section 174 of the principal enactment."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "23",
+            "text": "Section 175 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words fine not exceeding five hundred rupees, and to an additional fine (not exceeding ten rupees for each complete centimeter whereby the load line is submerged) as the court may think fit to impose., of the words fine not",
+            "pre_block_list": [
+              "Amendment of section 175 of the principal enactment.",
+              "Merchant Shipping (Amendment) Act, No. 17 of 2019 12",
+              "exceeding three million rupees, and to an additional fine (not exceeding one hundred thousand rupees for each complete centimeter whereby the load line is submerged) as the court may think fit to impose",
               ""
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "24",
+            "text": "Section 205 of the principal enactment is hereby amended as follows:-",
+            "pre_block_list": [
+              "Amendment of section 205 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "in subsection (1) thereof, by the substitution for the words any port in Sri Lanka, of the words any port or place in Sri Lanka;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "in subsection (2) thereof, by the substitution for the words any port in Sri Lanka, of the words any port or place in Sri Lanka; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "in subsection (4) thereof, by the substitution for the words a fine not exceeding three thousand , of the words a fine not exceeding five million.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "25",
+            "text": "Section 207 of the principal enactment is hereby amended, by the repeal of subsection (1) thereof and the substitution therefor, of the following:-",
+            "pre_block_list": [
+              "Amendment of section 207 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Where any ship, being in any port or place in Sri Lanka, is found to be an unsafe ship,  is, by reason of the defective condition of such ships hull, equipment, machinery, under manning, overloading or improper loading or any other condition that is not consistent with the Conventions as may be provided in this Act, unfit to proceed to sea without serious damage to human life having regard to the nature of the service for which such ship is intended, such ship may be provisionally detained for the purpose of being surveyed or rectifying the defective condition and either finally detained or released under section 208",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "26",
+            "text": "The following new Part is hereby inserted immediately after PART  VII of the principal enactment, and shall have effect as PART VIIA of that enactment :-",
+            "pre_block_list": [
+              "Insertion of Part VIIA to the principal enactment."
             ],
             "child_level_list": []
           }
         ]
       },
-      {
-        "class_name": "ActL1Section",
-        "num": "15",
-        "text": "Section 166 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words a fine not exceeding two hundred rupees., of the words a fine not exceeding one million rupees",
-        "pre_block_list": [
-          "",
-          "Amendment of section 166 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "16",
-        "text": "Section 167 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words a fine not exceeding five hundred rupees, and to an additional fine (not exceeding ten rupees for each centimeter by which the load line is submerged) as the court may think fit to impose., of the words a fine not exceeding three million rupees, and to an additional fine (not exceeding one hundred thousand rupees for each centimeter by which the load line is submerged) as the court may think fit to impose",
-        "pre_block_list": [
-          "",
-          "Amendment of section 167 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "17",
-        "text": "Section 168 of the principal enactment is hereby amended, by the substitution for the words a fine not exceeding two hundred rupees., of the words a fine not exceeding one hundred thousand rupees",
-        "pre_block_list": [
-          "",
-          "Amendment of section 168 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "18",
-        "text": "Section 169 of the principal enactment is hereby amended, in paragraph ( a ) of subsection (2) thereof, by the substitution for the words and figures International Load Line Certificate (1966);, of the words International Load Line Certificate;.",
-        "pre_block_list": [
-          "Amendment of section 169 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "19",
-        "text": "Section 171 of the principal enactment is hereby amended, in subsection (3) thereof, by the substitution for the words a fine not exceeding two hundred rupees., of the words a fine not exceeding one hundred thousand rupees",
-        "pre_block_list": [
-          "",
-          "Amendment of section 171 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "20",
-        "text": "Section 172 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words a fine not exceeding fifty rupees., of the words a fine not exceeding fifty thousand rupees",
-        "pre_block_list": [
-          "",
-          "Amendment of section 172 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "21",
-        "text": "Section 173 of the principal enactment is hereby amended, by the substitution for the words and figures International Load Line Certificate (1966);, of the words International Load Line Certificate;.",
-        "pre_block_list": [
-          "Amendment of section 173 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "22",
-        "text": "Section 174 of the principal enactment is hereby amended, in subsection (3) thereof, by the substitution for the words a fine not exceeding two hundred rupees., of the words a fine not exceeding one hundred thousand rupees",
-        "pre_block_list": [
-          "",
-          "Amendment of section 174 of the principal enactment."
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "23",
-        "text": "Section 175 of the principal enactment is hereby amended, in subsection (2) thereof, by the substitution for the words fine not exceeding five hundred rupees, and to an additional fine (not exceeding ten rupees for each complete centimeter whereby the load line is submerged) as the court may think fit to impose., of the words fine not",
-        "pre_block_list": [
-          "Amendment of section 175 of the principal enactment.",
-          "Merchant Shipping (Amendment) Act, No. 17 of 2019 12",
-          "exceeding three million rupees, and to an additional fine (not exceeding one hundred thousand rupees for each complete centimeter whereby the load line is submerged) as the court may think fit to impose",
-          ""
-        ],
-        "child_level_list": []
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "24",
-        "text": "Section 205 of the principal enactment is hereby amended as follows:-",
-        "pre_block_list": [
-          "Amendment of section 205 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "in subsection (1) thereof, by the substitution for the words any port in Sri Lanka, of the words any port or place in Sri Lanka;",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "2",
-            "text": "in subsection (2) thereof, by the substitution for the words any port in Sri Lanka, of the words any port or place in Sri Lanka; and",
-            "pre_block_list": [],
-            "child_level_list": []
-          },
-          {
-            "class_name": "ActL2Subsection",
-            "num": "3",
-            "text": "in subsection (4) thereof, by the substitution for the words a fine not exceeding three thousand , of the words a fine not exceeding five million.",
-            "pre_block_list": [],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "25",
-        "text": "Section 207 of the principal enactment is hereby amended, by the repeal of subsection (1) thereof and the substitution therefor, of the following:-",
-        "pre_block_list": [
-          "Amendment of section 207 of the principal enactment."
-        ],
-        "child_level_list": [
-          {
-            "class_name": "ActL2Subsection",
-            "num": "1",
-            "text": "Where any ship, being in any port or place in Sri Lanka, is found to be an unsafe ship,  is, by reason of the defective condition of such ships hull, equipment, machinery, under manning, overloading or improper loading or any other condition that is not consistent with the Conventions as may be provided in this Act, unfit to proceed to sea without serious damage to human life having regard to the nature of the service for which such ship is intended, such ship may be provisionally detained for the purpose of being surveyed or rectifying the defective condition and either finally detained or released under section 208",
-            "pre_block_list": [
-              ""
-            ],
-            "child_level_list": []
-          }
-        ]
-      },
-      {
-        "class_name": "ActL1Section",
-        "num": "26",
-        "text": "The following new Part is hereby inserted immediately after PART  VII of the principal enactment, and shall have effect as PART VIIA of that enactment :-",
-        "pre_block_list": [
-          "Insertion of Part VIIA to the principal enactment."
-        ],
-        "child_level_list": []
-      }
-    ],
-    "part_list": [
       {
         "class_name": "ActL0Part",
         "num": "VII",

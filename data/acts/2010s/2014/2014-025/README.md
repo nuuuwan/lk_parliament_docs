@@ -10,6 +10,7 @@ L.D.O. 50/2011.
 A N  A Ct   To   Amend   The  I Nstitute   Of  F Undamental S Tudies , S Ri  L Anka  A Ct , N O . 55  Of  1981
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Institute of Fundamental Studies, Sri Lanka (Amendment) Act, No. 25 of 2014.
         - Short title.
     2. The Long Title to the Institute of Fundamental Studies, Sri Lanka Act, No. 55 of 1981, (hereinafter referred to as the principal enactment) is hereby amended by the substitution, for the words AN INSTITUTE OF FUNDAMENTAL STUDIES of the words A NATIONAL INSTITUTE OF FUNDAMENTAL STUDIES.

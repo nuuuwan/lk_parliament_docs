@@ -14,9 +14,9 @@ And Whereas It Has Now Become Necessary To Expand The Pre-Hospital Care Ambulanc
 And Whereas It Has Become Necessary To Establish A Foundation For Effectively Carrying Out Pre-Hospital Care Ambulance Services Free Of Charge To Any Person And To Specify The Powers, Functions And Duties Of Such Foundation:
 Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :
 
+0. 
     1. This Act may be cited as the 1990 Suwaseriya Foundation Act, No. 18 of 2018, and shall come into operation on such date as the President may appoint by Order published in the  Gazette  (hereinafter referred to as the appointed date).
         - Short title and date of operation.
-
 I. 
     - E STABLISHMENT   OF   THE  1990 S UWASERIYA  F OUNDATION
     2. 

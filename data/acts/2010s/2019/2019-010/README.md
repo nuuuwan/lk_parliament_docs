@@ -9,6 +9,7 @@ L.D.O. 53/2017
 A N  A Ct   To   Amend   The  M Otor  T Raffic  A Ct  (C Hapter  203)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Motor Traffic (Amendment) Act, No. 10 of 2019.
         - Short title.
     2. Section 123 of the Motor Traffic Act (Chapter 203) (hereinafter referred to as the principal enactment) is hereby amended as follows:

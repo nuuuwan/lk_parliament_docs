@@ -10,6 +10,7 @@ A N  A Ct   To   Amend   The   A Ssistance   To   And   P Rotection   Of  V Icti
 Of  C Rime   And  W Itnesses  A Ct , N O . 4  Of  2015
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Assistance to and Protection of Victims of Crime and Witnesses  (Amendment) Act, No. 27 of 2017.
         - Short title.
     2. Section 31 of the Assistance to and Protection of Victims of Crime and Witnesses Act, No. 4 of 2015 is hereby amended as follows:

@@ -9,6 +9,7 @@ L.D.O. 26/2019
 A N  A Ct   To   Amend   The  C Hildren   And  Y Oung  P Ersons O Rdinance  (C Hapter  23)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
+0. 
     1. 
         1. This Act may be cited as the Children and Young Persons (Amendment) Act, No. 39 of 2022.
             - Short title and date of operation

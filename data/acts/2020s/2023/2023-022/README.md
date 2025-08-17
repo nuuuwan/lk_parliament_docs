@@ -19,9 +19,9 @@ Preamble
 And Whereas Now The Government Of Sri Lanka Is Desirous Of Incorporating The National Eye Bank Of Sri Lanka With A View To Alleviating Blindness And For The Prevention And Control Of  Avoidable Blindness.
 Be   It Therefore   Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the National Eye Bank Trust of Sri Lanka Act, No. 22 of 2023.
         - Short title
-
 I. 
     - E STABLISHMENT   OF   THE  N ATIONAL  E YE  B ANK  T RUST   OF  S RI  L ANKA
     2. 

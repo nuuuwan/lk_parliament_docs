@@ -9,6 +9,7 @@ L.D.- O. 67/2017
 A N  A Ct   To   Amend   The  I Nland  T Rust  R Eceipts A Ct , N O . 14   Of   1990
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. 
         1. This Act may be cited as the Inland Trust Receipts (Amendment) Act, No. 22 of 2024.
             - Short title and date of operation

@@ -13,6 +13,7 @@ And Whereas The Said Chamber Has Heretofore Successfully Carried Out And Transac
 Be It Therefore Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 Short Title.
 
+0. 
     1. This Act may be cited as the  Chamber of Construction Industry of Sri Lanka  (Incorporation) Act, No. 23 of 2019.
     2. From and after the date of commencement of this Act, such and so many persons as now are members of the Chamber of Construction Industry of Sri Lanka  (hereinafter referred to as the Chamber)   and shall hereafter be admitted as members of the body corporate hereby constituted shall have perpetual succession under the name and style of the  Chamber of Construction Industry of Sri Lanka (hereinafter referred to as the body corporate) and by that name may sue and be sued with full power and authority to have, and use a common seal and to alter the  same at its pleasure.
         - Incorporation of the  Chamber of Construction Industry of Sri Lanka.

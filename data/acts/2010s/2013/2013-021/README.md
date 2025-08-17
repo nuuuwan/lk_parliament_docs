@@ -9,6 +9,7 @@ L.D.O. 18/2013
 A N  A Ct   To   Amend   The  R Egistration   Of  D Ocuments  O Rdinance (C Hapter  117)
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
 
+0. 
     1. This Act may be cited as the Registration of Documents (Amendment)  Act, No. 21 of 2013 and shall be deemed to have come into operation on January 1, 2013.
         - Short title and date of operation.
     2. Section 13 of the Registration of Documents Ordinance (Chapter 117) (hereinafter referred to as the principal enactment)  is hereby amended in subsection (6) of that section by the substitution for the words a fee of ten rupees shall be of the words a fee of ten rupees or such other amount as may be prescribed by the Minister, shall be.
@@ -34,7 +35,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
                     - (10) An instrument presented to the Registrar-General under section 29 , in addition to any other fee payable, a fee of
                     - 1000.00;
         2. By the substitution for Part III of that Schedule of the following:
-
 III. 
     1. An application to, inspect the duplicates  of  deeds, instruments or documents, or the attested or certified copies thereof  transmitted  or
         - delivered, inspect any book or index under Chapter II, III, IV,V or VI for each transaction or matter in respect of which the search is made, a fee of

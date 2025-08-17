@@ -1,0 +1,130 @@
+{
+  "n_pages": 4,
+  "title_page": {
+    "title": "Licensing  Of  Shipping  Agents (Amendment)  Act",
+    "num": "18",
+    "year": "2002",
+    "date_certified": "2002-10-04",
+    "date_published": "2002-10-04",
+    "price": 4.25,
+    "price_postage": 4.5
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 04Th October, 2002]",
+      "L.D.O. 7/2001.",
+      "A N  A Ct   To   Amend   The  L Icensing   Of   S Hipping   A Gents  A Ct , N O . 10  Of  1972  And   To   Provide   For   Matters   Connected",
+      "Therewith   Or   Incidental   Thereto .",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "0",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "1",
+            "text": "This Act may be cited as the Licensing of Shipping Agents (Amendment) Act, No. 18 of 2002.",
+            "pre_block_list": [
+              "Short title."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "The Long Title to the Licensing of Shipping Agents Act, No. 10 of 1972, (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words BUSINESS OF A SHIPPING AGENT of the words BUSINESS OF A SHIPPING AGENT, FREIGHT FORWARDERS, NON VESSEL OPERATING COMMON CARRIERS, AND CONTAINER OPERATORS",
+            "pre_block_list": [
+              "",
+              "Amendment of the long title to Act, No. 10 of 1972."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "In the principal enactment and in any other written law, there shall be substituted",
+                "pre_block_list": [
+                  "Licensing of Shipping Agents Act, and the Shipping Agents to be known as Licensing of Shipping Agents, Freight Forward- ers and Non Vessel Operating Common Carriers and Container Operators Act, and the Shipping Agents, Freight Forwarders non Vessel Operating Common Carriers and Container Operators respectively."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "for the words, Licensing of Shipping Agents Act of the words Licensing of Shipping Agents, Freight Forwarders, Non Vessel Operating Common Carriers, and Container Operators Act ;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "for the words, Shipping Agents of the words Shipping Agents, Freight Forwarders, Non Vessel Operating Common Carriers and Container Operators.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Every reference to the Licensing of Shipping Agents Act and Shipping Agents in any notice, notification, contract, communication or other document shall be read and construed as a reference to Licensing of Shipping Agents, Freight Forwarders, Non Vessel Operating Common Carriers and Container Operators Act, and Shipping Agents, Freight Forwarders, Non Vessel Operating Common Carriers and Container Operator, respectively.",
+                "pre_block_list": [
+                  "2H 015599 5,550 (07/2002)"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "Section 15 of the principal enactment is hereby amended as follows :",
+            "pre_block_list": [
+              "Amendment of section 15 of the principal enactment."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "by the insertion immediately after the definition of the expression appropriate authority of the following new definition :",
+                "pre_block_list": [
+                  "container operators means a person engaged in the business of container terminal, container depot and container freight station operation in Sri Lanka ;",
+                  "freight forwarders means any person engaged in the business of International Freight Forwarding which includes undertaking the carriage or the procurement of the carriage by air, sea, or land and the provision of other services connected with such carriage, but shall not include any services provided by a person for the carriage of goods or services provided solely as the agent of an airline or ship owner or charterer of a ship ;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "by the insertion immediately after the definition of the expression license of the following new definition :",
+                "pre_block_list": [
+                  "Non Vessel Operating Common Carrier means a freight forwarder who also engages in the functions of a carrier ;"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , N O . 32, T RANSWORKS  H OUSE , L OTUS  R OAD , C OLOMBO  01 before 15th December each year in respect of the year following."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

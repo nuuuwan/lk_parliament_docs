@@ -9,6 +9,7 @@ L.D.O. 41/2015.
 A N  A Ct   To   Amend   The  R Egistration   Of  D Eaths  (T Emporary P Rovisions ) A Ct , N O . 19  Of  2010
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
 
+0. 
     1. This Act may be cited as the Registration of Deaths (Temporary Provisions) (Amendment) Act, No. 16 of 2016.
         - Short Title.
     2. The long title to the Registration of Deaths (Temporary Provisions) Act, No. 19 of 2010 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO. of the words TO PROVIDE FOR THE REGISTRATION OF PERSONS REPORTED MISSING AS A RESULT OF THE CONFLICT WHICH TOOK PLACE IN THE NORTHERN AND EASTERN PROVINCES OR ITS AFTERMATH OR POLITICAL UNREST OR CIVIL DISTURBANCES OR ENFORCED DISAPPEARANCES OR OF MEMBERS OF THE ARMED FORCES OR POLICE IDENTIFIED AS MISSING IN ACTION; AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO
@@ -48,7 +49,6 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - (Amendment) Act, No. 16 of 2016 4
     10. The following new Part (sections 8 A  to 8 L ) is hereby inserted immediately after Part I and shall have effect as Part IA, of the principal enactment:-
         - Insertion of new Part IA in the principal enactment.
-
 I. 
     - R EGISTRATION   OF  P ERSONS  M ISSING   DUE   TO   THE   CONFLICT   IN   THE N ORTHERN   AND  E ASTERN  P ROVINCES ,  POLITICAL   UNREST   OR   CIVIL
     - DISTURBANCES   OR   ENFORCED   DISAPPEARANCES
