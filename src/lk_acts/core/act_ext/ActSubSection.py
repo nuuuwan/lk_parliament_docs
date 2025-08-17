@@ -23,7 +23,7 @@ class ActSubsection:
         lines = [f"    {self.num}. {self.text}"]
         for block in self.inner_block_list:
             lines.append(f"        - {block.text}")
-        return lines
+        return lines + [""]
 
     @staticmethod
     def __get_title_match__(block: PDFBlock):
@@ -33,8 +33,7 @@ class ActSubsection:
     def __get_subsection_to_block_list__(block_List: list[PDFBlock]):
         subsection_to_block_list = []
         for block in block_List:
-            if "Italic" in block.font_family:
-                continue
+
             match = ActSubsection.__get_title_match__(block)
             if match:
                 subsection_to_block_list.append([block])

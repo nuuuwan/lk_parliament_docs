@@ -28,7 +28,7 @@ class ActSection:
         lines = [f"{self.num}. **{self.short_description}** - {self.text}"]
         for subsection in self.subsection_list:
             lines.extend(subsection.to_md_lines())
-        return lines
+        return lines + [""]
 
     @staticmethod
     def parse_short_description(block_list: list[PDFBlock]):
