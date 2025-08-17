@@ -1,10 +1,10 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_parliament_docs](https://github.com/nuuuwan/lk_parliament_docs))
 
-Scraped  **3,120** acts (1.10 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-17 05:03:50**.
+Scraped  **3,160** acts (1.11 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-17 06:18:11**.
 
 ![Year Chart](images/chart_year.png)
 
-## Acts (3,120)
+## Acts (3,160)
 
 ### 2025 (13)
 
@@ -2917,7 +2917,7 @@ Scraped  **3,120** acts (1.10 MB) from [www.parliament.lk](https://www.parliamen
 - ✏️ `02/1952` [Entertainment Tax (Amendment)](data/acts/1950s/1952/1952-002) (1952-01-16)
 - ✏️ `01/1952` [Motor Traffic (Amendment)](data/acts/1950s/1952/1952-001) (1952-01-16)
 
-### 1951 (36)
+### 1951 (39)
 
 - 🏛️ `42/1951` [Negombo Municipal Council (Differential Rates)](data/acts/1950s/1951/1951-042) (1951-12-21)
 - ✏️ `41/1951` [Guides (Amendment)](data/acts/1950s/1951/1951-041) (1951-12-21)
@@ -2942,6 +2942,8 @@ Scraped  **3,120** acts (1.10 MB) from [www.parliament.lk](https://www.parliamen
 - ✏️ `20/1951` [Printing Press (Amendment)](data/acts/1950s/1951/1951-020) (1951-07-12)
 - ✏️ `19/1951` [Savings Certificates (Amendment)](data/acts/1950s/1951/1951-019) (1951-07-12)
 - ✏️ `18/1951` [Newspapers (Amendment)](data/acts/1950s/1951/1951-018) (1951-07-12)
+- 🏛️ `17/1951` [Births and Deaths Registration](data/acts/1950s/1951/1951-017) (1951-04-12)
+- 🏛️ `16/1951` [Partition](data/acts/1950s/1951/1951-016) (1951-04-12)
 - 🏛️ `15/1951` [Colombo Municipal Council (Differential Rates)](data/acts/1950s/1951/1951-015) (1951-04-12)
 - 🏛️ `14/1951` [Motor Traffic](data/acts/1950s/1951/1951-014) (1951-04-06)
 - 🏛️ `13/1951` [Muslim Marriage & Divorce](data/acts/1950s/1951/1951-013) (1951-04-05)
@@ -2955,11 +2957,48 @@ Scraped  **3,120** acts (1.10 MB) from [www.parliament.lk](https://www.parliamen
 - ✏️ `04/1951` [Special Areas (Colombo) Development (Amendment)](data/acts/1950s/1951/1951-004) (1951-02-28)
 - ✏️ `03/1951` [Municipal Councils (Amendment)](data/acts/1950s/1951/1951-003) (1951-02-23)
 - ✏️ `02/1951` [Butchers (Amendments)](data/acts/1950s/1951/1951-002) (1951-02-23)
+- ✏️ `01/1951` [Irrigation (Amendment)](data/acts/1950s/1951/1951-001) (1951-02-01)
 
-### 1950 (5)
+### 1950 (41)
 
+- 🏛️ `43/1950` [Industrial Disputes](data/acts/1950s/1950/1950-043) (1950-12-16)
+- 🏛️ `42/1950` [Galle Municipal Council (Differential Rates) (Ninth Extension)](data/acts/1950s/1950/1950-042) (1950-12-14)
+- ✏️ `41/1950` [State Mortgage Bank (Amendment)](data/acts/1950s/1950/1950-041) (1950-12-14)
+- ✏️ `40/1950` [Citizenship (Amendment)](data/acts/1950s/1950/1950-040) (1950-12-14)
+- ✏️ `39/1950` [Holidays (Amendment)](data/acts/1950s/1950/1950-039) (1950-12-07)
+- ✏️ `38/1950` [Ceylon Parliamentary Elections (Amendment)](data/acts/1950s/1950/1950-038) (1950-12-07)
+- ✏️ `37/1950` [Indian & Pakisthani Residents (Citizenship) (Amendment)](data/acts/1950s/1950/1950-037) (1950-12-07)
+- ✏️ `36/1950` [Visiting Forces (Amendment)](data/acts/1950s/1950/1950-036) (1950-12-07)
+- 🏛️ `35/1950` [Exchange & Securities Control (Continuation)](data/acts/1950s/1950/1950-035) (1950-12-07)
+- 🏛️ `34/1950` [Navy](data/acts/1950s/1950/1950-034) (1950-12-07)
+- 🏛️ `33/1950` [Requisitioning of Land](data/acts/1950s/1950/1950-033) (1950-12-06)
+- 📜 `32/1950` [Coconut Products (Special Provisions)](data/acts/1950s/1950/1950-032) (1950-12-06)
+- ✏️ `31/1950` [Coconut Research (Amendment)](data/acts/1950s/1950/1950-031) (1950-10-20)
+- ✏️ `30/1950` [Income Tax (Amendment)](data/acts/1950s/1950/1950-030) (1950-10-20)
+- 🏛️ `29/1950` [Control of Prices](data/acts/1950s/1950/1950-029) (1950-10-20)
+- ✏️ `28/1950` [Surveyers (Amendment)](data/acts/1950s/1950/1950-028) (1950-10-20)
+- 🏛️ `27/1950` [Imports & Export Control (Continuation)](data/acts/1950s/1950/1950-027) (1950-10-20)
+- 🏛️ `26/1950` [Double Taxation (Relief)](data/acts/1950s/1950/1950-026) (1950-10-20)
+- 🏛️ `25/1950` [Food Control](data/acts/1950s/1950/1950-025) (1950-10-20)
+- 🏛️ `24/1950` [Defence Regulations (Extension)](data/acts/1950s/1950/1950-024) (1950-10-03)
+- 💰 `23/1950` [Appropriation](data/acts/1950s/1950/1950-023) (1950-09-07)
+- ✏️ `22/1950` [Agricultural and Industrial Credit Corporation (Amendment)](data/acts/1950s/1950/1950-022) (1950-08-25)
+- ✏️ `21/1950` [Tea Propaganda (Amendment)](data/acts/1950s/1950/1950-021) (1950-08-25)
+- 🏛️ `20/1950` [Bretton Woods Agreement](data/acts/1950s/1950/1950-020) (1950-08-22)
 - 🏛️ `19/1950` [Electricity](data/acts/1950s/1950/1950-019) (1950-04-05)
+- ✏️ `18/1950` [Railways (Amendment)](data/acts/1950s/1950/1950-018) (1950-04-05)
+- ✏️ `17/1950` [Fisheries (Amendment)](data/acts/1950s/1950/1950-017) (1950-03-31)
+- 📜 `16/1950` [Imports & Export Duties (Special Provisions)](data/acts/1950s/1950/1950-016) (1950-03-31)
+- 🏛️ `15/1950` [Air Navigation](data/acts/1950s/1950/1950-015) (1950-03-29)
+- ✏️ `14/1950` [Tea Control (Amendment)](data/acts/1950s/1950/1950-014) (1950-03-17)
+- ✏️ `13/1950` [Public Bodies ( Prevention of Corruption) (Amendment)](data/acts/1950s/1950/1950-013) (1950-03-17)
+- ✏️ `11/1950` [Rubber Control (Amendment)](data/acts/1950s/1950/1950-011) (1950-03-17)
+- 🏛️ `10/1950` [Port of Colombo (Administration)](data/acts/1950s/1950/1950-010) (1950-03-17)
 - ✏️ `08/1950` [Commissions of Inquiry (Amendment)](data/acts/1950s/1950/1950-008) (1950-03-09)
+- ✏️ `07/1950` [Rubber Research (Amendment)](data/acts/1950s/1950/1950-007) (1950-03-04)
+- ✏️ `06/1950` [Plant Protection (Amendment)](data/acts/1950s/1950/1950-006) (1950-03-04)
+- ✏️ `05/1950` [Public Officers (Security) (Amendment)](data/acts/1950s/1950/1950-005) (1950-03-04)
+- ✏️ `04/1950` [Agricultural and Industrial Credit Corporation (Amendment)](data/acts/1950s/1950/1950-004) (1950-03-04)
 - 🏛️ `03/1950` [National Development Loan](data/acts/1950s/1950/1950-003) (1950-02-16)
 - 📜 `02/1950` [Loan Board (Special Provisions)](data/acts/1950s/1950/1950-002) (1950-02-16)
 - 🏛️ `1/1950` [Stock](data/acts/1950s/1950/1950-001) (1950-02-16)
@@ -3058,7 +3097,7 @@ Scraped  **3,120** acts (1.10 MB) from [www.parliament.lk](https://www.parliamen
 - ✏️ `02/1948` [Income Tax (Amendment)](data/acts/1940s/1948/1948-002) (1948-01-28)
 - 💰 `01/1948` [The Appropriation](data/acts/1940s/1948/1948-001) (1948-01-28)
 
-### 1900 (301)
+### 1900 (302)
 
 - 🏛️ `Chap 25` [Youthful Offenders (Training Schools)](data/acts/1900s/1900/1900-youthful-offenders-(training-schools)) (1900-01-30)
 - 🏛️ `Chap 139` [Workmen's Compensation](data/acts/1900s/1900/1900-workmen's-compensation) (1900-01-30)
@@ -3096,6 +3135,7 @@ Scraped  **3,120** acts (1.10 MB) from [www.parliament.lk](https://www.parliamen
 - 🏛️ `Chap 35` [Tea Thefts](data/acts/1900s/1900/1900-tea-thefts) (1900-01-30)
 - 🏛️ `Chap 435` [Tea Control](data/acts/1900s/1900/1900-tea-control) (1900-01-30)
 - 🏛️ `Chap 108` [Surveyors](data/acts/1900s/1900/1900-surveyors) (1900-01-30)
+- 🏛️ `Chap 13` [Supreme Court Vacations](data/acts/1900s/1900/1900-supreme-court-vacations) (1900-01-30)
 - 🏛️ `Chap 233` [Suburban Dairies and Laundries](data/acts/1900s/1900/1900-suburban-dairies-and-laundries) (1900-01-30)
 - 🏛️ `Chap 478` [Street Collections](data/acts/1900s/1900/1900-street-collections) (1900-01-30)
 - 🏛️ `Chap 41` [Stay-in Strikes](data/acts/1900s/1900/1900-stay-in-strikes) (1900-01-30)
