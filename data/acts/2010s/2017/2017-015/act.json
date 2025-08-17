@@ -1,0 +1,1293 @@
+{
+  "n_pages": 22,
+  "title_page": {
+    "title": "Ceylon  German  Technical  Training Institute   Act",
+    "num": "15",
+    "year": "2017",
+    "date_certified": "2017-08-24",
+    "date_published": "2017-08-25",
+    "price": 20.0,
+    "price_postage": 20.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 24Th Of August, 2017]",
+      "L.D.O. 61/2006",
+      "A N  A Ct   To   Provide   For   The   Establishment   Of   The  C Eylon  G Erman T Echnical  T Raining  I Nstitute ;  To   Specify   The   Powers ,  Duties",
+      "And   Functions   Of   The  I Nstitute ;  And   For   Matters   Connected",
+      "Therewith   Or   Incidental   Thereto .",
+      "Whereas The Ceylon German Technical Training Institute Has Been Established Pursuant To A Resolution Of The Board Of Directors Of The Ceylon Transport  Board Established Under The Motor Transport Act, No. 48 Of 1957 And Was Under The Administration Of The  Ceylon Transport  Board:",
+      "Preamble.",
+      "And Whereas The Transport Board Law, No. 19 Of 1978 Repealed The Motor Transport Act, No. 48 Of 1957 And Established The Sri Lanka Central Transport Board And As A Result, The Administration Of The Ceylon German Technical Training Institute Was Assigned To The Sri Lanka Central Transport Board:",
+      "And Whereas In The Year 2005,  The  Transport Board Law,  No. 19 Of 1978 Was Repealed By The Sri Lanka Transport Board Act, No. 27 Of 2005, And As A Result The Administration Of The  Ceylon German Technical Training Institute Was Assigned  To The  Ministry Of Transport:",
+      "And Whereas It Is The Policy Of The Government To Administer All Vocational And Technical Training Institutes Under The Purview Of One Particular Ministry And Accordingly, The Administration Of The Ceylon German Technical Training Institute Has Been Transferred From The Ministry Of Transport To The Ministry Of Youth Affairs And Skills Development:",
+      "And Whereas In Consequent To The Change Of Ministries From Time To Time, Difficulties Have Now Arisen In Connection With  The Administration Of The Ceylon German Technical",
+      "2Pl 005301 2,961 (07/2017)",
+      "Ceylon German Technical Training Institute Act, No. 15 Of 2017 2",
+      "Training Institute And It Has Therefore Now Become Necessary To Provide For The Establishment, By Legislation, Of An Institute As A Separate Legal Entity And To Specify The Powers, Functions And  Duties Thereof:",
+      "Now Therefore Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Ceylon German Technical Training Institute Act, No. 15 of 2017 and shall come into operation on such date as the Minister may appoint by Order published in the  Gazette   (hereinafter referred to as the appointed date).",
+        "pre_block_list": [
+          "Short title and date of operation."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "I",
+        "text": "",
+        "pre_block_list": [
+          "E STABLISHMENT   OF   THE  C EYLON  G ERMAN  T ECHNICAL  T RAINING I NSTITUTE"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "There shall be established, an institute which shall be called the Ceylon German Technical Training Institute (hereinafter referred to as the Institute).",
+                "pre_block_list": [
+                  "Establishment of the Ceylon German Technical Training Institute."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Institute shall by the name assigned to it by subsection (1), be a body corporate with perpetual succession and a common seal and may sue and be sued in that name.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Ceylon German Technical Training Institute established by a Resolution of the Ceylon Transport Board (hereinafter referred to as CGTTI) approved and adopted by the Board of Directors of the Ceylon Transport Board, shall hereby stand  transferred to the Institute established by section 2.",
+                "pre_block_list": [
+                  "Transitional provisions."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "All contracts and agreements entered into by, or with CGTTI or by or with the State, for or on behalf of CGTTI, and subsisting on the day immediately preceding the appointed date, and all  debts and    liabilities of CGTTI, or of",
+                "pre_block_list": [
+                  "the State incurred for or, on behalf of  CGTTI and subsisting on the day immediately preceding the appointed date, shall be deemed with effect from the appointed date to be the contracts and agreements entered into by, or with the Institute, or  debts and   liabilities of the Institute, as the case may be, and shall be enforced accordingly."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "All property movable and immovable allocated to CGTTI for the purposes of CGTTI, prior to the appointed date, and subsisting on the day immediately preceding the appointed date shall be transferred to the Institute established under this Act  with effect from the appointed date, and for all purposes be deemed to have vested in the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "All rules and regulations made in respect of CGTTI and in force on the day immediately preceding the appointed date, and which are not inconsistent with the provisions of this Act, shall be deemed to be rules and regulations made under this Act, and may accordingly be amended, added to and rescinded by regulations or rules, as the case may be, made under this Act.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "All suits, prosecutions, appeals and other legal proceedings which have been instituted in any court or tribunal by or against the CGTTI, or by or against the State, in respect of CGTTI, and pending before such court or tribunal on the day immediately preceding the appointed date, shall be deemed with effect from the appointed date to have been instituted by or against the Institute, and may be continued accordingly.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "The functions of the Institute shall be",
+            "pre_block_list": [
+              "Functions of the Institute."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to formulate and conduct vocational training courses and programmes in the field of automobile industry and other technical and vocational training industries as may be prescribed, directly by the Institute or through other public or private sector agencies;",
+                "pre_block_list": [
+                  "Ceylon German Technical Training Institute Act, No. 15 of 2017 4"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to co-ordinate and facilitate the training of trainers and instructors of the Institute, through  public and private sector participation;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to carry out  research on  vocational training in the field of automobile industry and prescribed technical industries;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to provide career guidance and counseling services to persons who have completed vocational training in the Institute;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "to assist the relevant authorities to provide employment opportunities in Sri Lanka and abroad, to passed out trainees and enter into agreements with  local and foreign organizations in this regard;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "to liaise and co-ordinate with institutions both in Sri Lanka and abroad, having objects similar  to those of the Institute and implement student and staff exchange programmes by entering into agreements with such institutions;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "g",
+                "text": "to continue the provision of practical training to the trainees at the vehicle repair center and at the vehicle service center  and  workshops of the Institute;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "h",
+                "text": "to establish regional centers of the Institute for the purpose of conducting technical and vocational training and education in the prescribed fields;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "i",
+                "text": "to monitor the technological advancements in the relevant industries and develop, modernize and update the facilities of the Institute accordingly;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "j",
+                "text": "to conduct seminars, workshops and conferences with the assistance of national and international organizations engaged  in automobile and prescribed technical industries;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "k",
+                "text": "to publish magazines and periodicals on automobile and  prescribed    technical industries and vocational  and technical training on such industries; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "l",
+                "text": "to do all such other acts or things as may be expedient  for the accomplishment  of the objects of the  institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "The Institute shall, subject to the provisions of this Act, have the power",
+            "pre_block_list": [
+              "Powers of the Institute."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to appoint, employ, remunerate and exercise disciplinary control over its officers and servants;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to manage and maintain regional centers of the Institute, which provide vocational training and education in the prescribed fields;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to conduct training programmes and courses, for persons who wish to be qualified as trainers in prescribed fields and award certificates and diplomas to those who have successfully completed such programmes and courses;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to purchase machinery or raw material and such other equipment required for the training programmes and courses conducted by the Institute;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "to conduct National level examinations and tests, in accordance with the regulations made by the Tertiary and Vocational Education Commission;",
+                "pre_block_list": [
+                  "Ceylon German Technical Training Institute Act, No. 15 of 2017 6"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "to assess and evaluate from time to time, the standards maintained, and results obtained by the trainees in the prescribed fields of training and to make necessary adjustments thereto;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "g",
+                "text": "to promote the introduction of new techniques and equipment in order to obtain maximum results from the vocational training programmes conducted by the Institute;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "h",
+                "text": "to acquire, hold, take or give on lease, mortgage or hire, pledge,  sell or otherwise dispose of, any movable or immovable property  of the Institute;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "i",
+                "text": "to enter into and execute, whether directly or through any officer or agent authorized in that behalf by the Institute, all such contracts or agreements as may be necessary, for the discharge of the functions of the Institute;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "j",
+                "text": "to make rules in respect of",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL4SubParagraph",
+                    "num": "i",
+                    "text": "the  administration  of the  affairs of the Institute  including  appointments, promotions, remuneration and disciplinary control, of the officers and servants of the Institute;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL4SubParagraph",
+                    "num": "ii",
+                    "text": "the courses of study and examinations conducted by the Institute;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "k",
+                "text": "to levy fees and other charges for training and services provided by the Institute;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "l",
+                "text": "to provide recreational and welfare facilities, official quarters and accommodation for trainees, officers and servants of the Institute; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "m",
+                "text": "to do all such other acts or things which, in the opinion of the Institute are necessary for, or are conducive or incidental, to the attainment of its objects.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL0Part",
+        "num": "II",
+        "text": "",
+        "pre_block_list": [
+          "C ONSTITUTION   OF   THE  B OARD"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The administration, management and control of the affairs of the Institute shall be vested in a Board of Governors (hereinafter referred to as the Board).",
+                "pre_block_list": [
+                  "Administration &c. of the Institute vested in the Board."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Board shall, for the purpose of administering the affairs of the Institute, exercise, discharge and perform, the powers, functions and duties conferred on, or assigned to, or imposed on the Institute by this Act.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Board shall consist of",
+                "pre_block_list": [
+                  "Constitution of the Board."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the following  ex-officio  members, namely",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "the Secretary to the Ministry of the Minister or his representative;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "a representative from the Ministry of the Minister assigned  the subject of Finance, nominated by the Secretary to the Treasury;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "the Chief Executive Officer of the Sri Lanka Transport Board;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iv",
+                        "text": "the Director General of the Tertiary and Vocational Education Commission;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "v",
+                        "text": "the Director- Principal of the Institute appointed under section 17 of this Act; and",
+                        "pre_block_list": [
+                          "Ceylon German Technical Training Institute Act, No. 15 of 2017 8"
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "four  other members appointed by the Minister, out of the persons who shall be qualified in the fields of mechanical or automobile engineering, electrical or electronic engineering, finance, law, skills development and vocational education and entrepreneurship (hereinafter referred to as the appointed members).",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Every appointed member shall, unless he earlier vacates office by resignation, death or removal, hold office for a period of three years from the date of his appointment and shall be eligible for re-appointment.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Every appointed member may at any time resign from his office by letter to that effect, addressed to the Minister, and such resignation shall take effect upon it being accepted by the Minister.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Where any appointed member is by reason of illness, infirmity or absence from Sri Lanka temporarily unable to discharge the functions of his office, the Minister may, having regard to the provisions of paragraph ( b ) of subsection (1), appoint  another person to act in his place.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "The Minister may, if he thinks expedient to do so, remove any appointed member from office for reasons assigned and thereupon that member shall be deemed to have vacated his office.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "Where an appointed member dies, resigns or is removed from office the Minister may, having regard to the provisions of paragraph (b) of subsection (1) appoint another person in his place and the person so appointed shall hold office for the unexpired period of the term of office of the member whom he succeeds.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "7",
+                "text": "Every  ex-officio  member of the Board shall hold office, as long as he holds the post by virtue of which he is a member of the Board.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Minister shall appoint one of the appointed members to be the Chairman of the Board (hereinafter referred to as the Chairman).",
+                "pre_block_list": [
+                  "Chairman of the Board."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Where the Chairman by reason of illness or absence from Sri Lanka is temporarily unable to perform the duties of his office, the Minister may appoint another member of the Board to act in his place.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Chairman may resign from office by letter to that effect addressed to the Minister and such resignation shall take effect upon it being accepted by the Minister.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The Minister may, if he thinks it expedient to do so remove the Chairman from such office, for reasons assigned.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "A person shall be disqualified from being appointed or continuing as a member of the Board, if he",
+            "pre_block_list": [
+              "Disqualification from being a member of the Board."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "is or becomes a member of Parliament, or of any Provincial Council, or of any local authority;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "is under any law in force in Sri Lanka or any other country, found or declared to be of unsound mind;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "is a person who, has been declared  an insolvent or undischarged,  bankrupt under any law in force in Sri Lanka or any other country;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "is serving or has served a sentence of imprisonment imposed by any court in Sri Lanka or any other country for a criminal offence;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "he holds or enjoys any right or benefit under any contract made by or on behalf of the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "The Board may act notwithstanding any vacancy among its members and any act or proceeding of the Institute shall not be deemed to be, invalid by reason only of the existence of any vacancy among its members or of any defect in the appointment or nomination of a member thereof.",
+            "pre_block_list": [
+              "Acts or proceedings of the Board  not deemed to be invalid by reason of any vacancy.",
+              "Ceylon German Technical Training Institute Act, No. 15 of 2017 10"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "11",
+            "text": "All or any of the members of the Board shall be remunerated in such manner and at such rates as may be determined by the Minister with the concurrence of the Minister in charge of the subject of Finance.",
+            "pre_block_list": [
+              "Remuneration of the members of the Board."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "12",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The meetings of the Board shall be held at least once in every month and the quorum for any meeting of the Board shall be five.",
+                "pre_block_list": [
+                  "Meetings of the Board."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Chairman shall preside at all meetings of the Board.  In the absence of the Chairman from any meeting of the Board, the members present shall elect a Chairman for that meeting from among themselves.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "All questions for decision at any meeting shall be decided by the vote of a majority of the members present.  In the event of an equality of votes, the Chairman or the member presiding at such meeting shall, in addition to his own vote, has a casting vote.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Subject to the other provisions of this Act, the Board may regulate its procedure in regard to its meetings and the transaction of business at such meetings.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "13",
+            "text": "The Minister may give the Board such general or special directions in writing as to the exercise of its powers and discharge of its functions under this Act, and the Board shall give effect to such directions.",
+            "pre_block_list": [
+              "Directions of the Minister."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "14",
+            "text": "The Minister may, where he deems it necessary, order all or any of the activities of the Institute, to be investigated and reported upon by such person or persons as he may specify, and upon such order being made, the Board shall afford all such facilities and furnish such information to such person or persons as may be necessary to give effect to such order.",
+            "pre_block_list": [
+              "Powers of Minister to order investigation into activities of the Institute."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "15",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Seal of the institute",
+                "pre_block_list": [
+                  "Seal of the Institute."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "shall be in the custody of such person as the Board may decide from time to time;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "may be altered in such manner as may be determined by the Board;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "shall not be affixed to any instrument or document except in the presence of two members of the Board both of whom shall sign the instrument or document in token of their presence.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Institute shall maintain a register of the instruments or documents to which the Seal of the Institute has been affixed.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL0Part",
+        "num": "III",
+        "text": "",
+        "pre_block_list": [
+          "A PPOINTMENT   OF   THE  A DVISORY  C OUNCIL ,  THE  D IRECTOR -P RINCIPAL",
+          "AND   THE  S TAFF   OF   THE  I NSTITUTE ."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "16",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Minister shall appoint an Advisory Council which shall be known  as the Advisory Council of the Institute (hereinafter referred to as the Council) in consultation with the Board consisting of",
+                "pre_block_list": [
+                  "Advisory Council of the Institute."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "a representative from the Foreign Employment Bureau established under the Sri Lanka Bureau of Foreign  Employment Act, No.21 of 1985;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "two representatives each from leading companies in Sri Lanka, being the appointed agents in Sri Lanka , for vehicle manufacturers abroad;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "a  representative  not  below  the rank of an Executive Officer from a leading company  in Sri Lanka engaged in Electrical or Electronic trade;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "a representative, not below the rank of an Executive Officer from the Colombo Dockyard Limited;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "a Senior Lecturer from the Department of Mechanical Engineering of the University of Moratuwa; and",
+                    "pre_block_list": [
+                      "Ceylon German Technical Training Institute Act, No. 15 of 2017 12"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "f",
+                    "text": "a Senior Lecturer from the Department of Mechatronic or Automotive Engineering of the Open University of Sri Lanka.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The principal function of the Council shall be to make recommendations to the Board and the Minister, on all matters connected with the functions of the Institute specified in section 4.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Chairman of the Council shall be appointed by the Minister from among the members of the Council.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Every member of the Council shall, unless he earlier vacates office by resignation, death or removal hold office for a period of three years from the date of his appointment and the members who vacate office by effluxion of time shall be eligible for re-appointment.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "Every member of the Council may at any time resign from his office by letter to that effect addressed to the Minister and such resignation shall take effect upon it being accepted by the Minister.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "The Minister may, if he thinks expedient to do so, remove any member of the Council from office, for reasons assigned.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "7",
+                "text": "Where any member of the Council dies, resigns or  is removed from office the Minister may having regard to the provisions of subsection (1), appoint another person to act in his place and the person so appointed shall hold office for the unexpired period of the term of office of the member whom he succeeds.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "8",
+                "text": "Meetings of the Council shall be summoned by the Chairman of the Council at least twice in every year:",
+                "pre_block_list": [
+                  "Provided however, the Chairman shall summon a meeting of the Council whenever he deems it to be necessary and whenever he is requested in writing to do so by not less than three members of the Council."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "9",
+                "text": "The quorum for any meeting of the Council shall be three members.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "17",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Minister shall appoint a person with prescribed qualifications as the DirectorPrincipal of the Institute (hereinafter referred to as the DirectorPrincipal) who shall function as the Chief Executive Officer of the Institute.",
+                "pre_block_list": [
+                  "Appointment of Director  Principal of the Institute."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Director-Principal may be paid such remuneration as may be determined by the Minister with the concurrence of the Minister in charge of the subject of Finance.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Director-Principal shall, subject to the general direction and control of the Board, be charged with the management of both academic and administrative affairs of the Institute, and the administration and control of the officers and servants of the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The Director-Principal may, with the approval of the Board, whenever he considers it necessary to do so, delegate to any officer or servant of the Institute, any power, function or duty conferred to, imposed on, or assigned to him by this Act and such officer or servant shall exercise, discharge and perform such power, function or duty subject to the general or special directions of the Director-Principal.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "If any vacancy occurs in the office of Director- Principal, the Board may, elect one of the members of the Board to perform the duties of the office of the Director- Principal until a permanent appointment is made, subject to the provisions of subsection (1).",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "18",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Officers and servants of the Sri Lanka Transport Board, who on the day immediately preceding the appointed date, were serving as  officers and servants in the CGTTI, shall be offered employment in     the Institute, on such terms and conditions, as may be agreed upon by the Board and such officers and servants.",
+                "pre_block_list": [
+                  "Staff of the Institute.",
+                  "Ceylon German Technical Training Institute Act, No. 15 of 2017 14"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Where an officer or servant referred to in subsection (1), who wishes to opt out of service in the Institute, may do so within six months from the date on which he was notified of the option by the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Officers and servants of the CGTTI, other than the officers and servants referred to in subsection (1), who were serving on the day immediately preceding the appointed date, shall be absorbed to   the Institute, on such terms and conditions not less favorable than the terms and conditions imposed on them in the CGTTI.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "At the request of the Institute any officer in the public service may, with the consent of that officer and the Public Service Commission, be temporarily appointed to the staff of the Institute for such period as may be determined by the Institute with like consent, or be permanently appointed to the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "Where any officer in the public service is temporarily appointed   to the staff of the Institute, the provisions of subsection (2) of section 14 of the National Transport Commission Act, No. 37 of 1991, shall,  mutatis mutandis, apply to and in relation to such officer.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "Where any officer in the public service is permanently appointed to the staff of the Institute, the provisions of subsection (3) of section 14 of the National Transport Commission Act, No. 37 of 1991, shall,  mutatis mutandis, apply to and in relation to such officer.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "7",
+                "text": "Where the Institute employs a person who has agreed to serve the Government for a specified period, any period of service to the institute by that person shall be regarded as service to the government for the purpose of discharging the obligations of that person under such agreement.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "8",
+                "text": "At the request of the Institute any officer of the Provincial Public Service may, with the consent of that",
+                "pre_block_list": [
+                  "officer and the Provincial Public Service Commission, be temporarily appointed to the staff of the Institute for such period as may be determined by the Institute or with like consent be appointed permanently to such staff on such terms and conditions including those relating to pension or provident fund rights, as may be agreed upon by the Institute and the Provincial Public Service Commission."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "9",
+                "text": "Where any officer of the Provincial Public Service is temporarily appointed to the staff of the Institute under subsection (8), that person shall be subject to the same disciplinary control as any other officer of the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "19",
+            "text": "The Institute may delegate any of its powers or functions other than the power conferred on it by this section, to any officer or servant of the Institute and any such function or power shall be exercised, or discharged by such officer or servant, subject to the special or general directions of the Institute.",
+            "pre_block_list": [
+              "Delegation of powers and functions to officers and servants of the Institute."
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL0Part",
+        "num": "IV",
+        "text": "",
+        "pre_block_list": [
+          "F INANCE"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "20",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Institute shall have its own fund (hereinafter referred to as the Fund).",
+                "pre_block_list": [
+                  "The Fund of the Institute."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "All moneys lying to the credit of CGTTI, on the day immediately preceding the appointed date shall be transferred to the Fund with effect from the appointed date.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "There shall be paid into the Fund of the Institute",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "all such sums of money as may be voted from time to time by Parliament for the use of the Institute;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "all such sums of money as may be received by the Institute in the exercise, performance",
+                    "pre_block_list": [
+                      "Ceylon German Technical Training Institute Act, No. 15 of 2017 16",
+                      "and discharge of its powers, duties and functions; and"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "all such sums of money as may be received by the Institute by way of income, fees, charges, loans, donations, gifts or grants from any source whatsoever, whether from, within or outside Sri Lanka.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "There shall be paid out of the Fund of the Institute",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "all such sums of money as are required to defray any expenditure incurred by the Institute in the exercise, performance and discharge of its powers, duties and functions under this Act; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "all such sums of money as are required to be paid out of the Fund, by or under, this Act.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "21",
+            "text": "The Institute may, with the concurrence of the Minister and the Minister in charge of the subject of Finance, borrow by way of  overdraft or otherwise, or negotiate and obtain on credit terms, such sums as the Institute may require for the purpose of discharging its functions under this Act:",
+            "pre_block_list": [
+              "Borrowing powers of the Institute.",
+              "Provided that, the aggregate of the amounts outstanding in respect of any amount borrowed by the Institute under this section shall not at any time exceed such sum as may be determined by the Minister with the concurrence of the Minister in charge of the subject of Finance."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "22",
+            "text": "From and after the appointed date the provisions of the Employees Provident Fund Act, No. 15 of 1958, shall apply to the officers and servants of the Institute.",
+            "pre_block_list": [
+              "Application of the provisions of the Employees Provident Fund Act, No. 15 of 1958."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "23",
+            "text": "From and after the appointed date the provisions of the Employees Trust Fund Act, No. 46 of 1980, shall apply to the officers and servants of the Institute.",
+            "pre_block_list": [
+              "Application of the provisions of the Employees Trust Fund Act, No. 46 of 1980.",
+              "Financial year of the Institute."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "24",
+            "text": "The financial year of the Institute shall be the calendar year.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "25",
+            "text": "The provisions of Article 154 of the Constitution relating to the audit of accounts of public corporations shall apply to the audit of the accounts of the Institute.",
+            "pre_block_list": [
+              "Audit of accounts of the Institute."
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL0Part",
+        "num": "V",
+        "text": "",
+        "pre_block_list": [
+          "G ENERAL"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "26",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Where any immovable property of the State is required to be made available to the Institute, for any of its purposes, such purpose shall be deemed to be a purpose for which a special grant or lease of such property may be made under section 6 of the Crown Lands Ordinance (Chapter 454) and accordingly, the provisions of that Ordinance shall apply to a special grant or lease of such property to the Institute for such purpose.",
+                "pre_block_list": [
+                  "State property both movable and immovable to be made available to the Institute."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Where any movable property of the State is required for any purpose of the Institute, the Minister may by Order published in the  Gazette,  transfer to, and vest in, the Institute the possession and use of such movable property:",
+                "pre_block_list": [
+                  "Provided however, that no Order affecting any movable property of State shall be made by the Minister under the preceding provisions of this subsection, without the concurrence of the Minister in charge of the subject of Finance."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "27",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Where any immovable property, other than the State Land is required to be acquired for the purpose of carrying out any object of the Institute and the Minister by Order published in the  Gazette  approves the proposed acquisition for that purpose, that property shall be deemed to be required",
+                "pre_block_list": [
+                  "Acquisition of immovable property under the Land Acquisition Act for the Institute.",
+                  "Ceylon German Technical Training Institute Act, No. 15 of 2017 18",
+                  "for a public purpose, and may accordingly, be acquired under the Land Acquisition Act (Chapter 460) and be transferred to the Institute."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Any sum payable for the acquisition of any immovable property under the Land Acquisition Act for the Institute shall be paid out of the Fund of the Institute.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "28",
+            "text": "The Institute shall be deemed to be a scheduled institution within the meaning of the Bribery Act (Chapter 26) and the provisions of that Act shall be construed accordingly.",
+            "pre_block_list": [
+              "Institute deemed to be a scheduled institution within the meaning of the Bribery Act."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "29",
+            "text": "All members, officers and servants of the Institute shall be deemed to be public servants within the meaning, and for the purposes, of the Penal Code (Chapter 19).",
+            "pre_block_list": [
+              "Members, officers and servants of the Institute deemed to be public servants."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "30",
+            "text": "Any expense incurred by the Institute , a member of the Board, a member of the Council, the Director- Principal or any officer or employee of the Institute in any suit or prosecution brought against the Institute or such person before any court , in respect of any act which is done by the Institute or such person under this Act or on the direction of the Board shall, if the court holds that such act was done in good faith, be paid out of the Fund and any cost paid to or recovered by the Institute or any such person referred to in this section shall be credited to the Fund.",
+            "pre_block_list": [
+              "Expenses incurred to be paid out of the Fund.",
+              "Regulations."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "31",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Minister may make regulations in respect of all matters required by this Act to be prescribed or in respect of which regulations are authorized by this Act to be made.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "In particular and without prejudice to the generality of the powers conferred by subsection (1),  the Minister may make regulations in respect of  all or any of the following matters prescribing",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the fields in which the Institute may conduct courses of vocational training and education;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the standards required for selection as instructors in different fields on vocational and technical training;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "the terms and conditions to be included in training contracts required to be entered between trainees and the establishments or organizations wherein they undergo practical training;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "the period of training for trainees in different fields of vocational and technical training;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "the types of practical training and institutional training to be followed by trainees in different fields of vocational and technical training;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "f",
+                    "text": "the obligations of establishments or organizations undertaking vocational and technical training under this Act;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "g",
+                    "text": "the obligations of trainees undergoing vocational and technical training under this Act; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "h",
+                    "text": "the hours of work and leave entitlement of trainees undergoing vocational and technical training under this Act.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Every regulation made by the Minister under subsection (1) shall be published in the  Gazette  and shall come into operation on the date of such publication or on such later date as may be specified therein.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Every regulation made by the Minister shall, as soon as convenient after its publication in the  Gazette,  be brought before Parliament for approval.  Every regulation which is not so approved shall be deemed to be rescinded from the date of disapproval but without prejudice to anything previously done thereunder.",
+                "pre_block_list": [
+                  "Ceylon German Technical Training Institute Act, No. 15 of 2017 20"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "32",
+            "text": "In this Act, unless the context otherwise  requires",
+            "pre_block_list": [
+              "Interpretation.",
+              "local authority means any Municipal Council, Urban Council or Pradeshiya Sabha and includes any authority  created or established by, or under, any law to exercise, perform or discharge  the power s,  duties and functions corresponding to, or similar to, the powers, duties and functions exercised, performed or discharged by any such Council or Sabha;",
+              " Minister means the Minister to whom the subject of Vocational Training  has been assigned;",
+              "prescribed means prescribed by regulations made under this Act;",
+              "Provincial Council means a Provincial Council established under  Chapter XVIlA of the Constitution;",
+              "Sri Lanka  Transport Board means the Sri Lanka Transport Board  established under the Sri Lanka Transport Board Act, No. 27 of 2005;",
+              "Tertiary  and  Vocational  Education Commission means the Tertiary and Vocational  Education  Commission established under Tertiary and Vocational Education Act, No. 20 of 1990."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "33",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of inconsistency.",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

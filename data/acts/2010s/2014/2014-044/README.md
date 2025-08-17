@@ -1,0 +1,108 @@
+# Act
+
+No. **44** of **2014**
+
+Date Certified: **2014-11-24**, Date Published: **2014-11-28**, Price: **12.5**, Price Postage: **50.0**
+
+[Certified On 24Th November, 2014]
+L.D.O. Inc. 11/2013
+A N  A Ct   To   Incorporate   The  P. H Arrison  C Ommunity D Evelopment  F Oundation
+Whereas A Foundation Called And Known As The P. Harrison Community Development Foundation Has Heretofore Been Established In Sri Lanka For The Purpose Of Effectually Carrying Out Its Objects And Transacting All Matters Connected With The Said Foundation According To The Rules Agreed To By Its Members :
+Preamble.
+And Whereas The Said Foundation Has Heretofore Successfully Carried Out And Transacted The Several Objects And Matters For Which It Was Established And Has Applied To Be Incorporated And It Will Be For The Public Advantage To Grant The Said Application.
+Be It Therefore, Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
+
+    1. This Act may be cited as the P. Harrison Community Development Foundation (Incorporation) Act, No. 44 of 2014.
+        - Short title.
+    2. 
+        1. From and after the date of commencement of this Act, such and so many persons as now are members of the P. Harrison Community Development Foundation (hereinafter referred to as the Foundation) or shall hereafter be admitted as members of the Corporation hereby constituted, shall be a body corporate with perpetual succession, under the name and style of the P. Harrison Community Development Foundation (hereinafter referred to as the Corporation), and by that name may sue and be sued with full power and authority to have, and use a common seal and to alter the same at its pleasure.
+            - Incorporation of P. Harrison Community Development Foundation.
+            - 2PL 0070412000 (10/2014)
+            - P. Harrison Community Development Foundation (Incorporation) Act, No. 44 of 2014 2
+        2. The Corporation shall be deemed to be a voluntary social service organization within the meaning, and for the purpose of the Voluntary Social Services Organizations (Registration and Supervision) Act, No. 31 of 1980 and the provisions of that Act shall apply to and in relation to the management of the affairs of the Coporation.
+    3. 
+        1. The general objects for which the Corporation is constituted are hereby declared to be
+            - General objects of the Corporation.
+            a. to take necessary steps to make awareness of social values among people;
+            b. to promote mutual understanding and co-operation among ethnic groups; and
+            c. to provide grants, scholarships, gifts, donations and financial assistance for the benefit of needy youth.
+        2. In the implementation of the objects specified in subsection (1) the Corporation shall ensure that such implementation shall be carried out without any distinction  based on race, religion, language, caste, sex, political opinion, place of birth or any of such grounds.
+    4. The objects of the Corporation shall be carried out in such manner so as not to create any conflict between the work of the Corporation and any work being carried out simultaneously by any Ministry or Department of the Government or of any provincial Council.
+        - Corporation to ensure no conflict with work of Ministry or Department of the Central Government or Province.
+    5. 
+        1. Subject to the provisions of this Act the Management and administration of the affairs of the Corporation shall be carried out by a Board of Directors (hereinafter referred to as the Board) consisting of such number of office bearers as may be specified by the rules made under section 7.
+            - Management of the affairs of the Corporation.
+        2. 
+            a. The Board of Directors of the Foundation that holds office on the day immediately preceding the date of commencement of this Act, shall function as the Board of the Corporation until the first Board is appointed or elected in the manner provided for by rules made under section 7.
+            b. The first Board of the Corporation shall be appointed or elected within one year of the date of commencement of this Act.
+        3. 
+            a. Every office bearer of the Board including the patrons and advisers, shall be appointed or elected for a period of three years and any such office bearer, patron or adviser shall be eligible for re-appointment or re-election after lapse of the said period of three years.
+            b. In the event of a vacancy occurring due to the death, resignation, incapacity or removal from office of an office bearer, the Board shall having regard to the rules of the Corporation, elect or appoint a person to fill such vacancy.
+            c. The person elected or appointed under paragraph ( b ) shall hold office only for the unexpired portion of the term of office of the member whom he succeeds.
+    6. Subject to the provisions of this Act and any other written law, the Corporation shall have the power to do, perform and execute all such acts and matters as are necessary or desirable for the promotion or furtherence of the objects of the Corporation or any one of them, including the power:
+        - Powers of the Corporation.
+            a. to purchase, acquire, rent, construct, renovate and otherwise obtain lands or buildings which may be required for the purposes of the Corporation and to deal with or dispose of the same as may be deemed expedient with a view to promoting the objects of the Corporation;
+                - P. Harrison Community Development Foundation (Incorporation) Act, No. 44 of 2014 4
+            b. to borrow or raise funds with or without securities and to receive grants, gifts or donations in cash or kind:
+                - Provided that, the Board shall obtain the prior written approval of the Department of External Resources of the Ministry of the Minister assigned with the subject of Finance, in respect of all foreign grants, gifts or donations made to the Corporation.
+            c. to make, draw, accept, discount, endorse, negotiate, buy, sell and issue bills of exchange, cheques, promissory notes and other negotiable instruments and to open, operate, maintain and close accounts in any bank;
+            d. to invest any funds that are not immediately required for the purposes of the Corporation, in such manner as the Board may determine;
+            e. to undertake, accept, execute, perform and administer any lawful trust or any real or personal property with a view to promoting the objects of the Corporation;
+            f. to appoint, employ, dismiss or terminate the services of officers and servants of the Corporation and exercise disciplinary control over them and to pay them such salaries, allowances and gratuities as may be determined by the Corporation;
+            g. to organize lectures, seminars and conferences with a view to promoting the objectives of the Corporation;
+            h. to liaise and co-ordinate with other local and foreign institutions having similar objects to that of the Corporation;
+            i. to train personnel in Sri Lanka or abroad for the purposes of the Corporation; and
+            j. to do all other things as are necessary or expedient for the proper and effective carrying out of the objects of the Corporation.
+    7. 
+        1. It shall be lawful for the Corporation, from time to time, at any general meeting of the Corporation and by a majority of not less than two-thirds of the members present and voting, to make rules, not inconsistent with the provisions of this Act or any other written law, for all or any of the following matters:
+            - Rules of the Corporation.
+            a. the classification of membership, admission, withdrawal, expulsion or resignation of members and fees payable by the members;
+            b. the election of office bearers of the Board or vacation of or removal from office of office bearers and the powers, duties and functions of the office bearers;
+            c. the terms and conditions of appointment, powers, functions and duties of the various officers, agents and servants of the Corporation;
+            d. The procedure to be follwed for the summoning and holding of meetings of the  Board or any sub- Committee thereof, notices and agenda of such meetings, the quorum and the conduct of business thereat;
+            e. the qualifications and disqualifications to be a member of the  Board and the Corporation;
+            f. the administration and management of the property of the Corporation; and
+            g. the management of the affairs of the Corporation and the accomplishment of its objects and dissolution of the Corporation.
+                - P. Harrison Community Development Foundation (Incorporation) Act, No. 44 of 2014 6
+        2. Any rule made by the Corporation may be amended, altered, added to or rescinded at a like meeting and in like manner, as a rule made under subsection (1) of this section.
+        3. The members of the Corporation shall at all times be subject to the rules of the Corporation.
+        4. The rules made under this section shall be published in the  Government Gazette .
+    8. The Board shall maintain a register of members in which name, address and other essential details of the members shall be inscribed.
+        - Register of members.
+    9. 
+        1. The Corporation shall have its own Fund.
+            - Fund of the Corporation.
+        2. All moneys received by way of gift, bequest, donation, subscription, contribution, fees or grant for and on account of the Corporation shall be deposited in one or more banks approved by the Board to the credit of the Corporation.
+        3. There shall be paid out of the Fund, all sums of money as are required to defray any expenditure incurred by the Corporation in the exercise, performance and discharge of its powers, duties and functions under the Act.
+    10. 
+        1. The financial year of the Corporation shall be the calendar year.
+            - Accounts and the Auditing.
+        2. The Corporation shall cause proper accounts to be kept of its income and expenditure, assets and libilities and all other transactions of the Corporation.
+        3. The accounts of the Corporation shall be audited annually by the Auditor General or a qualified auditor appointed by Auditor General in terms of Article 154 of the Constitution.
+        4. For the purposes of this section, "qualified auditor" means ( a ) an individual who being a member of the Institute of Chartered Accountants of Sri Lanka or of any other Institute established by law, possesses a certificate to practice as an Accountant, issued by the Council of such Institute; or
+            b. a firm of Accountants each of the resident partners of which, being a member of the Institute of Chartered Accountants of Sri Lanka or of any other Institute establisehd by law, possesses a certificate to practice as an Accountant, issued by the Council of such Institute.
+    11. 
+        1. The Board shall prepare a report of the activities of the corporation for each financial year and submit such report together with the audited statement of accounts to the Secretary of the Ministry of the Minister assigned the subject of Social Services and to the Registrar of Voluntary Social Services Organizations appointed under  the Voluntary Social Services Organizations  (Registration and Supervision) Act, No. 31 of 1980 before the expiration of six months of the year succeeding the year to which such report relates.
+            - Annual Report.
+        2. A separate Account relating to the foreign and local moneys received by the Corporation during the financial year shall be attached to the report referred to in subsection (1).
+    12. All debts and liabilities of the Foundation existing on the day immediately preceding the date of commencement of this Act, shall be paid by the Corporation hereby constituted and all debts due to and subscriptions and contributions payable to the Foundation on that day shall be paid to the Corporation for the purposes of this Act.
+        - Debts due by and payable to the Foundation.
+        - P. Harrison Community Development Foundation (Incorporation) Act, No. 44 of 2014 8
+    13. Subject to the provisions of this Act, the Corporation shall be able and capable in law to take and hold any  property, movable or immovable, which may become vested in it by virtue of any purchase, grant, gift, testamentary disposition  or otherwise, and all such property shall be held by the Corporation for the purpose of this Act and subject to the rules of the Corporation made under section 7, with power to sell, mortgage, lease exchange or otherwise dispose of  the same.
+        - Corporation may hold property movable and immovable.
+    14. The moneys and property of the Corporation however derived shall be applied solely towards the promotion of the objects of the Corporation and no portion thereof shall be paid or transferred directly or indirectly by way of dividend, bonus or profit to the members of the Corporation.
+        - Application of moneys and property.
+    15. 
+        1. The seal of the Corporation shall not be affixed to any instrument whatsoever, except in the presence of two members of the Board who shall sign their names to the instrument in token of their presence and such  signing shall be independent of the signing of any person as a witness.
+            - Seal of the Corporation.
+        2. The seal of the Corporation shall be in the custody of an office bearer of the Board as may be decided by such Board.
+    16. 
+        1. If upon the dissolution of the Corporation there remains after the satisfaction of all its debts and liabilities any property whatsoever, such property shall not be distributed among the members of the Corporation, but shall be given or transferred to any other institution having objects similar to those of the Corporation, and which is by the rules thereof, prohibited from distributing any income or property among its members.
+            - Property remaining on dissolution.
+        2. For the purposes of subsection (1) the appropriate institution shall be determined by the members of the Corporation immediately before the dissolution at a general meeting by the majority of votes of the members present.
+    17. Nothing in this Act  contained shall prejudice or affect the rights of the Republic or of  any body politic or corporate.
+        - Saving of the rights of the Republic.
+    18. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.
+        - Sinhala text to prevail in case of inconsistency.
+        - P. Harrison Community Development Foundation (Incorporation) Act, No. 44 of 2014 10
+        - Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following .

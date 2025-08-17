@@ -1,0 +1,711 @@
+{
+  "n_pages": 13,
+  "title_page": {
+    "title": "Children And Young Persons  (Amendment) Act",
+    "num": "39",
+    "year": "2022",
+    "date_certified": "2022-11-17",
+    "date_published": "2022-11-18",
+    "price": 25.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 17Th Of November, 2022]",
+      "L.D.O. 26/2019",
+      "A N  A Ct   To   Amend   The  C Hildren   And  Y Oung  P Ersons O Rdinance  (C Hapter  23)",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "This Act may be cited as the Children and Young Persons (Amendment) Act, No. 39 of 2022.",
+            "pre_block_list": [
+              "Short title and date of operation"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "The provisions of this Act other than this section shall come into operation on such date as the Minister may by Order published in the  Gazette  appoint.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "Different dates may be appointed for bringing into operation of different provisions of this Act.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "4",
+            "text": "The provisions of this section shall come into operation on the date on which this Bill becomes an Act of Parliament.",
+            "pre_block_list": [
+              "Amendment of Chapter 23 and written law & etc."
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "In the Children and Young Persons Ordinance (Chapter 23) (hereinafter referred to as the principal enactment) there shall be substituted",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "for the words Children and Young Persons Ordinance, the words Childrens Ordinance;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "for the words children and young persons, the word children;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "for the words child or young person, the word child; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "for the words age of sixteen years, the words age of eighteen years,",
+                "pre_block_list": [
+                  "wherever such words appear in the principal enactment."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "In any other written law, there shall be substituted for the words Children and Young Persons Ordinance, children and young persons and child or young person, the words Childrens Ordinance, children and child, respectively, wherever those words occur in relation to the principal enactment.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "Every reference to Children and Young Persons Ordinance, children and young persons, child or young person and age of sixteen years in any regulation or rule made under the principal enactment or notice, notification, contract, communication or other document issued under the principal enactment shall be read and construed as a reference respectively, to Childrens Ordinance, children, child and age of eighteen years.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "Section 9 of the principal enactment is hereby amended as follows:",
+        "pre_block_list": [
+          "Amendment of section 9 of the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the repeal of subsection (3) of that section; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "in subsection (4) of that section-",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "by the substitution, for the words Where a young person is brought, of the words Where a child who is above the age of fourteen years is brought; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "by the substitution, for the words the young person, of the words such child, wherever those words appear in that subsection.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "Section 13 of the principal enactment is hereby amended in the marginal note to that section, by the substitution for the words children and young offenders, of the word children.",
+        "pre_block_list": [
+          "Amendment of section 13 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "5",
+        "text": "Section 15 of the principal enactment is hereby amended as follows:",
+        "pre_block_list": [
+          "Amendment of section 15 of the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "in subsection (1) of that section-",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "by the substitution for the words in due course of law: of the words in due course.; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "by the repeal of the proviso to that subsection; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the substitution, in subsection (2) of that section, for the words in the case of a young person and the young person may be committed to prison., of the words in the case of a child who is above the age of sixteen years and such child who is above the age of sixteen years shall be placed in a remand home, respectively.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "6",
+        "text": "The sub-heading appearing immediately before section 22 of Part II of the principal enactment is hereby repealed and the following sub-heading is substituted therefor:",
+        "pre_block_list": [
+          "Amendment of sub-heading of Part II of the principal enactment",
+          "CHILD  OFFENDERS."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "7",
+        "text": "Section 23 of the principal enactment is hereby repealed and the following section is substituted therefor: -",
+        "pre_block_list": [
+          "Replacement of section 23 of the principal enactment Restrictions o n punishment of children.",
+          "23. (1) A child shall not be ordered to be imprisoned for any offence or be committed to prison in default of payment of a fine."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "In the case of a child who has attained the age of sixteen years or above, where the probation officer is of the opinion that such child is so unruly a character and cannot be detained in a remand home or certified school or if such child is of so depraved a character that such child is not a fit person to be so detained, the court shall direct the probation officer to cause a psychological assessment to be made of such child by the medical experts and report to court.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "Where the report of a psychological assessment referred to in subsection (2) confirms that the child is not fit to be detained in a remand home, the court shall order such child to be detained in a training school for",
+            "pre_block_list": [
+              "youthful offenders, notwithstanding the provisions relating to age and the period of detention specified in the Youthful Offenders (Training Schools) Ordinance (Chapter 25)",
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "8",
+        "text": "Section 24 of the principal enactment is hereby amended as follows:-",
+        "pre_block_list": [
+          "Amendment of section 24 of the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the repeal of subsection (1) of that section and the substitution therefor of the following subsection:-",
+            "pre_block_list": [
+              "(1) Where in lieu of sentence of death, a sentence of detention has been passed by any court under section 53 of the Penal Code in respect of a person who is under the age of eighteen years at the time of the commission of an offence by such person, the court may order such person to be detained in a remand home for such period as may be specified in the sentence.; and"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the repeal of subsection (3) of that section and the substitution therefor of the following subsection:-",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "A person detained pursuant to an order made by a court under section 53 of the Penal Code as referred to in subsection (1) or a direction made by the Minister under subsection (2) shall, while so detained be deemed to be in legal custody",
+            "pre_block_list": [
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "9",
+        "text": "Section 25 of the principal enactment is hereby amended as follows:-",
+        "pre_block_list": [
+          "Amendment of section 25 of the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the substitution, in subsection (1) of that section, for all the words from may be specified in the order, to the words exceeding one month., of the following words:-",
+            "pre_block_list": [
+              "may be specified in the Order:",
+              "Provided however, in the case of a child who has attained the age of sixteen years or above, the provisions of subsection (2) and (3) of section 23 shall  mutatis mutandis  apply to and in relation to such child.; and"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the substitution, in subsection (2) of that section, for the words and figures under section 28(1) or section 29(1)., of the words and figures under section 28(1)",
+            "pre_block_list": [
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "10",
+        "text": "Section 26 of the principal enactment is hereby amended as follows:-",
+        "pre_block_list": [
+          "Amendment of section 26 of the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the substitution, in subsection (1) of that section, for the words a child who has attained the age of twelve years or a young person, of the words a child who has attained the age of twelve years;",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the substitution, in subsection (2) of that section, for the words and figures under section 28(1) or section 29(1)., of the words and figures under section 28(1).; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "by the substitution, in the marginal note to that section, for the words a child or young offender of the words a child offender.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "11",
+        "text": "Section 27 of the principal enactment is hereby amended as follows:-",
+        "pre_block_list": [
+          "Amendment of section 27 of the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the substitution, in subsection (2) of that section, for the words and figures under section 28(1) or section 29(1)., of the words and figures under section 28(1).; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the substitution, in the marginal note to that section, for the words child or young offender of the words child offender.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "12",
+        "text": "Section 28 of the principal enactment is hereby amended, by the repeal of subsection (2) of that section.",
+        "pre_block_list": [
+          "Amendment of section 28 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "13",
+        "text": "Section 29 of the principal enactment is hereby repealed.",
+        "pre_block_list": [
+          "Repeal of section 29 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "14",
+        "text": "Section 30 of the principal enactment is hereby amended, by the substitution for the words and figures sections 25 to 29, of the words and figures sections 25 to 28,.",
+        "pre_block_list": [
+          "Amendment of section 30 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "15",
+        "text": "Section 31 of the principal enactment is hereby amended in the marginal note to that section, by the substitution for the words child or young offender of the words child offender.",
+        "pre_block_list": [
+          "Amendment of section 31 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "16",
+        "text": "Section 32 of the principal enactment is hereby amended as follows:-",
+        "pre_block_list": [
+          "Amendment of section 32 of the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the repeal of paragraph ( b ) of that section and the substitution therefor of the following paragraph:-",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "a child who has attained the age of sixteen years or above who has been ordered to be detained in a training school for youthful offenders and pardoned by the President on condition of his agreeing to undergo training in a school,;",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "in the proviso to that section-",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "by the substitution, in paragraph ( a ) of that proviso, for the word person, of the word child; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "by the substitution, in paragraph ( b ) of that proviso, for the words a young person, of the words a child; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "in the marginal note to that section, by the substitution for the words children and young offenders, of the words child offenders.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "17",
+        "text": "Section 42 of the principal enactment is hereby repealed and the following section is substituted therefor: -",
+        "pre_block_list": [
+          "Replacement of section 42 of the principal enactment Duration of approved or certified school orders",
+          "42. Where a court orders a child to be sent to an approved or certified school, the order shall specify the duration of stay which shall not be more than three years and be an authority for such childs detention in such approved or certified school, as the case may be, until the expiration of such period as is specified in such order",
+          ""
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "18",
+        "text": "Section 43 of the principal enactment is hereby amended in the marginal note to that section, by the substitution for the words children or young persons, of the word children.",
+        "pre_block_list": [
+          "Amendment of section 43 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "19",
+        "text": "Section 44 of the principal enactment is hereby amended, by the substitution for the words age of nineteen years:, of the words age of twenty one years:.",
+        "pre_block_list": [
+          "Amendment of section 44 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "20",
+        "text": "Section 45 of the principal enactment is hereby amended in subsection (1) of that section, by the substitution for the words not attained the age of fourteen years, until he attains the age of sixteen years., of the words not attained the age of eighteen years, until he attains the age of twenty years",
+        "pre_block_list": [
+          "",
+          "Amendment of section 45 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "21",
+        "text": "The following new section is hereby inserted immediately after section 51 of the principal enactment and shall have effect as section 51 A  of the principal enactment:-",
+        "pre_block_list": [
+          "Insertion of new section 51 A  in the principal enactment",
+          "51 A . (1) In every approved or certified school, there shall be-",
+          "Every new approved or certified school to have primary and secondary sections",
+          "( a ) a primary section in which children who have not attained the age of fifteen years shall be detained; and",
+          "( b ) a secondary section in which children who have attained the age of fifteen years but not attained the age of eighteen years shall be detained."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "Where-",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "a Magistrate makes an order under section 26; or",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "the Minister makes an Order under section 32,",
+                "pre_block_list": [
+                  "committing a child to an approved or certified school, such order under section 26 or order under section 32 shall, at the time of commitment, specify whether the child should be committed to the primary section or the secondary section of such school, depending on the age of the child:",
+                  "Provided however, the manager of such school shall transfer a child who is in the primary section, to the secondary section upon such child reaching the age of fifteen years",
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "22",
+        "text": "Section 55 of the principal enactment is hereby amended in subsection (1) of that section as follows:-",
+        "pre_block_list": [
+          "Amendment of section 55 of the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the substitution, in paragraph ( a ) of that subsection, for the words ( a ) if he is, of the words (i) if he is; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the substitution, in paragraph ( b ) of that subsection, for the words ( b ) if he has, of the words (ii) if he has.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "23",
+        "text": "Section 57 of the principal enactment is hereby amended, by the substitution for the words the expressions child and young person mean, of the words the expression child means.",
+        "pre_block_list": [
+          "Amendment of section 57 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "24",
+        "text": "Section 71 of the principal enactment is hereby amended, by the repeal of subsection (6) of that section.",
+        "pre_block_list": [
+          "Amendment of section 71 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "25",
+        "text": "Section 72 of the principal enactment is hereby amended as follows:-",
+        "pre_block_list": [
+          "Amendment of section 72 of the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the substitution, in subsection (1) of that section, for all the words from of a young person to the words Penal Code,, of the words of a child, causes or encourages the commission in respect of such child of any offence under section 345, 360 A , 363, 364, 364 A , 365 or 365 B  of the Penal Code or any offence under the Obscene Publications Ordinance (Chapter 30),;",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the substitution, in subsection (2) of that section, for the words in respect of a child or young person being a female, a person shall, if he has knowingly allowed her to consort with, of the words in respect of a child, a person shall, if he has knowingly allowed such child to consort with,; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "by the substitution, in the marginal note to that section, for the words of girl under sixteen., of the words of a child",
+            "pre_block_list": [
+              "",
+              "Amendment of section 73 of the principal enactment"
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "26",
+        "text": "Section 73 of the principal enactment is hereby amended as follows:-",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the substitution for all the words from care of a child to the words to reside, of the words care of a child allows that child to reside; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the repeal of the marginal note to that section and the substitution therefor, of the following marginal note: -",
+            "pre_block_list": [
+              "Allowing children to be in brothels",
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "27",
+        "text": "Section 74 of the principal enactment is hereby amended by the repeal of the marginal note to that section and the substitution therefor, of the following marginal note:-",
+        "pre_block_list": [
+          "Amendment of section 74 of the principal enactment",
+          "Causing or procuring children to beg",
+          ""
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "28",
+        "text": "Section 76 of the principal enactment is hereby repealed.",
+        "pre_block_list": [
+          "Repeal of section 76 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "29",
+        "text": "Section 80 of the principal enactment is hereby amended by the repeal of subsection (3) of that section.",
+        "pre_block_list": [
+          "Amendment of section 80 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "30",
+        "text": "Section 88 of the principal enactment is hereby amended as follows:-",
+        "pre_block_list": [
+          "Amendment of section 88 of the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the repeal of the definition of the expression child and the substitution therefor of the following definition: -",
+            "pre_block_list": [
+              " child means a person under the age of eighteen years;;"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the insertion, immediately after the definition of the expression scheduled offence, of the following definition: -",
+            "pre_block_list": [
+              " training school for youthful offenders means a training school established under the Youthful Offenders (Training Schools) Ordinance (Chapter 25);; and"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "by the repeal of the definition of the expression young person.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "31",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

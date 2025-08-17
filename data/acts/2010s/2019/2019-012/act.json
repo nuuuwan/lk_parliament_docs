@@ -1,0 +1,130 @@
+{
+  "n_pages": 5,
+  "title_page": {
+    "title": "Revival  Of  Underperforming  Enterprises Or  Underutilized  Assets (Repeal) Act",
+    "num": "12",
+    "year": "2019",
+    "date_certified": "2019-06-28",
+    "date_published": "2019-06-28",
+    "price": 8.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "Revival Of Underperforming Enterprises Or Underutilized Assets (Repeal) Act, No. 12 Of 2019 1",
+      "[Certified On 28Th Of June, 2019]",
+      "L. D.O. 14/2018",
+      "A N  A Ct   To   Repeal   The  R Evival   Of  U Nderperforming E Nterprises   Or  U Nderutilized  A Ssets  A Ct , N O . 43  Of  2011",
+      "Be  It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Revival of Underperforming Enterprises or Underutilized Assets (Repeal) Act, No. 12 of 2019.",
+        "pre_block_list": [
+          "Short title."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "The Revival of Underperforming Enterprises or Underutilized Assets Act, No. 43 of 2011 (hereinafter referred to as the repealed Act) is hereby repealed.",
+        "pre_block_list": [
+          "Repeal of Act, No. 43 of 2011."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "For the avoidance of doubt it is hereby declared that, with effect from the date of commencement of this Act, the Underperforming Enterprises or Underutilized Assets, specified in Schedule I and Schedule II  of the repealed Act vested in the Secretary to the Treasury for and on behalf of the State under section 2 of the repealed Act, and subsisting on the day immediately preceding the date of commencement of this Act, shall continue to be so vested in the Secretary to the Treasury for and on behalf of the State.",
+        "pre_block_list": [
+          "Avoidance of doubt."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "Notwithstanding the repeal of the Revival of Underperforming Enterprises or Underutilized Assets Act, No. 43 of 2011",
+        "pre_block_list": [
+          "Savings."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL3Paragraph",
+            "num": "a",
+            "text": "all acts done under or pursuant to the repealed Act for the purpose of control, administration, management and revival as the case may be, of Underperforming Enterprises or Underutilized Assests including the issuing of shares and the execution of all contracts, deeds, bonds, agreements, memorandums of understanding, guarantees,",
+            "pre_block_list": [
+              "Revival of Underperforming Enterprises or Underutilized Assets (Repeal) Act, No. 12 of 2019 2",
+              "powers of attorney, grants of legal representation and other instruments of whatever nature and all licences, permits and approvals obtained in relation or in pursuance thereto, shall continue to be valid and in force in accordance with the terms thereof;"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL3Paragraph",
+            "num": "b",
+            "text": "unless otherwise determined by the Minister in charge of the subject of Finance with the concurrence of the Cabinet of Ministers",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL4SubParagraph",
+                "num": "i",
+                "text": "all property movable or immovable including any building and any fixtures or fittings which are part of such building and any building appurtenant thereto or treated as part and parcel thereof;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL4SubParagraph",
+                "num": "ii",
+                "text": "all liabilities incurred;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL4SubParagraph",
+                "num": "iii",
+                "text": "all rights, powers, privileges, authorities, obligations, duties and interests;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL4SubParagraph",
+                "num": "iv",
+                "text": "all books, accounts and documents,",
+                "pre_block_list": [
+                  "pertaining to such Underperforming Enterprises or Underutilized Assets, subsisting on the day immediately preceding the date of commencement of this Act, shall be deemed to be the property movable or immovable, liabilities, rights, powers, privileges, authorities, obligations, duties, interest, books, accounts and documents of the person on whom it had been conferred or vested under or pursuant to the provisions of the repealed Act, as at the day immediately preceding the date of commencement of this Act;"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL3Paragraph",
+            "num": "c",
+            "text": "any claim or inquiry initiated under the repealed Act for compensation or an award made for compensation, pending settlement on the day",
+            "pre_block_list": [
+              "Revival of Underperforming Enterprises or Underutilized Assets (Repeal) Act, No. 12 of 2019 3",
+              "immediately prior to the date of commencement of this Act shall be carried on and completed as if there had been no such repeal."
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "5",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of any  inconsistency.",
+          "Revival of Underperforming Enterprises or Underutilized Assets (Repeal) Act, No. 12 of 2019 4",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "n_pages": 3,
+  "title_page": {
+    "title": "Civil Procedure Code (Amendment) Act",
+    "num": "36",
+    "year": "2022",
+    "date_certified": "2022-11-17",
+    "date_published": "2022-11-18",
+    "price": 10.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 17Th Of November, 2022]",
+      "L.D.  O. 64/2021",
+      "A N  A Ct   To   Amend   The  C Ivil  P Rocedure  C Ode (C Hapter  101)",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "This Act may be cited as the Civil Procedure Code (Amendment) Act, No. 36 of 2022.",
+            "pre_block_list": [
+              "Short title and date of operation"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "The provisions of this Act shall come into operation on such date as the Minister may appoint by Order published in the  Gazette .",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "The Civil Procedure Code (Chapter 101) (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words Small Claims Court wherever those words occur in any provision of the principal enactment, of the words Small Claims Court.",
+        "pre_block_list": [
+          "General amendment of Chapter 101"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "Part IX A  (sections 801 to 833 R  both inclusive) of the principal enactment is hereby repealed.",
+        "pre_block_list": [
+          "Repeal of Part IX A  of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "The First Schedule to the principal enactment is hereby amended by the repeal of Form No. 136 thereof.",
+        "pre_block_list": [
+          "Amendment of First Schedule to the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "5",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

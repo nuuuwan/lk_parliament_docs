@@ -1,0 +1,37 @@
+# Act
+
+No. **28** of **2017**
+
+Date Certified: **2017-11-17**, Date Published: **2017-11-17**, Price: **5.0**, Price Postage: **10.0**
+
+[Certified On 17Th Of November, 2017]
+L.D.O. 1 / 2017
+A N  A Ct   To   Provide   For   Calling   Of   Fresh   Nominations   And   The
+Holding   Of   Elections   In   Respect   Of   Two  P Radeshiya  S Abhas   In
+The  N Orthern  P Rovince   Where   Elections   To   Such   Sabhas   Have
+Been   Postponed   Due   To   Unforeseen   And   Urgent   Circumstances ;
+And   To   Provide   For   Matters   Connected   Therewith   Or   Incidental
+Thereto .
+Whereas Notices Were Published Under Section 26 Of The Local Authorities Elections Ordinance, That Nominations Will Be Received In Respect Of Elections To Pudukudiruppu And Maritimepattu Pradeshiya Sabhas In The Northern Province:
+Preamble.
+And Whereas The Dates Of Polls Fixed For The Holding Of Elections For The Aforesaid Pradeshiya Sabhas Were Postponed From Time To Time Due To Unforeseen And Urgent Circumstances By Orders Made Under Subsection (3) Of Section 38 Of The Local Authorities Elections Ordinance:
+And Whereas   Persons Who Have Tendered Their Nominations Have Either Died Or Been Displaced Or Have Changed Their Party Or Due To The Fact That A Considerable Number Of Persons Who Have Tendered Their Nominations Have Gone Abroad Or Where Persons Who Were Below The Age Of Thirty-Five At The Time Of Tendering Nominations Are Now Over The Age Of Thirty-Five, It Has Become Necessary To Provide For The Calling Of Fresh Nominations In Respect Of The Aforesaid Pradeshiya Sabhas:
+And Whereas Due To The Period Of Time That Has Elapsed Since The Submission Of Nominations In Respect Of The Aforesaid Pradeshiya Sabhas, It Has Become Necessary To Provide For The Calling Of Fresh Nominations In Respect Of Such Pradeshiya Sabhas And To Make Provisions For The Holding Of Fresh Elections In Respect Of The Aforesaid Sabhas.
+2 Pl 0103882962 (10/2017)
+Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
+
+    1. This Act may be cited as the Local Authorities (Special Provisions) Act, No. 28 of 2017.
+        - Short title.
+    2. 
+        1. Nomination papers submitted, under section 28 of the Local Authorities Elections Ordinance (Chapter 262) (hereinafter referred to as the Ordinance) in respect of elections to the Pradeshiya Sabhas set out in the Schedule hereto in response to the Notices published under section 26 of the Ordinance are hereby deemed to be of no force and effect and as if such nomination papers had never been submitted.
+            - provisions relating to nominations and deposits in respect of elections to certain Sabhas.
+        2. The Notices published under subsection (3) of section 38 of the Ordinance, in respect of elections to the Pradeshiya Sabhas set out in the Schedule are hereby revoked.
+        3. Deposits made under section 29 of the Ordinance in respect of candidates nominated by an independent group for election to the Pradeshiya Sabhas set out in the Schedule, shall notwithstanding anything to the contrary in section 30 of the Ordinance, be refunded, on the production by the person who made the deposit, of the receipt issued to such person under subsection (3) of section 29 of the Ordinance, together with interest on such deposit at the rate of twelve per centum, per annum,  from the date of deposit to the date of refund.
+    3. Notwithstanding anything to the contrary contained in section 82 of the  Local Authorities Elections (Amendment) Act, No. 22 of 2012, steps shall be commenced under the Ordinance for the holding of elections to the Pradeshiya Sabhas set out in the Schedule hereto:
+        - Steps to be commenced for holding of elections.
+        - Provided that the notice of nomination in terms of the Ordinance shall be published on such date as the Election Commission may determine by Order published in the Gazette,  and such date shall however, be a date not later than six months from the date of the coming into operation of this Act.
+    4. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.
+        - Sinhala text to prevail in case of inconsistency.
+        - S CHEDULE (Sections 2 and 3)
+        - 1. Pudukudiruppu Pradeshiya Sabha; and
+        - 2. Maritimepattu Pradeshiya Sabha.

@@ -1,0 +1,293 @@
+{
+  "n_pages": 9,
+  "title_page": {
+    "title": "Registration Of Electors (Amendment) Act",
+    "num": "22",
+    "year": "2021",
+    "date_certified": "2021-10-13",
+    "date_published": "2021-10-15",
+    "price": 15.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 13Th Of October, 2021]",
+      "L.D.O. 26/2018",
+      "A N  A Ct   To   Amend   The  R Egistration   Of  E Lectors A Ct , N O . 44  Of  1980",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Registration of Electors (Amendment) Act, No. 22 of 2021 and shall come into operation on February 1, 2022.",
+        "pre_block_list": [
+          "Short title and the date of operation"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 3 of the Registration of Electors  Act, No. 44 of 1980 (hereinafter referred to as the principal enactment) is hereby amended by the substitution for the words, The first day of June, of the words The first day of February.",
+        "pre_block_list": [
+          "Amendment of section 3 of Act, No. 44 of 1980",
+          "Amendment of section 4 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "Section 4 of the principal enactment is hereby amended as follows:",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL3Paragraph",
+            "num": "a",
+            "text": "in subsection (1) thereof, by the substitution for the words The first day of June, of the words The first day of February;",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL3Paragraph",
+            "num": "b",
+            "text": "in subsection (2) thereof, by the substitution for the words the first day of June, of the words the first day of February; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL3Paragraph",
+            "num": "c",
+            "text": "in subsection (3) thereof, by the substitution for the words the first day of June, of the words the first day of February.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "Section 12 of the principal enactment is hereby amended in subsection (1) thereof, by the substitution for the words the first day of June of the words, the first day of February.",
+        "pre_block_list": [
+          "Amendment of section 12 of the principal enactment",
+          "Amendment of section 13 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "5",
+        "text": "Section 13 of the principal enactment is hereby amended in subsection (1) of that section by the substitution for the words thirty-first day of January of the words thirtieth of September.",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "6",
+        "text": "The following new section is hereby inserted immediately after section 20, and shall have effect as section 20 A  in the principal enactment:",
+        "pre_block_list": [
+          "Insertion of new section 20 A  in the principal enactment",
+          "Different qualifying dates and supplementary lists",
+          "20 A . (1) Notwithstanding the provisions of section 3, any person who attains the age of eighteen years on any day",
+          "( a ) within the period commencing on the first day of February in any year and ending on the thirty first day of May of that year;",
+          "( b ) within the period commencing on the first day of June in any year and ending on the thirtieth day of September of that year; and",
+          "( c ) within the period commencing on the first day of October in any year and ending on the thirty first day of January of the subsequent year,",
+          "shall be qualified to have his name entered or retained in a register as an elector."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "Every person qualified to be registered as an elector under subsection (1) of this section may apply for registration as an elector to the registering officer of the electoral district in which the qualified address of such person in terms of subsection (2) of section 4 is situated.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "Every qualified person to be registered as an elector under  subsection (1) shall make such application to the registering officer of the electoral district in which the qualified address of such person in terms of subsection (2) of section 4 is situated, along with the following documents:",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "a copy of the birth certificate of such person; or",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "a copy of the  National Identity Card of such person.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "4",
+            "text": "Every registering officer of an electoral district shall prepare supplementary lists respectively of",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "all persons who have attained the age of eighteen years between the first day of February of that year and the thirty first day of May of that year, who have applied  for registration;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "all persons who have attained the age of eighteen years between the first day of June in that year and the thirtieth day of September of that year who have applied  for registration; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "all persons who have attained the age of eighteen years between the first day of October in a year and the thirty first day of January of the subsequent year   who have applied  for registration.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "5",
+            "text": "Every registering officer of each electoral district shall give notice within a period of two weeks that the respective supplementary lists referred to in subsection (4) have been completed, and such supplementary lists of copies thereof are available for inspection at all reasonable hours of the day at the office of the registering officer or at such other places in the electoral district as may be specified in the notice. Every such notice shall be  published in the  Gazette  and in at least one newspaper  each in Sinhala, Tamil and English Languages.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "6",
+            "text": "Every person who claims to have a right to have his name included in a supplementary list prepared under this section may apply to the registering officer of the electoral district to have his name included in that list. Every such application shall be made within a period of ten days of the publication of the notice relating to such supplementary list.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "7",
+            "text": "A registered elector may object to the inclusion of the name of any person in a supplementary list prepared under this section and every such objection shall be made in writing to the registering officer of the electoral district within a period of ten days of the publication of the notice relating to such supplementary list.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "8",
+            "text": "Any provisions of  this Act relating to determination of claims  and objections shall mutatis mutandis  apply to any claims and objections under this section.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "9",
+            "text": "The registering officer of each electoral district shall certify the supplementary lists prepared by him under this section immediately after the claims and objections have been adjudicated. Upon such certification, the supplementary lists shall be known as the certified supplementary register and be attached as an annexure to the electoral register for that electoral district.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "10",
+            "text": "Upon the certification of any supplementary register under subsection (9) of section 20 A , the registering officer shall give notice in the  Gazette  and in at least one newspaper in each of the National Languages that the register has been certified.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "11",
+            "text": "The certified supplementary register for any electoral district shall come into operation on the date of the publication in the Gazette  of the notice referred to in subsection (10) and subject to such alterations if any, as may subsequently be made therein in accordance with subsection (4) of section 15 or section 18, such certified supplementary register shall continue to be in operation until superseded by the coming into operation of the next certified register",
+            "pre_block_list": [
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "7",
+        "text": "The following new section is hereby inserted immediately after section 24, and shall have effect as section 24 A  of the principal enactment:",
+        "pre_block_list": [
+          "Insertion of new section 24 A",
+          "24 A . The Election Commission may issue such directions as it may consider necessary, to provide for any difficulty or unforeseen circumstances or for the determination or adjustment of any question or matter in relation to the registration of electors under this Act",
+          "",
+          "Power of the Election Commission to issue directions"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "8",
+        "text": "Section 29 of the principal enactment is hereby amended in the definition of the expression of register of electors by the substitution for the words for any electoral district ; of the words including the certified supplementary register prepared under section 20 A  for any electoral district",
+        "pre_block_list": [
+          "",
+          "Amendment of section 29 of the principal enactment"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "9",
+        "text": "The Schedule to the principal enactment is hereby amended as follows:",
+        "pre_block_list": [
+          "Amendment of the Schedule to the principal enactment"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "in items (2), (3) and (5) (ii) of form A of the Schedule by the substitution for the words and figures June 1, 19... of the words and figures of February 1, 20....",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "in subsections (2), (3) and (5) (ii) of form B of the Schedule by the substitution for the words and figures June 1, 19... of the words and figures of February 1, 20....",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "10",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "Notwithstanding the provisions of section 3, any person who attains the age of eighteen years on any date within the period from the first day of June 2021 to the date of commencement of this Act shall be qualified to have such persons name entered or retained in the register of electors as an elector and every such person shall apply for registration to the registering officer of the electoral district in which the qualified address of such person in terms of subsection (2) of section 4 is situated along with the documents specified in subsection (3) of section 20 A .",
+            "pre_block_list": [
+              "Supplementary list for a specified period"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "Every registering officer shall make a supplementary list for the purpose of subsection (1) and shall  mutatis mutandis  apply the procedure specified in subsections (5) to (11) of section 20 A  for the preparation of the supplementary list.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "11",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

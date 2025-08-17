@@ -1,0 +1,119 @@
+{
+  "n_pages": 5,
+  "title_page": {
+    "title": "Code Of Criminal Procedure  (Amendment)  Act",
+    "num": "11",
+    "year": "2018",
+    "date_certified": "2018-05-21",
+    "date_published": "2018-05-25",
+    "price": 8.0,
+    "price_postage": 10.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 21St Of May, 2018]",
+      "L. D.O. 42/2016.",
+      "A N  A Ct   To   Amend   The  C Ode   Of  C Riminal  P Rocedure A Ct , N O . 15  Of  1979",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Code of Criminal Procedure (Amendment) Act, No. 11 of  2018.",
+        "pre_block_list": [
+          "Short title."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "The following new section is hereby inserted immediately after section 122 of the Code of Criminal Procedure Act, No. 15 of 1979 and shall have effect as section 122 A  of that Act",
+        "pre_block_list": [
+          "Insertion of new section 122 A  in the Act, No. 15 of 1979.",
+          "122 A . (1) The officer in charge of the police station who is investigating an offence alleged to have been committed by a child of, or above, twelve years of age and under fourteen years, shall, with the consent of the parent or guardian of such child, cause the child to be examined by a multidisciplinary team comprising of the experts specified in subsection (2), in order to obtain a report whether such child has attained sufficient maturity of understanding which enables the Magistrate having jurisdiction in the case to decide",
+          "Medical examination in case of an offence alleged to have been committed by a child of, or above twelve years of age and under fourteen.",
+          "( a ) the degree of responsibility of such child, taking into consideration the nature and consequences of the alleged offence; and",
+          "( b ) whether the child is in need of any therapeutic intervention.",
+          "2PL 0107352,977 (04/2018)",
+          "Code of Criminal Procedure (Amendment) Act, No. 11 of 2018 2"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "The multidisciplinary team referred to in subsection (1) shall comprise of",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "the judicial medical officer of the relevant district;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "a pediatric or adolescent psychiatrist; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "a psychologist.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "Where such parent or guardian of the child does not consent to the child being so examined, the officer in charge of the police station shall apply to the Magistrate having jurisdiction in the case, for an order authorizing such multidisciplinary team to examine such child.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "4",
+            "text": "In any event where the judicial medical officer of the relevant district is not available, the officer in charge of the police station who is investigating the offence shall obtain the assistance of a judicial medical officer of any other district to obtain the report referred to in subsection (1).",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "5",
+            "text": "Such multidisciplinary team shall submit its report to the officer in charge of the police station who shall submit such report to the Magistrate, in order to assist him to form his opinion as referred to in subsection (1) and to make his decision, taking into consideration the provisions of section 76 of the Penal Code.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "6",
+            "text": "The child referred to in subsection (1) shall be subject to rehabilitation in the",
+            "pre_block_list": [
+              "prescribed manner under the supervision and assessment of a pediatric psychiatrist and a psychologist",
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency.",
+          "Code of Criminal Procedure (Amendment) Act, No. 11 of 2018 4",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

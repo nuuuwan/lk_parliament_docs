@@ -1,0 +1,85 @@
+{
+  "n_pages": 3,
+  "title_page": {
+    "title": "Immigrants And Emigrants (Amendment) Act",
+    "num": "27",
+    "year": "2021",
+    "date_certified": "2021-11-12",
+    "date_published": "2021-11-12",
+    "price": 5.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 12Th Of November, 2021]",
+      "L.D.O. 24/2018",
+      "A N  A Ct   To   Amend   The  I Mmigrants   And  E Migrants  A Ct (C Hapter  351)",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows :"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Immigrants and Emigrants (Amendment)  Act, No. 27 of 2021.",
+        "pre_block_list": [
+          "Short title",
+          "Amendment of section 14 of Chapter 351"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 14 of the Immigrants and Emigrants Act (Chapter 351) is hereby amended as follows:",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "in subsection (1) thereof, by the substitution for the words, two years, of the words five years,;",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "in subsection (2) thereof, by the substitution for the words, exceeding two years but not exceeding five years, of the words exceeding five years but not exceeding ten years,; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "by the insertion immediately after subsection (3) thereof, of the following subsection:-",
+            "pre_block_list": [
+              "(3 A )  ( a ) Notwithstanding the time limits specified in subsections (1) and (2), the period of permanent residence visa may be determined by the Minister."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "For the purpose of paragraph ( a ), permanent residence visa means, a visa granted under regulations made under this Act",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency",
+          "Immigrants and Emigrants (Amendment) Act, No. 27 of 2021 2",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

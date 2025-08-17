@@ -1,0 +1,97 @@
+{
+  "n_pages": 4,
+  "title_page": {
+    "title": "Consumer   Affairs   Authority (Amendment) Act",
+    "num": "20",
+    "year": "2021",
+    "date_certified": "2021-09-22",
+    "date_published": "2021-09-24",
+    "price": 9.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "Consumer Affairs Authority (Amendment) Act, No. 20 Of 2021 1",
+      "[Certified On 22Nd Of September, 2021]",
+      "L.D.  O. 46/2021",
+      "A N  A Ct   To   Amend   The  C Onsumer  A Ffairs  A Uthority A Ct , N O . 9  Of  2003",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Consumer Affairs Authority (Amendment) Act, No. 20 of 2021.",
+        "pre_block_list": [
+          "Short title"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 60 of the Consumer Affairs Authority Act, No. 9 of 2003 (hereinafter referred to as the principal enactment) is hereby amended as follows :-",
+        "pre_block_list": [
+          "Amendment of section 60 of Act, No. 9 of 2003"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the insertion immediately after subsection (4) thereof, the following: -",
+            "pre_block_list": [
+              "(4A) Any person who fails or refuses to comply with an order made under subsection (5) of section 20 or acts in contravention of such order commits an offence and shall on conviction after trial before a Magistrate, be liable to -"
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "where such person is not a body corporate, to a fine not less than rupees one hundred thousand and not exceeding rupees five hundred thousand or to an imprisonment of either description for a term not exceeding six months or to both such fine and imprisonment in the case of a first offence, and to a fine not less than rupees two hundred thousand and not exceeding rupees one million or to an imprisonment of either description for a term",
+                "pre_block_list": [
+                  "Consumer Affairs Authority (Amendment) Act, No. 20 of 2021 2",
+                  "not exceeding one year or to both such fine and imprisonment in the case of a subsequent offence; or"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "where such person is a body corporate, to a fine not less than rupees five hundred thousand and not exceeding rupees five million in the case of a first offence and to a fine not less than rupees one million and not exceeding rupees ten million in the case of a subsequent offence.; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "in subsection (5) thereof, by the substitution for the words and figures provisions referred to in subsections (1), (2), (3) and (4) of this section of the words and figures provisions referred to in subsections (1), (2), (3), (4) or (4A) of this section.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "For the avoidance of doubt, it is hereby declared that the provisions of section 2 of this Act shall not apply in respect of any offence committed under subsection (4A) of section 60 of the principal enactment, where such offence was committed prior to the coming into operation of this Act.",
+        "pre_block_list": [
+          "Act not to apply in respect of offences committed prior to, coming into operation of this Act"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in the event of any inconsistency",
+          "Consumer Affairs Authority (Amendment) Act, No. 20 of 2021 3",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

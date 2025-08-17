@@ -1,0 +1,483 @@
+{
+  "n_pages": 9,
+  "title_page": {
+    "title": "Industrial Disputes (Special Provisions) Act",
+    "num": "19",
+    "year": "2022",
+    "date_certified": "2022-06-23",
+    "date_published": "2022-06-24",
+    "price": 15.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "Industrial Disputes (Special Provisions) Act, No. 19 Of 2022 1",
+      "[Certified On 23Rd Of June, 2022]",
+      "L.D.-O. 22/2020",
+      "A N  A Ct   To   Make   Special    Provisions   To   Empower   The   Labour",
+      "Tribunals   To   Hear ,  Try ,  Determine   And   Dispose   Of   All",
+      "Enforcement   Proceedings   And   Prosecutions   Under   The",
+      "Provisions   Of   Specified   Enactments   And   For   Matters",
+      "Connected   Therewith   Or   Incidental   Thereto .",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Industrial Disputes (Special Provisions) Act, No. 19 of 2022 and shall come into operation on such date as the Minister may, in consultation with the Minister assigned the subject of Justice, appoint by Order published in the  Gazette .",
+        "pre_block_list": [
+          "Short title and date of operation"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "Every labour tribunal established under section 31 A of the Industrial Disputes Act (Chapter 131) shall, in addition to the powers and duties conferred by written law, exercise the powers conferred upon a Magistrate for the purpose of enforcement of any award made by any arbitrator or industrial court or any order made by the labour tribunal under the provisions of the Industrial Disputes Act (Chapter 131) or any decision of the Commissioner or recovery of payment upon a certificate issued by the Commissioner or implementation of the provisions incidental hitherto of the enactments specified in the Schedule I hereto (in this Act referred to as the specified enactments).",
+            "pre_block_list": [
+              "Labour tribunal to   exercise the power   of a Magistrate"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "For the purposes of this Act, the jurisdiction of a  labour tribunal as mentioned above shall, subject to the provisions of subsection (3), be limited to a judicial division of a Magistrates Court as may be demarcated under subsection (3) of section 5 of the Judicature Act, No. 2 of 1978 where the labour tribunal is situated.",
+            "pre_block_list": [
+              "Industrial Disputes (Special Provisions) Act, No. 19 of 2022 2"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "The jurisdiction of a labour tribunal referred to in Column I of the Schedule II hereto shall be limited to the judicial division of the Magistrates Court referred to in the corresponding entry in Column II of that Schedule.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "4",
+            "text": "For the avoidance of doubt, it is hereby declared that the Magistrates Court shall continue to exercise such other powers other than the powers under subsection (1) of this section as specified in the specified enactments in any judicial division of the Magistrates Court including judicial division specified in Column II of Schedule II.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "The President of a labour tribunal specified in Column I of Schedule II shall have the power and authority to hear, try, determine and dispose of cases in a summary way by virtue of the provisions of the Code of Criminal Procedure Act, No. 15 of 1979 in relation to the enforcement of any award made by any arbitrator or industrial court or any order made by the labour tribunal under the provisions of the Industrial Disputes Act (Chapter 131) or any decision of the Commissioner or recovery of payment upon a certificate issued by the Commissioner or implementation of the provisions of the specified enactments.",
+            "pre_block_list": [
+              "Applicability of the provisions of Code of Criminal Procedure Act, No. 15 of 1979 and Evidence Ordinance (Chapter14)"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "There shall be a duly appointed Registrar and an incidential staff for the purpose of implementing the functions specified under subsection (1) of section 2 of this Act.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "The provisions of the Code of Criminal Procedure Act, No. 15 of 1979 and Evidence Ordinance (Chapter 14) shall  mutatis mutandis  apply to and in relation to the procedure to hear, try, determine and dispose of the suits or prosecutions before the labour tribunal:",
+            "pre_block_list": [
+              "Provided that, the provisions of Evidence Ordinance (Chapter 14) shall not apply for the conduct of proceedings under section 31 B  of the Industrial Disputes Act (Chapter 131) by the labour tribunal."
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency",
+          "Industrial Disputes (Special Provisions) Act, No. 19 of 2022 3",
+          "Schedule I",
+          "[section 2(1)]",
+          "1. Allowances to Plantation Workers Act, No. 72 of 1981",
+          "2. Budgetary Relief Allowance of Workers Law (No. 1) Law, No. 1 of 1978",
+          "3. Budgetary Relief Allowance of Workers (No. 2) Law, No. 18 of 1978",
+          "4. Budgetary Relief Allowance of Workers Act, No. 36 of 2005"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "5",
+        "text": "Budgetary Relief Allowance of Workers Act, No. 4 of 2016",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "6",
+        "text": "Chauffeurs Regulation Ordinance (Chapter 73)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "7",
+        "text": "Control of Labour (Change of Designation) Ordinance, No. 22 of 1945",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "8",
+        "text": "Diseases (Labourers) Ordinance (Chapter 225)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "9",
+        "text": "Employees Councils Act, No. 32 of 1979",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "10",
+        "text": "Employees Holiday Act, No. 6 of 1959",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "11",
+        "text": "Employees Provident Fund Act, No. 15 of 1958",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "12",
+        "text": "Employees Provident Fund (Special Provisions) Act, No. 6 of 1975",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "13",
+        "text": "Employees Trust Fund (Special Provisions) Act, No. 19 of 1993",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "14",
+        "text": "Employees Trust Fund Act, No. 46 of 1980",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "15",
+        "text": "Employment of Trainees (Private Sector) Act, No. 8 of 1978",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "16",
+        "text": "Employment of Women, Young Persons and Children Act, No. 47 of 1956",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "17",
+        "text": "Estate Labour (Indian) Ordinance (Chapter 133)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "18",
+        "text": "Estate Quarters (Special Provisions) Act, No. 2 of 1971",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "19",
+        "text": "Factories Ordinance (Chapter 128)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "20",
+        "text": "Fuel Conservation Five Day Week Act, No. 11 of 1978",
+        "pre_block_list": [
+          "Industrial Disputes (Special Provisions) Act, No. 19 of 2022 4"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "21",
+        "text": "Holiday Act, No. 29 of 1971",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "22",
+        "text": "Indian Immigrant Labour Ordinance (Chapter 132)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "23",
+        "text": "Industrial Disputes Act (Chapter 131)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "24",
+        "text": "Inspector of Labour (Change of Designation) Act, No. 7 of 1958",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "25",
+        "text": "Interim Devaluation Allowance of Employees Act, No. 40 of 1968",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "26",
+        "text": "Labour Inspections (Maintenance of Secrecy) Act, No. 13 of 1972",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "27",
+        "text": "Maternity Benefits Ordinance (Chapter 140)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "28",
+        "text": "Medical Wants Ordinance (Chapter 223)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "29",
+        "text": "Mines (Prohibition of Female Labour Underground) Ordinance (Chapter 130)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "30",
+        "text": "Mines and Minerals Law, No. 4 of 1973",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "31",
+        "text": "Mines, Quarries and Minerals Ordinance (Chapter 210)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "32",
+        "text": "Minimum Retirement Age of Workers Act, No. 28 of 2021",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "33",
+        "text": "Minimum Wages (Indian Labour) Ordinance (Chapter 135)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "34",
+        "text": "National Apprenticeship Act, No. 49 of 1971",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "35",
+        "text": "National Minimum Wages of Workers Act, No. 3 of 2016",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "36",
+        "text": "Payment of Gratuities & Other Monetary Benefits to Indian Repatriates (Special Provisions) Act, No. 34 of 1978",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "37",
+        "text": "Payment of Gratuity Act, No. 12 of 1983",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "38",
+        "text": "Privilege Leave (Private) Law, No. 14 of 1976",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "39",
+        "text": "Registration of Domestic Servants Ordinance (Chapter 137)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "40",
+        "text": "Service Contracts Ordinance (Chapter 72)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "41",
+        "text": "Shop & Office Employees (Regulation of Employment & Remuneration) Act (Chapter 129)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "42",
+        "text": "Special Allowances of Workers Law, No. 17 of 1978",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "43",
+        "text": "Supplementary Allowances of Workers Act, No. 65 of 1979",
+        "pre_block_list": [
+          "Industrial Disputes (Special Provisions) Act, No. 19 of 2022 5"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "44",
+        "text": "Termination of Employment of Workmen (Special Provisions) Act, No. 45 of 1971",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "45",
+        "text": "Trade Union Ordinance (Chapter 138)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "46",
+        "text": "Trade Union Representatives (Entry into Estates) Act, No. 25 of 1970",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "47",
+        "text": "Tundu Prohibition Ordinance (Chapter 134)",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "48",
+        "text": "Wages Boards Ordinance (Chapter 136)",
+        "pre_block_list": [
+          "Schedule II",
+          "[section 2(3)]",
+          "Labour tribunal Relevant jurisdiction of the Magistrates Court",
+          "1. Labour Tribunal No. 1 Chief Magistrates Court, Colombo 12",
+          "2. Labour Tribunal No. 2 Chief Magistrates Court, Colombo 12",
+          "3. Labour Tribunal No. 8 Chief Magistrates Court, Colombo 12",
+          "4. Labour Tribunal No. 13 Chief Magistrates Court, Colombo 12",
+          "5 Labour Tribunal No. 33, Maharagama Magistrates Court, Homagama",
+          "6. Labour Tribunal No. 32, Ratmalana Magistrates Court, Mount Lavinia",
+          "7. Labour Tribunal No. 1/ Additional and Magistrates Court, No. 2/ Additional, Battaramulla Kaduwela",
+          "8. Labour Tribunal No. 30, Kaduwela Magistrates Court, Kaduwela",
+          "9. Labour Tribunal No. 19, Avissawella Magistrates Court, Avissawella",
+          "Industrial Disputes (Special Provisions) Act, No. 19 of 2022 6",
+          "10. Labour Tribunal No. 24, Gampaha Magistrates Court, Gampaha",
+          "11. Labour Tribunal No. 31, Wattala Magistrates Court, Wattala",
+          "12. Labour Tribunal No. 21, Negombo Magistrates Court, and No. 21/ Additional, Negombo Negombo",
+          "13. Labour Tribunal No. 25, Panadura Magistrates Court, Panadura",
+          "14. Labour Tribunal No. 18, Kalutara Magistrates Court, Kalutara",
+          "15. Labour Tribunal No. 04, Galle Magistrates Court, Galle",
+          "16. Labour Tribunal No. 26, Matara Magistrates Court, Matara",
+          "17. Labour Tribunal No. 34, Kotapola Magistrates Court, Morawaka",
+          "18. Labour Tribunal No. 03, Kandy Magistrates Court, Kandy",
+          "19. Labour Tribunal No. 39, Palapathwala Magistrates Court, Matale",
+          "20. Labour Tribunal No. 38, Nawalapitiya Magistrates Court, Nawalapitiya",
+          "21. Labour Tribunal No. 37, Thalawakele Magistrates Court, Thalawakele",
+          "22. Labour Tribunal No. 10, Hatton Magistrates Court, Hatton",
+          "23. Labour Tribunal No. 09, Nuwara-Eliya Magistrates Court, Nuwara- Eliya",
+          "24. Labour Tribunal No. 05, Badulla Magistrates Court, Badulla",
+          "25. Labour Tribunal No. 36, Bandarawela Magistrates Court, Bandarawela",
+          "26. Labour Tribunal No. 44, Ampara Magistrates Court, Ampara",
+          "27. Labour Tribunal No. 06(R), Ratnapura Magistrates Court, Ratnapura",
+          "28. Labour Tribunal No. 40, Balangoda Magistrates Court, Balangoda",
+          "Industrial Disputes (Special Provisions) Act, No. 19 of 2022 7",
+          "29. Labour Tribunal No. 06(E), Magistrates Court, Embilipitiya Embilipitiya",
+          "30. Labour Tribunal No. 42, Kegalle Magistrates Court, Kegalle",
+          "31. Labour Tribunal No. 23, Kurunegala Magistrates Court, Kurunegala",
+          "32. Labour Tribunal No. 46, Kuliyapitiya Magistrates Court, Kuliyapitiya",
+          "33. Labour Tribunal No. 28, Chilaw Magistrates Court, Chilaw",
+          "34. Labour Tribunal No. 27, Magistrates Court, Anuradhapura Anuradhapura",
+          "35. Labour Tribunal, Trincomalee Magistrates Court, Trincomalee",
+          "36. Labour Tribunal No. 22, Batticaloa Magistrates Court, Batticaloa",
+          "37. Labour Tribunal, Jaffna Magistrates Court, Jaffna",
+          "Industrial Disputes (Special Provisions) Act, No. 19 of 2022 8",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

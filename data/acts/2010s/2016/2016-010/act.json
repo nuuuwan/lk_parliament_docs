@@ -1,0 +1,2213 @@
+{
+  "n_pages": 36,
+  "title_page": {
+    "title": "Homoeopathy  Act",
+    "num": "10",
+    "year": "2016",
+    "date_certified": "2016-07-27",
+    "date_published": "2016-07-29",
+    "price": 21.0,
+    "price_postage": 20.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 27Th July, 2016]",
+      "L.D.O. 46/2005",
+      "A N  A Ct   To   Provide   For   The   Establishment   Of   A  H Omoeopathic M Edical  C Ouncil ;  For   The   Registration   Of   H Omoeopathic P Ractitioners   And  H Omoeopathic  P Harmacists ;  For   The",
+      "Registration   And   Regulation   Of  H Omoeopathic  I Nstitutions ;",
+      "To   Promote ,  Foster ,  And  R Egulate   The  H Omoeopathic    System",
+      "Of   Medicine   And   For   The   Regulation   And   Control   Of   The",
+      "Manufacture ,  Importation ,  Storage ,  Sale   And   Distribution   Of",
+      "Homoeopathic   Medicine ,  Drugs   And   Other   Homoeopathic",
+      "Preparations ;  To   Repeal   The  H Omoeopathy  A Ct , N O . 7  Of  1970",
+      "And    To   Make   Provision   For   Matters   Connected    Therewith    Or",
+      "Incidental   Thereto .",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Homoeopathy Act, No. 10 of 2016  and shall come into operation on such date as may be appointed by the Minister (hereinafter referred to as the appointed date) by Order Published in the  Gazette .",
+        "pre_block_list": [
+          "Short title and date of operation."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": [
+      {
+        "class_name": "ActL0Part",
+        "num": "I",
+        "text": "",
+        "pre_block_list": [
+          "E STABLISHMENT   OF   THE  H OMOEOPATHIC  M EDICAL  C OUNCIL"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "2",
+            "text": "( 1) There shall be established a Council which shall be called the Homoeopathic Medical Council (hereinafter referred to as the Council).",
+            "pre_block_list": [
+              "Establishment of the Homoeopathic Medical Council."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Council shall, by the name assigned to it by subsection (1), be a body corporate and shall have perpetual succession and a common seal and may sue and be sued in that name and may hold, acquire and dispose of any property movable or immovable.",
+                "pre_block_list": [
+                  "2PL 009983   2,961 (06/2016)"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Council shall consist of the following members appointed by the Minister:-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "ex-officio  members, namely-",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "Additional Secretary of the Ministry or an officer not below the rank of Senior Assistant Secretary nominated by the Secretary to the Ministry;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "a representative of  the General Treasury nominated by the Secretary to the Ministry of the Minister assigned the subject of Finance;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "a representative of the University Grants Commission nominated by the Chairman of the University Grants Commission established under the Universities Act, No. 16 of 1978.",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      }
+                    ]
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "five members to be elected in the manner specified in section 6 from among the registered practitioners of Homoeopathy;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "three members to be appointed by the Minister, of whom at least two members shall be  from among the  registered practitioners of Homoeopathy.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "3",
+            "text": "A person shall be disqualified from being elected or being appointed as a member of the Council if he",
+            "pre_block_list": [
+              "Disqualification for being elected or appointed as a member of the Council."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "is or becomes a member of Parliament or of any Provincial Council or of any Local Authority; or",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "is less than twenty five years of age; or",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "is found or declared to be of unsound mind under any written law in force in Sri Lanka or any other country; or",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "is an undischarged, bankrupt  or insolvent under any written law in force in Sri Lanka or any other country; or",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "is an employee of the Council; or",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "convicted by a competent court of an offence involving of moral turpitude; or",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "g",
+                "text": "is not, or ceases to be  a citizen of Sri Lanka; or",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "h",
+                "text": "ceases to be a registered practitioner of Homoeopathy.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "4",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Minister may remove from office any member other than an  ex-officio  member, for reasons assigned after an inquiry.",
+                "pre_block_list": [
+                  "Removal of the Members from office."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Every such removal shall be published in the  Gazette .",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "5",
+            "text": "A member of the Council, other than an   ex-officio member shall be deemed to have vacated office",
+            "pre_block_list": [
+              "Vacation of office by members of the Council."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "on his absence without excuse sufficient in the opinion of the Council from  three consecutive meetings of the Council;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "on  ceasing to be a registered Homoeopathic practitioner;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "on the acceptance of the resignation in writing by the Minister;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "on the expiry of his term of office;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "on  his removal from office by the Minister under the Act;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "if he  becomes  subject to any of the disqualifications referred to in section 3.",
+                "pre_block_list": [
+                  "Election of the members for the purpose of section 2(3)( b )."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "6",
+            "text": "An election for the purpose of section 2(3) ( b ) shall be conducted by the Secretary to the Ministry of the Minister in such manner as may be prescribed.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "7",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The members of the Council shall elect a President who is a registered medical practitioner of Homoeopathy and a  Vice President from among the members of the Council in such manner as may be prescribed.",
+                "pre_block_list": [
+                  "Appointment  of the President and Vice President."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Where any dispute arises regarding the election of a member to the Council it shall be referred to the Minister, whose decision on such matter shall be final.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "8",
+            "text": "The President, Vice president, and any member of the Council other than the  ex-officio  members of the Council may at any time resign his office by letter addressed to the Minister and such resignation shall take effect from the date of acceptance by the Minister.",
+            "pre_block_list": [
+              "Resignation of the President. etc."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "9",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Every  ex-officio  member of the Council shall hold office as long as he holds the post by virtue of which he is a member of the Council.",
+                "pre_block_list": [
+                  "Term of office of the members of the Council."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The President, Vice President, and a member of the Council shall, unless he vacates office earlier by death, resignation or removal hold office for a term of three years:",
+                "pre_block_list": [
+                  "Provided however,  that the member elected or appointed in place of a member who vacates office, shall hold office for the unexpired period of the term of office of the member whom he succeeds:",
+                  "Provided further, that the unexpired period of the term of office so held by such member, shall not be deemed to be a full term for the purpose of re-election or re- appointment under section 2."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "A member of the Council shall, unless he is removed from office, be eligible for re-election or re-appointment to the Council for two consecutive terms.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The election or appointment of the members of the Council shall be held at least three months prior to the expiry of the term of the Council.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "10",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Council shall hold meetings at least once in three months at such time and place as may be determined by the Council.",
+                "pre_block_list": [
+                  "The meetings of the Council."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The President, shall preside at any meeting of the Council and in the absence of the President, the Vice President or in the absence of both the President and Vice President a member elected by the members present shall preside at such meeting.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The quorum for a meeting of the Council shall be seven.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "All questions for decision at any meeting shall be decided by a majority of votes of the members present.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "In the event of an equality of votes at any meeting of the Council, the President, Vice President or the member presiding at such meeting shall, in addition to his own vote, have a casting vote.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "Subject to the other provisions of this Act, the Council may regulate the procedure in regard to its meetings and the transaction of business at such meetings.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "11",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The minutes of the proceedings of every meeting of the Council shall be entered in a book to be kept for the purpose and shall be signed by the President of the meeting.",
+                "pre_block_list": [
+                  "Minutes of proceedings."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "A copy of the minutes of the proceedings of every meeting of the Council shall, be transmitted to the Minister within fourteen days from the date of the meeting.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "12",
+            "text": "A member of the Council shall be remunerated in such manner and at such rates as may be determined by the Minister with the concurrence of the Minister to whom the subject of Finance is assigned.",
+            "pre_block_list": [
+              "Remuneration of the members of the Council."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "13",
+            "text": "No act, decision or proceeding of the Council shall be invalid by reason only of the existence of any vacancy among its members or any defect in the appointment or election of a member thereof or in the constitution of the Council.",
+            "pre_block_list": [
+              "No act ,decision or proceeding of the Council shall be invalid by reason only of the existence of any  vacancy."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "14",
+            "text": "The Seal of the Council-",
+            "pre_block_list": [
+              "The seal of the Council."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "shall be in the custody of the registrar of the Council     appointed under section 18 of the Act;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "may be altered in such manner as may be determined  by the Council;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "shall not be affixed to any instrument or document   except in the presence of the registrar and two members of the Council all of whom shall sign the instrument or document in token of their presence.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL0Part",
+        "num": "II",
+        "text": "",
+        "pre_block_list": [
+          "T HE   OBJECTS   AND   POWERS   OF   THE  C OUNCIL"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "15",
+            "text": "The objects of the Council shall be-",
+            "pre_block_list": [
+              "Objects of the Council."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "to promote, foster and regulate the practice of Homoeopathy;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to promote Homoeopathic system of medicine in the society with a view to improving the public health, in accordance with Homoeopathy;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to promote and encourage the study, research into and practice of  Homoeopathy;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to establish and maintain Homoeopathic Institutions;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "to regulate and control Homoeopathic Institutions providing treatment according to the Homoeopathic system of  medicine other than the government  Homoeopathic teaching hospitals; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "to regulate and control of the manufacture, importation, storage, sale and distribution of Homoeopathic medicines, drugs and other Homoeopathic preparations.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "16",
+            "text": "The Council shall have the power to-",
+            "pre_block_list": [
+              "Powers of the Council."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "register Homoeopathic medical practitioners, Homoeopathic pharmacists, Homoeopathic nurses and Homoeopathic institutions;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "recognise the medical qualifications relating to  Homoeopathy  awarded  by  the Homoeopathic  institutions in and outside Sri Lanka for the purpose of registration of Homoeopathic medical practitioners and to determine the circumstances in which such recognition shall be granted or refused;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "call for such information from any recognized university or institution in respect of  the courses of study, or examinations or any matter relating  to the grant or conferment of a Homoeopathic  medical qualifications by such university or medical institution;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "appoint medical inspectors to supervise, enter, inspect, examine and investigate-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL4SubParagraph",
+                    "num": "i",
+                    "text": "the Homeopathy medical colleges and institutions in order to ensure that the minimum standards are maintained by such colleges or institutions for the purpose of regulations under this Act; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL4SubParagraph",
+                    "num": "ii",
+                    "text": "institutions where Homeopathy is practiced, in order to ensure that Homeopathy is practiced only by a registered Homeopathic medical practitioner and such institutions conform to the minimum standards prescribed by regulations;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "provide services necessary for the treatment of diseases, in accordance with the Homoeopathy;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "f",
+                "text": "establish and maintain Homoeopathic institutions and to arrange for postgraduate study in Homoeopathy;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "g",
+                "text": "establish and maintain dispensaries, centres, pharmacies and related institutions or establishments as the case may be, or import or export of Homoeopathic medicine, necessary for the preparation and administration of Homoeopathic treatment;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "h",
+                "text": "encourage the scientific manufacture of Homoeopathic  medicines;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "i",
+                "text": "prescribe and maintain the minimum standards of medical education and practice of Homoeopathy including the minimum standards relating to courses of study, examinations, staff, equipment, accommodation, training, hospitals and other facilities provided by the Homoeopathic medical colleges and other  Homoeopathic institutions;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "j",
+                "text": "encourage the study of, and research into the systems of Homoeopathic medicine by granting Scholarships and other facilities to deserving persons particularly youth and by granting financial and other assistance to institutions providing courses of study or engaged in research in Homoeopathy;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "k",
+                "text": "prescribe and maintain the minimum standards of medical education relating to post graduate Homoeopathic medical education;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "l",
+                "text": "develop and encourage such measures as are necessary for the investigation of diseases, the treatment and prevention of diseases, and improvement of public health, according to Homoeopathy;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "m",
+                "text": "make arrangements with higher educational institutions  to grant or confer degrees and other academic distinctions relating to Homoeopathy;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "n",
+                "text": "make arrangements with the approval of the Minister and in consultation with the Minister the subject of  higher education assigned, to establish a Homoeopathic Medical College in terms of the Universities Act, No.16 of 1978;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "o",
+                "text": "to establish with the approval of the Minister such  committees as may be necessary for  the carrying out of  the functions and duties of the Council;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "p",
+                "text": "to delegate any power, duty or function to any officer or committee from time to time subject to such conditions as the Council may deem necessary;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "q",
+                "text": "to make rules for the exercise, discharge and performance of the powers, functions and duties of the Council; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "r",
+                "text": "to do all such other acts which may be incidental or conducive to, the attainment of the objects of the Council or the exercise and discharge of the powers and duties under this Act.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "17",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Council may subject to the other provisions of this Act, make rules for the following:",
+                "pre_block_list": [
+                  "Power of the Council to make rules."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "to exercise disciplinary control over such staff as may be deemed necessary by the Council to carry out the functions of the Council;",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "to fix the wages, salary or other remuneration of such staff;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "to determine the terms and conditions of service of such staff in consultation with the Department of Management Services;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iv",
+                        "text": "to establish and regulate provident funds or pension  schemes for the benefit of such staff and make contributions to any such fund or scheme; and",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "v",
+                        "text": "to manage and maintain  the property of the Council.",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Rules may be made by the Council in respect of all or any of the matters referred to in subsection (1).",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Every rule made under subsection (1) shall be published in the  Gazette , and shall come into operation on the date of its publication or on such later date as may be specified therein.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "18",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Council shall, with the concurrence of the Minister, appoint-",
+                "pre_block_list": [
+                  "Registrar and other officers and employees of the Council."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "a registrar who shall act as the Secretary of  the Council for a period of five years unless removed earlier for reasons assigned;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "such other officers and employees as it may  deem necessary to discharge the functions under this Act.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "All persons appointed or employed under this section shall be deemed to be public servants within the meaning of the section 19 of the Penal Code.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "19",
+            "text": "The Council may, with the prior approval of the Minister and in consultation with the Minister assigned the subject of Finance grant such sum, out of moneys voted for the purpose by the Parliament in writing of following matters:",
+            "pre_block_list": [
+              "Matters in respect of which moneys may be paid."
+            ],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "for the purpose of defraying expenses connected with the administration of the Council;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "to any institution established and maintained for the training of practitioners of Homoeopathy;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "to any institution which provides courses of study or which is engaged in research into Homoeopathy;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "d",
+                "text": "to any other institution established and maintained for the promotion of the Homoeopathy; and",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "e",
+                "text": "to grant scholarships, stipends, to deserving students of recognized institutions to carry out studies in Homoeopathy.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL0Part",
+        "num": "III",
+        "text": "",
+        "pre_block_list": [
+          "E STABLISHMENT   OF  H OMOEOPATHIC  M EDICAL  C OLLEGES    OR H OMOEOPATHIC  M EDICAL   INSTITUTIONS"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL1Section",
+            "num": "20",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "No person shall establish and maintain a Homoeopathic Medical College or Homoeopathic Institution except with the prior approval of the University Grants Commission established under the Universities Act, No. 16 of 1978 and the Council.",
+                "pre_block_list": [
+                  "Establishment of a Homoeopathic Medical College or Homoeopathic Medical Institution by persons other than the Council."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "An approved Homoeopathic Medical College or Homoeopathic Medical institution, shall not",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "commence a new or higher course of study or training including any  post-graduate course of study or training in Homoeopathy leading to the grant or conferment of a degree, diploma or any other  recognized Homoeopathic medical qualification; or",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "increase its admission capacity in  any course of study or training which is connected to the field of Homoeopathy including any post-graduate course of study or training leading to the grant or conferment of a degree, diploma or any other  recognized Homoeopathic medical qualification,",
+                        "pre_block_list": [
+                          "except with the prior  approval of the University Grants Commission and the Council."
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Every course of study or training including any post- graduate course of study or training referred to in subsection (2) shall conform to the minimum standards of education referred to in section 25.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Every person who contravenes the provisions of this section or any regulation made thereunder shall commit an offence and shall on conviction after summary trial before a Magistrate, be liable to a fine not less than fifty thousand rupees or to imprisonment of either description for a term not exceeding six months or to both such fine and imprisonment.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "The Council may, in addition to the provisions of subsection (4) institute proceedings in the District Court for restraining the commission or continuance of the acts referred to in subsections (1) and (2) under the provisions of Chapter XLVIII of the Civil Procedure Code.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "Where an offence under this section is committed by a body of persons then-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "if that body of persons is a body corporate, every director and officer of that body corporate; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "if that body of persons is a firm, every partner and officer of that firm,",
+                    "pre_block_list": [
+                      "shall be deemed to be guilty of that offence:",
+                      "Provided that, a director or an officer of such body corporate or a partner or officer of such firm shall not be deemed to be guilty of such offence, if that director, officer or partner proves that such offence was committed without the knowledge of such person or that such person exercised all such diligence as is necessary to prevent the commission of such offence. PART  IV",
+                      "R ECOGNITION   OF  H OMOEOPATHIC  M EDICAL  Q UALIFICATIONS"
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "21",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Homoeopathic medical qualifications granted or conferred by any recognized Homoeopathic medical college or Homoeopathic institution in Sri Lanka may be recognized by the Council subject to the provisions of subsection (2).",
+                "pre_block_list": [
+                  "Recognition of Homoeopathic medical qualification awarded in Sri Lanka."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Council shall,  make  such examinations, investigations  and inquiries in relation to the medical college or Homoeopathic institution referred to in subsection (1) for the purpose of ascertaining  whether-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the courses of study provided by such Homoeopathic college or Homoeopathic institution  leading to the grant or conferment of any such qualification; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "degree of proficiency required at any examination held by such college or institution for the purpose of granting or conferring any such Homoeopathy medical qualifications; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "the staff, equipment, accommodation  and facilities provided by such college or institution for such course of study,",
+                    "pre_block_list": [
+                      "conforms to the prescribed minimum standards of education referred to in section 25."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Where the Council is satisfied, upon making such examination, investigation and inquiries under subsection (2), the Council may recommend to the Minister, to recognize such Homoeopathic medical qualifications in the manner prescribed.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The Council with the concurrence of the Minister may, by Notification published in the  Gazette , notify the public of  such qualifications recognized by the Council with effect from the date specified therein.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "22",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Any Homoeopathic medical qualification granted by a Homoeopathic medical college or an institution outside Sri Lanka, may be recognized by the Council having regard to the standard of medical education of such college or institution and whether such qualification is a qualification recognized by the approved authority responsible for recognizing such qualification under the appropriate laws of that country.",
+                "pre_block_list": [
+                  "Recognition of Homoeopathic medical qualification awarded out side Sri Lanka."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "The Council may enter into negotiations in any country outside Sri Lanka, with any approved Authority referred to in subsection (1) for setting up of a Scheme of reciprocity for the recognition of medical qualifications in Homoeopathy.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "The Council may, in pursuance of any such scheme, by Notification published in the  Gazette , notify the public that it intends to include such qualification as a Homoeopathic medical qualification recognized by the Council with effect from the date specified therein.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "Where the Council has refused to grant recognition to any Homoeopathic medical qualification granted by any Authority referred to in subsection (2), such college or institution   which is dissatisfied with the decision of the Council may appeal to the Minister within two weeks from the date on which such decision was communicated to it. After considering such appeal and after obtaining from the Council a report, stating the reasons, if any, for such refusal, the Minister may, confirm or vary such decision.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "For the purpose of subsection (1) in determining the standard of medical education, the Council shall have regard to the prescribed minimum standards of education referred to in section 25.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "23",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Council shall appoint such number of Medical Inspectors prescribed by regulations, as it may consider necessary, who are experts in subjects taught in Homoeopathic  Medical College, or Homoeopathic Institution",
+                "pre_block_list": [
+                  "Council to appoint Medical Inspectors."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "to inspect any Homoeopathic Medical College or Homoeopathic Institution where education  in Homoeopathy is  given; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "to examine, investigate and inquire into, for the purpose of ascertaining  whether-",
+                    "pre_block_list": [],
+                    "child_level_list": [
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "i",
+                        "text": "courses of study provided by such college or institution leading to the grant or conferment of a medical qualification in Homoeopathy;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "ii",
+                        "text": "the degree of proficiency required at examinations held by such college or institution for the purpose of granting or conferring any such qualification;",
+                        "pre_block_list": [],
+                        "child_level_list": []
+                      },
+                      {
+                        "class_name": "ActL4SubParagraph",
+                        "num": "iii",
+                        "text": "the staff, equipment, accommodation and facilities provided by such college  or institution for such course of study,",
+                        "pre_block_list": [
+                          "conform to the prescribed minimum standards of education referred to in section 25, for recognition of Homoeopathic medical qualifications granted by such  Homoeopathic Medical College or Homoeopathic Institution."
+                        ],
+                        "child_level_list": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Every person in charge of such medical college or institution shall afford all such facilities as may be required by such medical inspectors referred to in subsection (1) for the purpose of making all such examinations, investigations and inquiries.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The medical inspectors shall not interfere with the conduct of any training or examination conducted by such medical college or institution.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Where any medical inspector makes any investigation, examination or inquiry as is referred to in subsection (1), he shall make a report of his findings to the Council.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "The Council shall forward a copy of any such report to the Homoeopathic Medical College or Institution, requiring such college or institution to forward its observations.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "Upon receipt of the observations under subsection (5) the Council shall forward a copy of such report with the observations of the college or institution as the case may be, to the Minister.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "24",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Upon receipt of a report of the medical inspector if it appears to the Council that",
+                "pre_block_list": [
+                  "Consequences of failure to conform to prescribed standards."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the courses of study provided by the  Homoeopathic medical college or Homoeopathic institution leading to the grant or conferment of a medical qualification; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the degree of proficiency required at examinations held by such medical college or institution for the purpose of   granting or conferring any  such qualification; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "the staff, equipment, accommodation and facilities provided by such medical college or institution for such course of study,",
+                    "pre_block_list": [
+                      "do not conform to the prescribed standards, the Council may  make recommendations to the Minister that such qualifications shall not be recognized for the purposes of this Act."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Upon the receipt of such recommendations under subsection (1), the Minister may forward a copy of such recommendation to the approved authority of such Homoeopathic medical college or Homoeopathic institution to make its comments thereon within a specified period.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Upon the receipt of the comments if any or where comments are not made within the specified period, the Minister after  making such further inquiry as he may consider necessary, shall declare by an Order  published in the  Gazette   that the said medical qualification shall not  be a recognized medical qualification in relation to such medical college or institution or in relation to  any institution affiliated to such medical college or institution, from such date as may be specified in that Order.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "25",
+            "text": "The Council shall prescribe the minimum standards of education in Homoeopathy required for the grant or conferment of  a  medical qualification leading to the grant or conferment of a degree or diploma in Homoeopathy or the degree of proficiency required by such college or institution at any examination held, or the staff, equipment, accommodation  and facilities provided by such Homoeopathic medical college or Homoeopathic medical institution for the purpose of such course of study.",
+            "pre_block_list": [
+              "Minimum Standards of Education."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "26",
+            "text": "Subject to the other provisions of this Act, any Homoeopathic medical qualification recognized by the Council shall be sufficient proof that the holder thereof has been granted the qualification specified therein   for the purpose of enrolment as a Homoeopathic Medical Practitioner in terms of this Act, and for the inclusion of the name of the holder of such qualification in the register of Homoeopathy.",
+            "pre_block_list": [
+              "Rights and privileges of persons holding recognized qualification."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "27",
+            "text": "Every Homoeopathic Medical College or Institution in Sri Lanka which grants a recognized Homoeopathic medical qualification shall furnish such information as the Council may, from time to time, require.",
+            "pre_block_list": [
+              "Council to require information to be furnished.",
+              "PART  V",
+              "T HE  R EGISTER   OF  H OMOEOPATHY"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "28",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Council shall maintain in the prescribed manner, a register of Homoeopathy (hereinafter in this part referred to as the register) for the purpose of registration of Homoeopathic medical practitioners.",
+                "pre_block_list": [
+                  "Register of Homoeopathy."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Notwithstanding the provisions of subsection (1), the general register of Homoeopathy maintained under section 25 of the Homoeopathy Act, No.7 of 1970 shall be deemed to be kept and maintained under this Act and every person whose name is entered in that register shall be deemed to be registered under this Act.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "A person whose name is entered in the  Register shall -",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "be eligible to hold office as a Homoeopathic physician or any other office in Government or in any institution maintained by a local or other authority;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "be eligible to practice Homoeopathy;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "be eligible to give any evidence at any inquest or any Court as an expert under the Evidence Ordinance on any matter relating to Homoeopathy.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The provisions of subsection (3) shall not affect -",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the right of a practitioner of Homoeopathy enrolled in the register of Homoeopathy registered in terms of the Homoeopathy Act, No.7 of 1970, to practice Homoeopathy in Sri Lanka; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the privileges (including the right to practice Homoeopathy) conferred on a  practitioner of Homoeopathy enrolled on the register of Homoeopathy registered in terms of the Homoeopathy Act, No.7 of 1970.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "For the avoidance of doubt it is declared that any person who is registered in terms of section 25 of the Homoeopathy Act, No.7 of 1970, prior to the date of commencement of this Act, shall from the date of commencement of this Act be deemed by virtue of such registration to be a Homoeopathic practitioner for the purpose of this Act.",
+                "pre_block_list": [
+                  "Homoeopathy Act, No. 10 of 2016 19"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "It shall be the duty of the Registrar of the Council to maintain the Register of Homoeopathy in terms of the provisions of this Act and of any rule made by the Council, and update the register and publish it in such manner as may be prescribed.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "7",
+                "text": "Subject to the provisions of section 33, any person whose name appears in the register shall renew his registration once in five years in the prescribed manner.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "8",
+                "text": "The register shall be deemed to be a public document within the meaning of the Evidence Ordinance.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "29",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "No person shall be registered as a Homoeopathic practitioner in the register  of Homoeopathic practitioners, unless that person",
+                "pre_block_list": [
+                  "Qualifications for registration as a Homoeopathic practitioner."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "is of good character;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "is a citizen of Sri Lanka; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "holds a Degree of Bachelor of Homoeopathic Medicine and Surgery or Diploma.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "For the purposes of this section",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "degree of Bachelor of Homoeopathic Medicine and Surgery means a degree obtained after following a course of study of not less than four years duration including a period of internship of not less than six months, granted by a Homoeopathic medical college or an institution affiliated to a University in Sri Lanka or abroad and which is recognized by the Council having regard to the standard of medical education of such medical college or institution;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "diploma shall include a fulltime diploma obtained in Homoeopathy after following a course of study of  not less than four years duration including a period of internship  of not less than six months, granted by a Homoeopathic medical college or an institution affiliated to a University in Sri Lanka  or abroad and which is recognized by the Council having regard to the standard of medical education of such medical college or institution, including such other criteria as may be determined by the Council.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "For the purpose of subsection (1), the Council shall, in determining the standard of medical education have regard to the prescribed minimum standards of education referred to in section 25.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Notwithstanding the provisions of subsection (1)( b ), a person who is not a citizen of Sri Lanka may be registered temporarily for such period subject to the other provisions of section 31 and subject to such terms and conditions as may be prescribed.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "30",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Any person  who possess knowledge and experience of not less than five years in Homoeopathy medicine  on the appointed date may, make an application to the Council for registration as a Homoeopathic practitioner in the register.",
+                "pre_block_list": [
+                  "Special circumstances under which registration may be made."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Council shall within three months of the date of receipt of the application verify the details in the application and hold a written examination to  examine the proficiency of such person to  practice Homoeopathy, and on being satisfied of his knowledge and experience,  cause the name of such person to be entered  in the register of Homoeopathy.",
+                "pre_block_list": [
+                  "Homoeopathy Act, No. 10 of 2016 21"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Examination which is to be held under subsection (2) shall be notified by notification published in the  Gazette .",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The Council shall hold the written examination referred to in subsection (2) only on three occasions within a period of three years from the appointed date.",
+                "pre_block_list": [
+                  "Maintenance of Register of Homoeopathic pharmacists."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "31",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Council shall cause to be maintained in the prescribed manner, a register of pharmacists of Homoeopathy to be known as the register of Homoeopathic pharmacists.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Registrar shall be responsible for maintaining the register referred to in subsection (1).",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Where an applicant satisfies the requirements specified for the registration of the Homoeopathic Pharmacists, the Council shall on an application made in the prescribed manner by such person, enter the name of such person in the register of Homoeopathic Pharmacists.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "32",
+            "text": "The Council may make rules regarding the standards of professional conduct and etiquette and a Code of Ethics for practitioners of Homoeopathy and such rules may specify the activities which constitute malpractices and professional misconduct.",
+            "pre_block_list": [
+              "Standards of professional conduct and etiquette and a code of ethics."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "33",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Where the Council is of the opinion, upon evidence forwarded to the Council that a registered practitioner of Homoeopathy is-",
+                "pre_block_list": [
+                  "Removal of the names of persons from the register."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "not actively practising Homoeopathy as his main vocation; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "not following the Homoeopathy; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "deprived of any diploma, degree or certificate on the faith of which he was registered as a medical practitioner; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "convicted of an offence which shows him to be unfit to practise as a medical practitioner; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "guilty of any malpractice or  professional misconduct,",
+                    "pre_block_list": [
+                      "the Council shall, subject to the provisions of subsections (2) and (3), cause to remove their names from the register."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Council shall, prior to the removal of their names from the register, require such practitioners to give reasons in writing as to why their names should not be removed from the register on the grounds specified above.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Where the Council is dissatisfied with the reasons given by the registered Homoeopathic practitioner, and after holding due inquiry in the prescribed manner, the Council shall make an order to remove the name   and all other related entries from the register.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "Subject to the provisions of subsection (5), the Council shall cause to be published in the  Gazette  the name of the Practitioner so removed from the register.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "Where the name of any person has been removed from the register on any ground specified in subsection (1)  other than the ground specified in paragraph ( c ) thereof and where any application by the said person for restoration of his name to the register has been rejected, he may appeal to the Minister in the prescribed manner.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "The decision of the Minister in respect of such appeal shall be final.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "7",
+                "text": "For the purposes of this section main vocation shall mean  the practice of Homoeopathy medicine in accordance with   the accepted principles of Homoeopathy to the exclusion of other systems of medicine.",
+                "pre_block_list": [
+                  "Homoeopathy Act, No. 10 of 2016 23"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "34",
+            "text": "Subject to the conditions and restrictions specified in this Act regarding practice of Homoeopathy by every person who is registered in  the register shall be entitled to practice  Homoeopathy in any part of Sri Lanka and to charge a fee in respect of the treatments given.",
+            "pre_block_list": [
+              "Rights of any persons possessing certain recognized medical qualifications."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "35",
+            "text": "For the purposes of any written law, the words a registered Homoeopathic practitioner shall be construed as meaning a Homoeopathic medical practitioner registered under this Act.",
+            "pre_block_list": [
+              "Meaning of registered Homoeopathic practitioner."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "36",
+            "text": "Where any person whose name is entered in the Register, obtains any title, diploma or other qualification for proficiency in the field of Homoeopathy, which is a recognized medical qualification, he shall, on application made in that behalf in the prescribed manner, be entitled to have an entry stating such other title, diploma or other qualification made against his name in the register either in substitution for or in addition to any entry previously made.",
+            "pre_block_list": [
+              "Entry of additional title,diploma or other qualifications."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "37",
+            "text": "Every person registered in the register shall notify any change of place of his residence or practice to the Council within thirty days of such change.  Where he fails to notify such change such member shall forfeit the right to participate in the election of members to the Council.",
+            "pre_block_list": [
+              "Transfer of the place of his residence to be notified."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "38",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "A person who, not being a registered Homoeopathic Practitioner-",
+                "pre_block_list": [
+                  "Pretence to be a registered Homoeopathic Practitioner, or practicing for gain as a Homoeopathic Practitioner when not registered, to be an offence."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "uses the title of registered Homoeopathic practitioner in Sinhala or its equivalent  in any other language, either alone or in combination with any other words or letter; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "uses any name, title, addition or description implying that such person is a registered Homoeopathic practitioner; or",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "practises Homoeopathy for gain;",
+                    "pre_block_list": [
+                      "shall commit an offence."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Any person who commits an offence under subsection (1) shall  be guilty of  an offence and shall on conviction after summary trial before a Magistrate be liable to imprisonment of either description for a term not exceeding one year or to a fine not less than two hundred thousand rupees or to both such imprisonment and fine.",
+                "pre_block_list": [
+                  "PART VI",
+                  "F INANCE   AND  A CCOUNTS"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "39",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "There shall be established a Fund called Homoeopathic Fund (hereinafter referred to as the Fund) of the Council.",
+                "pre_block_list": [
+                  "The Fund of the Council."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "There shall be paid into the Fund of the Council -",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "all such sums of money as may be received in the exercise, performance and discharge of its powers, duties and functions under this Act;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "all such sums of money voted from time to time by Parliament;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "any fees received from Homoeopathic practitioners and examinees;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "any loans and other sums of money  received by the Council; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "any grant, gift or donation in cash or kind received from the Government of Sri Lanka or from a foreign Country:",
+                    "pre_block_list": [
+                      "Provided that, the Council shall obtain the prior written approval of the Department of External Resources of the Ministry of the",
+                      "Homoeopathy Act, No. 10 of 2016 25",
+                      "Minister assigned the subject of National Policies and Economic Affairs in respect of any grant, gift or donation received by the Council from a foreign country."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "There shall be paid out of the Fund all the expenditure incurred in implementing the provisions of this Act.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "40",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Financial year of the Council shall be the calendar year.",
+                "pre_block_list": [
+                  "The financial year and the audit of accounts."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Council shall cause proper books of accounts to be kept of the income and expenditure, assets and liabilities and all other transactions of the Council.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The provisions of Article 154 of the Constitution relating to the audit of the accounts of Public Corporations shall apply to and in relation to the audit of the accounts of the Council.",
+                "pre_block_list": [
+                  "PART  VII",
+                  "M ISCELLANEOUS"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "41",
+            "text": "The provisions of the Medical Ordinance (Chapter 105) shall not apply to,  or in relation to, persons practicing medicine, pharmacy or nursing according to Homoeopathy.",
+            "pre_block_list": [
+              "Medical Ordinance (Chapter 105) not to apply to registered Homoeopathic practitioners."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "42",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Council shall within three months at the end of the each financial year submit to the Minister an annual report of the activities carried on by the Council during that financial year and cause each of the following documents relating to that year attached to such report:",
+                "pre_block_list": [
+                  "Council to furnish reports etc. to the Minister."
+                ],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the audited account of the Council for the year along with a report of proposed activities for the year immediately following the year to which such report relates;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "Action Plan, Corporate Plan, Performance Report, and other information to the Minister as may be required.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Minister shall lay copies of the document under subsection (1) before Parliament within six months from the date of receipt of such report.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "43",
+            "text": "The Minister assigned the subject of Finance, may exempt the Council from the payment of any duties, levies and of any tax on the income or profits of the Council to such extent as is permitted in terms of the Inland Revenue Act, No. 10 of 2006 or in terms of any other written law for the time being in force governing the imposition of such duty, levy or tax as the case may be.",
+            "pre_block_list": [
+              "Exempt the Council from any  duties & of any tax."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "44",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Where the Minister is of the opinion that the Council is not complying with any of the provisions of this Act or upon receipt of a complaint against the Council, he may refer that non compliance or the complaint to the Secretary to the Ministry of the Minister and the Secretary shall proceed to inquire in to the complaint and report to the Minister and the Secretary may submit the report with the recommendations as he may deem appropriate.",
+                "pre_block_list": [
+                  "complaints made against the Council."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Where the Minister approves the recommendation made under subsection (1), the Secretary may require the Council to adopt such recommendations within such time and if the Council fails to comply with any such requirement, he may make  order or take such other steps as he may deem necessary to give effect to such recommendations.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Where the Council fails to carry out any recommendation, the Secretary shall have power to direct the Council to comply with the relevant provisions of the Act.",
+                "pre_block_list": [
+                  "Homoeopathy Act, No. 10 of 2016 27"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "45",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "No premises shall be used for the purpose of manufacturing, storing and selling Homoeopathic medicine on or  after such date as may be appointed   in that behalf by the Minister by Order published in the  Gazette  unless such premises is for the time being registered  in the manner prescribed under this Act by the Director as a Homoeopathic manufacturing unit, pharmacy, store or sales outlet as the case may be, upon an application being made in that behalf to the Director.",
+                "pre_block_list": [
+                  "Homoeopathic units for manufacturing, storing and selling of medicine to be registered."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The appointed date shall be a date not earlier than three months after the date of the publication of that Order under subsection (1).",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "Any person who contravenes the provisions of subsection (1) shall commit an offence and shall on conviction after summary trial before a Magistrate be liable to imprisonment of either description for a term not exceeding   six months or to a fine of not less than fifty thousand rupees or to both such imprisonment and fine.",
+                "pre_block_list": [],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "46",
+            "text": "The Minister may from time to time issue to the Council such general or special directions in writing as to the exercise, performance and discharge of its powers, functions and duties and it shall be the duty of the Council to give effect to such directions.",
+            "pre_block_list": [
+              "Directions by the Minister."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "47",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Minister may, for the purpose of carrying out or giving effect to the principles and provisions of the Act, make regulations with respect to any matter required by the Act to be prescribed or in respect of which regulations are required or authorized to be made under the Act.",
+                "pre_block_list": [
+                  "Regulations."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "In particular and without prejudice to the generality of the powers conferred on the Minister by subsection (1) the Minister may make regulation under this section in respect of all or any of the following matters:-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "the manner in which the registration  of the Homoeopathic medical practitioners, and",
+                    "pre_block_list": [
+                      "pharmacists, medical institutions, Homoeopathic manufacturing units, sales outlets are to be carried out, the    forms of application, the fees to be charged and the period of  registration;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "the manner in which refusal, renewal, suspension or cancellation of  registration as a Homoeopathic medical practitioner, is carried out;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "the manner of the  election of the president, vice president and the members of the Council;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "the terms and conditions to be complied in relation to registered Homoeopathy manufacturing units, pharmacies, sales outlets or stores;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "the manner in which the records and books are to be kept and maintained in relation to registered Homoeopathic manufacturing units, pharmacies, sales outlets or stores;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "f",
+                    "text": "the manner in which the reports to be furnished from time to time in respect of registered Homoeopathic manufacturing units, pharmacies, sales outlets and the stores and the particulars to be contained therein;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "g",
+                    "text": "the manner in which the proper maintenance and administration of registered Homoeopathic manufacturing units, pharmacies, sales outlets and stores, be carried out;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "h",
+                    "text": "the summoning of meetings of the  Council for the purpose of electing members of the Council and the procedure to be observed at such meeting;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "i",
+                    "text": "the minimum standards of medical education and the practice of Homoeopathy  including minimum",
+                    "pre_block_list": [
+                      "Homoeopathy Act, No. 10 of 2016 29",
+                      "standards relating to courses of study, examinations, staff, equipment, accommodation, training and other facilities at the Homoeopathy Colleges and other Institutions which grant or confer any qualification which entitles a person to obtain registration under this Act;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "j",
+                    "text": "qualifications and criteria for  enrolment as a pharmacist;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "k",
+                    "text": "the conduct of professional examinations, qualifications of examiners and the criteria of admission to such examinations.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "48",
+            "text": "All members, officers and employees of the Council shall be deemed to be public servants within the meaning and for the purpose of the Penal Code (Chapter 19).",
+            "pre_block_list": [
+              "All members, officers and employees of the Council deemed to be public servants."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "49",
+            "text": "The Council shall be deemed to be a scheduled institution within the meaning of the Bribery Act (Chapter 26) and the provisions of that Act shall be construed accordingly.",
+            "pre_block_list": [
+              "The Council deemed to be a scheduled institution with in the meaning of the Bribery Act."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "50",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "The Homoeopathy Act, No. 7 of 1970 is hereby repealed.",
+                "pre_block_list": [
+                  "Repeal and Savings."
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "Notwithstanding the repeal of the aforesaid Act -",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "all moneys lying to the credit of the Fund established under section 39 of the repealed Act, on the day immediately prior to the date of commencement of this Act, shall be transferred to the Fund of the Council established under this Act;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "all suits and prosecutions instituted by or against the Council in any Court or tribunal and pending",
+                    "pre_block_list": [
+                      "on the day prior to the date of commencement of this Act shall be deemed to be suits and prosecutions instituted by or against the Council under this Act and may be continued accordingly;"
+                    ],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "all decrees and orders entered or made by any competent Court in favour of or against the Council and remaining unsatisfied on the date of Commencement of this Act, shall be deemed to have been entered or made in favour of or against the Council under this Act and may be enforced accordingly;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "d",
+                    "text": "every regulation and rule  made by the Minister under the repealed Act and in force on the date of commencement of this Act and which is not inconsistent with the provisions of this Act, shall be deemed to be a regulation made under this Act  and may be amended or varied until regulations are made in terms of this Act;",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "e",
+                    "text": "every officer and servant appointed to the Council under the repealed Act, and holding office on the date of commencement of this Act, shall be deemed to be officers and servants appointed under this Act and shall continue in office accordingly on the same terms and conditions; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "f",
+                    "text": "the Homoeopathic hospital administered by the government under the repealed Act and functioning as such on the day  immediately preceding the date of commencement of this Act shall be deemed to be a hospital established under this Act and shall be continued accordingly.",
+                    "pre_block_list": [
+                      "Homoeopathy Act, No. 10 of 2016 31",
+                      "The interim Homoeopathic medical Council."
+                    ],
+                    "child_level_list": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "51",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL2Subsection",
+                "num": "1",
+                "text": "Notwithstanding the provisions  of section 2, the Minister shall appoint an Interim Homoeopathic Medical Council (hereinafter referred to as the Interim Council) which shall consist of the following members:-",
+                "pre_block_list": [],
+                "child_level_list": [
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "a",
+                    "text": "ex officio  members referred to in Section 2 (3) ( a );",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "b",
+                    "text": "four registered medical practitioners of Homoeopathy; and",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  },
+                  {
+                    "class_name": "ActL3Paragraph",
+                    "num": "c",
+                    "text": "three persons who have distinguished themselves with proven knowledge, experience and eminence in the fields of law, medical or science.",
+                    "pre_block_list": [],
+                    "child_level_list": []
+                  }
+                ]
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "2",
+                "text": "The Interim Council shall carry out the functions of the Council until the Council is constituted within two years from the date of commencement of this Act.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "3",
+                "text": "The Minister shall, appoint the Interim Council within a period of three months commencing from the appointed date.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "4",
+                "text": "The Minister shall,  appoint the President and the Vice President of the Interim Council from among the members referred to in paragraph (b) of subsection (1).",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "5",
+                "text": "Subject to the provisions of subsection (2), the members of the Interim Council shall hold office until the Council is appointed by the Minister.",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL2Subsection",
+                "num": "6",
+                "text": "The quorum for a meeting of the Interim Council shall be five.",
+                "pre_block_list": [
+                  "Interpretation."
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "52",
+            "text": "In this Act-",
+            "pre_block_list": [
+              "Commission means the University Grants Commission established under the Universities Act, No.16 of 1978;",
+              "Council means the Homoeopathic Medical Council constituted under section 2;",
+              "Degree Awarding Institute  has the same meaning as in the  Universities Act, No.16 of 1978;",
+              "dispensary means any premises (howsoever described) used or intended to be used for the outdoor treatment of persons suffering from illnesses;",
+              "Homoeopathy means the system of medicine established by Dr. Hahneman which uses the medicine prepared according to such system of medicine  and also use all such modern advanced methods in science and technology as are necessary for clinical management of diseases, diseases prevention and for promotion of health and includes the use of Bio chemical remedies, natural therapies, Batch flower remedies, anthropomorphically medicines etc;",
+              "Homoeopathic Medical College means a college of Homoeopathy, whether known by that name or by any other name, in which a person may undergo a course of study or training including any postgraduate course of study or training and all other such courses related to Homoeopathy within or outside Sri Lanka, which grants or confers Degrees, Diplomas or any other qualifications in Homoeopathy or related disciplines;",
+              " Homoeopathic Institution means any institution other than a Homoeopathic medical college within or outside Sri Lanka, which grants Degrees, Diplomas or any other qualifications",
+              "Homoeopathy Act, No. 10 of 2016 33",
+              "in Homoeopathy or related disciplines and includes a University or Degree Awarding Institute and an institution referred to section 20 of this Act;",
+              "Homoeopathic Medical qualification means any Homoeopathic medical qualifications which entitle the holder to be registered under this Act.",
+              "Minister means  the Minister to whom the subject of  Homoeopathic System of Medicine is assigned and Ministry shall be construed accordingly; Pharmacy includes the manufacturing unit, where Homoeopathic medicines are manufactured, prepared or compounded;",
+              "prescribed  means prescribed by regulations made under this Act;",
+              "recognized Homeopathic medical college or institution means any Homoeopathic medical college or institution recognized by the Council which grants or confers a medical qualification;",
+              "Register means the register  of Homoeopathic practitioners maintained by the Council under section 28 of  this Act;",
+              "registered medical practitioner of Homoeopathy means a person who is for the time being registered, in the General Register maintained under section 25 of  the Homoeopathy Act, No.7 of 1970 and persons who are registered under this Act.",
+              "rules means any rule made under this Act;",
+              "University means any University established or deemed to be established under the Universities Act, No.16 of 1978."
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL1Section",
+            "num": "53",
+            "text": "In the event of any inconsistency between the Sinhala and Tamil Texts of this Act, the Sinhala text shall prevail.",
+            "pre_block_list": [
+              "Sinhala text to prevail in case of Inconsistency.",
+              "Homoeopathy Act, No. 10 of 2016 35",
+              "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
+            ],
+            "child_level_list": []
+          }
+        ]
+      }
+    ]
+  }
+}

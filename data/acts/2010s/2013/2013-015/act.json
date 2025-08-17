@@ -1,0 +1,66 @@
+{
+  "n_pages": 3,
+  "title_page": {
+    "title": "Fiscal Management (Responsibility) (Amendment) Act",
+    "num": "15",
+    "year": "2013",
+    "date_certified": "2013-04-23",
+    "date_published": "2013-04-26",
+    "price": 2.5,
+    "price_postage": 5.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 23Rd April, 2013]",
+      "L.D.O. 14/2013",
+      "A N  A Ct   To   Amend   The  F Iscal  M Anagement (R Esponsibility ) A Ct , N O . 3  Of  2003",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Fiscal Management (Responsibility) (Amendment) Act, No. 15 of 2013 and shall be deemed to have come into operation from January 1, 2013.",
+        "pre_block_list": [
+          "Short title and date of operation."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 3 of the Fiscal Management (Responsibility) Act, No. 3 of 2003 is hereby amended as follows :",
+        "pre_block_list": [
+          "Amendment of section 3 of Act, No. 3 of 2003."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL3Paragraph",
+            "num": "a",
+            "text": "in paragraph ( e ) of that section, by the substitution, for the figures and words 4.5  per centum  ;; of the figures and words  7 per centum  ;; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL3Paragraph",
+            "num": "b",
+            "text": "in paragraph ( f ) of that section, by the substitution, for the words and figures January 1, 2006, eighty- five  per centum  and January 1, 2013, of the words and figures January 1, 2013, eighty  per centum and January 1, 2020 respectively.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall  prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency.",
+          "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS   B UREAU , D EPARTMENT   OF G OVERNMENT   I NFORMATION ,  N O . 163,  K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05  before  15th December each year in respect of the year following."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

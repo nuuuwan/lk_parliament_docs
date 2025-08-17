@@ -17,7 +17,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist  Republic Of Sri Lan
     2. Section  3 of the National Minimum Wage of Workers  Act, No. 3 of  2016 is hereby amended by the repeal of  subsection (1) thereof and the substitution therefor, of the  following: -
         - Amendment of  section 3 of Act,  No. 3 of 2016
             l. ( a ) For the period commencing on April 1,  2025 and ending on December 31, 2025, the national  minimum monthly wage for all workers in any industry  or service shall be twenty-seven thousand rupees, and  the national minimum daily wage of a worker shall be  one thousand eighty rupees.
-                - ( b ) With effect from January 1, 2026, the national  minimum monthly wage for all workers in any  industry or service shall be thirty thousand rupees, and  the national minimum daily wage of a worker shall be  one thousand two hundred rupees..
+                - ( b ) With effect from January 1, 2026, the national  minimum monthly wage for all workers in any  industry or service shall be thirty thousand rupees, and  the national minimum daily wage of a worker shall be  one thousand two hundred rupees
+                - 
     3. For the avoidance of doubt, it is hereby declared that -
         - Inclusion of the  budgetary relief  allowances in the  national minimum  monthly wage
             a. the budgetary relief allowances payable as at

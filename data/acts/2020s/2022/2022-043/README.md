@@ -1,0 +1,618 @@
+# Appropriation Act
+
+No. **43** of **2022**
+
+Date Certified: **2022-12-08**, Date Published: **2022-12-09**, Price: **80.0**, Price Postage: **35.0**
+
+Appropriation Act, No. 43 Of 2022 1
+[Certified On 08Th Of December, 2022]
+L.D.  O. 26/2022
+A N  A Ct   To   Provide   For   The   Service   Of   The   Financial   Year  2023;  To
+Authorize   The   Raising   Of   Loans   In   Or   Outside  S Ri  L Anka ,  For   The
+Purpose   Of   Such   Service  ;  To   Make   Financial   Provision   In   Respect
+Of   Certain   Activities   Of   The  G Overnment   During   That   Financial
+Year ;  To   Enable   The   Payment   By   Way   Of   Advances   Out   Of   The C Onsolidated  F Und   Or   Any   Other   Fund   Or   Moneys ,  Of   Or   At   The
+Disposal   Of   The  G Overnment ,  Of   Moneys   Required   During   That
+Financial   Year   For   Expenditure   On   Such   Activities ;  To   Provide
+For   The   Refund   Of   Such   Moneys   To   The  C Onsolidated  F Und And
+To   Make   Provision   For   Matters   Connected   Therewith   Or
+Incidental   Thereto .
+Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-
+
+    1. This Act may be cited as the Appropriation Act, No. 43 of  2022.
+        - Short title
+    2. 
+        1. Without prejudice to anything in any other law authorizing any expenditure and subject to the provisions of subsection (4) of this section, the expenditure of the Government which is estimated to be rupees three thousand six hundred fifty seven billion two hundred sixty five million six hundred thirty eight thousand for the service of the period beginning on January 1, 2023 and ending on December 31, 2023 (in this Act referred to as the financial year 2023), shall be met
+            - Appropriation for financial year, 2023
+            a. from payments which are hereby authorized to be made out of the Consolidated Fund or any other fund or moneys, of or at the disposal of the
+                - Government; and
+            b. from borrowing made in the financial year 2023, which are hereby authorized in terms of relevant laws for moneys to be raised whether in or outside Sri Lanka, for and on behalf of the Government, provided that the balance outstanding of such borrowing at any given time during the financial year 2023 or at the end of the financial year 2023 shall not exceed rupees four thousand nine  hundred seventy nine billion and the details of such loans shall be incorporated in the Final Budget Position Report which is required to be tabled in Parliament under section 13 of the Fiscal Management (Responsibility) Act, No. 3 of 2003:
+                - Provided that, the difference between the total short-term borrowing raised during the financial year 2023 and the total settlement of short-term borrowing made during the financial year 2023 shall only be considered in deciding the volume of short-term borrowing for the purposes of calculating the borrowing made during the financial year 2023 as specified in this section.
+        2. The sum of rupees three thousand six hundred fifty seven billion two hundred sixty five million six hundred thirty eight thousand referred to in subsection (1), may be expended as specified in the First Schedule to this Act.
+        3. The provisions of subsection (1) shall have effect without prejudice to the provisions of any other written law, authorizing the raising of loans for and on behalf of the Government.
+        4. The estimated expenditure of the Government authorized by laws to be charged on the Consolidated Fund, shall be rupees   four thousand two hundred twenty two billion two hundred thirty three million three hundred sixty two thousand for the service of the period beginning on January 1, 2023 and ending on December 31, 2023. The Expenditure Heads and the laws under which such expenditure is authorized to be made, are as specified in the Second Schedule to this Act.
+            - Appropriation Act, No. 43 of 2022 3
+    3. 
+        1. The receipts of the Government during the financial year 2023, from each activity specified in Column I of the Third Schedule to this Act, shall be credited to the account of such activity, but the aggregate of receipts so credited shall not be less than the minimum limit specified in the corresponding entry in Column III of that Schedule. The net surplus, if any, of such activity, shall be paid to the Consolidated Fund before the expiry of six months after the close of the financial year 2023.
+            - Financial provisions in respect of certain activities of the Government for the financial year 2023
+        2. For the purpose of determining the net surplus under subsection (1), the following charges shall be set off against the revenue of each activity:-
+            a. the working, establishment and other expenses of the activity, whether paid or accrued, properly chargeable to the revenue of the activity; and
+            b. provision to cover the depreciation of the movable and immovable property of the activity.
+        3. The expenditure incurred by the Government during the financial year 2023 on each activity specified in Column I of the Third Schedule to this Act, shall be paid out of the receipts of the Government from such activity during that financial year, but such expenditure shall not exceed the maximum limit specified in the corresponding entry in Column II of that Schedule.
+        4. The debit balance outstanding at the end of the financial year 2023,  of any activity specified in Column I of the Third Schedule to this Act, shall not exceed the maximum limit specified in the corresponding entry in Column IV of that Schedule and the total liabilities of that activity at the end of that financial year, shall not exceed the maximum limit specified in the corresponding entry in Column V of that Schedule.
+    4. Whenever at any time during the financial year 2023, the receipts of the Government from any activity specified in Column I of the Third Schedule to this Act are insufficient to meet the expenditure incurred by the Government on such activity, the Minister may, from time to time, by Order, direct that such sums as he may deem necessary to meet such expenditure shall be payable by way of advances, out of the Consolidated Fund or any other fund or moneys of, or at the disposal of the Government, so however that the aggregate of the sums so advanced shall not exceed the maximum limit of expenditure specified in the corresponding entry in Column II of that Schedule. Any sum so advanced in respect of such activity shall be refunded to the Consolidated Fund in such manner, as the Minister may by Order direct.
+        - Payment from the Consolidated Fund or any other fund or moneys, of or at the disposal of the Government, of advances for expenditure on the activities referred to in section 3, during the financial year 2023
+    5. 
+        1. Any moneys which by virtue of the provisions of the First Schedule to this Act, have been allocated to Recurrent Expenditure under any Programme appearing under any Head specified in that Schedule, but have not been expended or are not likely to be expended, may be transferred to the allocation of Capital Expenditure within that Programme or to the allocation of Recurrent Expenditure or Capital Expenditure under any other Programme within that Head, by Order of the Secretary to the Treasury or by Order either of a Deputy Secretary to the Treasury or the Director General of  the National Budget Department, who may be authorized in that behalf by the Secretary to the Treasury.
+            - Power to transfer unexpended moneys allocated to Recurrent Expenditure, to another allocation within the same Programme or to another Programme under the same Head of Expenditure
+        2. No moneys allocated to Capital Expenditure under any Programme appearing under any Head specified in the First Schedule to this Act, shall be transferred out of that Programme or to any allocation of Recurrent Expenditure of that Programme.
+            - Appropriation Act, No. 43 of 2022 5
+    6. 
+        1. Any money allocated to Recurrent Expenditure or Capital Expenditure under the Development Activities Programme, appearing under the Head, Department of National Budget specified in the First Schedule, may be transferred subject to guidelines stipulated in Printed Budget Estimates approved by Parliament for the relevant year, to any other Programme under any other Head in that Schedule, by Order of the Secretary to the Treasury or by Order either of a Deputy Secretary to the Treasury or the Director General of  the National Budget Department, who may be authorized in that behalf by the Secretary to the Treasury. The money so transferred shall be deemed to be a supplementary allocation made to the particular Ministry, and a report containing the amount of money so transferred and the reasons for the transfer, shall be submitted to Parliament within two months of the date of the said transfer.
+            - Money allocated to the Development Activities Programme may be transferred to any other Programme under any other Head
+        2. Details of all transfers made under subsection (1), including the reasons for such transfers, shall be incorporated in the reports relating to the Governments fiscal performance, which are required to be tabled in Parliament under the provisions of the Fiscal Management (Responsibility) Act, No.3 of 2003.
+    7. Where the Minister is satisfied-
+        - Power of Minister to limit expenditure previously authorized
+            a. that receipts from taxes and other sources will be less than the amounts anticipated to finance authorized expenditure; or
+            b. that amounts originally appropriated for a particular purpose or purposes are no longer required,
+                - he may with the approval of the Government, withdraw in whole or in part any amounts previously released for expenditure under the authority of a warrant issued by him, from the Consolidated Fund or from any other fund or moneys, of or at the disposal of the Government, to meet any authorized expenditure and the details of all such withdrawals shall be incorporated in the Final Budget Position Report which is required to be tabled in Parliament under section 13 of the Fiscal Management (Responsibility) Act, No. 3 of 2003.
+    8. 
+        1. The Minister with the approval of the Government may, on or before May 31, 2024, by Order, vary or alter-
+            - Power of Minister to vary the maximum and minimum limits specified in the Third Schedule to this Act
+            a. any of the maximum limits specified in Column II, Column IV and Column V; and
+            b. the minimum limits specified in Column III,
+                - of the Third Schedule to this Act.
+        2. No Order made under subsection (1) shall have effect, unless it has been approved by Parliament by Resolution.
+        3. Any Order made under subsection (1) shall, if so expressed therein, be deemed to have had effect from such date prior to the date of making such Order, as may be specified therein.
+            - Power of Parliament  to amend the Third Schedule to this Act
+    9. Parliament may by Resolution amend the Third Schedule to this Act, by adding to the appropriate Columns of that Schedule any activity and providing for -
+            a. all or any of the maximum limits relating to such activity; and
+            b. the minimum limit relating to such activity.
+    10. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.
+        - Sinhala text to prevail in case of inconsistency
+        - Head 1 His Excellency the President Programme 01 Operational Activities  2,794,350,000         487,800,000 Programme 02 Development Activities -      500,000,000
+        - Head 2 Office of the Prime Minister Programme 01 Operational Activities 925,700,000         86,300,000
+        - Head 4 Judges of the Superior Courts Programme 01 Operational Activities  383,500,000           13,500,000
+        - Head 5 Office of the Cabinet of Ministers Programme 01 Operational Activities   178,300,000   85,000,000
+        - Head 6 Office of the Public Service Commission Programme 01 Operational Activities 308,840,000           13,100,000
+        - Head 7 Judicial Service Commission Programme 01 Operational Activities 102,620,000  800,000
+        - Head 8 National Police Commission Programme 01 Operational Activities 148,700,000             4,700,000
+        - Recurrent                   23,622,940,000     Capital                          1,474,600,000 Made up as follows:-
+        - Head Recurrent Capital No. Expenditure Expenditure Rs. Rs.   Head 1 - 25      Special Spending Units
+        - FIRST SCHEDULE   ESTIMATE  2023 Sums Payable for General Services
+        - [ Sections 2, 5 and 6 ]
+        - Appropriation Act, No. 43 of 2022 7
+        - Head 10 Commission to Investigate Allegations of Bribery or Corruption Programme 01 Operational Activities 781,560,000 28,800,000
+        - Head 11 Office of the Finance Commission Programme 01 Operational Activities 110,400,000 3,300,000
+        - Head 13 Human Rights Commission of Sri Lanka Programme 01 Operational Activities 282,300,000 2,000,000
+        - Head 16 Parliament Programme 01 Operational Activities 3,695,950,000         120,200,000
+        - Head 17 Office of the Leader of the House of Parliament Programme 01 Operational Activities 69,850,000 700,000
+        - Head 18 Office of the Chief Government Whip of Parliament Programme 01 Operational Activities 159,000,000 1,000,000
+        - Head 19 Office of the Leader of the Opposition of Parliament Programme 01 Operational Activities 215,500,000 19,700,000
+        - Head 20 Election Commission Programme 01 Operational Activities  10,903,660,000 86,000,000
+        - Head 9 Administrative Appeals Tribunal Programme 01 Operational Activities  33,700,000  300,000
+        - Appropriation Act, No. 43 of 2022 8
+        - Head 202 Department of Muslim Religious and Cultural Affairs Programme 02 Development Activities 163,000,000 21,000,000
+        - Head 203 Department of Christian Religious  Affairs Programme 02 Development Activities 192,000,000 21,000,000
+        - Head 21 National Audit Office Programme 01 Operational Activities  2,457,430,000 21,000,000
+        - Head 22 Office of the Parliamentary Commissioner for Administration Programme 01 Operational Activities 54,280,000 300,000
+        - Head 25 Delimitation Commission Programme 01 Operational Activities 17,300,000 100,000
+        - Made up as follows :-
+        - Head 101 Minister of  Buddha Sasana, Religious and Cultural Affairs Programme 01 Operational Activities 553,000,000 135,000,000 Programme 02 Development Activities 959,000,000      443,500,000
+        - Head 201 Department of Buddhist Affairs Programme 01 Operational Activities  101,000,000 8,000,000 Programme 02 Development Activities 1,491,000,000 44,000,000
+        - Ministry of Buddha Sasana, Religious and Cultural Affairs
+        - Recurrent 6,355,000,000 Capital 1,585,000,000
+        - Appropriation Act, No. 43 of 2022 9
+        - Head 204 Department of Hindu Religious and Cultural Affairs Programme 02 Development Activities 258,000,000 36,000,000
+        - Head  205 Department of Public Trustee Programme 01 Operational Activities 81,000,000 5,000,000
+        - Head  206 Department of Cultural Affairs Programme 01 Operational Activities 147,000,000 6,000,000 Programme 02 Development Activities 634,000,000         156,500,000
+        - Head 207 Department of Archaeology Programme 01 Operational Activities 319,000,000 11,000,000 Programme 02 Development Activities 967,000,000 150,000,000
+        - Head 208 Department of National Museums Programme 01 Operational Activities 70,000,000 3,000,000 Programme 02 Development Activities 230,000,000 227,000,000
+        - Head 209 Department of National Archives Programme 01 Operational Activities 103,000,000 7,000,000 Programme 02 Development Activities 87,000,000         311,000,000
+        - Ministry of  Finance, Economic Stabilization and National Policies
+        - Recurrent 274,012,962,000 Capital 334,752,778,000
+        - Appropriation Act, No. 43 of 2022 10
+        - Head 244 Department of Trade and Investment Policies Programme 01 Operational Activities 72,570,000    1,100,000
+        - Head 245 Department of Public Finance Programme 01 Operational Activities 95,500,000 7,800,000
+        - Made up as follows :-
+        - Head 102 Minister of  Finance, Economic Stabilization and National Policies Programme 01 Operational Activities 1,276,535,000   328,400,000 Programme 02 Development Activities - 1,897,500,000
+        - Head 237 Department of National Palnning Programme 01 Operational Activities 8,146,830,000   2,772,000,000
+        - Head 238 Department of Fiscal Policy Programme 01 Operational Activities 81,300,000 1,250,000
+        - Head 239 Department of External  Resources Programme 01 Operational Activities 451,280,000      1,340,200,000
+        - Head 240 Department of National Budget Programme 01 Operational Activities 267,200,000      358,000,000 Programme 02 Development Activities 167,787,953,000    168,311,228,000
+        - Head 241 Department of Public Enterprises Programme 01 Operational Activities 624,550,000    75,554,500,000
+        - Head 242 Department of Management Services Programme 01 Operational Activities 108,300,000 2,050,000
+        - Head 243 Department of Development Finance Programme 01 Operational Activities 21,441,290,000 900,000 Programme 02 Development Activities - 66,041,300,000
+        - Appropriation Act, No. 43 of 2022 11
+        - Head 246 Department of Inland Revenue Programme 01 Operational Activities 4,713,300,000  10,255,400,000
+        - Head 247 Sri Lanka Customs Programme 01 Operational Activities 4,798,415,000 483,400,000
+        - Head 248 Department of Excise Programme 01 Operational Activities 3,410,500,000         507,000,000
+        - Head 249 Department of Treasury Operations Programme 01 Operational Activities 57,412,280,000      5,482,100,000
+        - Head 250 Department of State Accounts Programme 01 Operational Activities 114,900,000 30,400,000
+        - Head 251 Department of Valuation Programme 01 Operational Activities 736,400,000 42,600,000
+        - Head 252 Department of Census and Statistics Programme 01 Operational Activities 1,285,300,000  1,305,700,000
+        - Head 280 Department of Project Management and Monitoring Programme 02 Development Activities 101,760,000 -
+        - Head 296 Department of  Import and Export Control Programme 01 Operational Activities 132,440,000  24,900,000
+        - Appropriation Act, No. 43 of 2022 12
+        - Head 323 Department of Legal Affairs Programme 01 Operational Activities 22,900,000 -
+        - Head 324 Department of Management Audit Programme 01 Operational Activities 64,736,000 2,350,000
+        - Head 329 Department of Information Technology Management Programme 01 Operational Activities 825,893,000 2,000,000
+        - Head 333 Office of the Comptroller General Programme 01 Operational Activities 40,830,000 700,000
+        - Head 222 Sri Lanka Army Programme 01 Operational Activities 204,939,001,000 4,777,000,000
+        - Head 223 Sri Lanka Navy Programme 01 Operational Activities 63,841,875,000 11,897,000,000
+        - Head 224 Sri Lanka Air Force Programme 01 Operational Activitiess 46,882,300,000 19,745,995,000
+        - Made up as follows :-
+        - Head 103 Minister of Defence Programme 01 Operational Activities 7,114,214,000  7,520,730,000 Programme 02 Development Activities 7,082,410,000  5,123,475,000
+        - Ministry of Defence
+        - Recurrent  359,648,000,000 Capital     49,980,000,000
+        - Appropriation Act, No. 43 of 2022 13
+        - Head 304 Department of Meteorology Programme 02 Development Activities 374,300,000  118,800,000
+        - Head 320 Department of Civil Security Programme 01 Operational Activities 19,540,600,000  372,500,000
+        - Head 308 Department of Posts Programme 02 Development Activities 18,200,000,000       1,800,000,000
+        - Head 325 Department of Sri Lanka Coast Guard Programme 01 Operational Activities 65,750,000 369,500,000
+        - Head 334 Department of Multi-purpose Development Task Force Programme 01 Operational Activities 9,807,550,000 55,000,000
+        - Made up as follows :-
+        - Head 105 Minister of  Mass Media Programme 01 Operational Activities 413,000,000 136,000,000 Programme 02 Development Activities 511,000,000 388,000,000
+        - Head 210 Department of Government  Information Programme 01 Operational Activities 394,000,000 221,000,000
+        - Head 211 Department of Government Printing Programme 01 Operational Activities 5,842,000,000         235,000,000
+        - Ministry of Justice, Prison Affairs and Constitutional Reforms
+        - Recurrent 27,500,000,000 Capital 5,800,000,000
+        - Ministry of Mass Media
+        - Recurrent 25,360,000,000 Capital 2,780,000,000
+        - Appropriation Act, No. 43 of 2022 14
+        - Head 231 Department of Debt Conciliation Board Programme 01 Operational Activities 76,600,000             900,000
+        - Head 232 Department of Prisons Programme 01 Operational Activities 9,797,000,000        1,034,000,000
+        - Head 233 Department of Government Analyst Programme 01 Operational Activities 718,000,000           285,000,000
+        - Head 234 Office of the Registrar of the Supreme Court Programme 01 Operational Activities 370,000,000             5,000,000
+        - Head 235 Law Commission of Sri Lanka Programme 01 Operational Activities 21,000,000              1,300,000
+        - Head 326 Department of Community Based Corrections Programme 01 Operational Activities 550,000,000           10,000,000
+        - Made up as follows :-
+        - Head 111 Minister of Health Programme 01 Operational Activities 124,566,998,000      5,382,000,000 Programme 02 Development Activities 140,983,000,000    49,558,000,000
+        - Made up as follows :-
+        - Head 110 Minister of Justice, Prison Affairs and Constitutional Reforms Programme 01 Operational Activities 4,385,200,000      2,566,200,000
+        - Head 228 Courts Administration Programme 01 Operational Activities 9,465,000,000      1,776,000,000
+        - Head 229 Attorney Generals  Department Programme 01 Operational Activities 1,968,500,000         117,500,000
+        - Head 230 Legal Draftsmans  Department Programme 01 Operational Activities 148,700,000             4,100,000
+        - Ministry of Health
+        - Recurrent                           267,499,998,000 Capital                                  55,000,000,000
+        - Appropriation Act, No. 43 of 2022 15
+        - Head 220 Department of Ayurveda Programme 01 Operational Activities 133,000,000 6,000,000 Programme 02 Development Activities 1,817,000,000 54,000,000
+        - Made up as follows :-
+        - Head 112 Minister of Foreign Affairs Programme 01 Operational Activities 131,650,000 7,000,000 Programme 02 Development Activities 18,468,350,000         393,000,000
+        - Made up as follows :-
+        - Head 116 Minister of Trade, Commerce and Food Security Programme 01 Operational Activities 437,300,000 22,200,000 Programme 02 Development Activities 657,000,000      3,943,000,000
+        - Head 295 Department of Commerce Programme 01 Operational Activities 185,600,000 9,900,000
+        - Head 298 Department of  Measurement Units, Standards and Services Programme 01 Operational Activities 179,800,000         -
+        - Head 299 National Intellectual Property Office of Sri Lanka Programme 01 Operational Activities 64,500,000         10,000,000
+        - Ministry of  Foreign Affairs
+        - Recurrent 18,600,000,000 Capital  400,000,000
+        - Ministry of Trade, Commerce and Food Security
+        - Recurrent 1,739,500,000 Capital 4,336,500,000
+        - Appropriation Act, No. 43 of 2022 16
+        - Head 300 Department of Food Commissioner Programme 01 Operational Activities  102,900,000         324,800,000
+        - Head 301 Department of Co-operative Development (Registrar of Co-operative Societies) Programme 01 Operational Activities 89,500,000 26,000,000
+        - Head 302 Co-operative Employees Commission Programme 01 Operational Activities   22,900,000 600,000
+        - Made up as follows :-
+        - Head 117 Minister of Transport and Highways Programme 01 Operational Activities 933,000,000 28,100,000 Programme 02 Development Activities 16,200,000,000 302,392,100,000
+        - Head 306 Department of Sri Lanka Railways Programme 02 Development Activities 30,280,000,000    21,563,300,000
+        - Head 307 Department of Motor Traffic Programme 02 Development Activities  2,081,000,000      1,265,500,000
+        - Recurrent  81,000,000,000 Capital 34,370,000,000
+        - Ministry of Transport and Highways
+        - Recurrent 49,494,000,000 Capital 325,249,000,000
+        - Ministry of Agriculture
+        - Appropriation Act, No. 43 of 2022 17
+        - Made up as follows :-
+        - Head 118 Minister of  Agriculture Programme 01 Operational Activities 2,313,136,000 111,025,000 Programme 02 Development Activities 61,906,000,000 25,491,475,000
+        - Head 281 Department of Agrarian Development Programme 01 Operational Activities 584,250,000           158,500,000 Programme 02 Development Activities 9,075,500,000 4,361,500,000
+        - Head 285 Department of Agriculture Programme 01 Operational Activities 632,100,000           81,000,000 Programme 02 Development Activities  5,686,914,000  3,299,500,000
+        - Head 292 Department of Animal Production and Health Programme 01 Operational Activities 802,100,000           91,000,000 Programme 02 Development Activities - 776,000,000
+        - Made up as follows :-
+        - Head 119 Minister of  Power and Energy Programme 01 Operational Activities 766,000,000 36,093,000,000 Programme 02 Development Activities 234,000,000  107,000,000
+        - Ministry of Power and Energy
+        - Recurrent 1,000,000,000 Capital 36,200,000,000
+        - Appropriation Act, No. 43 of 2022 18
+        - Made up as follows :-
+        - Head 122 Minister of Tourism and Lands Programme 01 Operational Activities 653,200,000 111,800,000 Programme 02 Development Activities - 2,880,000,000
+        - Head 286 Department of Land Commissioner General Programme 02 - Development Activities  578,000,000 72,000,000
+        - Head 287 Department of Land Title Settlement Programme 02 - Development Activities  668,000,000 12,000,000
+        - Head 288 Department of Surveyor General of Sri Lanka Programme 01 Operational Activities 291,000,000 139,000,000 Programme 02 Development Activities 4,140,000,000         430,000,000
+        - Head 322 Department of National Botanical Gardens Programme 02 Development Activities 630,500,000 169,500,000
+        - Head 327 Department of Lands Use Policy Planning Programme 02 Development Activities 539,300,000 35,700,000
+        - Ministry of Tourism and Lands
+        - Recurrent  7,500,000,000 Capital 3,850,000,000
+        - Ministry of Urban Development and Housing
+        - Recurrent      4,047,800,000 Capital 44,443,960,000
+        - Appropriation Act, No. 43 of 2022 19
+        - Head 311 Department of National Physical Planning Programme 01 Operational Activities 192,840,000 205,410,000
+        - Made up as follows :-
+        - Head 126 Minister of Education Programme 01 Operational Activities  50,442,000,000      4,298,000,000 Programme 02 Development Activities 60,907,000,000    37,361,000,000
+        - Made up as follows :
+        - Head 123 Minister of Urban Development and Housing Programme 01 Operational Activities 1,511,460,000 41,900,000 Programme 02 Development Activities 1,191,000,000 43,740,200,000
+        - Head 291 Department of Coast Conservation and Coastal Resource Management Programme 01 Operational Activities 325,000,000  388,350,000
+        - Head 309 Department of Buildings Programme 01 Operational Activities 158,000,000 3,700,000 Programme 02 Development Activities  378,000,000 14,000,000
+        - Head 310 Department of Government Factories Programme 02 Development Activities  291,500,000 50,400,000
+        - Ministry of Education
+        - Recurrent 184,100,000,000 Capital 48,060,000,000
+        - Appropriation Act, No. 43 of 2022 20
+        - Head 214 University Grants Commission Programme 02 Development Activities 59,651,000,000      6,000,000,000
+        - Head 215 Department of Technical Education and Training Programme 01 Operational Activities 278,000,000 15,000,000 Programme 02 Development Activities 2,038,000,000         106,000,000
+        - Head 213 Department of Educational Publications  Programme 02 Development Activities  89,000,000 84,000,000
+        - Head 236 Department of Official Languages  Programme 01 Operational Activities 188,000,000 3,000,000
+        - Head 212 Department  of Examinations Programme 02 Development Activities  10,628,000,000         185,000,000
+        - Head 335 National Education Commission Programme 01 Operational Activities 67,000,000 11,000,000
+        - Made up as follows :-
+        - Head 130 Minister of Public Administration, Home Affairs, Provincial Councils and Local Government Programme 01 Operational Activities 15,959,000,000         562,000,000 Programme 02 Development Activities 55,000,000  32,290,000,000
+        - Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government
+        - Recurrent 782,617,000,000 Capital     73,637,000,000
+        - Appropriation Act, No. 43 of 2022 21
+        - Head 253 Department of Pensions Programme 01 Operational Activities  353,664,000,000           56,000,000
+        - Head 254 Department of Registrar General Programme 01 Operational Activities 3,167,000,000          293,000,000
+        - Head 255 District Secretariat, Colombo Programme 01 Operational Activities 1,450,000,000         200,000,000
+        - Head 256 District Secretariat, Gampaha Programme 01 Operational Activities 1,427,000,000         286,000,000
+        - Head 257 District Secretariat, Kalutara Programme 01 Operational Activities 1,386,000,000           189,000,000
+        - Head 258 District Secretariat, Kandy Programme 01 Operational Activities 1,835,000,000           37,000,000
+        - Head 259 District Secretariat, Matale Programme 01 Operational Activities 1,003,000,000         119,000,000
+        - Head 260 District Secretariat, Nuwara-Eliya Programme 01 Operational Activities 692,000,000         18,000,000
+        - Head 261 District Secretariat, Galle Programme 01 Operational Activities 2,052,000,000         76,000,000
+        - Head 262 District Secretariat, Matara Programme 01 Operational Activities 1,667,000,000           140,000,000
+        - Appropriation Act, No. 43 of 2022 22
+        - Head 263 District Secretariat, Hambantota Programme 01 Operational Activities 1,172,000,000 236,000,000
+        - Head 264 District Secretariat/ Kachcheri - Jaffna Programme 01 Operational Activities 1,544,000,000 34,000,000
+        - Head 265 District Secretariat/ Kachcheri - Mannar Programme 01 Operational Activities 385,000,000 144,000,000
+        - Head 266 District Secretariat/ Kachcheri - Vavuniya Programme 01 Operational Activities 364,000,000 28,000,000
+        - Head 267 District Secretariat/ Kachcheri - Mullaitivu Programme 01 Operational Activities 490,000,000 29,000,000
+        - Head 268 District Secretariat/ Kachcheri - Killinochchi Programme 01 Operational Activities 436,000,000 29,000,000
+        - Head 269 District Secretariat/ Kachcheri - Batticaloa Programme 01 Operational Activities 1,322,000,000        293,000,000
+        - Head 270 District Secretariat, Ampara Programme 01 Operational Activities 1,622,000,000 71,000,000
+        - Head 271 District Secretariat/ Kachcheri - Trincomalee Programme 01 Operational Activities 671,000,000 68,000,000
+        - Head 272 District Secretariat, Kurunegala Programme 01 Operational Activities 2,612,000,000 58,000,000
+        - Head 273 District Secretariat, Puttalam Programme 01 Operational Activities 1,100,000,000         139,000,000
+        - Appropriation Act, No. 43 of 2022 23
+        - Head 274 District Secretariat, Anuradhapura Programme 01 Operational Activities 1,400,000,000 155,000,000
+        - Head 275 District Secretariat - Polonnaruwa Programme 01 Operational Activities 655,000,000         234,000,000
+        - Head 276 District Secretariat - Badulla Programme 01 Operational Activities 1,194,000,000 127,000,000
+        - Head 277 District Secretariat, Moneragala Programme 01 Operational Activities 822,000,000 210,000,000
+        - Head 278 District Secretariat, Rathnapura Programme 01 Operational Activities 1,351,000,000 263,000,000
+        - Head 279 District Secretariat, Kegalle Programme 01 Operational Activities 1,682,000,000 250,000,000
+        - Head 312 Western Provincial Council Programme 01 Operational Activities 65,229,000,000 - Programme 02 Development Activities - 3,368,000,000
+        - Head 313 Central Provincial Council Programme 01 Operational Activities 44,817,000,000 - Programme 02 Development Activities - 4,116,000,000
+        - Head 314 Southern Provincial Council Programme 01 Operational Activities  47,300,000,000 - Programme 02 Development Activities - 3,908,000,000
+        - Appropriation Act, No. 43 of 2022 24
+        - Head 319 Sabaragamuwa Provincial Council Programme 01    Operational Activities  43,677,000,000 - Programme 02    Development Activities - 4,282,000,000
+        - Head 321 Eastern Provincial Council Programme 01    Operational Activities 39,019,000,000 - Programme 02    Development Activities - 4,432,000,000
+        - Head 318 Uva Provincial Council Programme 01    Operational Activities    32,801,000,000 - Programme 02    Development Activities - 4,347,000,000
+        - Head 315 Northern Provincial Council Programme 01 Operational Activities 34,550,000,000 - Programme 02 Development Activities - 4,460,000,000
+        - Head 316 North Western Provincial Council Programme 01 Operational Activities 43,526,000,000 - Programme 02 Development Activities - 3,903,000,000
+        - Head 317 North Central Provincial Council Programme 01 Operational Activities  28,331,000,000 - Programme 02 Development Activities - 4,184,000,000
+        - Ministry of Plantation Industries
+        - Recurrent   5,850,000,000 Capital 8,800,000,000
+        - Appropriation Act, No. 43 of 2022 25
+        - Made up as follows :-
+        - Head 135 Minister of Plantation Industries Programme 01 Operational Activities 1,165,000,000 49,120,000 Programme 02 Development Activities 3,212,000,000        7,542,880,000
+        - Head 289 Department of Export Agriculture Programme 02 Development Activities 854,000,000 437,000,000
+        - Head 293 Department of Rubber Development Programme 02 Development Activities  469,000,000      721,000,000
+        - Head 337 Department of Cinnamon Industry Development Programme 02 Development Activities 150,000,000 50,000,000
+        - Made up as follows :-
+        - Head 149 Minister of  Industries Programme 01 Operational Activities 710,600,000 74,600,000 Programme 02 Development Activities 1,966,400,000      5,737,000,000
+        - Head 297 Department of Registrar of Companies Programme 01 Operational Activities 91,300,000 -
+        - Head 303 Department of Textile Industries Programme 02 Development Activities         411,000,000 59,000,000
+        - Ministry of Fisheries
+        - Recurrent 2,950,000,000 Capital 3,600,000,000
+        - Ministry of Industries
+        - Recurrent 3,179,300,000 Capital 5,870,600,000
+        - Appropriation Act, No. 43 of 2022 26
+        - Made up as follows :-
+        - Head 151 Minister of Fisheries Programme 01 Operational Activities 412,000,000    88,000,000 Programme 02 Development Activities 1,753,000,000   3,437,000,000
+        - Head 290 Department of Fisheries and Aquatic Resources Programme 01 Operational Activities 785,000,000 75,000,000
+        - Made up as follows :-
+        - Head 160 Minister of Environment Programme 01 Operational Activities 759,600,000       15,100,000 Programme 02 Development Activities 804,000,000       643,900,000
+        - Made up as follows :-
+        - Head 161 Minister of Wildlife and Forest Resources   Conservation Programme 01 Operational Activities  405,800,000 14,000,000 Programme 02 Development Activities - 2,354,000,000
+        - Ministry of Environment
+        - Recurrent 1,563,600,000 Capital    659,000,000
+        - Ministry of Wildlife and Forest Resources Conservation
+        - Recurrent 4,956,000,000 Capital   3,715,000,000
+        - Appropriation Act, No. 43 of 2022 27
+        - Head 332 Department of National Community Water Supply Programme 01 Operational Activities  420,600,000      1,539,000,000
+        - Head 283 Department of Forests Conservation Programme 01 Operational Activities  1,800,100,000         916,000,000
+        - Head 284 Department of Wildlife Conservation Programme 01 Operational Activities  2,157,000,000         260,000,000
+        - Head 294 Department of National Zoological Gardens Programme 02 Development Activities 593,100,000         171,000,000
+        - Made up as follows :-
+        - Head 166 Minister of Water Supply Programme 01 Operational Activities  549,300,000         62,200,000 Programme 02 Development Activities - 71,803,000,000
+        - Ministry of Women, Child Affairs and Social Empowerment
+        - Recurrent 149,000,000,000 Capital 3,250,000,000
+        - Ministry of Water Supply
+        - Recurrent       969,900,000 Capital  73,404,200,000
+        - Appropriation Act, No. 43 of 2022 28
+        - Head 216 Department of Social Services Programme 01 Operational Activities 100,000,000             2,000,000 Programme 02 Development Activities 788,000,000           34,000,000
+        - Made up as follows :-
+        - Head 171 Minister of Women, Child Affairs and Social Empowerment Programme 01 Operational Activities 1,335,000,000 124,000,000 Programme 02 Development Activities 39,709,000,000 2,859,000,000
+        - Head 217 Department of Probation and Childcare Services Programme 01 Operational Activities 44,000,000  1,000,000 Programme 02 Development Activities 340,000,000           64,000,000
+        - Head 331 Department of Samurdhi Development Programme 01 Operational Activities 502,000,000  8,000,000 Programme 02 Development Activities 106,182,000,000          158,000,000
+        - Made up as follows :-
+        - Head 176 Minister of Ports, Shipping and Aviation Programme 01 Operational Activities 403,100,000            13,000,000 Programme 02 Development Activities  1,003,000,000  2,140,000,000
+        - Head 336 Merchant Shipping Secretariat Programme 02 Development Activities 109,900,000           7,000,000
+        - Ministry of Ports, Shipping and Aviation
+        - Recurrent  1,516,000,000 Capital  2,160,000,000
+        - Appropriation Act, No. 43 of 2022 29
+        - Made up as follows :-
+        - Head 186 Minister   of Technology
+        - Made up as follows :-
+        - Head 187 Minister of Investment Promotion
+        - Ministry of Technology
+        - Recurrent 5,697,000,000
+        - Capital 1,843,000,000
+        - Programme 01 Operational Activities 199,000,000          43,000,000
+        - Programme 02 Development Activities  5,498,000,000  1,800,000,000
+        - Ministry of Investment Promotion
+        - Recurrent         855,000,000
+        - Capital      1,370,000,000
+        - Programme 01 Operational Activities 382,000,000 14,000,000
+        - Programme 02 Development Activities 473,000,000 1,356,000,000
+        - Appropriation Act, No. 43 of 2022 30
+        - Head 328 Department of Manpower and Employment Programme 01 Operational Activities 549,000,000 7,000,000 Programme 02 Development Activities   - 27,000,000
+        - Made up as follows :-
+        - Head 189 Minister of  Public Security Programme 01 Operational Activities 12,222,000,000  1,420,000,000
+        - Head 225 Department of Police Programme 01 Operational Activities 104,630,000,000  11,750,000,000
+        - Head 226 Department of Immigration and Emigration Programme 01 Operational Activities 2,894,000,000  2,332,000,000
+        - Head 227 Department of Registration of Persons Programme 01 Operational Activities 1,750,000,000  1,270,000,000
+        - Made up as follows :-
+        - Head 193 Minister of  Labour and Foreign Employment Programme 01 Operational Activities 1,547,000,000         392,000,000 Programme 02 Development Activities   145,000,000             17,000,000
+        - Head 221 Department of Labour Programme 01 Operational Activities 1,606,000,000 472,000,000 Programme 02 Development Activities   1,073,000,000 1,038,000,000
+        - Ministry of Public Security
+        - Recurrent 121,496,000,000 Capital 16,772,000,000
+        - Ministry of Labour and Foreign Employment
+        - Recurrent  4,920,000,000 Capital 1,953,000,000
+        - Appropriation Act, No. 43 of 2022 31
+        - Head 219 Department of Sports Development Programme 01 Operational Activities  133,000,000             8,000,000 Programme 02 Development Activities  1,261,000,000         816,000,000
+        - Made up as follows :-
+        - Head 198 Minister of Irrigation Programme 01 Operational Activities 585,000,000           248,000,000 Programme 02 Development Activities  4,091,000,000    64,293,000,000
+        - Head 282 Department of Irrigation Programme 01 Operational Activities 924,000,000           26,000,000 Programme 02 Development Activities 3,300,000,000 11,183,000,000
+        - Made up as follows :-
+        - Head 194 Minister of Sports and Youth Affairs Programme 01 Operational Activities 1,004,000,000         476,000,000 Programme 02 Development Activities   3,652,000,000      2,900,000,000
+        - Ministry of Irrigation
+        - Recurrent   8,900,000,000 Capital 75,750,000,000
+        - Total 2,432,000,000,000  1,225,265,638,000
+        - Ministry of Sports and Youth Affairs
+        - Recurrent  6,050,000,000 Capital 4,200,000,000
+        - Appropriation Act, No. 43 of 2022 32
+        - Expenditure of the Government, Authorized by the Constitution and other Laws and to be charged on the Consolidated Fund
+        - 1 His Excellency the President Article 36 of the Constitution Programme 01- 5,850,000  5,850,000 Operational Activities
+        - 4 Judges of the Superior Article 108 of the Constitution Programme 01- 100,000,000  100,000,000 Courts Operational Activities
+        - 6 Office of the Public Service Chapter IX  of the Constitution Programme 01- 10,260,000  10,260,000 Commission Operational Activities
+        - 7 Judicial Service Commission Chapter  XV A  of the Programme 01- 2,580,000  2,580,000 Constitution Operational Activities
+        - 8 National Police Commission Chapter  XVIII A  of the Programme 01- 8,100,000  8,100,000 Constitution Operational Activities
+        - SECOND  SCHEDULE
+        - ESTIMATE  2023
+        - [Section 2]
+        - Appropriation Act, No. 43 of 2022 33
+        - 111 Ministry of Health Medical Ordinance Programme 01- 2,000  2,000
+        - 10 Commission to Investigate The Commission  to Investigate Programme 01- 4,740,000  4,740,000
+        - 16 Parliament Article 65 of the Constitution Programme 01- 2,700,000  2,700,000
+        - 20 Election Commission Article 103 of the Constitution Programme 01- 5,940,000  5,940,000
+        - 21 National Audit Article 153 of the Constitution Programme 01- 1,570,000  1,570,000
+        - 22 Office of the Parliamentary Article 156 of the Constitution Programme 01- 1,620,000  1,620,000
+        - Allegations of Bribery or  Allegations of Bribery or Operational
+        - Corruption  Corruption Activities
+        - Office Operational
+        - Commissioner for Operational
+        - Administration Activities
+        - Act, No. 19 of 1994
+        - (Chapter 105) Operational
+        - Operational
+        - Activities
+        - Operational
+        - Activities
+        - Activities
+        - Activities
+        - Appropriation Act, No. 43 of 2022 34
+        - 249 Department of Treasury Foreign Loans Act, Programme 01-      2,137,120,000,000 2,019,970,000,000 4,157,090,000,000 Operations No. 29 of 1957 Operational (Section 2 paragraphs ( a ) Activities and ( c )), Local Treasury Bills Ordinance (Chapter 417) Section 6(1) of the Active Liability Management Act, No. 8 of 2018
+        - 253 Department of Pensions Widows and Orphans Pension Programme 01- 65,000,000,000  65,000,000,000 Fund Ordinance (Chapter 431), Operational Widowers and Activities Orphans Pensions Act, No. 24 of 1983, Widows and Orphans Pension Scheme (Armed Forces) Act, No. 18 of 1970, School Teachers Pensions Act (Chapter 432)
+        - Appropriation Act, No. 43 of 2022 35
+        - 10 Commision to Investigate 01002 Advancing monies to be
+        - 1 His Excellency the President 00101 Advances to Public Officers 40,000,000 18,000,000 130,000,000 
+        - 2 Office of the Prime Minister 00201 Advances to Public Officers 25,000,000 12,000,000 85,000,000 
+        - 3 Judges of the Superior Courts 00401 Advances to Public Officers  1,000,000 300,000 4,000,000 
+        - 4 Office of the Cabinet of Ministers 00501 Advances to Public Officers 3,500,000   3,000,000 18,000,000 
+        - 5 Office of the Public Service
+        - 6 Judicial Service Commission 00701 Advances to Public Officers 3,000,000 1,700,000 15,000,000 
+        - 7 National Police Commission 00801 Advances to Public Officers 3,000,000 2,200,000  15,000,000 
+        - 8 Administrative Appeals Tribunal 00901 Advances to Public Officers 500,000 500,000 2,500,000 
+        - 9 Commission to Investigate
+        - Commission 00601 Advances to Public Officers 10,000,000 8,000,000 50,000,000 
+        - Allegations of Bribery or
+        - Corruption 01001 Advances to Public Officers 12,000,000 7,000,000  40,000,000 
+        - Allegations of Bribery or used in bribery detection as
+        - Corruption  bribes 100,000,000 1,000,000 275,000,000 
+        - THIRD SCHEDULE ESTIMATE  2023 Limits of Advance Accounts Activities
+        - [Sections 3,4,8 and 9]
+        - 17 National Audit Office 02101 Advances to Public Officers  100,000,000 70,000,000 280,000,000 
+        - 18 Office of the Parliamentary
+        - 11 Office of the Finance Commission 01101 Advances to Public Officers 3,000,000 2,500,000 15,000,000 
+        - 12 Parliament 01601 Advances to Public Officers 30,000,000 30,000,000 150,000,000 
+        - 15 Office of the Leader of
+        - 16 Elections Commission 02001 Advances to Public Officers 30,000,000 25,000,000 120,000,000 
+        - 19 Delimitation Commission 02501 Advances to Public Officers 500,000 200,000 2,000,000 
+        - 20 Minister of Buddha Sasana,
+        - 21 Minister of Finance, Economic
+        - 22 Minister of Defence 10301 Advances to Public Officers 100,000,000 55,000,000 320,000,000 
+        - 23 Minister of Mass Media 10501 Advances to Public Officers 8,000,000 5,000,000 35,000,000 
+        - 24 Minister of Justice, Prisons
+        - 13 Office of the Leader of the
+        - 14 Office of the Chief Govt.
+        - Whip of Parliament 01801 Advances to Public Officers 2,500,000 1,800,000 8,500,000 
+        - the Opposition of Parliament 01901 Advances to Public Officers 2,500,000 1,800,000 10,000,000 
+        - Commissioner for Administration 02201 Advances to Public Officers  1,000,000 700,000 4,500,000 
+        - Stabilization and National Polices 10201 Advances to Public Officers 20,000,000 15,200,000 75,000,000 
+        - Affairs and Constitutional Reforms 11001 Advances to Public Officers 50,000,000 21,000,000 150,000,000 
+        - Religious and Cultural Affairs 10101 Advances to Public Officers 80,000,000 31,500,000 220,000,000 
+        - House of Parliament 01701 Advances to Public Officers 2,000,000  1,600,000  7,000,000 
+        - Appropriation Act, No. 43 of 2022 37
+        - 25 Minister of Health 11101 Advances to Public Officers  1,800,000,000 1,330,000,000 3,720,000,000 
+        - 26 Foreign Affairs Minister 11201 Advances to Public Officers 40,000,000 40,000,000 125,000,000 
+        - 27 Minister of Trade, Commerce and
+        - 28 Minister of Transport and
+        - 29 Minister of Agriculture 11801 Advances to Public Officers 120,000,000  44,000,000 285,000,000 
+        - 30 Minister of Power and Energy 11901 Advances to Public Officers 10,000,000 7,200,000 30,000,000 
+        - 31 Minister of Tourism and Lands 12201 Advances to Public Officers 25,000,000 12,000,000 100,000,000 
+        - 32 Minister of Urban Development
+        - 33 Minister of Education 12601 Advances to Public Officers 3,500,000,000 1,000,000,000 5,000,000,000 
+        - 34 Minister of Public Administration,
+        - Food Security 11601 Advances to Public Officers 20,000,000 4,000,000 40,000,000 
+        - Highways 11701 Advances to Public Officers 40,000,000 16,000,000 120,000,000 
+        - and Housing 12301 Advances to Public Officers 60,000,000 27,500,000 300,000,000 
+        - Home Affairs, Provincial Councils
+        - and Local
+        - Government 13001 Advances to Public Officers    1,100,000,000  500,000,000   2,200,000,000 
+        - 38 Minister of Environment 16001 Advances to Public Officers 30,000,000 8,000,000 70,000,000 
+        - 43 Minister of Technology 18601 Advances to Public Officers 3,000,000 800,000  8,000,000 
+        - 44 Minister of Investment Promotion 18701 Advances to Public Officers 2,000,000 1,500,000  12,000,000 
+        - 45 Minister of Public Security 18901 Advances to Public Officers 60,000,000 42,500,000  90,000,000 
+        - 46 Minister of Labour and Foreign
+        - 35 Minister of Plantation Industries 13501 Advances to Public Officers 40,000,000 20,000,000 100,000,000 
+        - 36 Minister of Industries 14901 Advances to Public Officers 90,000,000 15,000,000 150,000,000 
+        - 37 Minister of Fisheries 15101 Advances to Public Officers 10,000,000 6,000,000 40,000,000 
+        - 39 Minister of Wildlife and Forest
+        - 40 Minister of Water Supply 16601 Advances to Public Officers 7,000,000  5,000,000 40,000,000 
+        - 41 Minister of Women, Child Affairs
+        - 42 Minister of Ports, Shipping and
+        - 47 Minister of Sport and Youth Affairs19401 Advances to Public Officers    50,000,000  20,000,000  180,000,000 
+        - 48 Minister of Irrigation 19801 Advances to Public Officers    30,000,000  11,000,000  100,000,000 
+        - 49 Department of Buddhist Affairs 20101 Advances to Public Officers    50,000,000  20,000,000  130,000,000 
+        - 50 Department of Muslim Religious
+        - 51 Department of Christian Religious
+        - Resources Conservation 16101 Advances to Public Officers 7,000,000  3,500,000  25,000,000 
+        - and Social Empowerment 17101 Advances to Public Officers    80,000,000 35,000,000  220,000,000 
+        - Aviation 17601 Advances to Public Officers 10 ,000,000 4,800,000  40,000,000 
+        - Employment 19301 Advances to Public Officers    80,000,000  32,300,000  250,000,000 
+        - and Cultural Affairs 20201 Advances to Public Officers    4,000,000     2,800,000   10,000,000 
+        - Affairs 20301 Advances to Public Officers     3,000,000   1,400,000   10,000,000 
+        - Appropriation Act, No. 43 of 2022 39
+        - 52 Department of Hindu Religious
+        - and Cultural Affairs 20401 Advances to Public Officers     8,000,000     5,000,000   30,000,000  53 Department of Public Trustee 20501 Advances to Public Officers 4,000,000     2,400,000  14,000,000  54 Department of Cultural Affairs 20601 Advances to Public Officers 40,000,000    18,000,000 100,000,000  55 Department of Archaeology 20701 Advances to Public Officers 60,000,000 35,000,000 160,000,000  56 Department of National Museums 20801 Advances to Public Officers 20,000,000 10,000,000 60,000,000  57 Department of National Archives 20901 Advances to Public Officers 7,000,000 3,500,000 30,000,000  58 Department of Government Information 21001 Advances to Public Officers 15,000,000 10,500,000 60,000,000  59 Department of Government Printing 21101 Advances to Public Officers 60,000,000 55,000,000 270,000,000  60 Department of Examination 21201 Advances to Public Officers 25,000,000 21,000,000 100,000,000  61 Department of Educational Publications 21301 Advances to Public Officers   15,000,000   7,000,000  65,000,000  62 Department of Educational Publications 21302 Printing and Publicity and Sales of Publications     30,000,000,000 30,000,000,000  20,000,000,000 1,600,000,000 63 Department of Technical
+        - Education and Training 21501 Advances to Public Officers  60,000,000 40,000,000 150,000,000 
+        - 64 Department of Social Services 21601 Advances to Public Officers  20,000,000  17,000,000 75,000,000 
+        - 65 Department of Probation and
+        - 66 Department of Sports
+        - 67 Department of Ayurveda 22001 Advances to Public Officers 50,000,000   34,000,000 216,000,000 
+        - 68 Department of Labour 22101 Advances to Public Officers 100,000,000   73,000,000 290,000,000 
+        - 69 Sri Lanka Army 22201 Advances to Public Officers  3,000,000,000 2,000,000,000 5,000,000,000 
+        - 70 Sri Lanka Navy 22301 Advances to Public Officers   450,000,000        350,000,000      600,000,000 
+        - 71 Sri Lanka Navy 22302 Stores Advance Account
+        - 72 Sri Lanka Air Force 22401 Advances to Public Officers 400,000,000 310,000,000 500,000,000 
+        - 73 Department of Police 22501 Advances to Public Officers  2,400,000,000 2,400,000,000 2,700,000,000 
+        - 74 Department of Immigration and
+        - 75 Department of Registration of
+        - 76 Courts Administration 22801 Advances to Public Officers 600,000,000       350,000,000     1,750,000,000   
+        - 77 Attorney Generals Department 22901 Advances to Public Officers 30,000,000    18,000,000   80,000,000 
+        - 78 Legal Draftsmans Department 23001 Advances to Public Officers 5,000,000     3,100,000  20,000,000 
+        - 79 Department of Debt Conciliation
+        - 80 Department of Prisons 23201 Advances to Public Officers 150,000,000 130,000,000 250,000,000 
+        - 81 Department of Prisons 23202 Prisons Industrial and
+        - Child Care Services 21701 Advances to Public Officers 15,000,000 10,000,000 45,000,000 
+        - Development 21901 Advances to Public Officers 13,000,000 9,500,000  50,000,000 
+        - Emigration 22601 Advances to Public Officers 40,000,000 40,000,000 180,000,000 
+        - Persons 22701 Advances to Public Officers 40,000,000 38,000,000  170,000,000 
+        - Board 23101 Advances to Public Officers 1,000,000  400,000  5,000,000 
+        - Agricultural Undertakings    110,000,000 120,000,000  65,000,000 15,000,000
+        - (Explosive items)        6,400,000,000 8,320,000,000  2,120,000,000 
+        - Appropriation Act, No. 43 of 2022 41
+        - 82 Department of Government
+        - Analyst 23301 Advances to Public Officers 7,000,000 6,000,000  28,000,000  83 Office of the Registrar of the Supreme Court 23401 Advances to Public Officers 20,000,000   10,000,000   50,000,000  84 Law Commission of Sri Lanka 23501 Advances to Public Officers   2,000,000     500,000   6,000,000  85 Department of Official Languages 23601 Advances to Public Officers   7,000,000    5,200,000   29,000,000  86 Department of National Planning 23701 Advances to Public Officers   5,000,000   4,500,000  18,000,000  87 Department of Fiscal Policy 23801 Advances to Public Officers   3,500,000    1,500,000   11,000,000  88 Department of External Resources 23901 Advances to Public Officers    6,000,000    4,000,000   26,000,000 
+        - 89 Department of National Budget 24001 Advances to Public Officers    9,000,000    4,900,000  30,000,000  90 Department of Public Enterprises 24101 Advances to Public Officers     5,000,000    3,500,000 16,000,000  91 Department of Management Services 24201 Advances to Public Officers  5,500,000  3,300,000   20,000,000  92 Department of Development Finance 24301 Advances to Public Officers   4,000,000    2,000,000   12,000,000  93 Department of Trade and Investment Policies 24401 Advances to Public Officers   4,000,000     3,000,000   14,000,000  94 Department of Public Finance 24501 Advances to Public Officers     4,000,000     3,800,000   14,000,000  95 Department  of Inland Revenue 24601 Advances to Public Officers   90,000,000    86,000,000 400,000,000 
+        - 96 Sri Lanka Customs 24701 Advances to Public Officers   60,000,000    54,000,000 250,000,000  97 Sri Lanka Customs 24702 Seized and forfeited goods Advance Account         16,000,000    4,000,000   75,000,000  98 Department of Excise 24801 Advances to Public Officers  45,000,000   40,000,000 180,000,000  99 Department of Treasury Operations 24901 Advances to Public Officers   8,000,000    5,000,000   30,000,000  100 Department of State Accounts 25001 Advances to Public Officers     5,000,000    2,900,000   16,000,000  101 Department of State Accounts 25002 Advances for Payments on behalf of other Governments   2,500,000  1,000,000   1,000,000  102 Department of State Accounts 25003 Miscellaneous Advances      10,000,000   2,000,000 160,000,000  103 Department of Valuation 25101 Advances to Public Officers  30,000,000   22,000,000 115,000,000  104 Department of Census and Statistics 25201 Advances to Public Officers  40,000,000   32,000,000 150,000,000  105 Department of Pensions 25301 Advances to Public Officers   40,000,000    40,000,000 180,000,000  106 Department of Registrar-General 25401 Advances to Public Officers   90,000,000    77,000,000 310,000,000  107 District Secretariat , Colombo 25501 Advances to Public Officers  60,000,000    50,000,000 230,000,000  108 District Secretariat, Gampaha 25601 Advances to Public Officers   80,000,000    40,000,000 260,000,000  109 District Secretariat , Kalutara 25701 Advances to Public Officers   80,000,000   62,000,000  350,000,000  110 District Secretariat, Kandy 25801 Advances to Public Officers   70,000,000   65,000,000 230,000,000  111 District Secretariat , Matale 25901 Advances to Public Officers 50,000,000    43,000,000 220,000,000  112 District Secretariat, Nuwara-Eliya 26001 Advances to Public Officers 35,000,000    31,000,000 125,000,000  113 District Secretariat, Galle 26101 Advances to Public Officers 80,000,000    67,000,000 300,000,000    114 District Secretariat, Matara 26201 Advances to Public Officers 80,000,000    60,000,000 300,000,000  115 District Secretariat, Hambantota 26301 Advances to Public Officers 60,000,000   44,000,000 250,000,000  116 District Secretariat/ Kachcheri-Jaffna 26401 Advances to Public Officers 70,000,000  55,000,000 200,000,000 
+        - Appropriation Act, No. 43 of 2022 43
+        - 117 District Secretariat/ Kachcheri- Mannar 26501 Advances to Public Officers   15,000,000   12,000,000   60,000,000  118 District Secretariat/ Kachcheri- Vavuniya 26601 Advances to Public Officers  15,000,000   12,000,000  65,000,000  119 District Secretariat/ Kachcheri- Mullaitivu 26701 Advances to Public Officers   15,000,000   11,000,000  55,000,000  120 District Secretariat/ Kachcheri- Killinochchi 26801 Advances to Public Officers   15,000,000   11,500,000   50,000,000  121 District Secretariat/ Kachcheri- Batticaloa 26901 Advances to Public Officers   40,000,000   38,000,000  170,000,000  122 District Secretariat - Ampara 27001 Advances to Public Officers   70,000,000   52,000,000  250,000,000  123 District Secretariat/ Kachcheri- Trincomalee 27101 Advances to Public Officers   35,000,000   24,000,000 140,000,000  124 District Secretariat, Kurunagala 27201 Advances to Public Officers   85,000,000   90,000,000 300,000,000  125 District Secretariat, Puttalam 27301 Advances to Public Officers   50,000,000   50,000,000 200,000,000  126 District Secretariat, Anuradhapura 27401 Advances to Public Officers   70,000,000   65,000,000 260,000,000  127 District Secretariat, Polonnaruwa 27501 Advances to Public Officers   30,000,000   25,000,000 120,000,000  128 District Secretariat, Badulla 27601 Advances to Public Officers   60,000,000   46,000,000 230,000,000 
+        - 129 District Secretariat, Monaragala 27701 Advances to Public Officers   35,000,000   30,000,000 130,000,000 
+        - 130 District Secretariat, Ratnapura 27801 Advances to Public Officers   60,000,000   48,000,000 285,000,000 
+        - 131 District Secretariat, Kegalle 27901 Advances to Public Officers   50,000,000   46,000,000 200,000,000 
+        - 132 Departament of Project
+        - 133 Department of Agrarian
+        - 134 Department of Irrigation 28201 Advances to Public Officers 250,000,000 155,000,000 800,000,000 
+        - 135 Department of Forest
+        - 136 Department of Wildlife
+        - 137 Department of Agriculture 28501 Advances to Public Officers 250,000,000 190,000,000 1,000,000,000 
+        - 138 Department of Agriculture 28502 Maintenance of Agricultural
+        - 139 Department of Land Commissioner
+        - 140 Department of Land Title
+        - 141 Department of Surveyor General
+        - 142 Department of Export Agriculture 28901 Advances to Public Officers   40,000,000  35,000,000 150,000,000 
+        - 143 Department of Fisheries and
+        - 144 Department of Coast Conservation
+        - Management and Supervision 28001 Advances to Public Officers 4,000,000   3,500,000   20,000,000 
+        - Development 28101 Advances to Public Officers 350,000,000  200,000,000 650,000,000 
+        - Conservation 28301 Advances to Public Officers  60,000,000  48,000,000 300,000,000 
+        - Conservation 28401 Advances to Public Officers 50,000,000 52,000,000 270,000,000 
+        - General 28601 Advances to Public Officers  20,000,000   15,600,000  80,000,000 
+        - Settlement 28701 Advances to Public Officers   25,000,000   18,000,000   80,000,000 
+        - of Sri Lanka 28801 Advances to Public Officers  150,000,000  105,000,000 430,000,000 
+        - Aquatic Resources 29001 Advances to Public Officers   20,000,000   20,000,000 100,000,000 
+        - and Coastal Resource Management 29101 Advances to Public Officers   12,000,000    8,500,000   47,000,000 
+        - Farms and Seed Sales       700,000,000 700,000,000  70,000,000 
+        - Appropriation Act, No. 43 of 2022 45
+        - 147 Department of National Zoological
+        - 148 Department of Commerce 29501 Advances to Public Officers  4,500,000      3,000,000   22,000,000  149 Department of Import and Export
+        - 145 Department of Animal Production
+        - and Health 29201 Advances to Public Officers  35,000,000    24,000,000 130,000,000  146 Department of Rubber
+        - 150 Department of The Registrar of
+        - 151 Department of Measurement Units,
+        - Standards and Services 29801 Advances to Public Officers 10,000,000  4,000,000 35,000,000  152 National Intellectual Property
+        - 153 Department of Food Commissioner 30001 Advances to Public Officers 5,000,000  3,000,000  20,000,000 
+        - 154 Department of Co-operative
+        - Gardens 29401 Advances to Public Officers  40,000,000    15,000,000 120,000,000 
+        - Development 29301 Advances to Public Officers   25,000,000    15,000,000   80,000,000 
+        - Control 29601 Advances to Public Officers   4,000,000      2,800,000   29,000,000 
+        - Companies 29701 Advances to Public Officers  8,000,000 6,000,000 30,000,000 
+        - Office of Sri Lanka 29901 Advances to Public Officers   5,000,000 3,000,000 15,000,000 
+        - Development (Registrar of
+        - Co-operative Societies) 30101 Advances to Public Officers  5,000,000  2,500,000  20,000,000 
+        - 161 Department of Posts 30801 Advances to Public Officers   900,000,000  720,000,000  2,300,000,000 
+        - 155 Co-operative Employees
+        - 159 Department of Sri Lanka
+        - 160 Department of Motor Traffic 30701 Advances to Public Officers  26,000,000  25,000,000 130,000,000 
+        - 162 Department of Buildings 30901 Advances to Public Officers  25,000,000  17,000,000   95,000,000 
+        - 163 Department of Government
+        - 164 Department of Government
+        - 165 Department of Government
+        - 166 Department of National Physical
+        - 167 Department of Civil Security 32001 Advances to Public Officers 500,000,000 360,000,000 900,000,000 
+        - 168 Department of National Botanical
+        - 169 Department of Legal Affairs 32301 Advances to Public Officers   1,200,000        450,000     3,500,000 
+        - 156 Department of Textile Industries 30301 Advances to Public Officers  5,000,000 3,500,000  30,000,000 
+        - 157 Department of Meteorology 30401 Advances to Public Officers  10,000,000   8,600,000  35,000,000 
+        - 158 Department of Sri Lanka Railways 30601 Advances to Public Officers 500,000,000  450,000,000 1,500,000,000 
+        - Commission 30201 Advances to Public Officers  2,000,000 800,000  6,000,000 
+        - Railways 30602 Railway Stores Advance
+        - Factories 31001 Advances to Public Officers  28,000,000   17,000,000 125,000,000 
+        - Factories 31002 Government Factory Stores
+        - Factories 31003 Government Factory Work
+        - Planning 31101 Advances to Public Officers  15,000,000   6,800,000  50,000,000 
+        - Gardens 32201 Advances to Public Officers  25,000,000   23,000,000 110,000,000 
+        - Account     2,500,000,000    2,144,000,000  9,000,000,000 1,500,000,000
+        - Advance Account        120,000,000       120,000,000         40,000,000        30,000,000
+        - Done Advance Account        400,000,000       390,000,000       190,000,000          1,000,000
+        - Appropriation Act, No. 43 of 2022 47
+        - 174 Department of Information
+        - 173 Department of Manpower and
+        - 175 Department of Samurdhi
+        - 172 Department of Land Use Policy
+        - 176 Department of National Community
+        - 177 Office of the Comptroller General 33301 Advances to Public Officers   1,500,000      1,200,000     6,000,000 
+        - 178 Department of Multi - purpose
+        - 170 Department of Management
+        - 171 Department of Community Based
+        - Technology Management 32901 Advances to Public Officers  3,000,000      1,900,000 12,000,000 
+        - Employment 32801 Advances to Public Officers   30,000,000   12,000,000    85,000,000 
+        - Development 33101 Advances to Public Officers  480,000,000 205,950,000 450,000,000 
+        - Planning 32701 Advances to Public Officers  20,000,000   15,000,000    80,000,000  
+        - Water Supply 33201 Advances to Public Officers 11,000,000      6,000,000   30,000,000 
+        - Development Task Force 33401 Advances to Public Officers   40,000,000    15,000,000 100,000,000 
+        - Auditing 32401 Advances to Public Officers 3,000,000     2,500,000    10,000,000 
+        - Corrections 32601 Advances to Public Officers  50,000,000   10,000,000    85,000,000 
+        - 179 National Education Commission 33501 Advances to Public Officers   1,500,000         500,000     7,500,000 
+        - 180 Merchant Shipping Secretariat 33601 Advances to Public Officers   2,000,000      1,200,000     7,000,000 
+        - 181 Department of Cinnamon
+        - Industry Development 33701 Advances to Public Officers   1,000,000    100,000     900,000 
+        - Total 61,637,700,000  55,637,700,000 77,587,500,000 3,146,000,000
+        - Appropriation Act, No. 43 of 2022 49
+        - English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8.

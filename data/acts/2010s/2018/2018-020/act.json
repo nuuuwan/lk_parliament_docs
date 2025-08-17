@@ -1,0 +1,140 @@
+{
+  "n_pages": 6,
+  "title_page": {
+    "title": "Act",
+    "num": "20",
+    "year": "2018",
+    "date_certified": "2018-07-30",
+    "date_published": "2018-08-03",
+    "price": 8.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "Nation Building Tax  (Amendment) Act, No. 20 Of 2018 1",
+      "[Certified On 30Th Of July, 2018]",
+      "L.D.O. 10/2018",
+      "A N  A Ct   To   Amend   The  N Ation  B Uilding  T Ax  A Ct , N O . 9  Of  2009",
+      "Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Nation Building Tax (Amendment) Act, No. 20 of 2018.",
+        "pre_block_list": [
+          "Short  title."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 3 of the Nation Building Tax Act, No. 9 of 2009 (hereinafter referred to as the principal enactment) as last amended by Act, No. 22 of 2016, is hereby further amended in subparagraph (13) of paragraph (iv) of subsection (2) thereof, by the substitution for the words, importer himself. of the words and figures, importer himself, prior to April 1, 2018",
+        "pre_block_list": [
+          "",
+          "Amendment of section 3 of Act, No. 9 of 2009."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "The First Schedule to the principal enactment as last amended by Act, No. 13 of 2017 is hereby further amended as follows:-",
+        "pre_block_list": [
+          "Amendment of the First Schedule to the principal enactment."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "in  Part I of that Schedule-",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "by the substitution for the item (XLVI) thereof, of the following:-",
+                "pre_block_list": [
+                  "(XLVI) ( a ) locally manufactured coconut oil at the point of sale by the manufacturer, for a period of three years commencing from January 1, 2014;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "locally manufactured coconut milk, coconut oil, poonac,",
+                "pre_block_list": [
+                  "pairing, coconut shells or coconut water at the point of sale by the manufacturer, for a period of three years commencing from April 1, 2018;;",
+                  "( b ) by the substitution for item (L) thereof, of the following item:-",
+                  "(L) for any period commencing prior to the date of commencement of this (Amendment) Act, liquor identified under the Harmonized Commodity Description and Coding Numbers for customs purposes and liable to Custom Duty under the Revenue Protection Act, No. 19 of 1962 and Cess under Sri Lanka Export Development Act, No. 40 of 1979 on the importation, or Excise Duty under the Excise Ordinance (Chapter 52) on the manufacture, as the case may be, including such manufactured liquor in the stock that remains unsold as at October 25, 2014, which would have been otherwise liable to the same Duty, if manufactured after October 25, 2014.;"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "by the addition immediately after (LI), the following new items:",
+                "pre_block_list": [
+                  "(LII) importation of non-motorised equipment and accessories for water",
+                  "Nation Building Tax  (Amendment) Act, No. 20 of 2018 3",
+                  "sports including Kayaks, Canoes, Kite surfing and diving;",
+                  "(LIII) non-powered equipment and accessories for aero sports including hang gliding, ballooning, dirigibles, parachuting and para-gliding, classified under Harmonized Commodity Description and Coding Numbers for customs purposes at the point of importation;",
+                  "(LIV) importation of gem stones for the purpose of re-export upon being cut and polished; and",
+                  "(LV) importation of equipment for greenhouses and polytunnels and materials for the construction of greenhouses by any grower of agricultural products or plants of any type, subject to the condition that such items are not manufactured in Sri Lanka, and are approved by the Director-General, Department of  Fiscal  Policy  on  the recommendation of the Secretary to the Ministry of the Minister assigned the subject of Agriculture.;"
+                ],
+                "child_level_list": []
+              }
+            ]
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "in Part II of that Schedule",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "in paragraph ( a ) of item (ii) thereof by the substitution for the words and figures April 1, 2017, supply of electricity of the words and figures November 1, 2016 supply of electricity;",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "in paragraph ( c ) of item (vii) thereof, by the  substitution  for  the  words a construction sub-contractor, of the",
+                "pre_block_list": [
+                  "words and figures a construction sub- contractor or if such service is provided under a contract agreement executed prior to August 1, 2017, a construction contractor or a sub-contractor; and"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "c",
+                "text": "by the addition immediately after the item ( XXX i X ) of the following new item:",
+                "pre_block_list": [
+                  "(xl) with effect from April 1, 2018, any service provided by Sri Lanka Deposit  Insurance  Scheme established by regulations made under the Monetary Law Act, (Chapter 422)",
+                  "",
+                  "Sinhala text to prevail in case of inconsistency."
+                ],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Nation Building Tax  (Amendment) Act, No. 20 of 2018 5",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

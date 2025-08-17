@@ -1,0 +1,145 @@
+{
+  "n_pages": 5,
+  "title_page": {
+    "title": "Births And Deaths Registration (Amendment) Act",
+    "num": "25",
+    "year": "2013",
+    "date_certified": "2013-05-08",
+    "date_published": "2013-05-10",
+    "price": 4.0,
+    "price_postage": 5.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 08Th May, 2013]",
+      "L.D.O. 17/2013",
+      "A N  A Ct   To   Amend   The  B Irths   And  D Eaths  R Egistration  A Ct (C Hapter  110)",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:",
+      "Short Title And Date Of Operation."
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Births and Deaths Registration (Amendment) Act, No 25 of  2013 and shall be deemed to have come into operation on January 1, 2013.",
+        "pre_block_list": [],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 24 of the Births and Deaths Registration Act, (Chapter 110) (hereinafter referred to as the principal enactment) is hereby amended in subsection (2) of that section, by the substitution for all the words from every such declaration shall to the words the stamps shall be supplied by the declarant. of the words every such declaration shall be accompanied by a fee of rupees fifty or such other amount as may be prescribed by the Minister, which shall be paid by the declarant",
+        "pre_block_list": [
+          "",
+          "Amendment of section 24 of the Births and Deaths Registration Act (Chapter 110)"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "Section 27 of the principal enactment is hereby amended in subsection (2) of that section by the substitution in paragraph ( b ) from the words and bearing a stamp, to the words two years have so elapsed. of the words together with a fee of rupees fifty or such other amount as may be prescribed by the Minister, which shall be paid by the applicant",
+        "pre_block_list": [
+          "",
+          "Amendment of section 27 of the principal enactment."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "Section 27 A  of the principal enactment is hereby amended in subsection (2) of that section by the substitution for the words shall bear a stamp of the value of five rupees supplied of the words  together with a fee of rupees fifty to be paid.",
+        "pre_block_list": [
+          "Amendment of section 27 A  of the principal enactment.",
+          "2PL0070814,090 (03/2013)"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "5",
+        "text": "Section 28 of the principal enactment is hereby amended by the repeal of subsection (2) of that section and the substitution therefor of the following:",
+        "pre_block_list": [
+          "Amendment of section 28 of the principal enactment."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "Every application made under subsection (1) shall be accompanied by a fee of rupees five or such other amount as may be prescribed by the Minister, which shall be paid by the applicant",
+            "pre_block_list": [
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "6",
+        "text": "Section 36 of the principal enactment is hereby amended in subsection (2) by the substitution for all the words from Every such declaration shall to the words The stamp shall be supplied by the declarant. of the words  Every such declaration shall be accompanied by a fee of rupees fifty or such other amount as may be prescribed by the Minister which shall be paid by the declarant",
+        "pre_block_list": [
+          "",
+          "Amendment of section 36 of the principal enactment."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "7",
+        "text": "Section 52 of the principal enactment is hereby amended in subsection (3) of that section by the substitution in paragraph ( c ) of that subsection, for the words bear a stamp of the value of one rupee, of the words be accompanied by a fee of rupees fifty or such other amount as may be prescribed by the Minister,.",
+        "pre_block_list": [
+          "Amendment of section 52 of the principal enactment."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "8",
+        "text": "Section 61 of the principal enactment is hereby amended:",
+        "pre_block_list": [
+          "Amendment of section 61 of the principal enactment."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "in subsection (1) of that section by the substitution for all the words from and the amount of the stamp duty in respect of to the words  or shall be paid to the of the words  and the amount of fees in respect of such declaration payable under this Act,  shall be transmitted to the Registrar-General or appropriate District Registrar, who shall pay to the;",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "in subsection (2) of that section by the substitution for the words a stamp of the proper value. of the words  a receipt of payment of the proper value",
+            "pre_block_list": [
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "9",
+        "text": "Any  fees charged or collected by or on behalf of the Registrar- General or any person authorised under this Act, for any purpose authorized by this Act to charge or collect, during the period commencing on January 1, 2013 and ending on the date on which the certificate of the speaker is endorsed in respect of this Act, shall be deemed to have been validly charged or collected by the Registrar- General or by any such person authorised under this Act:",
+        "pre_block_list": [
+          "Validation.",
+          "Provided that the aforesaid provisions shall not affect any decision or Order made by any Court or any proceedings pending in any Court in respect of any fee charged or collected during the aforesaid period."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "10",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency.",
+          "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

@@ -1,0 +1,143 @@
+# Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act
+
+No. **31** of **2023**
+
+Date Certified: **2023-11-24**, Date Published: **2023-11-24**, Price: **24.0**, Price Postage: **150.0**
+
+Ws 2 Pl - 012892
+Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 Of 2023 1
+[Certified On 24Th Of November, 2023]
+L.D.O. 26/2016
+A N   A Ct   To   Provide   For   The   Establishment   Of   A   Trust   Called   The G Alaha  B Haddrawathie  N Ational  B Hikkhu  C Are  C Entre  T Rust
+And   For   Matters   Connected   Therewith   Or   Incidental   Thereto .
+Whereas A Trust Called And Known As The Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Has Heretofore Been Established By A Public Trust Dated February 7, 2003 For The Purpose Of Establishing And Maintaining A Bhikkhu Care Centre, For Bhikkhus Who Are Sick And Helpless:
+Preamble
+And Whereas It Has Now Become Apparent That The Said Trust Is Not Functioning Properly And Therefore It Is Not Possible To Maintain The Said Galaha Bhaddrawathie National Bhikkhu Care Centre Due To Various Reasons Including The Absence Of Proper Administration In The Said Galaha Bhaddrawathie National Bhikkhu Care Centre And The Absence Of A Regular And Adequate Funding System For The Proper Functioning Of The Said Galaha Bhaddrawathie National Bhikkhu Care Centre:
+And Whereas It Has Become Necessary To Enact Legislation To Provide For The Establishment Of A Trust Called The Galaha Bhaddrawathie National Bhikkhu Care Centre Trust To Achieve The Objects Of The Said Galaha Bhaddrawathie National Bhikkhu Care Centre For The Benefit Of The Bhikkhus Who Are Sick And Helpless And To Matters Connected Therewith Or Incidental Thereto:
+Now Therefore Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:
+
+    1. This Act may be cited as the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of  2023.
+        - Short title
+    2. 
+        1. There shall be established a Trust to be called the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust (hereinafter referred to as the Trust).
+            - Establishment of the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust
+        2. The Trust shall, by the name assigned to it by subsection (1), be a body corporate and shall have perpetual succession and by that name may sue and be sued with full power and authority to have, and use a common seal and to alter the same.
+    3. The object of the Trust shall be to facilitate the accommodation and caring for sick and helpless Bhikkhus in the Galaha Bhaddrawathie National Bhikkhu Care Centre (hereinafter referred to as the Bhikkhu Care Centre).
+        - The object of the Trust
+    4. The functions of the Trust are
+        - Functions of the Trust
+            a. to maintain the Bhikkhu Care Centre for Bhikkhus who are sick and helpless and accommodate sick and helpless Bhikkhus in the Bhikkhu Care Centre on such conditions and criteria as prescribed by section 8;
+            b. to provide the Bhikkhus residing in the Bhikkhu Care Centre who are sick, with all the necessities including the day to day requirements and to facilitate the obtaining of medicines and medical treatment;
+            c. to organize and conduct meditation programmes and other Buddhist programmes for the Bhikkhus residing in the Bhikkhu Care Centre with a view to improving the mental health of those Bhikkhus; and
+            d. to  maintain a library in order to facilitate improving and refreshing the knowledge of Buddhism of the resident Bhikkhus.
+    5. 
+        1. The administration, management and control of the affairs of the Trust shall be vested in a Board of Management (hereinafter referred to as the Board).
+            - Board  of Management of the Trust
+            - Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 3
+        2. The Board shall consist of
+            a. the following  ex-officio  members:
+                i. the Secretary to the Ministry of the Minister assigned the subject of Health or his representative who is not below the rank of an Additional Secretary;
+                ii. the Secretary to the Ministry of the Minister assigned the subject of Buddha Sasana or his representative who is not below the rank of an Additional Secretary;
+                iii. the Secretary to the Ministry of the Minister assigned the subject of Social Services or his representative who is not below the rank of an Additional Secretary;
+                iv. the Secretary to the Ministry of the Minister assigned the subject of Finance or his representative who is not below the rank of an Additional Secretary;
+                v. the Commissioner-General of the Department of Buddhist Affairs or his representative;
+                vi. the Public Trustee or his representative;
+                vii. the District Secretary of the Kandy District;
+                viii. the Provincial Director of Health Services of the Central Province;
+                    - (ix) the Divisional Secretary of Divisional Secretary's Division of Doluwa; and
+                    - (x) the Diyawadana Nilame of Sri Dalada Maligawa or his representative; and
+            b. the following members appointed by the Minister (hereinafter referred to as the appointed members):
+                i. two members having knowledge and experience in administration and accountancy appointed by the Minister in consultation with the Secretary to the Ministry;
+                ii. four Bhikkhus nominated by the Mahanayaka Theros of the Malwathu, Asgiri, Amarapura and Ramanna Chapters to represent such Chapters one of whom shall be appointed as the Chairperson of the Board; and
+                iii. the President of the Dayaka Sabha of the Galaha Bhaddrawathie temple.
+        3. Any person who has become a member of the Board in his  ex-offficio  capacity shall hold office as long as he holds such office by virtue of which he is a member of the Board.
+        4. Any appointed member of the Board shall unless a vacancy arises in his post by resignation, death or removal from office, hold office for three years from the date of appointment. Any member whose term is due to end otherwise than by removal shall be eligible for reappointment. Such reappointment shall be for not more than one further term, whether consecutive or not.
+            - Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 5
+        5. In the event of the vacation of office by death, resignation or removal of any appointed member, the Minister shall, subject to paragraph ( b ) of subsection (2), appoint another person to fill such vacancy and such person shall hold office for the un-expired period of the term of office of the member whom he succeeds.
+        6. Any appointed member who is temporarily unable to discharge his duties and functions as a member of the Board due to ill health, infirmity, being absent from Sri Lanka or for other reason for not less than three months shall inform that to the Minister in writing. In such event the Minister shall having regard to the provisions of subsection (2), appoint another person to act in the place of such member.
+    6. Any person
+        - Disqualification for being a member
+            a. if such person is or becomes a Member of Parliament or a Provincial Council or any Local Authority;
+            b. if such person is under any law in force in Sri Lanka or in any other country found or declared to be of unsound mind;
+            c. if such person is a person having been declared as an insolvent or a bankrupt person under any law in Sri Lanka or any other country and is an undischarged insolvent or bankrupt;
+            d. if such person is serving or has served a sentence of imprisonment imposed by any court in Sri Lanka or any other country,
+                - he shall be disqualified from being appointed or continue to be a member of the Board.
+    7. The Board shall subject to the provisions of this Act or any other written law, have the power
+        - Powers of the Board
+            a. to receive grants, gifts and donations, both movable and immovable in cash or in kind, whether from local or foreign sources:
+                - Provided that, the Board shall obtain prior written approval of the Department of External Resources in respect of all foreign grants, gifts or donations made to the Trust;
+            b. to acquire or hold any property, movable or immovable, which may become vested in the Trust by this Act or by virtue of any purchase, gift, grant, testamentary disposition or otherwise and, for the purpose of this Act to sell, mortgage, lease, grant, convey, device, assign, exchange or otherwise dispose of any property to which the Trust may become entitled to;
+            c. to enter into and perform, either directly or through officers, employees and agents authorized in that behalf by the Board, all such contracts and agreements as may be necessary for the exercise, performance and discharge of the powers, duties and functions of the Trust; and
+            d. to open, operate and close bank accounts in any Bank as may be recommended by the Board.
+    8. The conditions and criteria for accommodating Bhikkhus in the Bhikkhu Care Centre and caring for such Bhikkhus shall be as prescribed by regulations.
+        - Accommodation etc. of Bhikkhus
+    9. The Trust shall be capable in law to take and hold property, movable or immovable, which may become vested in it by virtue of any purchase, grant, gift, testamentary disposition or otherwise and all such property shall be held by the Trust for the purposes of this Act.
+        - Power of the Trust to hold property
+        - Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 7
+        - Meetings of the Board 10. (1) Meetings of the Board shall be held at least once in three months.
+        2. The Chairman shall, if present preside at every meeting of the Board. In the absence of the Chairman from any meeting of the Board, the members present at such meeting shall elect from among themselves a member to preside at such meeting.
+        3. The quorum for any meeting of the Board shall be eleven members.
+        4. If there is an equality of votes at any meeting, the Chairman or the member presiding at such meeting shall in addition to his vote, have a casting vote.
+        5. The Board may subject to the provisions of this Act regulate the procedure to be followed in regard to its meetings and the transaction of its business.
+        6. No act, decision or proceeding of the Board shall be deemed to be invalid by reason only of the existence of a vacancy among its members or any defect in the appointment of any member thereof.
+            - Remuneration for attending the meetings of the Board
+            - 11. The members of the Board may be paid such remuneration for attendance at meetings of the Board as may be determined by the Minister with the concurrence of the Minister assigned the subject of Finance.
+            - Advisory Committee
+            - 12. There shall be an advisory committee consisting of the Mahanayake Theros of the Malwathu, Asgiri, Amarapura and Ramanna Chapters to advise the Board on matters relating to the Bhikkhu Care Centre.
+            - Establishment of Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Fund
+            - 13. (1) There shall be established a Fund called the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Fund (hereinafter referred to as the Fund). The management, administration, control and operation of the Fund shall be vested in the Board.
+            - (2) There shall be paid into the Fund
+            a. all such sums of monies allocated by the Parliament, from time to time, for the purpose of carrying out the objects of the Fund;
+            b. any grant, gift or donation in cash or kind, from Sri Lanka or outside to achieve the objects of the Fund, subject to section 7( a ).
+                - (3) There shall be paid out of the Fund all such sums of money required to defray the expenditure incurred by the Trust in the exercise, performance and discharge of its powers, duties and functions under this Act.
+                - Appointment of the staff of the Trust
+                - 14. (1) The Trust may appoint such number of officers and employees as it may consider necessary for the efficient discharge of its functions.
+                - (2) The Trust may in respect of the officers and employees appointed under subsection (1) 
+                - ( a ) exercise disciplinary control over or dismiss such officers and employees;
+                - ( b ) determine the terms and conditions of employment of such officers and employees; and
+            c. pay such officers and employees such remuneration as may be determined by the Board in consultation with the Minister assigned the subject of Finance.
+                - Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 9
+                - 15. (1) At the request of the Board, any officer in the public service may, with the consent of that officer and of the Public Service Commission be temporarily appointed to the staff of the Trust for such period as may be determined by the Board, or with like consent, be permanently appointed to such staff.
+                - Appointment of public officers
+                - (2) Where any officer in the public service is temporarily appointed to the staff of the Trust the provisions of subsection (2) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall,  mutatis mutandis , apply to and in relation to such officer.
+                - (3) Where any officer in the public service is permanently appointed to the staff of the Trust the provisions of subsection (3) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall,  mutatis mutandis , apply to and in relation to such officer.
+                - 16. (1) The financial year of the Trust shall be the calendar year.
+                - Financial year and audit of accounts
+                - (2) The Board shall cause proper books of accounts to be kept of the income and expenditure of the Trust.
+                - (3) The provisions of Article 154 of the Constitution relating to the audit of accounts of Public Corporations shall apply to the audit of accounts of the Trust.
+                - 17. (1) The Board shall within six months of the end of each financial year submit to the Minister an annual report on the activities carried out by the Trust along with the audited accounts of the Trust for the year.
+                - Annual reports
+                - (2) The Minister shall within three months from the date of receipt of the annual report, table such report along with the documents specified in subsection (1) in Parliament for its consideration.
+                - The seal of the Board
+                - 18. (1) The seal of the Board
+                - ( a ) shall be determined by the Board and may be altered in such manner as may be determined by the Board;
+                - ( b ) shall be in the custody of such person as the Board may determine, from time to time;
+                - ( c ) shall not be affixed to any instrument or document except with the sanction of the Board and in the presence of the Chairman and another member of the Board who shall sign the instrument or document in token of their presence.
+                - (2) The Board shall maintain a register in respect of the instruments and documents to which the seal of the Board is affixed.
+                - 19. (1) Any expense incurred by the Trust in any suit or prosecution brought by, or against the Trust before any court, shall be paid out of the moneys of the Fund and any cost recovered by the Trust in any such suit or prosecution shall be credited to the Fund.
+                - Recovery of expenses from any suit or prosecution
+                - (2) Any expense incurred by any member of the Board or any officer or employee of the Trust in any suit or prosecution brought against him in any court in respect of any act which is done or purported to be done by him under this Act or on the direction of the Board shall, if the court holds that such act was  done in good faith, be paid out of the Fund unless such expense is recovered by him in such suit or prosecution.
+                - Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 11
+                - 20. (1) The Minister may in consultation with the Mahanayaka Theros of the Malwathu, Asgiri, Amarapura and Ramanna Chapters, make regulations for matters required by this Act to be prescribed or in respect of which regulations are authorized to be made.
+                - Regulations
+                - (2) Every regulation made by the Minister shall be published in the  Gazette  and shall come into operation on the date of such publication or such later date as may be specified in such regulations.
+                - (3) Every regulation made by the Minister shall within three months after its publication in the  Gazette , be brought before Parliament for its approval. Every regulation which is not so approved by Parliament shall be deemed to be rescinded as from the date of such disapproval, but without prejudice to anything previously done thereunder.
+                - 21. (1) The Board may make rules in respect of all matters authorized to be made by this Act.
+                - Rules
+                - (2) Without prejudice to the generality of the provisions of subsection (1), rules may be made in respect of all or any of the following matters:
+                - ( a ) the administration and management of the Trust;
+                - ( b ) conduct of its meetings and matters relating thereto;
+                - ( c ) to conduct inquiries in respect of breach of conditions  and  criteria  relating  to accommodating and caring for Bhikkhus in the Bhikku Care Centre; and
+            d. the programmes organized and conducted by the Bhikkhu Care Centre.
+                - 22. All officers and servants of the Trust shall be deemed to be public servants within the meaning and for the purpose of the Penal Code (Chapter 19).
+                - Officers and servants of the Trust deemed to be public servants under the Penal Code
+                - 23. The Trust shall be deemed to be a Scheduled Institution within the meaning of the Anti Corruption Act, No. 9 of 2023 and the provisions of that Act shall be construed accordingly.
+                - Trust deemed to be a scheduled institution within the meaning of the Anti corruption Act
+                - 24. In this Act, unless the context otherwise requires
+                - Interpretation
+                - Bhikkhu shall have the same meaning as assigned to it in the Buddhist Temporalities Ordinance (Chapter 318);
+                - Minister means the Minister to whom the implementation of the provisions of this Act is assigned.
+                - 25. In the event of any inconsistency between the Sinhala and the Tamil texts of this Act, the Sinhala text shall prevail.
+                - Sinhala text to prevail in case of inconsistency
+                - Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023 13
+                - English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8.

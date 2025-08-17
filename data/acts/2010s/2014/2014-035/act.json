@@ -1,0 +1,55 @@
+{
+  "n_pages": 3,
+  "title_page": {
+    "title": "Urban Councils (Amendment)  Act",
+    "num": "35",
+    "year": "2014",
+    "date_certified": "2014-10-23",
+    "date_published": "2014-10-24",
+    "price": 4.0,
+    "price_postage": 20.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 23Rd October, 2014]",
+      "L.D.O. 03/2014.",
+      "A N  A Ct   To   Amend   The  U Rban  C Ouncils  O Rdinance (C Hapter  255)",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Urban Councils (Amendment) Act, No. 35 of 2014 and shall come into operation on such date as the Minister may appoint by Order Published in the  Gazette .",
+        "pre_block_list": [
+          "Short title and date of operation."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "The following new section is hereby inserted immediately after section 178 A  of the Urban Councils Ordinance (Chapter 255) and shall have effect as section 178 B  of that Ordinance :",
+        "pre_block_list": [
+          "Insertion of new section 178 B  in the Urban Councils Ordinance (Chapter 255).",
+          "178 B . The provisions of the proviso to section 178 A  of the Urban Councils Ordinance as amended by the Local Authorities (Special Provisions) Act, No. 21 of 2012 shall not be applicable to any budget or supplementary budget to be submitted to an Urban Council constituted in terms of elections held prior to the date of coming into operation of Local Authorities (Special Provisions) Act, No. 21 of 2012 and Local Authorities Elections (Amendment) Act, No. 22 of 2012 respectively",
+          "",
+          "Transitional provision.",
+          "Sinhala text to prevail in case of inconsistency."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Urban Councils (Amendment) Act, No. 35 of 2014 2",
+          "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT  P UBLICATIONS  B UREAU , D EPARTMENT   OF G OVERNMENT  I NFORMATION , N O . 163, K IRULAPONA  M AWATHA , P OLHENGODA , C OLOMBO  05 before 15th December each year in respect of the year following ."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

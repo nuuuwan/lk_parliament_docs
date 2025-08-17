@@ -1,0 +1,133 @@
+{
+  "n_pages": 4,
+  "title_page": {
+    "title": "Peoples Bank (Amendment) Act",
+    "num": "16",
+    "year": "2019",
+    "date_certified": "2019-09-30",
+    "date_published": "2019-10-04",
+    "price": 8.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "People'S Bank (Amendment) Act, No. 16 Of 2019 1",
+      "[Certified On 30Th Of September, 2019]",
+      "L.D.O. 46/2013",
+      "A N  A Ct   To   Amend   The  P Eople ' S  B Ank  A Ct , N O . 29  Of  1961",
+      "Be   It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:-"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the  People's Bank (Amendment)   Act, No. 16 of 2019.",
+        "pre_block_list": [
+          "Short  title.",
+          "Replacement of section 12 of Act, No. 29 of 1961."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 12 of the  People's Bank  Act, No. 29 of 1961 (hereinafter referred to as the principal enactment) is hereby repealed and the following section is substituted therefor:-",
+        "pre_block_list": [
+          " Capital .",
+          "12. (1) The authorised capital of the Bank shall be rupees fifty billion divided into one billion shares of rupees fifty each."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "The Minister may, in the interest of the national economy, where he deems it necessary, determine from time to time the paid- up capital of the Bank, by Order published in the  Gezette .",
+                "pre_block_list": [],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "No Order made by the Minister under this section shall take effect unless such Order is approved by Parliament within ninety days from the date of its publication in the  Gazette",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "Section 20 of the principal enactment is hereby repealed and the following section is substituted therefor:-",
+        "pre_block_list": [
+          "Replacement of section 20 of the principal enactment. The Bank to raise money by the issue of debentures for granting medium term and long term loans.",
+          "20. (1) The Bank may, in addition to the sums lent by the Government to the Bank under section 15(1)( b ) for the purpose of granting long term or medium term loans, raise with the approval of the Minister any sums by the issue of debentures."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "For the purpose of subsection (1) Minister means, the Minister assigned the subject of Finance",
+            "pre_block_list": [
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "Section 21 of the principal enactment is hereby amended, as follows:-",
+        "pre_block_list": [
+          "Amendment of section 21 of the principal enactment."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "by the repeal of paragraph ( b ) of subsection (1) of that section; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the repeal of subsection (3) of that section.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "5",
+        "text": "Section 43 of the principal enactment is hereby amended, by the repeal of paragraph ( c ) of subsection (2) of that section.",
+        "pre_block_list": [
+          "Amendment of section 43 of the principal enactment."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "6",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency.",
+          "People's Bank (Amendment) Act, No. 16 of 2019 3",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

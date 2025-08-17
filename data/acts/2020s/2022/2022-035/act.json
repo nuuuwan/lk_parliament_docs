@@ -1,0 +1,83 @@
+{
+  "n_pages": 3,
+  "title_page": {
+    "title": "High Court Of The Provinces (Special Provisions) (Amendment) Act",
+    "num": "35",
+    "year": "2022",
+    "date_certified": "2022-11-17",
+    "date_published": "2022-11-18",
+    "price": 10.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 17Th Of November, 2022]",
+      "L.D.  O. 62/2021",
+      "A N  A Ct   To   Amend   The  H Igh  C Ourt   Of   The  P Rovinces (S Pecial  P Rovisions ) A Ct , N O . 19  Of  1990",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "",
+        "pre_block_list": [],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "This Act may be cited as the High Court of the Provinces (Special Provisions) (Amendment) Act, No. 35 of 2022.",
+            "pre_block_list": [
+              "Short title and date of operation"
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 5 A  of the High Court of the Provinces (Special Provisions) Act, No. 19 of 1990 is hereby amended as follows: -",
+        "pre_block_list": [
+          "Amendment of section 5 A  of Act, No. 19 of 1990"
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "in subsection (1) thereof, by the substitution for the words District Court or a Family Court, of the words District Court, Family Court or Small Claims Court and for the words  District Court or Family Court, of the words of a District Court, of a Family Court or of a Small Claims Court;",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "in subsection (2) thereof, by the substitution for the words of a District Court or a Family Court,, of the words of a District Court, of a Family Court or of a Small Claims Court, wherever they occur in that subsection; and",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "in the marginal note to that section by the substitution for the words  District Courts and Family Courts.,  of the words  District Courts, Family Courts and Small Claims Courts",
+            "pre_block_list": [
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

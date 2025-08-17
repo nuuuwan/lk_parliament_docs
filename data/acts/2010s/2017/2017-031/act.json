@@ -1,0 +1,118 @@
+{
+  "n_pages": 5,
+  "title_page": {
+    "title": "Local Authorities Elections (Amendment) Act",
+    "num": "31",
+    "year": "2017",
+    "date_certified": "2017-12-14",
+    "date_published": "2017-12-15",
+    "price": 8.0,
+    "price_postage": 10.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 14Th Of December, 2017]",
+      "L.D.O. 55/2017",
+      "A N  A Ct   To   Amend   The  L Ocal  A Uthorities  E Lections  O Rdinance (C Hapter  262)",
+      "Be It  Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Local Authorities Elections (Amendment) Act, No. 31 of 2017.",
+        "pre_block_list": [
+          "Short title."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 65 A  of the Local Authorities Elections Ordinance (Chapter 262) (hereinafter referred to as the principal enactement) is hereby amended as follows:",
+        "pre_block_list": [
+          "Amendment of section 65 A  of Chapter 262."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "in subsection (1) of that section by the substitution for the words, The counting officer shall declare first the candidate of the recognized political party or the Indipendent group, who or which as the case may be, who polled the highest number of votes, an elected member for that ward and the balance number of members required to be elected as members of that ward, being declared accordingly. of the words, The counting officer shall declare the candidates of the recognized political party or the independent group, as the case may be which polled the highest number of the votes, as elected members for that ward.",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the repeal of subsection (2) of that section.",
+            "pre_block_list": [],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "Section 65 AA  of the principal enactment is hereby amended as follows:",
+        "pre_block_list": [
+          "Amendment of section 65 AA  of the principal enactment."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "in subsection (1) of that section, by the substitution for the words and figures, under subsection (3) of",
+            "pre_block_list": [
+              "2PL 010510 2962  (11/2017)",
+              "section 65(3) and such number of members so elected do not include any women members, then the provisions of subsections (3) and (4) of this section shall not apply to such recognized political party or independent group. of the words and figures, under subsection (3) of section 65 B  and such number of members so elected do not include any women members, then the provisions of subsections (3) and (4) of this section shall not apply to such recognized political party or independent group.;"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "in subsection (2) of that section, by the substitution for the words and figures, and has less than three members elected or returned, then the provisions of subsections (3) and (4) of this section shall not apply to such recognized political party or independent group. of the words and figures, and has less than three members elected or returned, then the provisions of subsections (3) and (4) of this section shall not apply to such recognized political party or independent group.;",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "in subsection (3) of that section, by the substitution for the words and figure, The apportionment of women members and subsection (2) of this section respectively, of the words and figure, The apportionment of women members and subsection (2) of this section, respectively;",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "4",
+            "text": "in subsection (4) of that section, by the substitution for the words and figure, the shortfall in the number of members shall be returned from among the women candidates in the first nomination paper or the additional nomination paper other than the women condidates who have been elected or are disqualified to be a member under section 9. of",
+            "pre_block_list": [
+              "the words and figure, the shortfall in the number of members shall be returned from among the women candidates in the first nomination paper or the additional nomination paper other than the women candidates who have been elected or are disqualified to be a member under  section 9.; and"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "5",
+            "text": "by the repeal of the marginal note to that section, and the substitution therefor of the following:",
+            "pre_block_list": [
+              "Apportionment of women members",
+              ""
+            ],
+            "child_level_list": []
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

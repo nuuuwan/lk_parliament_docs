@@ -1,0 +1,52 @@
+{
+  "n_pages": 3,
+  "title_page": {
+    "title": "Convention Against Torture And Other Cruel, Inhuman Or Degrading Treatment Or  Punishment(Amendment)  Act",
+    "num": "15",
+    "year": "2021",
+    "date_certified": "2021-07-15",
+    "date_published": "2021-07-16",
+    "price": 5.0,
+    "price_postage": 15.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 15Th Of July, 2021]",
+      "L.D.O. 3/2021",
+      "A N  A Ct   To   Amend   The  C Onvention  A Gainst  T Orture   And   Other C Ruel , I Nhuman   Or  D Egrading  T Reatment   Or  P Unishment A Ct , N O . 22  Of 1994",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (Amendment) Act, No. 15 of 2021.",
+        "pre_block_list": [
+          "Short title"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 2 of the Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment Act, No. 22 of 1994 is hereby amended in subsection (4) of that section by the substitution for the words a fine not less than ten thousand rupees and not exceeding fifty thousand rupees., of the words a fine not less than fifty thousand rupees and not exceeding two hundred thousand rupees",
+        "pre_block_list": [
+          "",
+          "Amendment of section 2 of Act, No. 22 of 1994"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency",
+          "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}

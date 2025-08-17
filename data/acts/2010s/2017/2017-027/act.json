@@ -1,0 +1,102 @@
+{
+  "n_pages": 4,
+  "title_page": {
+    "title": "Act",
+    "num": "27",
+    "year": "2017",
+    "date_certified": "2017-11-17",
+    "date_published": "2017-11-17",
+    "price": 4.0,
+    "price_postage": 10.0
+  },
+  "body_pages": {
+    "preamble": [
+      "[Certified On 17Th Of November, 2017]",
+      "L. D.O. 48/2016.",
+      "A N  A Ct   To   Amend   The   A Ssistance   To   And   P Rotection   Of  V Ictims",
+      "Of  C Rime   And  W Itnesses  A Ct , N O . 4  Of  2015",
+      "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows:"
+    ],
+    "pre_section_list": [
+      {
+        "class_name": "ActL1Section",
+        "num": "1",
+        "text": "This Act may be cited as the Assistance to and Protection of Victims of Crime and Witnesses  (Amendment) Act, No. 27 of 2017.",
+        "pre_block_list": [
+          "Short title."
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "2",
+        "text": "Section 31 of the Assistance to and Protection of Victims of Crime and Witnesses Act, No. 4 of 2015 is hereby amended as follows:",
+        "pre_block_list": [
+          "Amendment of section 31 of Act, No. 4 of 2015."
+        ],
+        "child_level_list": [
+          {
+            "class_name": "ActL2Subsection",
+            "num": "1",
+            "text": "in subsection (1) of that section,  by the substitution for the words within Sri Lanka, , of the words within or outside Sri Lanka,;",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "2",
+            "text": "by the insertion immediately after subsection (1) of that section, of the following new subsection:",
+            "pre_block_list": [
+              "(1 A ) Where any evidence or statement of any victim of crime or witness is to be recorded from any remote location outside Sri Lanka under subsection (1), it shall be recorded at the Sri Lankan diplomatic mission in the country from where such victim of crime or witness seeks to testify or make the statement.; and"
+            ],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "3",
+            "text": "by the repeal of subsection (4) of that section, and the substitution therefor, of the following subsection:",
+            "pre_block_list": [],
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL2Subsection",
+            "num": "4",
+            "text": "For the purposes of this section",
+            "pre_block_list": [],
+            "child_level_list": [
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "a",
+                "text": "Court means a Court before which any criminal proceedings are being conducted; and",
+                "pre_block_list": [
+                  "2PL 0053402962 (07/2017)",
+                  "Assistance to and  Protection of Victims of Crime and Witnesses (Amendment) Act, No. 27 of 2017 2"
+                ],
+                "child_level_list": []
+              },
+              {
+                "class_name": "ActL3Paragraph",
+                "num": "b",
+                "text": "public officer includes an officer serving in the Sri Lanka Foreign Service",
+                "pre_block_list": [
+                  ""
+                ],
+                "child_level_list": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "3",
+        "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to prevail in case of inconsistency."
+        ],
+        "child_level_list": []
+      }
+    ],
+    "part_list": []
+  }
+}
