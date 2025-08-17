@@ -53,6 +53,7 @@ class ActSection:
     @staticmethod
     def __get_section_to_block_list__(block_List: list[PDFBlock]):
         section_to_block_list = []
+        preamble = []
         for block in block_List:
             if "Italic" in block.font_family:
                 continue
@@ -61,7 +62,9 @@ class ActSection:
                 section_to_block_list.append([block])
             elif section_to_block_list:
                 section_to_block_list[-1].append(block)
-        return section_to_block_list
+            else:
+                preamble.append(block.text.strip().title())
+        return section_to_block_list, preamble
 
     @classmethod
     def from_block_list(cls, block_list: list[PDFBlock]):
@@ -97,7 +100,9 @@ class ActSection:
 
     @classmethod
     def list_from_block_list(cls, block_list: list[PDFBlock]):
-        section_to_block_list = cls.__get_section_to_block_list__(block_list)
+        section_to_block_list, preamble = cls.__get_section_to_block_list__(
+            block_list
+        )
         return [
             cls.from_block_list(section) for section in section_to_block_list
-        ]
+        ], preamble

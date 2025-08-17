@@ -12,6 +12,7 @@ class TestCase(unittest.TestCase):
         act_ext = ActExt.from_pdf(TEST_PDF_PATH)
         self.assertEqual(act_ext.n_pages, 72)
         self.assertEqual(act_ext.n_sections, 71)
+
         print()
         print(act_ext.title_page.to_dict())
         print()
@@ -28,12 +29,35 @@ class TestCase(unittest.TestCase):
             },
         )
 
-        first_section = act_ext.body_pages.section_list[0]
+        preamble = act_ext.body_pages.preamble
         print()
-        print(first_section.to_dict())
+        print(preamble)
         print()
         self.assertEqual(
-            first_section.to_dict(),
+            preamble,
+            [
+                "[Certified On 08Th Of August, 2024]",
+                "L.D.—O. 48/2023",
+                "A N  A Ct   To   Make   Provisions   To   Strengthen   Accountability  ,",
+                "Oversight ,  Management   And   Control   Of   Public   Funds   In   The P Ublic  F Inancial  M Anagement   Framework   With   The   View   To",
+                "Improving  F Iscal  P Olicy   For   Better   Macroeconomic",
+                "Management ;  To   Clarify   Institutional   Responsibilities   Related",
+                "To  F Inancial  M Anagement ;  To   Strengthen   Budgetary",
+                "Management ,  To   Facilitate   Public   Scrutiny   Of  F Iscal  P Olicy",
+                "And   Performance ;  To   Repeal   The   Sections  8  And  14  Of  P Art   Ii",
+                "Of   The  F Inance  A Ct , N O . 38  Of  1971;  To   Repeal   The  F Iscal M Anagement  (R Esponsibility ) A Ct , N O . 3  Of  2003  And   To",
+                "Provide   For    Matters   Connected   Therewith   Or   Incidental",
+                "Thereto .",
+                "Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -",
+            ],
+        )
+
+        section = act_ext.body_pages.section_list[0]
+        print()
+        print(section.to_dict())
+        print()
+        self.assertEqual(
+            section.to_dict(),
             {
                 "num": 1,
                 "short_description": "Short title and date of operation",
