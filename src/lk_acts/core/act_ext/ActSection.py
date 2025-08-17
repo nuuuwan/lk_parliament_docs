@@ -37,22 +37,26 @@ class ActSection:
                 return block.text
 
     @staticmethod
+    def __get_title_match__(block: PDFBlock):
+        return re.match(ActSection.RE_SECTION, block.text)
+
+    @staticmethod
     def __get_section_to_block_list__(block_List: list[PDFBlock]):
         section_to_block_list = []
         for block in block_List:
             if "Italic" in block.font_family:
                 continue
-            match = re.match(ActSection.RE_SECTION, block.text)
+            match = ActSection.__get_title_match__(block)
             if match:
                 section_to_block_list.append([block])
-            if section_to_block_list:
+            elif section_to_block_list:
                 section_to_block_list[-1].append(block)
         return section_to_block_list
 
     @classmethod
     def from_block_list(cls, block_list: list[PDFBlock]):
         first_block = block_list[0]
-        match = re.match(cls.RE_SECTION, first_block.text)
+        match = ActSection.__get_title_match__(first_block)
         assert match
         return cls(
             num=int(match.group("num")),
