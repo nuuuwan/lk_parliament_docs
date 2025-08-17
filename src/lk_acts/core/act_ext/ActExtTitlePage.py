@@ -17,7 +17,7 @@ class ActExtTitlePage:
 
     RE_PRICE = r"Price\s*:\s*Rs\.\s*([0-9]+(?:\.\d{2})?)"
     RE_PRICE_POSTAGE = r"Postage\s*:\s*Rs\.\s*([0-9]+(?:\.\d{2})?)"
-    RE_DATE_CERTIFIED = r"Certified on\s+([^\]]+)"
+    RE_DATE_CERTIFIED = r"Certi.*ed on\s+([^\]]+)"
     RE_DATE_PUBLISHED = r"of\s+([A-Za-z]+\s+\d{1,2},\s*\d{4})"
 
     @staticmethod
