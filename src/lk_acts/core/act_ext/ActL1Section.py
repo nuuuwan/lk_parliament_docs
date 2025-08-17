@@ -1,16 +1,16 @@
 import re
 from dataclasses import dataclass
 
-from lk_acts.core.act_ext.ActSubsection import ActSubsection
+from lk_acts.core.act_ext.ActL2Subsection import ActL2Subsection
 from lk_acts.core.act_ext.PDFBlock import PDFBlock
 
 
 @dataclass
-class ActSection:
+class ActL1Section:
     num: int
     short_description: str
     text: str
-    subsection_list: list[ActSubsection]
+    subsection_list: list[ActL2Subsection]
     inner_block_list: list[PDFBlock]
 
     RE_SECTION = r"^(?P<num>\d+)\s*\.\s*(?P<text>.+)"
@@ -48,7 +48,7 @@ class ActSection:
 
     @staticmethod
     def __get_title_match__(block: PDFBlock):
-        return re.match(ActSection.RE_SECTION, block.text)
+        return re.match(ActL1Section.RE_SECTION, block.text)
 
     @staticmethod
     def __get_section_to_block_list__(block_List: list[PDFBlock]):
@@ -57,7 +57,7 @@ class ActSection:
         for block in block_List:
             if "Italic" in block.font_family:
                 continue
-            match = ActSection.__get_title_match__(block)
+            match = ActL1Section.__get_title_match__(block)
             if match:
                 section_to_block_list.append([block])
             elif section_to_block_list:
@@ -69,11 +69,11 @@ class ActSection:
     @classmethod
     def from_block_list(cls, block_list: list[PDFBlock]):
         first_block = block_list[0]
-        match = ActSection.__get_title_match__(first_block)
+        match = ActL1Section.__get_title_match__(first_block)
         assert match
 
         short_description, rem_block_list = (
-            ActSection.parse_short_description(block_list[1:])
+            ActL1Section.parse_short_description(block_list[1:])
         )
 
         text = match.group("text").strip()
@@ -88,7 +88,7 @@ class ActSection:
             ] + rem_block_list
             text = ""
 
-        subsection_list = ActSubsection.list_from_block_list(rem_block_list)
+        subsection_list = ActL2Subsection.list_from_block_list(rem_block_list)
 
         return cls(
             num=int(match.group("num")),

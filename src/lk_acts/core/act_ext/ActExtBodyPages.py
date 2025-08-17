@@ -1,12 +1,12 @@
 from dataclasses import dataclass
 
-from lk_acts.core.act_ext.ActSection import ActSection
+from lk_acts.core.act_ext.ActL1Section import ActL1Section
 
 
 @dataclass
 class ActExtBodyPages:
     preamble: list[str]
-    section_list: list[ActSection]
+    section_list: list[ActL1Section]
 
     def to_dict(self):
         return dict(
@@ -16,7 +16,7 @@ class ActExtBodyPages:
 
     @classmethod
     def from_block_list(cls, block_list):
-        section_list, preamble = ActSection.list_from_block_list(block_list)
+        section_list, preamble = ActL1Section.list_from_block_list(block_list)
         return ActExtBodyPages(
             preamble=preamble,
             section_list=section_list,

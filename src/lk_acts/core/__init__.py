@@ -4,5 +4,5 @@
 from lk_acts.core.act import (Act, ActBase, ActDownloadPDF, ActRead, ActType,
                               ActWrite)
 from lk_acts.core.act_ext import (ActExt, ActExtBodyPages, ActExtPDF,
-                                  ActExtTitlePage, ActSection, ActSubsection,
-                                  PDFBlock)
+                                  ActExtTitlePage, ActL1Section,
+                                  ActL2Subsection, PDFBlock)

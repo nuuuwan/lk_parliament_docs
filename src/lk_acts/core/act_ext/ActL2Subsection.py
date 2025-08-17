@@ -5,7 +5,7 @@ from lk_acts.core.act_ext.PDFBlock import PDFBlock
 
 
 @dataclass
-class ActSubsection:
+class ActL2Subsection:
     num: int
     text: str
     inner_block_list: list[PDFBlock]
@@ -27,14 +27,14 @@ class ActSubsection:
 
     @staticmethod
     def __get_title_match__(block: PDFBlock):
-        return re.match(ActSubsection.RE_SUBSECTION, block.text)
+        return re.match(ActL2Subsection.RE_SUBSECTION, block.text)
 
     @staticmethod
     def __get_subsection_to_block_list__(block_List: list[PDFBlock]):
         subsection_to_block_list = []
         for block in block_List:
 
-            match = ActSubsection.__get_title_match__(block)
+            match = ActL2Subsection.__get_title_match__(block)
             if match:
                 subsection_to_block_list.append([block])
             elif subsection_to_block_list:
@@ -44,7 +44,7 @@ class ActSubsection:
     @classmethod
     def from_block_list(cls, block_list: list[PDFBlock]):
         first_block = block_list[0]
-        match = ActSubsection.__get_title_match__(first_block)
+        match = ActL2Subsection.__get_title_match__(first_block)
         assert match
         return cls(
             num=int(match.group("num")),
