@@ -40,7 +40,8 @@ class ActSection:
         rem_block_list = []
         for block in block_list:
             if block.font_size <= 8:
-                short_description = block.text.strip()
+                if not short_description:
+                    short_description = block.text.strip()
             else:
                 rem_block_list.append(block)
         return short_description, rem_block_list

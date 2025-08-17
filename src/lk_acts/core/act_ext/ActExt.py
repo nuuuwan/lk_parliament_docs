@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from functools import cached_property
 from itertools import chain
 
-from utils import File, Log
+from utils import File, JSONFile, Log
 
 from lk_acts.core.act_ext.ActExtBodyPages import ActExtBodyPages
 from lk_acts.core.act_ext.ActExtPDF import ActExtPDF
@@ -46,5 +46,10 @@ class ActExt:
         return self.title_page.to_md_lines() + self.body_pages.to_md_lines()
 
     def write_md(self, md_path):
-        File(md_path).write_lines(self.to_md_lines())
+        content = "\n".join(self.to_md_lines()).replace("\n\n\n", "\n\n")
+        File(md_path).write(content)
         log.info(f"Wrote {md_path}")
+
+    def write_json(self, json_path):
+        JSONFile(json_path).write(self.to_dict())
+        log.info(f"Wrote {json_path}")

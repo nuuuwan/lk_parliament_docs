@@ -15,7 +15,6 @@ Date Certified: **13th of  May, 2024**, Date Published: **May 17, 2024**, Price:
         - “(v) any female who has attained the age of eighteen years may be employed in any institution which is engaged in business, based on information technology and
         - knowledge process outsourcing or business process outsourcing, or engaged in administration and accounts or related work in a back office for an institute situated abroad before 6.00 a.m. or after 6.00 p.m. on any day.”.
 
-
 3. **Amendment of section 66 of the principal enactment** - Section 66 of the principal enactment is hereby amended by the insertion immediately after paragraph ( f ) of subsection (2) thereof, of the following: -
     - “( fa ) in respect of the terms and conditions to be followed by an employer who employs any females, relating to the welfare of such females, including their security, transport facilities and facilities to rest when such females are employed after 10.00 p.m. and before 6.00 a.m.;”.
 
@@ -28,5 +27,4 @@ Date Certified: **13th of  May, 2024**, Date Published: **May 17, 2024**, Price:
         - “( c ) any institution engaged in business, based on information technology and knowledge
         - process outsourcing or business process outsourcing or engaged in administration and accounts or related work in a back office in connection with any institution situated abroad;”.
 
-
-5. **English Acts of the Parliament can be purchased at the “P RAKASHANA  P IYASA ”, D EPARTMENT   OF G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8.** - In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.
+5. **Sinhala text to prevail in the case of inconsistency** - In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.

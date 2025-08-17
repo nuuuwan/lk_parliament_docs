@@ -41,3 +41,4 @@ class TestCase(unittest.TestCase):
         )
 
         act_ext.write_md(os.path.join("tests", "data", "en.md"))
+        act_ext.write_json(os.path.join("tests", "data", "en.json"))
