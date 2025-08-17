@@ -5,29 +5,17 @@ No. **44** of **2024**
 Date Certified: **2024-08-08**, Date Published: **2024-08-09**, Price: **114.0**, Price Postage: **150.0**
 
 [Certified On 08Th Of August, 2024]
-
 L.D.—O. 48/2023
-
 A N  A Ct   To   Make   Provisions   To   Strengthen   Accountability  ,
-
 Oversight ,  Management   And   Control   Of   Public   Funds   In   The P Ublic  F Inancial  M Anagement   Framework   With   The   View   To
-
 Improving  F Iscal  P Olicy   For   Better   Macroeconomic
-
 Management ;  To   Clarify   Institutional   Responsibilities   Related
-
 To  F Inancial  M Anagement ;  To   Strengthen   Budgetary
-
 Management ,  To   Facilitate   Public   Scrutiny   Of  F Iscal  P Olicy
-
 And   Performance ;  To   Repeal   The   Sections  8  And  14  Of  P Art   Ii
-
 Of   The  F Inance  A Ct , N O . 38  Of  1971;  To   Repeal   The  F Iscal M Anagement  (R Esponsibility ) A Ct , N O . 3  Of  2003  And   To
-
 Provide   For    Matters   Connected   Therewith   Or   Incidental
-
 Thereto .
-
 Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lanka As Follows: -
 
 1. **Short title and date of operation** - 
@@ -36,9 +24,11 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     2. All the provisions of this Act other than the provisions specified in subsection (3), shall come into operation on the date on which the Bill becomes an Act of Parliament.
 
     3. The Minister of Finance shall for the implementation of the provisions specified in paragraphs ( a ) and ( b ) of this subsection, appoint such date or dates by Order published in the  Gazette  -
-        - ( a ) the date or dates from which the provisions of paragraph ( f ) of subsection (5) of section 11, subsection (1) of section 17, paragraph ( b ) of subsection (2) of section 18, section 36 and paragraph ( a ) of subsection (1) of section 47 shall come into operation:
-        - Provided that, the provisions of paragraph ( f ) of subsection (5) of section 11 shall come into operation on a date not later than thirtieth day of June 2025; and
-        - ( b ) the date from which the provisions of subsection (2) of section 34 shall apply in respect of the entities specified in subparagraph (ii) of paragraph ( a ) of subsection (2) of section 3.
+        a. the date or dates from which the provisions of paragraph ( f ) of subsection (5) of section 11, subsection (1) of section 17, paragraph ( b ) of subsection (2) of section 18, section 36 and paragraph ( a ) of subsection (1) of section 47 shall come into operation:
+            - Provided that, the provisions of paragraph ( f ) of subsection (5) of section 11 shall come into operation on a date not later than thirtieth day of June 2025; and
+
+        b. the date from which the provisions of subsection (2) of section 34 shall apply in respect of the entities specified in subparagraph (ii) of paragraph ( a ) of subsection (2) of section 3.
+
 
 2. **A PPLICATION   OF   THE  A CT** - The objects of this Act shall be –
     - ( a ) to set out standards, requirements, rules, and procedures for transparency, accountability, discipline, effectiveness, efficiency, and economy in the management of the public finance including the revenues, expenditures, commitments, financing arrangements, equity, assets and liabilities;
@@ -50,27 +40,34 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. In addition to the provisions enshrined in Articles 148, 149, 150, 151 and 152 of the Constitution, the provisions of this Act, any regulation, and directive made thereunder, unless specifically excluded from this Act, shall apply to the management of the public finance.
 
     2. The provisions of this Act shall apply to the entities and persons specified below -
-        - ( a ) the following entities (hereinafter referred to as the “public entities”): -
-        - (i) budgetary entities;
-        - (ii) Statutory Funds and Trusts to which public finances   are allocated;
-        - (iii) State-Owned Enterprises; and
-        - (iv) Provincial Councils, Provincial Ministries, Provincial Departments, other Institutions functioning under the Provincial Councils, and Local Authorities in terms of the relevant written laws;
-        - ( b ) Officers and employees of public entities to whom a power or duty is conferred, delegated or assigned under this Act or any regulation made thereunder, including a Chief Accounting Officer, Accounting Officer or a competent authority referred to in Part VI of this Act.
+        a. the following entities (hereinafter referred to as the “public entities”): -
+
+        i. budgetary entities;
+            - (ii) Statutory Funds and Trusts to which public finances   are allocated;
+            - (iii) State-Owned Enterprises; and
+            - (iv) Provincial Councils, Provincial Ministries, Provincial Departments, other Institutions functioning under the Provincial Councils, and Local Authorities in terms of the relevant written laws;
+
+        b. Officers and employees of public entities to whom a power or duty is conferred, delegated or assigned under this Act or any regulation made thereunder, including a Chief Accounting Officer, Accounting Officer or a competent authority referred to in Part VI of this Act.
 
     3. Every public entity and persons referred to in subsection (2) in respect of which this Act applies, shall notwithstanding anything to the contrary in the provisions of any other written law, comply with the provisions of this Act in managing public funds allocated to or levied by any such public entity under any written law.
         - PART II
 
 4. **Powers, duties and functions of the Minister of Finance under this Act** - 
     1. The Minister to whom the subject of Finance has been assigned under Article 44 or 45 of the Constitution (in this Act referred to as the “Minister of Finance”) shall in addition to the powers conferred under Article 150 of the Constitution,  be responsible for  –
-        - ( a ) developing policies that achieve fiscal sustainability and effective management of fiscal risks including the identification of the sources of fiscal risks and  publication of information in relation to the same;
-        - ( b ) ensuring compliance with the fiscal responsibility requirements under Part III of this Act;
-        - ( c ) managing the preparation of the annual budget and monitoring its implementation along with the overall supervision on collecting revenues, management of the expenditure, public debt and the Government’s cash and liquidity position;
-        - ( d ) the general  oversight of all the financial operations of the Government along with the extent of the financial oversight in relation to the State-Owned Enterprises, as may be prescribed; and
-        - ( e ) the implementation of provisions of this Act.
+        a. developing policies that achieve fiscal sustainability and effective management of fiscal risks including the identification of the sources of fiscal risks and  publication of information in relation to the same;
+
+        b. ensuring compliance with the fiscal responsibility requirements under Part III of this Act;
+
+        c. managing the preparation of the annual budget and monitoring its implementation along with the overall supervision on collecting revenues, management of the expenditure, public debt and the Government’s cash and liquidity position;
+
+        d. the general  oversight of all the financial operations of the Government along with the extent of the financial oversight in relation to the State-Owned Enterprises, as may be prescribed; and
+
+        e. the implementation of provisions of this Act.
 
     2. The Minister of Finance shall  -
-        - ( a ) carry out any other  powers  and functions assigned to the Minister of Finance by this Act or any other written law; and
-        - ( b ) be accountable to Parliament for the effective application of the provisions of this Act and regulations made under this Act.
+        a. carry out any other  powers  and functions assigned to the Minister of Finance by this Act or any other written law; and
+
+        b. be accountable to Parliament for the effective application of the provisions of this Act and regulations made under this Act.
 
     3. The Minister of Finance may, by Order published in the  Gazette , delegate to the Secretary to the Treasury any power conferred on the Minister of Finance by this Act except under subsection (1) of section 28, subsection (3) of section 32, subsection (4) of section 39, section 56 and section 67, subject to the conditions, reservations and restrictions, as may be specified in that Order.
 
@@ -78,16 +75,26 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. The Secretary to the Ministry of the Minister of Finance appointed by the President in terms of paragraph (1) of Article 52 of the Constitution, shall be the head of the General Treasury (in this Act referred to as the “Secretary to the Treasury”).
 
     2. In addition to the powers, duties, functions and responsibilities assigned by any other written law, the Secretary to the Treasury, for the purpose of achieving the objects of this Act, shall –
-        - ( a ) assist the Minister of Finance to perform his functions under this Act;
-        - ( b ) assist the Minister of Finance for   preparation and execution of the annual budget;
-        - ( c ) manage the Treasury cash flow and oversee the management of the official bank accounts maintained under the Treasury single account;
-        - ( d ) ensure compliance with statutory requirements on the preparation of annual financial statements and reports of the Government, their submission to the Auditor-General, and dissemination of related information to the general public;
-        - ( e ) monitor the implementation and evaluate the results of public investment projects and public-private partnership projects;
-        - ( f ) subject to the approval of the Cabinet of Ministers, formulate policies and strategies for the effective management and overall supervision of State- Owned Enterprises;
-        - ( g ) assist the Minister of Finance to manage the public sector cadre and remuneration in compliance with the national remuneration policy;
-        - ( h ) formulate, develop, review, and update directives for the financial management, management of assets and   internal audit management of public entities;
-        - ( i ) enter into agreement with foreign Governments, international organizations or other donor agencies on behalf of the Government upon the approval of the Cabinet of Ministers; and
-        - ( j ) carry out any other powers and functions assigned to the Secretary to the Treasury under this Act and by any other written law, which are not inconsistent with the provisions of this Act.
+        a. assist the Minister of Finance to perform his functions under this Act;
+
+        b. assist the Minister of Finance for   preparation and execution of the annual budget;
+
+        c. manage the Treasury cash flow and oversee the management of the official bank accounts maintained under the Treasury single account;
+
+        d. ensure compliance with statutory requirements on the preparation of annual financial statements and reports of the Government, their submission to the Auditor-General, and dissemination of related information to the general public;
+
+        e. monitor the implementation and evaluate the results of public investment projects and public-private partnership projects;
+
+        f. subject to the approval of the Cabinet of Ministers, formulate policies and strategies for the effective management and overall supervision of State- Owned Enterprises;
+
+        g. assist the Minister of Finance to manage the public sector cadre and remuneration in compliance with the national remuneration policy;
+
+        h. formulate, develop, review, and update directives for the financial management, management of assets and   internal audit management of public entities;
+
+        i. enter into agreement with foreign Governments, international organizations or other donor agencies on behalf of the Government upon the approval of the Cabinet of Ministers; and
+
+        j. carry out any other powers and functions assigned to the Secretary to the Treasury under this Act and by any other written law, which are not inconsistent with the provisions of this Act.
+
 
 6. **Delegation of powers, duties and functions of the Secretary to the Treasury** - 
     1. The Secretary to the Treasury may in writing and subject to such conditions as may be specified therein, delegate to the Deputy Secretary to the Treasury or any officer not below the rank of a Director-General in the General Treasury, the powers, duties and functions conferred to the Secretary to the Treasury under section 5 of this Act.
@@ -100,19 +107,23 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 8. **Revenue Management Committee** - 
     1. The Minister of Finance shall appoint a Revenue Management Committee consisting of members as specified in subsection (2) which shall be responsible for -
-        - ( a ) developing and formulating revenue strategies consistent with the fiscal strategy statement specified in section 11; and
-        - ( b ) providing strategic advice to public entities that generate revenue.
+        a. developing and formulating revenue strategies consistent with the fiscal strategy statement specified in section 11; and
+
+        b. providing strategic advice to public entities that generate revenue.
 
     2. The Revenue Management Committee shall consist of –
-        - ( a ) the following  ex-officio  members namely –
-        - (i) the Secretary to the Treasury who shall be the Chairperson;
-        - (ii) a Deputy Secretary to the Treasury in charge of the subject of fiscal policy;
-        - (iii) the Commissioner-General of Inland Revenue;
-        - (iv) the Director-General of Customs;
-        - (v) the Commissioner-General of Excise;
-        - (vi) the Director General of the Department in charge of the subject of Treasury Operations;
-        - (vii) the Director-General of the Department in charge of the subject of Fiscal Policy; and
-        - ( b ) two other members appointed by the Minister of Finance from among persons who have achieved eminence in the field of revenue management.
+        a. the following  ex-officio  members namely –
+
+        i. the Secretary to the Treasury who shall be the Chairperson;
+            - (ii) a Deputy Secretary to the Treasury in charge of the subject of fiscal policy;
+            - (iii) the Commissioner-General of Inland Revenue;
+            - (iv) the Director-General of Customs;
+
+        v. the Commissioner-General of Excise;
+            - (vi) the Director General of the Department in charge of the subject of Treasury Operations;
+            - (vii) the Director-General of the Department in charge of the subject of Fiscal Policy; and
+
+        b. two other members appointed by the Minister of Finance from among persons who have achieved eminence in the field of revenue management.
 
     3. The Secretary to the Revenue Management Committee shall be an officer of the Department responsible for the subject of fiscal policy, nominated by the Secretary to the Treasury.
 
@@ -143,32 +154,46 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     3. Upon obtaining approval of the Cabinet of Ministers under subsection (2), the fiscal strategy statement shall be announced by the Minister of Finance at Parliament on or before thirtieth day of June of each year.  Annual budget   for the next year   shall be prepared based on such fiscal strategy statement. The fiscal strategy statement shall be published on the official website of the Ministry of the Minister of Finance upon the announcement made by the Minister of Finance.
 
     4. The purpose of the fiscal strategy statement shall be to –
-        - ( a ) provide the Parliament and the public with a formal statement of the Government’s fiscal strategy before the annual budget is prepared;
-        - (b ) provide strategic guidance for the upcoming annual budget;
-        - ( c ) establish the basis upon which fiscal performance shall be evaluated objectively;
-        - ( d ) strengthen Parliamentary oversight of performance against the Government’s fiscal strategy; and
-        - ( e ) enhance fiscal transparency and accountability.
+        a. provide the Parliament and the public with a formal statement of the Government’s fiscal strategy before the annual budget is prepared;
+
+        b. provide strategic guidance for the upcoming annual budget;
+
+        c. establish the basis upon which fiscal performance shall be evaluated objectively;
+
+        d. strengthen Parliamentary oversight of performance against the Government’s fiscal strategy; and
+
+        e. enhance fiscal transparency and accountability.
 
     5. The fiscal strategy statement shall, at a minimum –
-        - ( a ) specify the Government’s fiscal targets and the policies being implemented to ensure achievement of such targets;
-        - ( b ) include proposed timeframe for the reduction of public debt to a sustainable level;
-        - ( c ) explain how the Government’s fiscal targets and policies are consistent with the objectives of responsible fiscal management;
-        - ( d ) include the medium-term fiscal framework specified in section 12;
-        - ( e ) provide an assessment of performance against the fiscal strategy, including –
-        - (i) an assessment of compliance with the fiscal targets for the preceding financial year, including an explanation of any non- compliance with such targets;
-        - (ii) an assessment of expected compliance with the fiscal targets for the current financial year;
-        - (iii) an assessment of expected compliance with the fiscal targets for the next financial year and the four succeeding years; and
-        - (iv) an assessment of risks of non-compliance with the fiscal targets for the current financial year and the next financial year;
-        - ( f ) specify the main sources of fiscal risks against to the attainment of the objectives specified in section 10 and the estimate of the fiscal impact of such fiscal risks; and
-        - ( g ) disclose the macroeconomic impact of fiscal decisions taken over the past three years.
+        a. specify the Government’s fiscal targets and the policies being implemented to ensure achievement of such targets;
+
+        b. include proposed timeframe for the reduction of public debt to a sustainable level;
+
+        c. explain how the Government’s fiscal targets and policies are consistent with the objectives of responsible fiscal management;
+
+        d. include the medium-term fiscal framework specified in section 12;
+
+        e. provide an assessment of performance against the fiscal strategy, including –
+
+        i. an assessment of compliance with the fiscal targets for the preceding financial year, including an explanation of any non- compliance with such targets;
+            - (ii) an assessment of expected compliance with the fiscal targets for the current financial year;
+            - (iii) an assessment of expected compliance with the fiscal targets for the next financial year and the four succeeding years; and
+            - (iv) an assessment of risks of non-compliance with the fiscal targets for the current financial year and the next financial year;
+
+        f. specify the main sources of fiscal risks against to the attainment of the objectives specified in section 10 and the estimate of the fiscal impact of such fiscal risks; and
+
+        g. disclose the macroeconomic impact of fiscal decisions taken over the past three years.
+
 
 12. **Medium-term fiscal framework** - 
     1. The Minister of Finance shall ensure preparation of a medium-term fiscal framework for the upcoming financial year and for the four succeeding financial years which shall be approved and published within the fiscal strategy statement referred to in section 11.
 
     2. The medium-term fiscal framework shall include, at a minimum -
-        - ( a ) a primary balance target consistent with the debt reduction objectives   of the Government expressed as a percentage of the forecast nominal gross domestic product;
-        - ( b ) a primary expenditure ceiling of the Government expressed in Sri Lankan rupees calculated under section 15; and
-        - ( c ) the fiscal aggregate projections and supplementary targets of the Government for the rolling five-years horizon, together with the economic and other assumptions used to prepare these projections.
+        a. a primary balance target consistent with the debt reduction objectives   of the Government expressed as a percentage of the forecast nominal gross domestic product;
+
+        b. a primary expenditure ceiling of the Government expressed in Sri Lankan rupees calculated under section 15; and
+
+        c. the fiscal aggregate projections and supplementary targets of the Government for the rolling five-years horizon, together with the economic and other assumptions used to prepare these projections.
 
     3. For the purpose of achieving a sustainable level of public debt, the medium-term fiscal framework shall determine an annual primary balance target as specified in section 14, and a primary expenditure ceiling within the limit as specified in section 15.
 
@@ -181,13 +206,17 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 14. **Primary balance target** - 
     1. The primary balance target set by the Minister of Finance in the medium-term fiscal framework   for the upcoming financial year and the four succeeding financial years, consistent with the debt reduction objective, shall be–
-        - ( a ) served as a medium-term fiscal anchor to address all aspects of fiscal planning and policy development; and
-        - ( b ) updated annually to reflect observed fiscal outcomes and to ensure ongoing consistency with the debt reduction objective in section 10.
+        a. served as a medium-term fiscal anchor to address all aspects of fiscal planning and policy development; and
+
+        b. updated annually to reflect observed fiscal outcomes and to ensure ongoing consistency with the debt reduction objective in section 10.
 
     2. In case of non-compliance or anticipated non- compliance with the primary balance target included in the medium-term fiscal framework, the Minister of Finance shall submit to Parliament and publish within six weeks from the date of such non-compliance or anticipation as the case may be, the following:-
-        - ( a ) a report containing an assessment explaining the reasons for non-compliance with the primary balance target;
-        - ( b ) an updated medium-term fiscal framework; and
-        - ( c ) a fiscal plan to return to compliance with the primary balance target in the current and the next financial year in case of non-compliance with the primary balance target.
+        a. a report containing an assessment explaining the reasons for non-compliance with the primary balance target;
+
+        b. an updated medium-term fiscal framework; and
+
+        c. a fiscal plan to return to compliance with the primary balance target in the current and the next financial year in case of non-compliance with the primary balance target.
+
 
 15. **Primary expenditure of the Government** - 
     1. The primary expenditure of the Government shall not exceed thirteen  per centum  of the estimated nominal gross domestic product for the relevant financial year.
@@ -196,8 +225,9 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - of the Minister of Finance as the case may be, shall also be consistent with the primary balance target specified in section 14.
 
     3. The primary expenditure ceiling calculated as per subsection (2) –
-        - ( a ) for the upcoming financial year shall be binding for the annual budget for the upcoming financial year at the time of its submission, approval, and execution;
-        - ( b ) for the four succeeding financial years shall be updated on an annual basis to reflect the latest estimates for nominal gross domestic product for the relevant financial years and to ensure ongoing consistency with the primary balance target specified in section 14.
+        a. for the upcoming financial year shall be binding for the annual budget for the upcoming financial year at the time of its submission, approval, and execution;
+
+        b. for the four succeeding financial years shall be updated on an annual basis to reflect the latest estimates for nominal gross domestic product for the relevant financial years and to ensure ongoing consistency with the primary balance target specified in section 14.
 
     4. The primary expenditure ceiling may be initially reviewed no sooner after five years from the date of coming into operation of this Act, and be reviewed every five years thereafter, and shall be updated to be consistent with the primary balance target and the debt reduction objective.
 
@@ -210,10 +240,13 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     3. Where any situation specified in subsection (2) arises or is likely to arise that requires expenditure in excess of the primary expenditure ceiling   specified in the medium-term fiscal framework, the Minister of Finance shall request by way of resolution, the approval of Parliament for the deviation from the primary expenditure ceiling and supplementary appropriations in excess of the primary expenditure ceiling   specified in the medium-term fiscal framework.
 
     4. The request referred to in subsection (3) shall be accompanied by, at a minimum –
-        - ( a ) a statement explaining the circumstances in consequence of which the need for such deviation arose, including supporting data, and how those circumstances justify the deviation;
-        - ( b ) a recovery plan that shall contain information and targeted actions to be taken to manage the circumstances specified in subsection (2) including additional spending, and actions to be taken by the Minister of Finance to return to compliance with the primary expenditure ceiling, and the timeframe for such return to compliance;
-        - ( c ) a supplementary estimate proposal in line with section 26; and
-        - ( d ) an updated medium-term fiscal framework.
+        a. a statement explaining the circumstances in consequence of which the need for such deviation arose, including supporting data, and how those circumstances justify the deviation;
+
+        b. a recovery plan that shall contain information and targeted actions to be taken to manage the circumstances specified in subsection (2) including additional spending, and actions to be taken by the Minister of Finance to return to compliance with the primary expenditure ceiling, and the timeframe for such return to compliance;
+
+        c. a supplementary estimate proposal in line with section 26; and
+
+        d. an updated medium-term fiscal framework.
 
     5. The documents specified in subsection (4) shall be published on the official website of the Ministry of the Minister of Finance.
 
@@ -223,16 +256,19 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     2. The guarantee limit specified in subsection (1) shall be reviewed every five years after the date of coming into operation of this Act and be updated to ensure consistency with the debt reduction objective specified in the fiscal strategy statement.
 
     3. In case of a breach of the guarantee limit specified in subsection (1), the Minister of Finance shall submit to Parliament and publish on the official website of the Ministry of the Minister of Finance a report specifying, at a minimum-
-        - ( a ) the reason for such breach; and
-        - ( b ) actions to ensure compliance with the guarantee limit in the future.
-        - PART IV
+        a. the reason for such breach; and
+
+        b. actions to ensure compliance with the guarantee limit in the future.
+            - PART IV
+
 
 18. **Scope of the annual budget** - 
     1. The annual budget shall include the estimates of expenditure of the public entities which are allocated to a Head of Expenditure number.
 
     2. The annual budget shall –
-        - ( a ) be presented in the form of the appropriations by Head of Expenditure; and
-        - ( b ) be classified in line with the internationally accepted practices.
+        a. be presented in the form of the appropriations by Head of Expenditure; and
+
+        b. be classified in line with the internationally accepted practices.
 
     3. The Appropriation Act shall envisage expenditure from the Consolidated Fund subject to Articles 150, 151 and 152 of the Constitution.
 
@@ -243,29 +279,42 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 20. **Annual budget document and its accompanying documents** - 
     1. The annual budget document shall consist of –
-        - ( a ) the estimates of revenue and expenditure (in this Act referred to as the “annual budget estimates”) in the forms as may be prescribed; and
-        - ( b ) the Appropriation Bill that includes inter-alia, the estimates of expenditure, and borrowing ceilings.
+        a. the estimates of revenue and expenditure (in this Act referred to as the “annual budget estimates”) in the forms as may be prescribed; and
+
+        b. the Appropriation Bill that includes inter-alia, the estimates of expenditure, and borrowing ceilings.
 
     2. The annual budget document shall be accompanied by –
-        - ( a ) budget speech summarizing the contents of the annual budget and the overall thrust of the Government’s fiscal policy;
-        - ( b ) a public-friendly version of the annual budget
-        - containing easy-to-understand summary of the main features of the annual budget;
-        - ( c ) the fiscal strategy statement and the budget, economic and fiscal position report;
-        - ( d ) medium-term debt management strategy and annual borrowing plan;
-        - ( e ) the list of ongoing and newly approved public investment projects, including public-private partnership projects in accordance with subsection (1) of section 45;
-        - ( f ) the list of outstanding loans and outstanding guarantees provided by the Government and other contingent liabilities of the Government including those related to public-private partnership projects;
-        - ( g ) a summary of public service employment across budgetary entities;
-        - ( h ) a statement of tax expenditures including the total cost of existing tax expenditures and the disclosure of new tax expenditures; and
-        - ( i ) any other documents or information as required under this Act or any other written law or as may deemed appropriate by the Minister of Finance.
+        a. budget speech summarizing the contents of the annual budget and the overall thrust of the Government’s fiscal policy;
+
+        b. a public-friendly version of the annual budget
+            - containing easy-to-understand summary of the main features of the annual budget;
+
+        c. the fiscal strategy statement and the budget, economic and fiscal position report;
+
+        d. medium-term debt management strategy and annual borrowing plan;
+
+        e. the list of ongoing and newly approved public investment projects, including public-private partnership projects in accordance with subsection (1) of section 45;
+
+        f. the list of outstanding loans and outstanding guarantees provided by the Government and other contingent liabilities of the Government including those related to public-private partnership projects;
+
+        g. a summary of public service employment across budgetary entities;
+
+        h. a statement of tax expenditures including the total cost of existing tax expenditures and the disclosure of new tax expenditures; and
+
+        i. any other documents or information as required under this Act or any other written law or as may deemed appropriate by the Minister of Finance.
+
 
 21. **Annual budget process** - 
     1. Notwithstanding anything to the contrary in any other written law, every budgetary entity shall prepare and submit their budget estimates in line with the budget call circular, not later than thirty first day of July of the financial year preceding the year for which the annual budget is prepared.
 
     2. The budget call circular shall -
-        - ( a ) include expenditure ceilings which are binding for the financial year, consistent with the primary expenditure ceiling specified in the medium-term fiscal framework as required under section 12;
-        - ( b ) include detailed policy guidance and list the main actions to be complied with and information to be provided by public entities within the annual budget process and set out the timeframe for such actions in line with this section;
-        - ( c ) include the public investment programme approved by the Minister of Finance; and
-        - ( d ) include other instructions and information as may be deemed necessary by the Secretary to the Treasury.
+        a. include expenditure ceilings which are binding for the financial year, consistent with the primary expenditure ceiling specified in the medium-term fiscal framework as required under section 12;
+
+        b. include detailed policy guidance and list the main actions to be complied with and information to be provided by public entities within the annual budget process and set out the timeframe for such actions in line with this section;
+
+        c. include the public investment programme approved by the Minister of Finance; and
+
+        d. include other instructions and information as may be deemed necessary by the Secretary to the Treasury.
 
     3. The Minister of Finance shall obtain the approval of the Cabinet of Ministers for the annual budget document prior to submitting it to the Parliament.
 
@@ -277,9 +326,11 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 22. **Responsibilities of the Minister of Finance and the Secretary to the Treasury in the annual budget process** - 
     1. The Minister of Finance shall be responsible for ensuring the -
-        - ( a ) implementation of the annual budget process;
-        - ( b ) preparation of the Appropriation Bill and the annual budget estimates; and
-        - ( c ) preparation of the annual budget document in accordance with the medium-term fiscal framework and budgetary framework.
+        a. implementation of the annual budget process;
+
+        b. preparation of the Appropriation Bill and the annual budget estimates; and
+
+        c. preparation of the annual budget document in accordance with the medium-term fiscal framework and budgetary framework.
 
     2. The Secretary to the Treasury shall be responsible for issuing the budget call circular not later than thirtieth day of June of the financial year preceding the year for which the annual budget is prepared.
 
@@ -293,8 +344,9 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. Transfer of an allocation within a Head of Expenditure in annual Appropriation Act shall be in compliance with the provisions in such Appropriation Act, subject to the provisions of subsections (2), (3) and (4) of this section (hereinafter referred to as the “Virement Procedure”).
 
     2. Transfer of unexpended budget allocation shall not be allowed –
-        - ( a ) from one Head of Expenditure to another Head of Expenditure; or
-        - ( b ) from capital expenditure to recurrent expenditure.
+        a. from one Head of Expenditure to another Head of Expenditure; or
+
+        b. from capital expenditure to recurrent expenditure.
 
     3. Restrictions on the use of virement procedure in addition to those specified in subsection (2) shall as may be prescribed.
 
@@ -311,26 +363,33 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 26. **Supplementary Estimates** - 
     1. A supplementary estimate proposal shall be submitted to the Parliament for approval in the manner as may be prescribed upon the occurrence of the following conditions: -
-        - ( a ) unforeseen and unavoidable   circumstances such as major economic downturn, severe external shocks, natural disaster, emergence of major contingent liabilities or any such other eventuality in the opinion of the Cabinet of Ministers;
-        - ( b ) it becomes necessary for a budgetary entity to incur additional expenditure during a year that is not covered by the Head of Expenditure in the Appropriation Act approved by the Parliament; and
-        - ( c ) it is not possible for such expenditure to be provided through –
-        - (i) a virement procedure as provided for in section 24;
-        - (ii) the Contingencies Fund established under Article 151 of the Constitution; or
-        - (iii) an allocation from the annual budget reserve as provided for in section 25.
+        a. unforeseen and unavoidable   circumstances such as major economic downturn, severe external shocks, natural disaster, emergence of major contingent liabilities or any such other eventuality in the opinion of the Cabinet of Ministers;
+
+        b. it becomes necessary for a budgetary entity to incur additional expenditure during a year that is not covered by the Head of Expenditure in the Appropriation Act approved by the Parliament; and
+
+        c. it is not possible for such expenditure to be provided through –
+
+        i. a virement procedure as provided for in section 24;
+            - (ii) the Contingencies Fund established under Article 151 of the Constitution; or
+            - (iii) an allocation from the annual budget reserve as provided for in section 25.
 
     2. The supplementary estimate proposal under subsection (1) shall include -
-        - ( a ) an overview of the recent macroeconomic and fiscal developments;
-        - ( b ) an updated forecasts of revenues and expenditures of the annual budget;
-        - ( c ) an explanation of the changes to appropriations for individual Heads of Expenditure; and
-        - ( d ) the source of additional financing and any other information as may be prescribed.
+        a. an overview of the recent macroeconomic and fiscal developments;
+
+        b. an updated forecasts of revenues and expenditures of the annual budget;
+
+        c. an explanation of the changes to appropriations for individual Heads of Expenditure; and
+
+        d. the source of additional financing and any other information as may be prescribed.
 
     3. The request for additional expenditure under subsection (1) shall be approved by the Cabinet of Ministers prior to submitting it to Parliament.
 
 27. **Excess Expenditure** - 
     1. Where at the close of Government accounts for any financial year, it is found that the budget allocations have been expended -
-        - ( a ) in excess of the amount appropriated by the Appropriation Act for the relevant year, or from the Contingencies Fund or supplementary estimate; or
-        - ( b ) for a purpose for which the budget allocation has not been made,
-        - such excessive amount shall be treated as unauthorized excess expenditure.
+        a. in excess of the amount appropriated by the Appropriation Act for the relevant year, or from the Contingencies Fund or supplementary estimate; or
+
+        b. for a purpose for which the budget allocation has not been made,
+            - such excessive amount shall be treated as unauthorized excess expenditure.
 
     2. In the events specified in subsection (1), the relevant budgetary entity shall place before the Parliament a
         - statement on excess expenditure attached to the annual financial statement which shall include the information as may be prescribed not later than ninety days after the closure of the financial year.
@@ -347,11 +406,15 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 29. **Expenditure control system** - 
     1. Any expenditure of public funds shall be made subject to the following steps: -
-        - ( a ) prior authorization from the competent authority;
-        - ( b ) prior approval from the competent authority;
-        - ( c ) commitment by the competent authority;
-        - ( d ) certification by the competent authority; and
-        - ( e ) payment by the relevant public entity.
+        a. prior authorization from the competent authority;
+
+        b. prior approval from the competent authority;
+
+        c. commitment by the competent authority;
+
+        d. certification by the competent authority; and
+
+        e. payment by the relevant public entity.
 
     2. For the purpose of this section, competent authority means any officer who has been delegated functions of the authorization, approval, commitment, certification or payment by the Accounting Officer of the relevant public entity.
 
@@ -379,13 +442,14 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. Every public entity shall procure the goods, services, works, consultancy services and information systems in compliance with the procurement procedures specified in written laws and guidelines issued from time to time by the National Procurement Commission.
 
     2. ( a ) Every public entity specified in subparagraph (i)
+        b. Every public entity specified in subparagraphs (ii)
+            - and (iii) of paragraph ( a ) of subsection (2) of section 3 shall
+            - be required to prepare and provide their annual procurement
+            - plans to the respective Chief Accounting Officer.
+
         - of paragraph ( a ) of subsection (2) of section 3 shall be required
         - to prepare and provide to the Secretary to the Treasury its
         - annual procurement plans.
-        - ( b ) Every public entity specified in subparagraphs (ii)
-        - and (iii) of paragraph ( a ) of subsection (2) of section 3 shall
-        - be required to prepare and provide their annual procurement
-        - plans to the respective Chief Accounting Officer.
 
     3. The National Procurement Commission may, if it
         - specific guidelines for State Owned Enterprises and
@@ -414,10 +478,11 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 34. **Treasury cash flow management and treasury single account system** - 
     1. ( a ) There shall be established a Committee on Cash Flow Management chaired by the Secretary to the Treasury and consisting of Deputy Secretaries, and Heads of the Departments in the Treasury and Heads of following revenue Departments: -
-        - (i) Director-General of Customs;
-        - (ii) Commissioner-General of Inland Revenue; and
-        - (iii) Commissioner-General of Excise.
-        - ( b ) The powers, duties and functions, responsibilities and operation of the Committee specified in paragraph ( a ) shall be as prescribed.
+        i. Director-General of Customs;
+            - (ii) Commissioner-General of Inland Revenue; and
+            - (iii) Commissioner-General of Excise.
+
+        b. The powers, duties and functions, responsibilities and operation of the Committee specified in paragraph ( a ) shall be as prescribed.
 
     2. There shall be a treasury single account to maintain the revenue and expenditure of the Consolidated Fund, which shall be an integrated system of bank accounts, into which all Government cash including moneys received by the public entities referred to in subparagraphs (i) and (ii) of paragraph ( a ) of subsection (2) of section 3 shall be deposited and from which expenditure of the Government and such public entities shall be made to enable public funds to be managed in a consolidated manner.
 
@@ -435,12 +500,14 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. The Secretary to the Treasury shall, subject to the approval of the Cabinet of Ministers have the authority to sign all agreements with foreign governments, or international organizations in respect of foreign grants or receive any grant from other foreign donors or domestic donors on behalf of the Government, except where a public entity is authorized by the Cabinet of Ministers in writing to sign such agreements and receive such grants.
 
     2. Funds received as grants to the Government from a
+        a. credited to the Consolidated Fund; and
+
+        b. incorporated in the draft annual budget of the public
+            - entity responsible for executing the grant.
+
         - foreign government, international organization, or other
         - foreign donor (in this section referred to as the “foreign
         - grants”) or domestic donor shall be –
-        - ( a ) credited to the Consolidated Fund; and
-        - ( b ) incorporated in the draft annual budget of the public
-        - entity responsible for executing the grant.
 
     3. Any public entity which receives grant in any kind
         - under this section shall determine and record the monetary
@@ -471,11 +538,14 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     2. The Secretary to the Treasury shall submit a report on the performance of statutory funds to the Cabinet of Ministers, at least once in every year.
 
     3. Every statutory fund shall –
-        - ( a ) comply with any directive issued by the Secretary to the Treasury in exercising the powers, duties, and functions under this Act and any other written law;
-        - ( b )   (i)    submit draft annual budget estimates endorsed by the Chief Accounting Officer of the statutory fund and the relevant Minister to the Secretary to the Treasury for approval;
-        - (ii) prepare their budget proposals in line with the provisions of the budget call circular issued by the Secretary to the Treasury if any statutory fund is funded by annual budget;
-        - ( c ) submit regular reports on its performance to the Secretary to the Treasury as may be prescribed; and
-        - ( d ) submit other information as may be required in writing by the Secretary to the Treasury.
+        a. comply with any directive issued by the Secretary to the Treasury in exercising the powers, duties, and functions under this Act and any other written law;
+
+        b. (i)    submit draft annual budget estimates endorsed by the Chief Accounting Officer of the statutory fund and the relevant Minister to the Secretary to the Treasury for approval;
+            - (ii) prepare their budget proposals in line with the provisions of the budget call circular issued by the Secretary to the Treasury if any statutory fund is funded by annual budget;
+
+        c. submit regular reports on its performance to the Secretary to the Treasury as may be prescribed; and
+
+        d. submit other information as may be required in writing by the Secretary to the Treasury.
 
     4. Any non statutory fund shall cease its operations from the date of coming into operation of this Act and shall be dissolved within one year from such date and the moneys lying to the credit of such fund shall be remitted to the Consolidated Fund after discharging the liabilities of such fund:
         - Provided however, where the Minister of Finance in consultation with the Secretary to the Treasury, determines that such a non-statutory fund shall continue in operation, such fund shall be converted to a statutory fund as may be prescribed.
@@ -483,32 +553,41 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 40. **General principles of public investment management and Public Investment Committee** - 
     1. The selection and implementation of a public investment project, including a public private partnership project shall be in compliance with –
-        - ( a ) the objects specified in section 2;
-        - ( b ) the fiscal responsibility framework provided for in Part III; and
-        - ( c ) Sri Lanka’s national development policy framework, national policies, sectoral plans, and public investment programme.
+        a. the objects specified in section 2;
+
+        b. the fiscal responsibility framework provided for in Part III; and
+
+        c. Sri Lanka’s national development policy framework, national policies, sectoral plans, and public investment programme.
 
     2. The Minister of Finance shall establish a Public Investment Committee consisting of   –
-        - ( a ) the Heads of the Departments in the General Treasury responsible for the following subject areas:-
-        - (i) national planning;
-        - (ii) public finance;
-        - (iii) fiscal policy;
-        - (iv) national budget;
-        - (v ) public debt management;
-        - (vi) external resources;
-        - (vii) treasury operations;
-        - (viii) public enterprises;
-        - (ix) management services;
-        - (x) project management and monitoring; and
-        - ( b ) the authority in charge of the subject of public- private partnerships.
+        a. the Heads of the Departments in the General Treasury responsible for the following subject areas:-
+
+        i. national planning;
+            - (ii) public finance;
+            - (iii) fiscal policy;
+            - (iv) national budget;
+
+        v. public debt management;
+            - (vi) external resources;
+            - (vii) treasury operations;
+            - (viii) public enterprises;
+            - (ix) management services;
+
+        x. project management and monitoring; and
+
+        b. the authority in charge of the subject of public- private partnerships.
 
     3. The Chairperson of the Public Investment Committee shall be the Secretary to the Treasury.
 
     4. The Secretary to the Public Investment Committee shall be an officer of the Department responsible for the subject of national planning, nominated by the Secretary to the Treasury.
 
     5. The Public Investment Committee shall be responsible for –
-        - ( a ) the selection of public investment projects including public-private partnership projects specified in section 42, based on the criteria that shall be published by the Ministry of the Minister of Finance;
-        - ( b ) making recommendations to the Minister of Finance on the mode of financing for such projects, including financing from the annual budget; and
-        - ( c ) supervising the implementation of the provisions of this Act and the regulations made thereunder pertaining to public investment projects ,  including public private partnership projects, and making recommendations as are deemed necessary to the Minister of Finance.
+        a. the selection of public investment projects including public-private partnership projects specified in section 42, based on the criteria that shall be published by the Ministry of the Minister of Finance;
+
+        b. making recommendations to the Minister of Finance on the mode of financing for such projects, including financing from the annual budget; and
+
+        c. supervising the implementation of the provisions of this Act and the regulations made thereunder pertaining to public investment projects ,  including public private partnership projects, and making recommendations as are deemed necessary to the Minister of Finance.
+
 
 41. **Public investment programme** - 
     1. There shall be a public investment programme consisting of all ongoing and prospective public investment projects, including   public-private partnership projects planned based on the national development policy framework. The public investment programme   shall be prepared by the Department responsible for the subject of national planning in the manner as may be prescribed and approved   by the Minister of Finance   and be published in the official website of the Ministry of the Minister of Finance and be updated annually.
@@ -516,8 +595,10 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     2. Each budgetary entity which intends to implement a new public investment project, including a public private partnership project by fifteenth day of May in any year shall submit the project proposal including prescribed details to the Department responsible for the subject of national planning.
 
     3. The Department responsible for the subject of national planning shall –
-        - ( a ) review project proposals including prefeasibility and feasibility study reports submitted by budgetary entities in accordance with the appraisal methodologies as may be prescribed;
-        - ( b ) accept or reject the project proposals to be included in public investment programme based on its appraisal of project proposals and subject to its consistency with national development plan of Sri Lanka and the fiscal strategy statement including the medium-term fiscal framework.
+        a. review project proposals including prefeasibility and feasibility study reports submitted by budgetary entities in accordance with the appraisal methodologies as may be prescribed;
+
+        b. accept or reject the project proposals to be included in public investment programme based on its appraisal of project proposals and subject to its consistency with national development plan of Sri Lanka and the fiscal strategy statement including the medium-term fiscal framework.
+
 
 42. **Project selection and budgeting** - 
     1. Each budgetary entity may propose to the Minister of Finance public investment project, including a public- private partnership project for inclusion in the annual budget, if such proposed projects are included in the public investment programme referred to in section 41.
@@ -525,30 +606,37 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     2. Any proposal for a public investment project, including a public-private partnership project referred to in subsection (1), shall be included in the budget proposal of the budgetary entity, in a form specified in the budget call circulars issued by the Secretary to the Treasury.
 
     3. Subject to the ceilings set out in the budget call circulars, the Public Investment Committee shall –
-        - ( a ) review the proposed public investment projects, including public-private partnership projects according to the project selection criteria as may be prescribed and prepare a list of prioritized projects for the approval of the Minister of Finance and for the inclusion in the draft annual budget for approval by the Cabinet of Ministers; and
-        - ( b ) recommend appropriate funding sources for projects, taking into account the available fiscal space and other relevant matters which need consideration.
+        a. review the proposed public investment projects, including public-private partnership projects according to the project selection criteria as may be prescribed and prepare a list of prioritized projects for the approval of the Minister of Finance and for the inclusion in the draft annual budget for approval by the Cabinet of Ministers; and
+
+        b. recommend appropriate funding sources for projects, taking into account the available fiscal space and other relevant matters which need consideration.
 
     4. The Minister of Finance shall ensure that any appropriation through annual budget shall not be made to a public investment project, including a public-private partnership project which is not included in the public investment programme.
 
     5. Notwithstanding the provisions of subsections (1) and (2), public investment projects that are specifically developed in response to natural disasters or emergencies declared by the Government may be considered outside the public investment programme. Such public investment projects shall be subject to the criteria and procedures as may be prescribed.
 
     6. The Public Investment projects referred to in subsection (5) shall be –
-        - ( a ) subjected to the provisions of any applicable written law; and
-        - ( b ) approved by the Cabinet of Ministers .
+        a. subjected to the provisions of any applicable written law; and
+
+        b. approved by the Cabinet of Ministers .
+
 
 43. **Public-private partnership projects** - 
     1. The public-private partnership projects shall be subjected to the same procedure followed in respect of public investment projects under this Act. Additional provisions applicable to public-private partnership projects may be as prescribed. The Minister of Finance may include a public- private partnership project in the annual budget only if -
-        - ( a ) such project is considered as a project which offers an economic return in terms of prescribed economic, social and environmental criteria;
-        - ( b ) any guarantees provided by the Government on public-private partnerships do not exceed the ceilings under the medium- term fiscal framework; and
-        - ( c ) the risk borne by the Government in a public-private partnership project is deemed reasonable and fiscally affordable, and the proposed risk mitigation strategies are deemed sufficient and taking such risk is required for the project’s efficient implementation.
+        a. such project is considered as a project which offers an economic return in terms of prescribed economic, social and environmental criteria;
+
+        b. any guarantees provided by the Government on public-private partnerships do not exceed the ceilings under the medium- term fiscal framework; and
+
+        c. the risk borne by the Government in a public-private partnership project is deemed reasonable and fiscally affordable, and the proposed risk mitigation strategies are deemed sufficient and taking such risk is required for the project’s efficient implementation.
 
     2. The public-private partnership projects shall be included in the list of prioritized projects referred to in paragraph ( a ) of subsection (3) of section 42 for the approval of the Minister of Finance for the inclusion in the annual budget.
 
     3. Any expenditure from the Consolidated Fund on an approved public-private partnership project shall be appropriated in the Appropriation Act for the relevant financial year and the total costs of the public-private partnership project over its lifetime shall be disclosed in the annual budget document.
 
     4. Upon the approval of the Cabinet of Ministers for a public-private partnership project, the Ministry of the Minister of Finance shall ensure that –
-        - ( a ) an estimate of the contingent liabilities associated with all public-private partnership projects is included in the fiscal strategy statement; and
-        - ( b ) reports on the execution of public-private partnership projects and their financial impact   are submitted to the Parliament with the annual report of the Ministry of the Minister of Finance.
+        a. an estimate of the contingent liabilities associated with all public-private partnership projects is included in the fiscal strategy statement; and
+
+        b. reports on the execution of public-private partnership projects and their financial impact   are submitted to the Parliament with the annual report of the Ministry of the Minister of Finance.
+
 
 44. **Project monitoring and evaluation** - 
     1. Each public entity shall ensure that all public investment projects, including public-private partnership projects be delivered on time within the budgetary allocation, and in accordance with the guidelines issued by the Secretary to the Treasury.
@@ -565,9 +653,11 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 45. **Reporting** - 
     1. A report together with information relate to all new projects approved by the Public Investment Committee, and ongoing public investment projects, including public- private partnership projects shall be included in the annual budget document. Such report shall contain -
-        - ( a ) the name of each project, the starting date or dates and expected completion date or dates, a summary of the objectives and scope of the project;
-        - ( b ) total project cost including expenditure already incurred on the project, an estimate of annual expenditure over the medium term and financing sources; and
-        - ( c ) any other information as may be deemed appropriate by the Minister of Finance.
+        a. the name of each project, the starting date or dates and expected completion date or dates, a summary of the objectives and scope of the project;
+
+        b. total project cost including expenditure already incurred on the project, an estimate of annual expenditure over the medium term and financing sources; and
+
+        c. any other information as may be deemed appropriate by the Minister of Finance.
 
     2. The Secretary to the Treasury shall be responsible for maintaining an updated data repository on public investment projects, including public-private partnership projects.
         - PART X
@@ -577,9 +667,11 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 47. **Financial reporting** - 
     1. The financial statements of the Government shall –
-        - ( a ) be prepared complying with the standards to be developed based on the international public sector accounting standards;
-        - ( b ) promote transparency in the disclosure to public of financial information and effective management of revenue, expenditure, assets and liabilities of the public entities to which the accounting standards apply; and
-        - ( c ) be aimed at the advancement of financial reporting in the public sector.
+        a. be prepared complying with the standards to be developed based on the international public sector accounting standards;
+
+        b. promote transparency in the disclosure to public of financial information and effective management of revenue, expenditure, assets and liabilities of the public entities to which the accounting standards apply; and
+
+        c. be aimed at the advancement of financial reporting in the public sector.
 
     2. The budgetary entities shall prepare and submit to the Auditor-General annual financial statement and information in the manner and with the frequency and detail as specified in relevant written laws.
 
@@ -587,9 +679,10 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - Provided however, the accounts of every budgetary entity shall reflect all necessary information.
 
     4. Not later than one hundred and eighty days after the closure of every financial year –
-        - ( a ) each public entity covered in subparagraph (i) of paragraph ( a ) of subsection (2) of section 3 shall publish an annual performance report; and
-        - ( b ) each public entity covered in subparagraph (ii) and (iii) of paragraph ( a ) of subsection (2) of section 3 shall publish an annual report,
-        - that shall include inter-alia the accounts and other financial statements to fulfill the requirements specified in the relevant written laws and regulations made thereunder.
+        a. each public entity covered in subparagraph (i) of paragraph ( a ) of subsection (2) of section 3 shall publish an annual performance report; and
+
+        b. each public entity covered in subparagraph (ii) and (iii) of paragraph ( a ) of subsection (2) of section 3 shall publish an annual report,
+            - that shall include inter-alia the accounts and other financial statements to fulfill the requirements specified in the relevant written laws and regulations made thereunder.
 
     5. The Secretary to the Treasury shall periodically issue, publish, and review the instructions, directives, processes, procedures, and systems for accounting and reporting.
 
@@ -597,8 +690,9 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 48. **Power to require information** - 
     1. The Secretary to the Treasury shall have power to require the public entities specified in subparagraphs (i), (ii) and (iii) of paragraph ( a ) of subsection (2) of section 3   to furnish regular reports or any other information on ad – hoc basis –
-        - ( a ) which are necessary for the preparation of the statements and reports referred to in this Part and may be necessary to exercise his functions; and
-        - ( b ) on matters relating to their financial management.
+        a. which are necessary for the preparation of the statements and reports referred to in this Part and may be necessary to exercise his functions; and
+
+        b. on matters relating to their financial management.
 
     2. The Head of every public entity shall furnish the information and reports required to be furnished by the Secretary to the Treasury under subsection (1) within the timeframe and in the form specified by the Secretary to the Treasury.
 
@@ -606,24 +700,36 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. A budget economic and fiscal position report shall cause to be tabled in Parliament by the Minister of Finance on the day fixed for the second reading of the Appropriation Bill in Parliament, in each year.
 
     2. The budget economic and fiscal position report shall contain, the following information in the format as may be prescribed in relation to the current and immediately succeeding financial year : -
-        - ( a ) estimates relating to the gross domestic product;
-        - ( b ) estimates relating to consumer prices;
-        - ( c ) estimates  relating  to  employment  and unemployment;
-        - ( d ) estimates relating to the current account position of the balance of payments;
-        - ( e ) estimates relating to revenue and expenditure;
-        - ( f ) estimates relating to Government borrowing;
-        - ( g ) the basis, economic or otherwise which has been used in the preparation of the estimates specified in paragraphs ( a ) to ( f );
-        - ( h ) a statement relating to the sensitivity of the estimates specified in paragraphs ( a ) to ( f ) and the changes which may occur in connection with the economic or other basis used in the preparation of such estimates;
-        - ( i ) a statement, quantified as far as practicable, the risks that may have a material effect on the fiscal position such as contingent liabilities including guarantees and indemnities granted by the Government under any written law;
-        - ( j ) public announcements relating to proposals of the Government in connection with Government spending not included in the estimates referred to in paragraph ( e );
-        - ( k ) ongoing negotiations of the Government which have not been finalized, updates to the fiscal strategy statement and the medium-term fiscal framework since the publication of the original statement; and
-        - ( l ) such other information which may be necessary to reflect fairly the financial position of the Government in respect of each such financial year.
+        a. estimates relating to the gross domestic product;
+
+        b. estimates relating to consumer prices;
+
+        c. estimates  relating  to  employment  and unemployment;
+
+        d. estimates relating to the current account position of the balance of payments;
+
+        e. estimates relating to revenue and expenditure;
+
+        f. estimates relating to Government borrowing;
+
+        g. the basis, economic or otherwise which has been used in the preparation of the estimates specified in paragraphs ( a ) to ( f );
+
+        h. a statement relating to the sensitivity of the estimates specified in paragraphs ( a ) to ( f ) and the changes which may occur in connection with the economic or other basis used in the preparation of such estimates;
+
+        i. a statement, quantified as far as practicable, the risks that may have a material effect on the fiscal position such as contingent liabilities including guarantees and indemnities granted by the Government under any written law;
+
+        j. public announcements relating to proposals of the Government in connection with Government spending not included in the estimates referred to in paragraph ( e );
+
+        k. ongoing negotiations of the Government which have not been finalized, updates to the fiscal strategy statement and the medium-term fiscal framework since the publication of the original statement; and
+
+        l. such other information which may be necessary to reflect fairly the financial position of the Government in respect of each such financial year.
 
     3. Subject to the provisions of subsection (4), the information contained in the budget economic and fiscal position report shall take into account, as far as possible, all Government decisions and all other circumstances that may have material effect on the fiscal and economic position of the Government.
 
     4. Nothing contained in this section shall be read and construed as requiring the inclusion in the budget economic and fiscal position report, a disclosure of any information, in view of the written opinion of the Minister of Finance, if such details or information -
-        - ( a ) be prejudicial to the national security; or
-        - ( b ) compromise Sri Lanka in a material way, in negotiation, litigation or commercial activity.
+        a. be prejudicial to the national security; or
+
+        b. compromise Sri Lanka in a material way, in negotiation, litigation or commercial activity.
 
     5. The Report shall be published on the official website of the Ministry of the Minister of Finance upon submission to Parliament.
 
@@ -631,45 +737,57 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. The Minister of Finance shall cause to be released to the public, in respect of every year, a mid-year fiscal position report to provide a basis for the public to evaluate the Government’s mid-year fiscal performance as against its fiscal strategy as set out in its statement.
 
     2. The mid-year fiscal position report in respect of a financial year shall contain –
-        - ( a ) a statement of the estimated and actual expenditure for the first six months of that year;
-        - ( b ) a statement of the estimated and actual revenue for the first six months of that year;
-        - ( c ) a statement of the estimated and actual cash flows for the first six months of that year;
-        - ( d ) a statement of the estimated and actual borrowings for the first six months of that year; and
-        - ( e ) such other statements which may be necessary to reflect fairly, the financial position of the Government in respect of the first six months of such financial year.
+        a. a statement of the estimated and actual expenditure for the first six months of that year;
+
+        b. a statement of the estimated and actual revenue for the first six months of that year;
+
+        c. a statement of the estimated and actual cash flows for the first six months of that year;
+
+        d. a statement of the estimated and actual borrowings for the first six months of that year; and
+
+        e. such other statements which may be necessary to reflect fairly, the financial position of the Government in respect of the first six months of such financial year.
 
     3. Where there is a shortfall in the estimated revenue or cash flow, or an excess in the estimated expenditure or borrowings, the mid-year fiscal position report shall state the reasons for such shortfall or excess.
 
     4. Subject to the provisions of subsection (5), the information contained in the mid-year fiscal position report shall take into account, as far as possible, all Government decisions and all other circumstances that may have a material effect on the fiscal position including decisions taken and circumstance that exist, after the passing of the Appropriation Act for that year.
 
     5. Nothing contained in this section shall be read and construed as requiring the inclusion in the mid- year fiscal position report or the disclosure of any information, in view of the written opinion of the Minister of Finance, if such details or information -
-        - ( a ) be prejudicial to the national security; or
-        - ( b ) compromise Sri Lanka in a material way, in negotiation, litigation or commercial activity.
+        a. be prejudicial to the national security; or
+
+        b. compromise Sri Lanka in a material way, in negotiation, litigation or commercial activity.
 
     6. Where any information on any matter required to be included in a mid-year fiscal position report remains unchanged from the information in relation to such matter as is included in the last budget economic and fiscal position report, the mid-year fiscal position report shall state that such information remains so unchanged.
 
     7. The mid-year fiscal position report shall be published in the website of the Ministry of the Minister of Finance, by the last day of the month of October of the relevant year or the lapse of ten months from the date of the passing of the Appropriation Act of the relevant year, whichever is later.
 
     8. The Minister of Finance shall –
-        - ( a ) if Parliament is sitting on the date of the release of the mid- year fiscal position report, cause a copy of such report to be tabled in Parliament within two weeks of the date of such release; or
-        - ( b ) if Parliament is not sitting on the date of the release of the mid-year fiscal position report, cause a copy of such report to be tabled in Parliament within two weeks of the next sitting of Parliament.
+        a. if Parliament is sitting on the date of the release of the mid- year fiscal position report, cause a copy of such report to be tabled in Parliament within two weeks of the date of such release; or
+
+        b. if Parliament is not sitting on the date of the release of the mid-year fiscal position report, cause a copy of such report to be tabled in Parliament within two weeks of the next sitting of Parliament.
+
 
 51. **Final budget position report** - 
     1. The Minister of Finance shall cause to be released to the public, in respect of each financial year, a final budget position report as a part of the annual report of the Ministry of the Minister of Finance to provide a basis for the public to evaluate the Government’s annual fiscal performance as against its fiscal strategy as set out in its statement for the relevant financial year.
 
     2. The final budget position report in respect of a financial year shall  contain -
-        - ( a ) a statement of the estimated and actual expenditure for that year;
-        - ( b ) a statement of the estimated and actual revenue for that year;
-        - ( c ) a statement of the estimated and actual cash flows for that year;
-        - ( d ) a statement of the estimated and actual borrowings for that year; and
-        - ( e ) such other statements which may be necessary to reflect fairly the financial position of the Government at the end of such financial year.
+        a. a statement of the estimated and actual expenditure for that year;
+
+        b. a statement of the estimated and actual revenue for that year;
+
+        c. a statement of the estimated and actual cash flows for that year;
+
+        d. a statement of the estimated and actual borrowings for that year; and
+
+        e. such other statements which may be necessary to reflect fairly the financial position of the Government at the end of such financial year.
 
     3. Where there is a shortfall in the estimated revenue or cash flow or an excess in the estimated expenditure that caused deviation from the primary expenditure limit or an excess in the estimated borrowing, the final budget position report shall state the reasons for such shortfall or excess.
 
     4. The final budget position report shall be published on the website of the Ministry of the Minister of Finance, not later than six months from the end of the financial year.
 
     5. The Minister of Finance shall –
-        - ( a ) if Parliament is sitting on the date of the release of the final budget position report, cause a copy of such report to be tabled in Parliament within two weeks of the date of such release; or
-        - ( b ) if Parliament is not sitting on the date of the release of the final budget position report, cause a copy of such report to be tabled in Parliament within two weeks of the next sitting of Parliament.
+        a. if Parliament is sitting on the date of the release of the final budget position report, cause a copy of such report to be tabled in Parliament within two weeks of the date of such release; or
+
+        b. if Parliament is not sitting on the date of the release of the final budget position report, cause a copy of such report to be tabled in Parliament within two weeks of the next sitting of Parliament.
 
     6. The final budget position report for a financial year may be incorporated the budget economic and fiscal position report in respect of a financial year, which is introduced after the commencement of that financial year.
 
@@ -677,37 +795,47 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. The Secretary to the Treasury, shall within three weeks of the publication of proclamation or Order requiring the holding of a General Election to elect the members of Parliament, cause to be released to the public a pre-election budgetary position report containing information on the fiscal position of the country.
 
     2. Every pre-election budgetary position report shall contain the following information for the current financial year: -
-        - ( a ) estimates of revenue and expenditure;
-        - ( b ) estimates of the Government borrowings;
-        - ( c ) the economic and other assumptions that have been used in preparing such estimates;
-        - ( d ) a statement of the risks, quantified where practicable, that may have material effect on the fiscal position, such as -
-        - (i) contingent liabilities including guarantees and indemnities given by the Government under any Act;
-        - (ii) publicly announced proposals for spending by the Government that have not been included in the estimates referred to in paragraph ( a ); and
-        - (iii) Government negotiations in progress and not finalized; and
-        - ( e ) such other information as may be necessary to reflect fairly the financial position of the Government as at the date of the said report.
+        a. estimates of revenue and expenditure;
+
+        b. estimates of the Government borrowings;
+
+        c. the economic and other assumptions that have been used in preparing such estimates;
+
+        d. a statement of the risks, quantified where practicable, that may have material effect on the fiscal position, such as -
+
+        i. contingent liabilities including guarantees and indemnities given by the Government under any Act;
+            - (ii) publicly announced proposals for spending by the Government that have not been included in the estimates referred to in paragraph ( a ); and
+            - (iii) Government negotiations in progress and not finalized; and
+
+        e. such other information as may be necessary to reflect fairly the financial position of the Government as at the date of the said report.
 
     3. Subject to the provisions of subsection (4), the information in the pre-election budgetary position report shall, take into account to the fullest possible, extent any decision of the Government having a material effect on the fiscal position.
 
     4. Nothing in this section shall be read or construed as requiring the inclusion in a pre-election budgetary position report or the disclosure of any information, in view of the written opinion of the Minister of Finance, if such details or information -
-        - ( a ) be prejudicial to the national security; or
-        - ( b ) compromise Sri Lanka in a material way, in negotiation, litigation or commercial activity.
+        a. be prejudicial to the national security; or
+
+        b. compromise Sri Lanka in a material way, in negotiation, litigation or commercial activity.
 
     5. Where information on any matter required to be included in a pre- election budgetary position report remains unchanged from the information on that matter included in a previous budget economic and fiscal position report or a mid-year fiscal position report, the pre-election budgetary position report shall state such information remains unchanged from the information included in either or both of these previous reports.
 
     6. Every   pre-election   budgetary   position report   shall be accompanied with –
-        - ( a ) a statement signed by the Minister of Finance, for the purpose that the Minister of Finance has complied with the requirements of subsection (8);
-        - ( b ) a statement by the Secretary to the Treasury, for the purpose that the information in the report –
-        - (i) reflects the best professional judgement of the officers of the Ministry of the Minister of Finance;
-        - (ii) takes into account all economic and fiscal information available to the Ministry of the Minister of Finance; and
-        - (iii) incorporates the fiscal implications of the Government decisions and circumstances disclosed by the Minister of Finance under subsection (8),
-        - to the fullest extent possible.
+        a. a statement signed by the Minister of Finance, for the purpose that the Minister of Finance has complied with the requirements of subsection (8);
+
+        b. a statement by the Secretary to the Treasury, for the purpose that the information in the report –
+
+        i. reflects the best professional judgement of the officers of the Ministry of the Minister of Finance;
+            - (ii) takes into account all economic and fiscal information available to the Ministry of the Minister of Finance; and
+            - (iii) incorporates the fiscal implications of the Government decisions and circumstances disclosed by the Minister of Finance under subsection (8),
+            - to the fullest extent possible.
 
     7. The Minister of Finance shall, within two weeks of the first sitting of the new Parliament, cause a copy of the report specified in subsection (1) to be placed before Parliament and such report shall be published in the official website of the Ministry of the Minister of Finance.
 
     8. For the purpose of enabling the Secretary to the Treasury to prepare a pre- election budgetary position report under this section, the Minister of Finance shall, within one week of the publication of the proclamation or Order requiring the holding of a General Election for the election
+        a. within the knowledge of the Minister of Finance; and
+
+        b. which have, or could have, material fiscal or economic implications.
+
         - of members of Parliament, disclose to the Secretary to the Treasury details of all Government decisions and other circumstances –
-        - ( a ) within the knowledge of the Minister of Finance; and
-        - ( b ) which have, or could have, material fiscal or economic implications.
 
 53. **Reports on financial performance of the Ministry of the Minister of Finance** - 
     1. On at least a quarterly basis, the Minister of Finance shall provide a statement on financial performance including revenue and expenditure, of the Government to the Cabinet of Ministers and such statement shall be simultaneously published on the official website of the Ministry of the Minister of Finance, not later than forty five days after the end of each quarter in the manner as may be prescribed.
@@ -724,10 +852,11 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     2. Any claim for the write off of losses shall be considered by the Secretary to the Treasury subject to the relevant written laws and having regard to the prescribed limit of losses.
 
     3. A waiver is an abandonment or cancellation of an amount of money due to the Government. Waivers other than those arising out of losses fall into following two distinct categories: -
-        - ( a ) certain statutes empower authorized officers to waive   items of revenue or other dues to Government in the administration of such statutes. The officers so authorized may deal with the cancellation or wavier of Government dues without further authority;
-        -     ( b ) (i)where the collection of revenue is provided by statute, but no provision exists therein to waive or abandon a claim; and
-        - (ii) where the waiver of irrecoverable revenue or other Government dues not falling within the provisions of paragraph ( a ) of this section and subparagraph (i) of this paragraph,
-        - authority of the Secretary to the Treasury shall be sought.
+        a. certain statutes empower authorized officers to waive   items of revenue or other dues to Government in the administration of such statutes. The officers so authorized may deal with the cancellation or wavier of Government dues without further authority;
+
+        b. (i)where the collection of revenue is provided by statute, but no provision exists therein to waive or abandon a claim; and
+            - (ii) where the waiver of irrecoverable revenue or other Government dues not falling within the provisions of paragraph ( a ) of this section and subparagraph (i) of this paragraph,
+            - authority of the Secretary to the Treasury shall be sought.
 
     4. Details of actions, authority limits, timelines and guidance on investigation, reporting, recovery and write- off of a loss or damage shall be provided in the manner as may be prescribed.
         - PART XII
@@ -742,15 +871,21 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 57. **Authority of the relevant Minister on State-Owned Enterprises** - 
     1. The relevant Minister shall not submit any proposal for the establishment of a State-Owned Enterprise in accordance with section 56 –
-        - ( a ) without having a clear justification of the requirement of such entity;
-        - ( b ) which is not under the purview of the portfolio of the Ministry of the relevant Minister;
-        - ( c ) if any other State-Owned Enterprise exists with similar functions under the Ministry of the relevant Minister or any other Ministry; or
-        - ( d ) without considering the long term benefits and risks associated with such establishment or incorporation including the costs to the Government.
+        a. without having a clear justification of the requirement of such entity;
+
+        b. which is not under the purview of the portfolio of the Ministry of the relevant Minister;
+
+        c. if any other State-Owned Enterprise exists with similar functions under the Ministry of the relevant Minister or any other Ministry; or
+
+        d. without considering the long term benefits and risks associated with such establishment or incorporation including the costs to the Government.
 
     2. The relevant Minister shall ensure that -
-        - ( a ) every State-Owned Enterprise under his purview shall provide information required by the Minister of Finance including the submission of documents specified in section 61;
-        - ( b ) the annual budget of the State-Owned Enterprises is in line with the fiscal strategy statement; and
-        - ( c ) the annual budget of the State-Owned Enterprises reflects the risk factors and the strategies to mitigate those risks.
+        a. every State-Owned Enterprise under his purview shall provide information required by the Minister of Finance including the submission of documents specified in section 61;
+
+        b. the annual budget of the State-Owned Enterprises is in line with the fiscal strategy statement; and
+
+        c. the annual budget of the State-Owned Enterprises reflects the risk factors and the strategies to mitigate those risks.
+
 
 58. **Powers and duties of the Secretary to the Treasury regarding State- Owned Enterprises** - 
     1. The Secretary to the Treasury may, as he deemed necessary issue directives on policy matters for State-Owned Enterprises covering accountability and governance requirements, review of their financial performance and any other matters including administration, budgeting, procurement, investment, finance and reporting, subject to relevant written laws.
@@ -766,7 +901,7 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 60. **Levy or dividends from State-Owned Enterprises** - 
     1. ( a ) Where applicable, there shall be a dividend policy that shall be set by the respective governing bodies of State-Owned Enterprises, in consultation with the Secretary to the Treasury.
-        - ( b ) The Minister of Finace may impose a levy on State- Owned Enterprise where applicable and may exempt a State- Owned Enterprise from the imposition of such levy. Such levy shall be published in the annual report under subsection (3) of section 53.
+        b. The Minister of Finace may impose a levy on State- Owned Enterprise where applicable and may exempt a State- Owned Enterprise from the imposition of such levy. Such levy shall be published in the annual report under subsection (3) of section 53.
 
     2. Dividends or other profit distribution from State- Owned Enterprises paid to Government shall be paid into the Consolidated Fund and reflected in the annual budget presented to the Parliament.
 
@@ -776,10 +911,13 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 61. **Reports of State- Owned Enterprises** - 
     1. Every   State-Owned Enterprise shall prepare and submit to the Secretary to the Treasury –
-        - ( a ) a medium-term strategic or corporate plan;
-        - ( b ) an annual budget, an annual action plan including information on their capital projects and procurement plan;
-        - ( c ) an annual report; and
-        - ( d ) any other report as may be prescribed.
+        a. a medium-term strategic or corporate plan;
+
+        b. an annual budget, an annual action plan including information on their capital projects and procurement plan;
+
+        c. an annual report; and
+
+        d. any other report as may be prescribed.
 
     2. The Secretary to the Treasury shall from time to time publish the formats, timelines and directions of the reports referred to in subsection (1).
 
@@ -806,11 +944,13 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     2. The Head of the relevant public entity shall take, or in the event that he is not the disciplinary authority of the officer alleged to have committed the   financial misconduct, shall immediately inform the disciplinary authority of the disciplinary action against the officer or employee who is liable to the financial misconduct under subsection (1).
 
     3. ( a ) Where an offence under this Act or any regulation or rule made thereunder is committed by a body of persons, if such body of persons is -
-        - (i) a body corporate, every director and officer of such body corporate including the chief executive officer, the principal executive officer or the chief administrative officer as the case may be of that body corporate; or
-        - (ii) a partnership, every partner of such partnership,
-        - shall be deemed to have committed that offence.
-        - ( b ) The Secretary of the Ministry of the relevant Minister shall immediately take disciplinary action against the body of persons who is liable for the financial misconduct under paragraph ( a ):
-        - Provided that any officer or body of persons as the case may be, shall not be deemed to have committed such offence, if such person proves to the satisfaction of the disciplinary authority that such offence was committed without his knowledge or that such person exercised all due diligence as was necessary, to prevent the commission of such offence.
+        i. a body corporate, every director and officer of such body corporate including the chief executive officer, the principal executive officer or the chief administrative officer as the case may be of that body corporate; or
+            - (ii) a partnership, every partner of such partnership,
+            - shall be deemed to have committed that offence.
+
+        b. The Secretary of the Ministry of the relevant Minister shall immediately take disciplinary action against the body of persons who is liable for the financial misconduct under paragraph ( a ):
+            - Provided that any officer or body of persons as the case may be, shall not be deemed to have committed such offence, if such person proves to the satisfaction of the disciplinary authority that such offence was committed without his knowledge or that such person exercised all due diligence as was necessary, to prevent the commission of such offence.
+
 
 65. **Report the non- compliance to the Cabinet of Ministers** - The Chief Accounting Officer, through the relevant Minister shall report to the Cabinet of Ministers, any non– compliance of a public entity coming under the purview of such Minister, with the requirements stipulated under this Act or any regulations made thereunder.
     - PART XVI
@@ -821,19 +961,24 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. The Minister of Finance may make regulations in respect of matters required by this Act to be prescribed or in respect of which regulations are authorized to be made.
 
     2. Without prejudice to the generality of the powers contained in subsection (1), the Minister of Finance may make regulations -
-        - ( a ) on establishing commitments, paying obligations, and other requirements for an effective commitment control system;
-        - ( b ) by classifying arrears; and
-        - ( c ) on the management of and settlement of arrears, the reporting requirements of arrears, the inclusion of arrears in the annual debt report required under relevant written laws applicable to the management of public debt, and such other matters in relation to the control of arrears.
+        a. on establishing commitments, paying obligations, and other requirements for an effective commitment control system;
+
+        b. by classifying arrears; and
+
+        c. on the management of and settlement of arrears, the reporting requirements of arrears, the inclusion of arrears in the annual debt report required under relevant written laws applicable to the management of public debt, and such other matters in relation to the control of arrears.
 
     3. Every regulation made by the Minister of Finance shall be published in the  Gazette  and shall come into operation on the date of such publication or on such later date as may be specified in that regulation.
 
     4. Every regulation made by the Minister of Finance shall, within three months, after its publication in the  Gazette , be brought before Parliament for approval.
 
     6. Until such regulations are framed –
-        - ( a ) the financial regulations of the Government of the Democratic Socialist Republic of Sri Lanka approved by the Minister of Finance published in year 1992;
-        - ( b ) circulars issued by the Secretary to the President, Secretary to the Treasury and the Heads of Departments under the General Treasury; and
-        - ( c ) circular issued by a Secretary to a Ministry with the approval of the Cabinet of Ministers,
-        - with regard to public financial management shall continue to be in force, in so far as such regulations and circulars are not inconsistent with the provisions of this Act.
+        a. the financial regulations of the Government of the Democratic Socialist Republic of Sri Lanka approved by the Minister of Finance published in year 1992;
+
+        b. circulars issued by the Secretary to the President, Secretary to the Treasury and the Heads of Departments under the General Treasury; and
+
+        c. circular issued by a Secretary to a Ministry with the approval of the Cabinet of Ministers,
+            - with regard to public financial management shall continue to be in force, in so far as such regulations and circulars are not inconsistent with the provisions of this Act.
+
 
 68. **Power to issue instructions or directives** - 
     1. The Secretary to the Treasury may issue to the public entities and persons referred to in subsection (2) of section 3, directives deemed as necessary for the purpose of implementing the provisions of this Act.

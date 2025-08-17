@@ -25,7 +25,8 @@ class ActExtBodyPages:
     def to_md_lines(self):
         lines = []
         for line in self.preamble:
-            lines.extend([line, ""])
+            lines.extend([line])
+        lines.append("")
         for section in self.section_list:
             lines.extend(section.to_md_lines())
         return lines
