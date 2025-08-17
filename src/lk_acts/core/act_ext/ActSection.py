@@ -10,7 +10,7 @@ class ActSection:
     num: int
     short_description: str
     text: str
-    sub_section_list: list[ActSubsection]
+    subsection_list: list[ActSubsection]
 
     RE_SECTION = r"^(?P<num>\d+)\s*\.\s*(?P<text>.+)"
 
@@ -19,10 +19,16 @@ class ActSection:
             num=self.num,
             short_description=self.short_description,
             text=self.text,
-            sub_section_list=[
-                sub_section.to_dict() for sub_section in self.sub_section_list
+            subsection_list=[
+                sub_section.to_dict() for sub_section in self.subsection_list
             ],
         )
+
+    def to_md_lines(self):
+        lines = [f"{self.num}. **{self.short_description}** - {self.text}"]
+        for subsection in self.subsection_list:
+            lines.extend(subsection.to_md_lines())
+        return lines
 
     @staticmethod
     def parse_short_description(block_list: list[PDFBlock]):
@@ -54,7 +60,7 @@ class ActSection:
             short_description=ActSection.parse_short_description(
                 block_list[1:]
             ),
-            sub_section_list=ActSubsection.list_from_block_list(
+            subsection_list=ActSubsection.list_from_block_list(
                 block_list[1:]
             ),
         )

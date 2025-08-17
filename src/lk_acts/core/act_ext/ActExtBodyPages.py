@@ -17,3 +17,9 @@ class ActExtBodyPages:
         return ActExtBodyPages(
             section_list=ActSection.list_from_block_list(block_list)
         )
+
+    def to_md_lines(self):
+        lines = []
+        for section in self.section_list:
+            lines.extend(section.to_md_lines())
+        return lines

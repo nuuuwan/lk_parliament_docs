@@ -19,6 +19,10 @@ class ActSubsection:
             inner_text_list=[block.text for block in self.inner_block_list],
         )
 
+    def to_md_lines(self):
+        lines = [f"    {self.num}. {self.text}"]
+        return lines
+
     @classmethod
     def list_from_block_list(cls, block_list: list[PDFBlock]):
         sub_section_d_list = []
@@ -37,12 +41,12 @@ class ActSubsection:
             )
             sub_section_d_list.append(section_d)
 
-        sub_section_list = []
+        subsection_list = []
         for sub_section_d in sub_section_d_list:
             section = ActSubsection(
                 num=sub_section_d["num"],
                 text=sub_section_d["text"],
                 inner_block_list=sub_section_d["inner_block_list"],
             )
-            sub_section_list.append(section)
-        return sub_section_list
+            subsection_list.append(section)
+        return subsection_list

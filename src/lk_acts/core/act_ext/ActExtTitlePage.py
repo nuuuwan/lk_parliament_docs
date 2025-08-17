@@ -63,3 +63,25 @@ class ActExtTitlePage:
             price=self.price,
             price_postage=self.price_postage,
         )
+
+    def to_md_lines_short_info(self):
+        items = []
+        for k in [
+            "date_certified",
+            "date_published",
+            "price",
+            "price_postage",
+        ]:
+            label = k.replace("_", " ").title()
+            value = getattr(self, k)
+            item = f"{label}: **{value}**"
+            items.append(item)
+        return [", ".join(items), ""]
+
+    def to_md_lines(self):
+        return [
+            f"# {self.title}",
+            "",
+            f"No. **{self.num}** of **{self.year}**",
+            "",
+        ] + self.to_md_lines_short_info()

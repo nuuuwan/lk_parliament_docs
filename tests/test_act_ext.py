@@ -4,7 +4,7 @@ import unittest
 
 from lk_acts import ActExt
 
-TEST_PDF_PATH = os.path.join("tests", "input", "en.pdf")
+TEST_PDF_PATH = os.path.join("tests", "data", "en.pdf")
 
 
 class TestCase(unittest.TestCase):
@@ -35,6 +35,8 @@ class TestCase(unittest.TestCase):
                 "num": 1,
                 "short_description": "Short title",
                 "text": "This Act may be cited as the Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No.  28  of 2024.",
-                "sub_section_list": [],
+                "subsection_list": [],
             },
         )
+
+        act_ext.write_md(os.path.join("tests", "data", "en.md"))

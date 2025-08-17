@@ -2,9 +2,13 @@ from dataclasses import dataclass
 from functools import cached_property
 from itertools import chain
 
+from utils import File, Log
+
 from lk_acts.core.act_ext.ActExtBodyPages import ActExtBodyPages
 from lk_acts.core.act_ext.ActExtPDF import ActExtPDF
 from lk_acts.core.act_ext.ActExtTitlePage import ActExtTitlePage
+
+log = Log("ActExt")
 
 
 @dataclass
@@ -37,3 +41,10 @@ class ActExt:
             title_page=self.title_page.to_dict(),
             body_pages=self.body_pages.to_dict(),
         )
+
+    def to_md_lines(self):
+        return self.title_page.to_md_lines() + self.body_pages.to_md_lines()
+
+    def write_md(self, md_path):
+        File(md_path).write_lines(self.to_md_lines())
+        log.info(f"Wrote {md_path}")
