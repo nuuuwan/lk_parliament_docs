@@ -1,19 +1,18 @@
 from dataclasses import dataclass
 
-from lk_acts.core.act_ext.ActL4SubParagraph import ActL4SubParagraph
 from lk_acts.core.act_ext.ActLevel import ActLevel
 
 
 @dataclass
-class ActL3Paragraph(ActLevel):
+class ActL4SubParagraph(ActLevel):
 
     @classmethod
     def get_depth(cls):
-        return 3
+        return 4
 
     @classmethod
     def get_child_class(cls):
-        return ActL4SubParagraph
+        return None
 
     @classmethod
     def get_re_title(cls):
