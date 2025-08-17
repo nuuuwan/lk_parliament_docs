@@ -1,10 +1,10 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_acts](https://github.com/nuuuwan/lk_acts))
 
-Scraped  **2,392** acts (1.53 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-17 21:04:57**.
+Scraped  **2,429** acts (60.07 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-17 22:08:12**.
 
 ![Year Chart](images/chart_year.png)
 
-## Acts (2,392)
+## Acts (2,429)
 
 ### 2025 (12)
 
@@ -2375,6 +2375,46 @@ Scraped  **2,392** acts (1.53 MB) from [www.parliament.lk](https://www.parliamen
 - 🟢 `03/1956` [Income Tax (Amendment)](data/acts/1950s/1956/1956-003) (1956-02-02)
 - ⚪ `02/1956` [Revised Edition of the Legislative Enactment](data/acts/1950s/1956/1956-002) (1956-02-01)
 - 🟢 `01/1956` [Motor Traffic (Amendment)](data/acts/1950s/1956/1956-001) (1956-01-19)
+
+### 1955 (37)
+
+- ⚪ `38/1955` [Coconut Crafting](data/acts/1950s/1955/1955-038) (1955-11-12)
+- 🟢 `37/1955` [Bank of Ceylon ( Amendment)](data/acts/1950s/1955/1955-037) (1955-11-12)
+- 🟢 `36/1955` [Co-operative Wholesale Establishment ( Amendment)](data/acts/1950s/1955/1955-036) (1955-11-12)
+- ⚪ `35/1955` [Development Finance Corporation of Ceylon](data/acts/1950s/1955/1955-035) (1955-10-04)
+- 🟢 `34/1955` [Estate Duty ( Amendment)](data/acts/1950s/1955/1955-034) (1955-10-04)
+- 🟣 `33/1955` [Appropriation](data/acts/1950s/1955/1955-033) (1955-09-21)
+- ⚪ `32/1955` [Official Secrets](data/acts/1950s/1955/1955-032) (1955-09-01)
+- 🟢 `31/1955` [Post Office  (Amendment)](data/acts/1950s/1955/1955-031) (1955-09-01)
+- 🟢 `30/1955` [National Housing ( Amendment)](data/acts/1950s/1955/1955-030) (1955-08-25)
+- 🟢 `29/1955` [Commissions of Inquiry (Amendment)](data/acts/1950s/1955/1955-029) (1955-08-25)
+- 🟢 `28/1955` [Milk Board ( Amendment)](data/acts/1950s/1955/1955-028) (1955-06-29)
+- 🟢 `27/1955` [Master Attendance ( Amendment)](data/acts/1950s/1955/1955-027) (1955-06-29)
+- 🟢 `26/1955` [Houses of Detention(Amendment)](data/acts/1950s/1955/1955-026) (1955-04-27)
+- 🟢 `25/1955` [The Promissory Oaths (Amendment)](data/acts/1950s/1955/1955-025) (1955-04-27)
+- ⚪ `24/1955` [All Ceylon Buddhist Congress](data/acts/1950s/1955/1955-024) (1955-04-16)
+- 🟢 `23/1955` [Medical (Amendment)](data/acts/1950s/1955/1955-023) (1955-04-14)
+- ⚪ `22/1955` [Administrative Districts](data/acts/1950s/1955/1955-022) (1955-04-14)
+- 🟢 `20/1955` [Tea Research ( Amendment)](data/acts/1950s/1955/1955-020) (1955-04-14)
+- 🟢 `19/1955` [Governess Sub- Sponsored Corporation ( Amendment)](data/acts/1950s/1955/1955-019) (1955-04-14)
+- 🟢 `18/1955` [Fire Arms (Amendment)](data/acts/1950s/1955/1955-018) (1955-04-14)
+- ⚪ `17/1955` [Rome Convention](data/acts/1950s/1955/1955-017) (1955-04-14)
+- 🟢 `16/1955` [Immigrants & Emigrants (Amendment)](data/acts/1950s/1955/1955-016) (1955-04-14)
+- ⚪ `15/1955` [Ceylon Institute of Scientific & Industrial Research](data/acts/1950s/1955/1955-015) (1955-04-12)
+- ⚪ `14/1955` [Sri Punyawardhana Samithiya](data/acts/1950s/1955/1955-014) (1955-04-12)
+- 🟢 `13/1955` [Citizenship (Amendment)](data/acts/1950s/1955/1955-013) (1955-04-12)
+- ⚪ `12/1955` [Stay-in Strikes](data/acts/1950s/1955/1955-012) (1955-04-12)
+- 🟢 `11/1955` [Income Tax (Amendment)](data/acts/1950s/1955/1955-011) (1955-04-12)
+- ⚪ `10/1955` [Town & Country Planning](data/acts/1950s/1955/1955-010) (1955-04-08)
+- ⚪ `09/1955` [Imports & Exports (Control)](data/acts/1950s/1955/1955-009) (1955-04-08)
+- 🟢 `08/1955` [Commissions of Inquiry (Amendment)](data/acts/1950s/1955/1955-008) (1955-03-24)
+- 🟢 `07/1955` [Food Supplies (Amendment)](data/acts/1950s/1955/1955-007) (1955-03-10)
+- 🟢 `06/1955` [ceylon Savings Bank (Amendment)](data/acts/1950s/1955/1955-006) (1955-02-18)
+- ⚪ `05/1955` [Bills of Exchange](data/acts/1950s/1955/1955-005) (1955-02-18)
+- ⚪ `04/1955` [Hospitals Lotteries](data/acts/1950s/1955/1955-004) (1955-02-18)
+- 🟢 `03/1955` [Rubber Research (Amendment)](data/acts/1950s/1955/1955-003) (1955-02-18)
+- ⚪ `02/1955` [Antiquities](data/acts/1950s/1955/1955-002) (1955-02-18)
+- 🟢 `01/1955` [Rubber Replanting Subsidy (Amendment)](data/acts/1950s/1955/1955-001) (1955-01-27)
 
 ### 1954 (53)
 
