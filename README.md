@@ -1,6 +1,6 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_parliament_docs](https://github.com/nuuuwan/lk_parliament_docs))
 
-Scraped  **3,160** acts (1.11 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-17 07:44:49**.
+Scraped  **3,160** acts (1.11 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-17 08:35:32**.
 
 ![Year Chart](images/chart_year.png)
 
