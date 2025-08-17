@@ -2,7 +2,7 @@ import re
 from dataclasses import dataclass
 from functools import cached_property
 
-import PyPDF2
+import pymupdf
 
 
 class ActExtPDF:
@@ -10,24 +10,42 @@ class ActExtPDF:
         self.pdf_path = pdf_path
 
     @cached_property
-    def page_text_list(self) -> list[str]:
-        text_list = []
-        with open(self.pdf_path, "rb") as f:
-            reader = PyPDF2.PdfReader(f)
-            for page in reader.pages:
-                text_list.append(page.extract_text())
-        print("-" * 80)
-        print(text_list[0])
-        print("-" * 80)
-        return text_list
+    def page_block_list(self) -> list[str]:
+        doc = pymupdf.open(self.pdf_path)
+
+        page_block_list = []
+        for page in doc:
+            raw_block_list = page.get_text("blocks")
+            block_list = []
+            for x0, y0, x1, y1, text, *_ in raw_block_list:
+                block = dict(
+                    bbox=(x0, y0, x1, y1),
+                    text=text.strip(),
+                )
+                block_list.append(block)
+
+            page_block_list.append(block_list)
+        return page_block_list
 
     @cached_property
     def n_pages(self) -> int:
-        return len(self.page_text_list)
+        return len(self.page_block_list)
+
+    def analyze(self):
+        doc = pymupdf.open(self.pdf_path)
+        page = doc[1]
+
+        blocks = page.get_text("blocks")
+
+        for x0, y0, x1, y1, text, *_ in blocks:
+            print("-" * 32)
+            print((x0, y0, x1, y1))
+            print("." * 8)
+            print(text.strip())
 
 
 @dataclass
-class ActExt:
+class ActExtTitlePage:
     n_pages: int
     date_certified: str
     date_published: str
@@ -40,33 +58,39 @@ class ActExt:
     RE_DATE_PUBLISHED = r"of\s+([A-Za-z]+\s+\d{1,2},\s*\d{4})"
 
     @staticmethod
-    def __extract__(re_expr, text: str) -> float:
-        for line in text.split("\n"):
-            match = re.search(re_expr, line)
+    def __extract__(re_expr, block_list: list[str]) -> float:
+        for block in block_list:
+            text = block["text"]
+            match = re.search(re_expr, text)
             if match:
                 return match.group(1)
         return None
 
-    @staticmethod
-    def from_pdf(pdf_path):
+    @classmethod
+    def from_pdf(cls, pdf_path):
         act_ext_pdf = ActExtPDF(pdf_path)
+        act_ext_pdf.analyze()
+        first_page_block_list = act_ext_pdf.page_block_list[0]
 
-        first_page_text = act_ext_pdf.page_text_list[0]
-        price = ActExt.__extract__(ActExt.RE_PRICE, first_page_text)
-        price_postage = ActExt.__extract__(
-            ActExt.RE_PRICE_POSTAGE, first_page_text
+        price = cls.__extract__(ActExt.RE_PRICE, first_page_block_list)
+        price_postage = cls.__extract__(
+            ActExt.RE_PRICE_POSTAGE, first_page_block_list
         )
-        date_certified = ActExt.__extract__(
-            ActExt.RE_DATE_CERTIFIED, first_page_text
+        date_certified = cls.__extract__(
+            ActExt.RE_DATE_CERTIFIED, first_page_block_list
         )
-        date_published = ActExt.__extract__(
-            ActExt.RE_DATE_PUBLISHED, first_page_text
+        date_published = cls.__extract__(
+            ActExt.RE_DATE_PUBLISHED, first_page_block_list
         )
 
-        return ActExt(
+        return cls(
             n_pages=act_ext_pdf.n_pages,
             date_certified=date_certified,
             date_published=date_published,
             price=price,
             price_postage=price_postage,
         )
+
+
+class ActExt(ActExtTitlePage):
+    pass
