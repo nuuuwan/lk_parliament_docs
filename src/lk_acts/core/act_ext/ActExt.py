@@ -1,9 +1,11 @@
+import os
 from dataclasses import dataclass
 from functools import cached_property
 from itertools import chain
 
 from utils import File, JSONFile, Log
 
+from lk_acts.core.act import Act
 from lk_acts.core.act_ext.ActExtBodyPages import ActExtBodyPages
 from lk_acts.core.act_ext.ActExtPDF import ActExtPDF
 from lk_acts.core.act_ext.ActExtTitlePage import ActExtTitlePage
@@ -34,6 +36,13 @@ class ActExt:
                 list(chain.from_iterable(act_ext_pdf.page_block_list[1:]))
             ),
         )
+
+    @classmethod
+    def from_act_id(cls, act_id):
+        dir_path = Act.get_dir_act_data(act_id)
+        pdf_path = os.path.join(dir_path, "en.pdf")
+        assert os.path.exists(pdf_path), f"PDF not found: {pdf_path}"
+        return cls.from_pdf(pdf_path)
 
     def to_dict(self):
         return dict(

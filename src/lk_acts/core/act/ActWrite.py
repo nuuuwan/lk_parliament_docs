@@ -11,15 +11,17 @@ log = Log("ActWrite")
 class ActWrite(ActRead):
     DIR_DATA = "data"
 
+    @staticmethod
+    def get_dir_act_data(act_id):
+        tokens = act_id.split("-")
+        year = tokens[0]
+        decade = year[:3] + "0s"
+        dir_act_data = os.path.join("data", "acts", decade, year, act_id)
+        return dir_act_data
+
     @property
     def dir_act_data(self):
-        dir_act_data = os.path.join(
-            self.DIR_DATA,
-            self.get_doc_type_name(),
-            self.decade,
-            self.year,
-            self.act_id,
-        )
+        dir_act_data = self.get_dir_act_data(self.act_id)
         if not os.path.exists(dir_act_data):
             os.makedirs(dir_act_data)
         return dir_act_data

@@ -2,7 +2,7 @@
 import os
 import unittest
 
-from lk_acts import ActExt
+from lk_acts import Act, ActExt
 
 TEST_PDF_PATH = os.path.join("tests", "data", "en.pdf")
 
@@ -42,3 +42,12 @@ class TestCase(unittest.TestCase):
 
         act_ext.write_md(os.path.join("tests", "data", "en.md"))
         act_ext.write_json(os.path.join("tests", "data", "en.json"))
+
+    @unittest.skip("Requires a valid act ID")
+    def test_from_act_id(self):
+        act_id = "2024-050"
+        act_ext = ActExt.from_act_id(act_id)
+
+        dir_path = Act.get_dir_act_data(act_id)
+        act_ext.write_md(os.path.join(dir_path, f"{act_id}.md"))
+        act_ext.write_json(os.path.join(dir_path, f"{act_id}.json"))
