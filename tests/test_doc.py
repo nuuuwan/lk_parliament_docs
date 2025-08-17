@@ -1,6 +1,6 @@
 import unittest
 
-from lpd import Doc
+from lk_acts import Doc
 
 
 class TestCase(unittest.TestCase):

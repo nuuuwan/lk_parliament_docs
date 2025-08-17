@@ -3,7 +3,7 @@ from functools import cache
 
 from utils import JSONFile, Log
 
-from lpd.core.doc.DocBase import DocBase
+from lk_acts.core.doc.DocBase import DocBase
 
 log = Log("DocRead")
 

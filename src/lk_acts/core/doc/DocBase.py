@@ -48,7 +48,6 @@ class DocBase:
                 log.error(
                     f'Error parsing doc_sub_num with "{self.doc_num}": {e}'
                 )
-                pass
         return self.description.lower().replace(" ", "-")
 
     @property

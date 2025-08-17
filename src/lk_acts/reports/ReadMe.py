@@ -2,8 +2,8 @@ from pathlib import Path
 
 from utils import File, Log, Time, TimeFormat
 
-from lpd.core import Doc
-from lpd.reports.ChartYear import ChartYear
+from lk_acts.core import Doc
+from lk_acts.reports.ChartYear import ChartYear
 
 log = Log("ReadMe")
 

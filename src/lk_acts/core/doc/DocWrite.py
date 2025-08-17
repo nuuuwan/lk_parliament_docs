@@ -3,7 +3,7 @@ from pathlib import Path
 
 from utils import JSONFile, Log
 
-from lpd.core.doc.DocRead import DocRead
+from lk_acts.core.doc.DocRead import DocRead
 
 log = Log("DocWrite")
 

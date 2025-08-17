@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from utils import Log
 
-from lpd.core import Doc
+from lk_acts.core import Doc
 from utils_future import WebPage
 
 log = Log("ActsBillsPage")

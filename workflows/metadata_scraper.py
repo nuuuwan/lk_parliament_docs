@@ -4,7 +4,7 @@ import time
 
 from utils import Log
 
-from lpd import ActsBillsPage
+from lk_acts import ActsBillsPage
 
 log = Log("scrape")
 DEFAULT_MAX_DT = 1_200

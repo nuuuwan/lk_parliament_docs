@@ -1,4 +1,4 @@
-from lpd import ReadMe
+from lk_acts import ReadMe
 
 
 def main():
