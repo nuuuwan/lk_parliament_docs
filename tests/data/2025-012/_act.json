@@ -31,27 +31,23 @@
             "pre_block_list": [
               "Short title and the  date of operation"
             ],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "2",
             "text": "The provisions of this Act other than the provisions  of this section shall come into operation on such date as the  Minister may appoint by Order published in the  Gazette .",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "3",
             "text": "The provisions of this section shall come into operation  on the date on which the Bill becomes an Act of Parliament.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
@@ -72,14 +68,11 @@
                 "num": "a",
                 "text": "be a natural person;   ( b ) be a body corporate; or   ( c ) be the Secretary to the Treasury holding  shares on behalf of the Government of  Sri Lanka..",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               }
-            ],
-            "post_block_list": []
+            ]
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
@@ -88,8 +81,7 @@
         "pre_block_list": [
           "Amendment of  section 11 of  the principal  enactment"
         ],
-        "child_level_list": [],
-        "post_block_list": []
+        "child_level_list": []
       },
       {
         "class_name": "ActL1Section",
@@ -114,8 +106,7 @@
                 "num": "a",
                 "text": "any instrument that only  confers rights to subscribe  for shares in a company  under speci ed conditions,  but  not  ownership  or  entitlement to ownership in  shares, unless and until the  instrument is exercised or  redeemed; and",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
@@ -125,22 +116,18 @@
                   "Companies (Amendment) Act, No. 12 of 2025 3",
                   "bearer share means a negotiable  instrument which may contain the  rights speci ed in section 49 but  whose ownership is determined by  the simple possession of a physically  issued share certi cate, and any other  similar instrument such as security to  the bearer named in section 110(1)( b ) (iii), without traceability, but does not  include a dematerialised or registered  form of share certi cate whose owners  can be identi ed.;"
                 ],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               }
-            ],
-            "post_block_list": []
+            ]
           },
           {
             "class_name": "ActL2Subsection",
             "num": "2",
             "text": "in sub-paragraph (i) of paragraph ( a ) of subsection  (4) thereof, by the substitution for the words shares  issued;, of the words shares issued and names of  the persons to whom such shares are issued;.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
@@ -157,27 +144,23 @@
             "num": "2",
             "text": "The company shall, upon the receipt of  details under subsection (1) maintain a register  and record such details forthwith.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "3",
             "text": "Where any holder of any share warrants  to bearer or bearer shares fails to comply with  the provisions of subsection (1), any rights  associated with such share warrants to bearer  or bearer shares shall stand nulli ed at the end  of such period speci ed in that subsection.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "4",
             "text": "Every holder of any share warrants to  bearer or bearer shares shall, within sixty days  from the date of operation of the Companies  (Amendment) Act, No. 12 of 2025 or upon  the nulli cation under subsection (3), convert  such share warrants to bearer or bearer shares  to shares in registerable form for the purpose  of the shareholder register under the provisions  of section 123(1)..",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
@@ -192,11 +175,9 @@
             "num": "3",
             "text": "Upon receipt of the consideration, the  company shall make an allotment of the shares  within twenty working days of the receipt of such  consideration:                  Provided however, that the period of time  speci ed in this subsection shall not apply in  respect of the issuance of shares which are fully  paid up from the reserves of the company to all  shareholders of the same class in proportion to the  number of shares held by each shareholder..",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
@@ -221,16 +202,14 @@
             "num": "2",
             "text": "Every shareholder shall, within ten  working days of the subscription of any shares  or transfer of shares give the details speci ed  in subsection (1) to the company.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "3",
             "text": "Every director or secretary of the  company shall disclose the details referred to  in subsection (1) relating to bene cial owners  of the company to the Registrar when such  director or secretary becomes aware of such  details.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
@@ -243,19 +222,16 @@
                 "num": "a",
                 "text": "The company shall maintain a  register and record the details speci ed in  subsection (1) when it becomes aware of  such details and the company shall keep such  register of bene cial owners of the company  subject to the provisions of paragraph ( b ) of  subsection (3) of section 116 at its registered  of ce.",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
                 "num": "b",
                 "text": "The provisions of section 124 relating  to the place of the share register of a company  shall  mutatis mutandis  apply to the register of  bene cial owners of the company.",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               }
-            ],
-            "post_block_list": []
+            ]
           },
           {
             "class_name": "ActL2Subsection",
@@ -271,59 +247,51 @@
                   "Companies (Amendment) Act, No. 12 of 2025 7",
                   "the bene cial ownership of the company for a  period of at least ten years after the date on  which the record was made."
                 ],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
                 "num": "b",
                 "text": "The administrator or liquidator of a  company under dissolution and any other  person involved in the dissolution of a company  shall keep and maintain records of the details of  the bene cial owners of the company and the  nature and extent of the bene cial ownership  of the company for a period of at least  ve  years after the date on which the company is  dissolved or otherwise ceases to exist.",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               }
-            ],
-            "post_block_list": []
+            ]
           },
           {
             "class_name": "ActL2Subsection",
             "num": "6",
             "text": "The Registrar shall maintain a register  to record the details speci ed in subsection (1).",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "7",
             "text": "The company shall, within fourteen  working days upon the receipt of details that a  person holds, acquires, or effects a subsequent  change of bene cial ownership of a company,  notify the Registrar of such details speci ed in  subsection (1).",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "8",
             "text": "Every company shall, subject to the  provisions of subsection (7) deliver the details  of bene cial owners of the company in a form  as may be prescribed together with the annual  return of the company under section 131.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "9",
             "text": "The provisions of section 181 relating  to the power to require information as to  persons interested in shares or debentures shall  mutatis mutandis  apply to bene cial owners of  the company.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "10",
             "text": "Notwithstanding  the  provisions  of subsection (2) of section 262, the  provisions of sections 130 A  to 130 J  shall apply  to an offshore company incorporated outside  Sri Lanka and registered under this Act and an  overseas company registered under this Act.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
@@ -343,8 +311,7 @@
                 "pre_block_list": [
                   "Companies (Amendment) Act, No. 12 of 2025 9"
                 ],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
@@ -372,16 +339,14 @@
                   "( a ) contravenes or fails to comply  with subsection (1), (3), (4), (7)  or (8) of section 130 A ;",
                   "( b ) knowingly provides false or  misleading  details  about  a  bene cial owner of the company  or the nature and extent of the  bene cial ownership of the  company;"
                 ],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
                 "num": "c",
                 "text": "knowingly withholds details of a  bene cial owner of the company  that should be entered into the  register referred to in subsection  (1) of section 130 A ; or",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
@@ -409,14 +374,11 @@
                   "bene cial owner means a natural  person who ultimately owns  or controls ten  per cent  or  more of a company, in whole  or in part, through, direct or  indirect ownership or control  of shares or voting rights  or other ownership interest  in that company, and also  includes a natural person who  exercises effective control  through other means, and  bene cial ownership is to be  construed accordingly;",
                   "effective  control  includes  a  situation where control is  exercised indirectly either  through a chain of ownership  or by appointment or removal  of a director or by any other  means of indirect control,  such as the ability to take  strategic decision that affects  the operation of the company,  its  business  practices  or  general  direction  of  the  company.."
                 ],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               }
-            ],
-            "post_block_list": []
+            ]
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
@@ -432,16 +394,14 @@
             "num": "2",
             "text": "Where a company intends to remove  a director and appoint a new director in the place  of the director so removed, a special notice shall  be given to all shareholders of the company and it  shall be the duty of the secretary to the company to  send a copy of the special notice to the director who  is to be removed. Such director shall be entitled to  be heard at such meeting irrespective of whether or  not such director is a shareholder of that company.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "3",
             "text": "Upon the receipt of the special notice  under subsection (2), the director concerned may,  within fourteen working days from the date of  receipt of the special notice make a representation  to the company in writing requiring the company to  notify each shareholder of the company.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
@@ -451,19 +411,16 @@
               "Provided that where the company is able to  satisfy the court that the provisions of this section  are being abused by the director concerned in order  to secure unnecessary publicity of a defamatory  nature, the company may seek an order of the  court for costs to be paid by such director, and to  refrain from sending such representation to the  shareholders or reading such representation at the  meeting..",
               "Amendment of  section 211 of  the principal  enactment"
             ],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
         "num": "9",
         "text": "Section 211 of the principal enactment is hereby  amended in subsection (1) thereof, by the substitution for  the words valid only for one year from his appointment.  of the words and  gures, valid till the next annual general  meeting subject to paragraph ( b ) of subsection (1) of section  133 of the Act..",
         "pre_block_list": [],
-        "child_level_list": [],
-        "post_block_list": []
+        "child_level_list": []
       },
       {
         "class_name": "ActL1Section",
@@ -472,8 +429,7 @@
         "pre_block_list": [
           "Amendment of  section 270 of  the principal  enactment"
         ],
-        "child_level_list": [],
-        "post_block_list": []
+        "child_level_list": []
       },
       {
         "class_name": "ActL1Section",
@@ -482,8 +438,7 @@
         "pre_block_list": [
           "Amendment of  section 272 of  the principal  enactment"
         ],
-        "child_level_list": [],
-        "post_block_list": []
+        "child_level_list": []
       },
       {
         "class_name": "ActL1Section",
@@ -498,11 +453,9 @@
             "num": "3",
             "text": "Within one week from the date of the  meetings referred to in subsection (1), or where  no such meetings are held on the same date, from  the date of the subsequent meeting, the liquidator  shall send to the Registrar a copy of the accounts  and shall make a return to him con rming the fact  of the holding of the meetings and of their dates,  and where the copy is  not sent or the return is  not made in accordance with the provisions of  this subsection, the liquidator shall be guilty of  an offence and on conviction, be liable a  ne not  exceeding  fty thousand rupees ..",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
@@ -514,8 +467,7 @@
           "it may reasonably require:",
           "Provided however, where an administrator  is unable to provide the required information  within the period of time speci ed in the notice  made under this subsection, such administrator  may forward an application to the Registrar setting  out therein the reasons for such inability. Upon  consideration of the application and reasons, the  Registrar may extend, subject to any terms and  conditions, if any, the period of time speci ed  for the providing of information. The Registrar  shall, in writing communicate his decision to the  administrator and the creditors committee.."
         ],
-        "child_level_list": [],
-        "post_block_list": []
+        "child_level_list": []
       },
       {
         "class_name": "ActL1Section",
@@ -532,16 +484,14 @@
             "pre_block_list": [
               "( aa ) persons by name or by of ce, to be or to  act as Additional Registrars-General of  Companies;;"
             ],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "2",
             "text": "in subsection (2) thereof, by the substitution for  the words and  gure subsection (1) as a Deputy  Registrar-General of Companies, of the words  and  gure subsection (1) as an Additional  Registrar-General of Companies or a Deputy  Registrar-General of Companies; and",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
@@ -550,11 +500,9 @@
             "pre_block_list": [
               "(3) Any class or category of of cers of  the Department of the Registrar-General of  Companies may be paid incentive allowance  in such manner and at such rates, and shall be  subject to such conditions of service, as may be  prescribed in consultation with the Minister in  charge of the subject of Finance.."
             ],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
@@ -574,8 +522,7 @@
               "Registrars  power  to grant  extension for  acts.",
               "Companies (Amendment) Act, No. 12 of 2025 19"
             ],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
@@ -588,8 +535,7 @@
                 "num": "a",
                 "text": "the company shall be guilty  of an offence and be liable on  conviction to a  ne not exceeding   ve hundred thousand rupees;",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
@@ -617,8 +563,7 @@
                   "( a ) is a body corporate, every  director, manager or secretary of  such body corporate;",
                   "( b ) is a  rm, every partner of that   rm; or"
                 ],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               },
               {
                 "class_name": "ActL3Paragraph",
@@ -755,14 +700,11 @@
                   "",
                   "English Acts of the Parliament can be purchased at the P RAKASHANA  P IYASA , D EPARTMENT   OF   G OVERNMENT  P RINTING , N O . 118, D R . D ANISTER  D E  S ILVA  M AWATHA , C OLOMBO  8."
                 ],
-                "child_level_list": [],
-                "post_block_list": []
+                "child_level_list": []
               }
-            ],
-            "post_block_list": []
+            ]
           }
-        ],
-        "post_block_list": []
+        ]
       }
     ],
     "part_list": []

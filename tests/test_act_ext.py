@@ -15,7 +15,7 @@ log = Log("test_act_ext")
 # Copy data Example
 # cp -r data/acts/2020s/2025/2025-012 tests/data
 
-FORCE_MODE = False
+FORCE_MODE = True
 
 
 class TestCase(unittest.TestCase):

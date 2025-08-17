@@ -10,7 +10,6 @@ class ActLevel:
     text: str
     child_level_list: list["ActLevel"]
     pre_block_list: list[PDFBlock]
-    post_block_list: list[PDFBlock]
 
     @classmethod
     def get_depth(cls):
@@ -37,7 +36,6 @@ class ActLevel:
             child_level_list=[
                 child.to_dict() for child in self.child_level_list
             ],
-            post_block_list=[block.text for block in self.post_block_list],
         )
 
     def to_md_lines(self):
@@ -51,9 +49,6 @@ class ActLevel:
 
         for child in self.child_level_list:
             lines.extend(child.to_md_lines())
-
-        for block in self.post_block_list:
-            lines.append(f"{child_tabs}- {block.text}")
 
         return lines
 
@@ -128,7 +123,6 @@ class ActLevel:
             text=text,
             pre_block_list=pre_block_list,
             child_level_list=child_level_list,
-            post_block_list=[],
         )
 
     @classmethod
