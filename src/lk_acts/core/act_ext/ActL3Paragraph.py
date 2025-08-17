@@ -16,5 +16,9 @@ class ActL3Paragraph(ActLevel):
         return ActL4SubParagraph
 
     @classmethod
+    def get_next_num(cls, num):
+        return chr(ord(num) + 1)
+
+    @classmethod
     def get_re_title(cls):
         return r"^\s*\(\s*(?P<num>[a-z])\s*\)\s*(?P<text>.+)"

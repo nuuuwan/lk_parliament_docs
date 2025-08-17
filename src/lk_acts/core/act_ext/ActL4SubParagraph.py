@@ -15,5 +15,23 @@ class ActL4SubParagraph(ActLevel):
         return None
 
     @classmethod
+    def get_next_num(cls, num):
+        roman_nums = [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+        ]
+        if num in roman_nums:
+            return roman_nums[roman_nums.index(num) + 1]
+        return None
+
+    @classmethod
     def get_re_title(cls):
-        return r"^\s*\(\s*(?P<num>[a-z])\s*\)\s*(?P<text>.+)"
+        return r"^\s*\(\s*(?P<num>[iv]*)\s*\)\s*(?P<text>.+)"

@@ -131,18 +131,36 @@
                 "num": "a",
                 "text": "the following entities (hereinafter referred to as the \u201cpublic entities\u201d): -",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "i",
-                "text": "budgetary entities;",
-                "pre_block_list": [
-                  "(ii) Statutory Funds and Trusts to which public finances   are allocated;",
-                  "(iii) State-Owned Enterprises; and",
-                  "(iv) Provincial Councils, Provincial Ministries, Provincial Departments, other Institutions functioning under the Provincial Councils, and Local Authorities in terms of the relevant written laws;"
+                "child_level_list": [
+                  {
+                    "num": "i",
+                    "text": "budgetary entities;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "Statutory Funds and Trusts to which public finances   are allocated;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iii",
+                    "text": "State-Owned Enterprises; and",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iv",
+                    "text": "Provincial Councils, Provincial Ministries, Provincial Departments, other Institutions functioning under the Provincial Councils, and Local Authorities in terms of the relevant written laws;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  }
                 ],
-                "child_level_list": [],
                 "post_block_list": []
               },
               {
@@ -424,28 +442,57 @@
                 "num": "a",
                 "text": "the following  ex-officio  members namely \u2013",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "i",
-                "text": "the Secretary to the Treasury who shall be the Chairperson;",
-                "pre_block_list": [
-                  "(ii) a Deputy Secretary to the Treasury in charge of the subject of fiscal policy;",
-                  "(iii) the Commissioner-General of Inland Revenue;",
-                  "(iv) the Director-General of Customs;"
+                "child_level_list": [
+                  {
+                    "num": "i",
+                    "text": "the Secretary to the Treasury who shall be the Chairperson;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "a Deputy Secretary to the Treasury in charge of the subject of fiscal policy;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iii",
+                    "text": "the Commissioner-General of Inland Revenue;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iv",
+                    "text": "the Director-General of Customs;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "v",
+                    "text": "the Commissioner-General of Excise;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "vi",
+                    "text": "the Director General of the Department in charge of the subject of Treasury Operations;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "vii",
+                    "text": "the Director-General of the Department in charge of the subject of Fiscal Policy; and",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  }
                 ],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "v",
-                "text": "the Commissioner-General of Excise;",
-                "pre_block_list": [
-                  "(vi) the Director General of the Department in charge of the subject of Treasury Operations;",
-                  "(vii) the Director-General of the Department in charge of the subject of Fiscal Policy; and"
-                ],
-                "child_level_list": [],
                 "post_block_list": []
               },
               {
@@ -668,18 +715,36 @@
                 "num": "e",
                 "text": "provide an assessment of performance against the fiscal strategy, including \u2013",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "i",
-                "text": "an assessment of compliance with the fiscal targets for the preceding financial year, including an explanation of any non- compliance with such targets;",
-                "pre_block_list": [
-                  "(ii) an assessment of expected compliance with the fiscal targets for the current financial year;",
-                  "(iii) an assessment of expected compliance with the fiscal targets for the next financial year and the four succeeding years; and",
-                  "(iv) an assessment of risks of non-compliance with the fiscal targets for the current financial year and the next financial year;"
+                "child_level_list": [
+                  {
+                    "num": "i",
+                    "text": "an assessment of compliance with the fiscal targets for the preceding financial year, including an explanation of any non- compliance with such targets;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "an assessment of expected compliance with the fiscal targets for the current financial year;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iii",
+                    "text": "an assessment of expected compliance with the fiscal targets for the next financial year and the four succeeding years; and",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iv",
+                    "text": "an assessment of risks of non-compliance with the fiscal targets for the current financial year and the next financial year;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  }
                 ],
-                "child_level_list": [],
                 "post_block_list": []
               },
               {
@@ -1477,17 +1542,29 @@
                 "num": "c",
                 "text": "it is not possible for such expenditure to be provided through \u2013",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "i",
-                "text": "a virement procedure as provided for in section 24;",
-                "pre_block_list": [
-                  "(ii) the Contingencies Fund established under Article 151 of the Constitution; or",
-                  "(iii) an allocation from the annual budget reserve as provided for in section 25."
+                "child_level_list": [
+                  {
+                    "num": "i",
+                    "text": "a virement procedure as provided for in section 24;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "the Contingencies Fund established under Article 151 of the Constitution; or",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iii",
+                    "text": "an allocation from the annual budget reserve as provided for in section 25.",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  }
                 ],
-                "child_level_list": [],
                 "post_block_list": []
               }
             ],
@@ -1887,17 +1964,29 @@
                 "pre_block_list": [
                   "Treasury cash flow management and treasury single account system"
                 ],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "i",
-                "text": "Director-General of Customs;",
-                "pre_block_list": [
-                  "(ii) Commissioner-General of Inland Revenue; and",
-                  "(iii) Commissioner-General of Excise."
+                "child_level_list": [
+                  {
+                    "num": "i",
+                    "text": "Director-General of Customs;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "Commissioner-General of Inland Revenue; and",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iii",
+                    "text": "Commissioner-General of Excise.",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  }
                 ],
-                "child_level_list": [],
                 "post_block_list": []
               },
               {
@@ -2110,9 +2199,14 @@
                   {
                     "num": "i",
                     "text": "submit draft annual budget estimates endorsed by the Chief Accounting Officer of the statutory fund and the relevant Minister to the Secretary to the Treasury for approval;",
-                    "pre_block_list": [
-                      "(ii) prepare their budget proposals in line with the provisions of the budget call circular issued by the Secretary to the Treasury if any statutory fund is funded by annual budget;"
-                    ],
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "prepare their budget proposals in line with the provisions of the budget call circular issued by the Secretary to the Treasury if any statutory fund is funded by annual budget;",
+                    "pre_block_list": [],
                     "child_level_list": [],
                     "post_block_list": []
                   }
@@ -2195,37 +2289,67 @@
                 "num": "a",
                 "text": "the Heads of the Departments in the General Treasury responsible for the following subject areas:-",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "i",
-                "text": "national planning;",
-                "pre_block_list": [
-                  "(ii) public finance;",
-                  "(iii) fiscal policy;",
-                  "(iv) national budget;"
+                "child_level_list": [
+                  {
+                    "num": "i",
+                    "text": "national planning;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "public finance;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iii",
+                    "text": "fiscal policy;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iv",
+                    "text": "national budget;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "v",
+                    "text": "public debt management;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "vi",
+                    "text": "external resources;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "vii",
+                    "text": "treasury operations;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "viii",
+                    "text": "public enterprises;",
+                    "pre_block_list": [
+                      "(ix) management services;",
+                      "(x) project management and monitoring; and"
+                    ],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  }
                 ],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "v",
-                "text": "public debt management;",
-                "pre_block_list": [
-                  "(vi) external resources;",
-                  "(vii) treasury operations;",
-                  "(viii) public enterprises;",
-                  "(ix) management services;"
-                ],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "x",
-                "text": "project management and monitoring; and",
-                "pre_block_list": [],
-                "child_level_list": [],
                 "post_block_list": []
               },
               {
@@ -3155,17 +3279,29 @@
                 "num": "d",
                 "text": "a statement of the risks, quantified where practicable, that may have material effect on the fiscal position, such as -",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "i",
-                "text": "contingent liabilities including guarantees and indemnities given by the Government under any Act;",
-                "pre_block_list": [
-                  "(ii) publicly announced proposals for spending by the Government that have not been included in the estimates referred to in paragraph ( a ); and",
-                  "(iii) Government negotiations in progress and not finalized; and"
+                "child_level_list": [
+                  {
+                    "num": "i",
+                    "text": "contingent liabilities including guarantees and indemnities given by the Government under any Act;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "publicly announced proposals for spending by the Government that have not been included in the estimates referred to in paragraph ( a ); and",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iii",
+                    "text": "Government negotiations in progress and not finalized; and",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  }
                 ],
-                "child_level_list": [],
                 "post_block_list": []
               },
               {
@@ -3230,18 +3366,31 @@
                 "num": "b",
                 "text": "a statement by the Secretary to the Treasury, for the purpose that the information in the report \u2013",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "i",
-                "text": "reflects the best professional judgement of the officers of the Ministry of the Minister of Finance;",
-                "pre_block_list": [
-                  "(ii) takes into account all economic and fiscal information available to the Ministry of the Minister of Finance; and",
-                  "(iii) incorporates the fiscal implications of the Government decisions and circumstances disclosed by the Minister of Finance under subsection (8),",
-                  "to the fullest extent possible."
+                "child_level_list": [
+                  {
+                    "num": "i",
+                    "text": "reflects the best professional judgement of the officers of the Ministry of the Minister of Finance;",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "takes into account all economic and fiscal information available to the Ministry of the Minister of Finance; and",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "iii",
+                    "text": "incorporates the fiscal implications of the Government decisions and circumstances disclosed by the Minister of Finance under subsection (8),",
+                    "pre_block_list": [
+                      "to the fullest extent possible."
+                    ],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  }
                 ],
-                "child_level_list": [],
                 "post_block_list": []
               }
             ],
@@ -3360,8 +3509,14 @@
                   {
                     "num": "i",
                     "text": "where the collection of revenue is provided by statute, but no provision exists therein to waive or abandon a claim; and",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "where the waiver of irrecoverable revenue or other Government dues not falling within the provisions of paragraph ( a ) of this section and subparagraph (i) of this paragraph,",
                     "pre_block_list": [
-                      "(ii) where the waiver of irrecoverable revenue or other Government dues not falling within the provisions of paragraph ( a ) of this section and subparagraph (i) of this paragraph,",
                       "authority of the Secretary to the Treasury shall be sought."
                     ],
                     "child_level_list": [],
@@ -3770,17 +3925,24 @@
                 "num": "a",
                 "text": "Where an offence under this Act or any regulation or rule made thereunder is committed by a body of persons, if such body of persons is -",
                 "pre_block_list": [],
-                "child_level_list": [],
-                "post_block_list": []
-              },
-              {
-                "num": "i",
-                "text": "a body corporate, every director and officer of such body corporate including the chief executive officer, the principal executive officer or the chief administrative officer as the case may be of that body corporate; or",
-                "pre_block_list": [
-                  "(ii) a partnership, every partner of such partnership,",
-                  "shall be deemed to have committed that offence."
+                "child_level_list": [
+                  {
+                    "num": "i",
+                    "text": "a body corporate, every director and officer of such body corporate including the chief executive officer, the principal executive officer or the chief administrative officer as the case may be of that body corporate; or",
+                    "pre_block_list": [],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  },
+                  {
+                    "num": "ii",
+                    "text": "a partnership, every partner of such partnership,",
+                    "pre_block_list": [
+                      "shall be deemed to have committed that offence."
+                    ],
+                    "child_level_list": [],
+                    "post_block_list": []
+                  }
                 ],
-                "child_level_list": [],
                 "post_block_list": []
               },
               {
@@ -3871,14 +4033,9 @@
           {
             "num": "4",
             "text": "Every regulation made by the Minister of Finance shall, within three months, after its publication in the  Gazette , be brought before Parliament for approval.",
-            "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
-          },
-          {
-            "num": "6",
-            "text": "Until such regulations are framed \u2013",
-            "pre_block_list": [],
+            "pre_block_list": [
+              "(6) Until such regulations are framed \u2013"
+            ],
             "child_level_list": [
               {
                 "num": "a",
@@ -4022,22 +4179,10 @@
               "\u201cProvincial Council\u201d means a Provincial Council established for a Province by virtue of Article 154A of the Constitution;",
               "\u201cpublic corporation\u201d shall have the same meaning assigned to such expression under Article 170 of the Constitution;",
               "\u201cpublic debt\u201d means liabilities of the Government created by debt and debt of the entities specified in paragraph ( a ) of subsection (2) of section 3;",
-              "\u201cpublic finance \u201cincludes \u2013"
+              "\u201cpublic finance \u201cincludes \u2013",
+              "( a ) funds allocated to any public entity specified in paragraph ( a ) of subsection (2) of section 3   by the Appropriation Act of the relevant year;",
+              "( b ) funds held by any public entity specified in paragraph ( a ) of subsection (2) of section 3   in terms of any written law excluding approved termination funds which includes thrift, savings or building society or welfare fund to which contributions are made by employees or, any gratuity fund maintained for the purpose of payment of gratuities to employees on the termination of their services under the relevant written law;"
             ],
-            "child_level_list": [],
-            "post_block_list": []
-          },
-          {
-            "num": "a",
-            "text": "funds allocated to any public entity specified in paragraph ( a ) of subsection (2) of section 3   by the Appropriation Act of the relevant year;",
-            "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
-          },
-          {
-            "num": "b",
-            "text": "funds held by any public entity specified in paragraph ( a ) of subsection (2) of section 3   in terms of any written law excluding approved termination funds which includes thrift, savings or building society or welfare fund to which contributions are made by employees or, any gratuity fund maintained for the purpose of payment of gratuities to employees on the termination of their services under the relevant written law;",
-            "pre_block_list": [],
             "child_level_list": [],
             "post_block_list": []
           },
@@ -4062,29 +4207,10 @@
               "\u201crelevant Minister\u201d means the Minister under whose purview the public entity is assigned under the paragraph (1) of Article 44 of the Constitution;",
               "\u201cRevenue Accounting Officer\u201d means an Accounting Officer who is vested with the responsibility of facilitating of the preparation of the annual revenue estimates of the revenue codes assigned by the annual budget estimates and who will ultimately accountable for variations between estimate and actual collections;",
               "\u201cspecial spending unit\u201d means an entity, other than a Ministry, Department, District Secretariat or Provincial Council, that has been given a Head of Expenditure in the annual budget;",
-              "\u201cState-Owned Enterprise\u201d means  -"
-            ],
-            "child_level_list": [],
-            "post_block_list": []
-          },
-          {
-            "num": "a",
-            "text": "a public corporation within the meaning of the Constitution;",
-            "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
-          },
-          {
-            "num": "b",
-            "text": "entities established and operated under the Companies Act, No.07 of 2007 in which the State has direct or indirect controlling interest by virtue of its shareholding; or",
-            "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
-          },
-          {
-            "num": "c",
-            "text": "State-Owned Corporations, converted in terms of the Conversion of Public Corporations or Government Owned Business Undertakings into Public Companies Act, No.23 of 1987, or such other Acts in terms of which any business entity has been vested with the Government,",
-            "pre_block_list": [
+              "\u201cState-Owned Enterprise\u201d means  -",
+              "( a ) a public corporation within the meaning of the Constitution;",
+              "( b ) entities established and operated under the Companies Act, No.07 of 2007 in which the State has direct or indirect controlling interest by virtue of its shareholding; or",
+              "( c ) State-Owned Corporations, converted in terms of the Conversion of Public Corporations or Government Owned Business Undertakings into Public Companies Act, No.23 of 1987, or such other Acts in terms of which any business entity has been vested with the Government,",
               "with the exception of the Central Bank of Sri Lanka ;",
               "\u201cStatutory Fund\u201d means any fund other than the Consolidated Fund, created or established under any written law or an Act of Parliament for a specific purpose, to which public finances are allocated excluding approved termination funds which includes thrift, savings or building society or welfare fund to which contributions are made by employees or, any gratuity fund maintained for the purpose of payment of gratuities to employees on the termination of their services, under the relevant written law;",
               "\u201ctax expenditure\u201d includes exemptions, allowances, credits, rate reliefs and tax deferrals pertaining to tax;",

@@ -21,6 +21,10 @@ class ActLevel:
         raise NotImplementedError
 
     @classmethod
+    def get_next_num(cls, num):
+        raise NotImplementedError
+
+    @classmethod
     def get_re_title(cls):
         raise NotImplementedError
 
@@ -58,19 +62,28 @@ class ActLevel:
 
     @classmethod
     def __get_level_to_block_list__(cls, block_List: list[PDFBlock]):
-        level_to_block_list = []
+        level_to_block_list = {}
         pre_block_list = []
+        cur_num = None
+        next_num = None
         for block in block_List:
             if "Italic" in block.font_family:
                 continue
             match = cls.get_title_match(block.text)
             if match:
-                level_to_block_list.append([block])
-            elif level_to_block_list:
-                level_to_block_list[-1].append(block)
+                num = match.group("num")
+                print(f'"{cur_num}" -> "{next_num}" => "{num}"')
+                if next_num is None or num == next_num:
+                    level_to_block_list[num] = [block]
+                    cur_num = num
+                    next_num = cls.get_next_num(num)
+                elif cur_num:
+                    level_to_block_list[cur_num].append(block)
+            elif cur_num:
+                level_to_block_list[cur_num].append(block)
             else:
                 pre_block_list.append(block)
-        return level_to_block_list, pre_block_list
+        return list(level_to_block_list.values()), pre_block_list
 
     @classmethod
     def from_block_list(cls, block_list: list[PDFBlock]):

@@ -38,10 +38,10 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - Application of the provisions of this Act
     2. The provisions of this Act shall apply to the entities and persons specified below -
         a. the following entities (hereinafter referred to as the “public entities”): -
-        i. budgetary entities;
-            - (ii) Statutory Funds and Trusts to which public finances   are allocated;
-            - (iii) State-Owned Enterprises; and
-            - (iv) Provincial Councils, Provincial Ministries, Provincial Departments, other Institutions functioning under the Provincial Councils, and Local Authorities in terms of the relevant written laws;
+            i. budgetary entities;
+            ii. Statutory Funds and Trusts to which public finances   are allocated;
+            iii. State-Owned Enterprises; and
+            iv. Provincial Councils, Provincial Ministries, Provincial Departments, other Institutions functioning under the Provincial Councils, and Local Authorities in terms of the relevant written laws;
         b. Officers and employees of public entities to whom a power or duty is conferred, delegated or assigned under this Act or any regulation made thereunder, including a Chief Accounting Officer, Accounting Officer or a competent authority referred to in Part VI of this Act.
     3. Every public entity and persons referred to in subsection (2) in respect of which this Act applies, shall notwithstanding anything to the contrary in the provisions of any other written law, comply with the provisions of this Act in managing public funds allocated to or levied by any such public entity under any written law.
         - PART II
@@ -87,13 +87,13 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         b. providing strategic advice to public entities that generate revenue.
     2. The Revenue Management Committee shall consist of –
         a. the following  ex-officio  members namely –
-        i. the Secretary to the Treasury who shall be the Chairperson;
-            - (ii) a Deputy Secretary to the Treasury in charge of the subject of fiscal policy;
-            - (iii) the Commissioner-General of Inland Revenue;
-            - (iv) the Director-General of Customs;
-        v. the Commissioner-General of Excise;
-            - (vi) the Director General of the Department in charge of the subject of Treasury Operations;
-            - (vii) the Director-General of the Department in charge of the subject of Fiscal Policy; and
+            i. the Secretary to the Treasury who shall be the Chairperson;
+            ii. a Deputy Secretary to the Treasury in charge of the subject of fiscal policy;
+            iii. the Commissioner-General of Inland Revenue;
+            iv. the Director-General of Customs;
+            v. the Commissioner-General of Excise;
+            vi. the Director General of the Department in charge of the subject of Treasury Operations;
+            vii. the Director-General of the Department in charge of the subject of Fiscal Policy; and
         b. two other members appointed by the Minister of Finance from among persons who have achieved eminence in the field of revenue management.
     3. The Secretary to the Revenue Management Committee shall be an officer of the Department responsible for the subject of fiscal policy, nominated by the Secretary to the Treasury.
     4. An appointed member of the Revenue Management Committee may resign from such Committee by a letter addressed to the Minister of Finance.
@@ -129,10 +129,10 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         c. explain how the Government’s fiscal targets and policies are consistent with the objectives of responsible fiscal management;
         d. include the medium-term fiscal framework specified in section 12;
         e. provide an assessment of performance against the fiscal strategy, including –
-        i. an assessment of compliance with the fiscal targets for the preceding financial year, including an explanation of any non- compliance with such targets;
-            - (ii) an assessment of expected compliance with the fiscal targets for the current financial year;
-            - (iii) an assessment of expected compliance with the fiscal targets for the next financial year and the four succeeding years; and
-            - (iv) an assessment of risks of non-compliance with the fiscal targets for the current financial year and the next financial year;
+            i. an assessment of compliance with the fiscal targets for the preceding financial year, including an explanation of any non- compliance with such targets;
+            ii. an assessment of expected compliance with the fiscal targets for the current financial year;
+            iii. an assessment of expected compliance with the fiscal targets for the next financial year and the four succeeding years; and
+            iv. an assessment of risks of non-compliance with the fiscal targets for the current financial year and the next financial year;
         f. specify the main sources of fiscal risks against to the attainment of the objectives specified in section 10 and the estimate of the fiscal impact of such fiscal risks; and
         g. disclose the macroeconomic impact of fiscal decisions taken over the past three years.
 12. 
@@ -259,9 +259,9 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         a. unforeseen and unavoidable   circumstances such as major economic downturn, severe external shocks, natural disaster, emergence of major contingent liabilities or any such other eventuality in the opinion of the Cabinet of Ministers;
         b. it becomes necessary for a budgetary entity to incur additional expenditure during a year that is not covered by the Head of Expenditure in the Appropriation Act approved by the Parliament; and
         c. it is not possible for such expenditure to be provided through –
-        i. a virement procedure as provided for in section 24;
-            - (ii) the Contingencies Fund established under Article 151 of the Constitution; or
-            - (iii) an allocation from the annual budget reserve as provided for in section 25.
+            i. a virement procedure as provided for in section 24;
+            ii. the Contingencies Fund established under Article 151 of the Constitution; or
+            iii. an allocation from the annual budget reserve as provided for in section 25.
     2. The supplementary estimate proposal under subsection (1) shall include -
         a. an overview of the recent macroeconomic and fiscal developments;
         b. an updated forecasts of revenues and expenditures of the annual budget;
@@ -345,9 +345,9 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. 
         a. There shall be established a Committee on Cash Flow Management chaired by the Secretary to the Treasury and consisting of Deputy Secretaries, and Heads of the Departments in the Treasury and Heads of following revenue Departments: -
             - Treasury cash flow management and treasury single account system
-        i. Director-General of Customs;
-            - (ii) Commissioner-General of Inland Revenue; and
-            - (iii) Commissioner-General of Excise.
+            i. Director-General of Customs;
+            ii. Commissioner-General of Inland Revenue; and
+            iii. Commissioner-General of Excise.
         b. The powers, duties and functions, responsibilities and operation of the Committee specified in paragraph ( a ) shall be as prescribed.
     2. There shall be a treasury single account to maintain the revenue and expenditure of the Consolidated Fund, which shall be an integrated system of bank accounts, into which all Government cash including moneys received by the public entities referred to in subparagraphs (i) and (ii) of paragraph ( a ) of subsection (2) of section 3 shall be deposited and from which expenditure of the Government and such public entities shall be made to enable public funds to be managed in a consolidated manner.
 35. 
@@ -397,7 +397,7 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         a. comply with any directive issued by the Secretary to the Treasury in exercising the powers, duties, and functions under this Act and any other written law;
         b. 
             i. submit draft annual budget estimates endorsed by the Chief Accounting Officer of the statutory fund and the relevant Minister to the Secretary to the Treasury for approval;
-                - (ii) prepare their budget proposals in line with the provisions of the budget call circular issued by the Secretary to the Treasury if any statutory fund is funded by annual budget;
+            ii. prepare their budget proposals in line with the provisions of the budget call circular issued by the Secretary to the Treasury if any statutory fund is funded by annual budget;
         c. submit regular reports on its performance to the Secretary to the Treasury as may be prescribed; and
         d. submit other information as may be required in writing by the Secretary to the Treasury.
     4. Any non statutory fund shall cease its operations from the date of coming into operation of this Act and shall be dissolved within one year from such date and the moneys lying to the credit of such fund shall be remitted to the Consolidated Fund after discharging the liabilities of such fund:
@@ -412,16 +412,16 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         c. Sri Lanka’s national development policy framework, national policies, sectoral plans, and public investment programme.
     2. The Minister of Finance shall establish a Public Investment Committee consisting of   –
         a. the Heads of the Departments in the General Treasury responsible for the following subject areas:-
-        i. national planning;
-            - (ii) public finance;
-            - (iii) fiscal policy;
-            - (iv) national budget;
-        v. public debt management;
-            - (vi) external resources;
-            - (vii) treasury operations;
-            - (viii) public enterprises;
-            - (ix) management services;
-        x. project management and monitoring; and
+            i. national planning;
+            ii. public finance;
+            iii. fiscal policy;
+            iv. national budget;
+            v. public debt management;
+            vi. external resources;
+            vii. treasury operations;
+            viii. public enterprises;
+                - (ix) management services;
+                - (x) project management and monitoring; and
         b. the authority in charge of the subject of public- private partnerships.
     3. The Chairperson of the Public Investment Committee shall be the Secretary to the Treasury.
     4. The Secretary to the Public Investment Committee shall be an officer of the Department responsible for the subject of national planning, nominated by the Secretary to the Treasury.
@@ -564,9 +564,9 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         b. estimates of the Government borrowings;
         c. the economic and other assumptions that have been used in preparing such estimates;
         d. a statement of the risks, quantified where practicable, that may have material effect on the fiscal position, such as -
-        i. contingent liabilities including guarantees and indemnities given by the Government under any Act;
-            - (ii) publicly announced proposals for spending by the Government that have not been included in the estimates referred to in paragraph ( a ); and
-            - (iii) Government negotiations in progress and not finalized; and
+            i. contingent liabilities including guarantees and indemnities given by the Government under any Act;
+            ii. publicly announced proposals for spending by the Government that have not been included in the estimates referred to in paragraph ( a ); and
+            iii. Government negotiations in progress and not finalized; and
         e. such other information as may be necessary to reflect fairly the financial position of the Government as at the date of the said report.
     3. Subject to the provisions of subsection (4), the information in the pre-election budgetary position report shall, take into account to the fullest possible, extent any decision of the Government having a material effect on the fiscal position.
     4. Nothing in this section shall be read or construed as requiring the inclusion in a pre-election budgetary position report or the disclosure of any information, in view of the written opinion of the Minister of Finance, if such details or information -
@@ -576,10 +576,10 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     6. Every   pre-election   budgetary   position report   shall be accompanied with –
         a. a statement signed by the Minister of Finance, for the purpose that the Minister of Finance has complied with the requirements of subsection (8);
         b. a statement by the Secretary to the Treasury, for the purpose that the information in the report –
-        i. reflects the best professional judgement of the officers of the Ministry of the Minister of Finance;
-            - (ii) takes into account all economic and fiscal information available to the Ministry of the Minister of Finance; and
-            - (iii) incorporates the fiscal implications of the Government decisions and circumstances disclosed by the Minister of Finance under subsection (8),
-            - to the fullest extent possible.
+            i. reflects the best professional judgement of the officers of the Ministry of the Minister of Finance;
+            ii. takes into account all economic and fiscal information available to the Ministry of the Minister of Finance; and
+            iii. incorporates the fiscal implications of the Government decisions and circumstances disclosed by the Minister of Finance under subsection (8),
+                - to the fullest extent possible.
     7. The Minister of Finance shall, within two weeks of the first sitting of the new Parliament, cause a copy of the report specified in subsection (1) to be placed before Parliament and such report shall be published in the official website of the Ministry of the Minister of Finance.
     8. For the purpose of enabling the Secretary to the Treasury to prepare a pre- election budgetary position report under this section, the Minister of Finance shall, within one week of the publication of the proclamation or Order requiring the holding of a General Election for the election
         - of members of Parliament, disclose to the Secretary to the Treasury details of all Government decisions and other circumstances –
@@ -599,7 +599,7 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         a. certain statutes empower authorized officers to waive   items of revenue or other dues to Government in the administration of such statutes. The officers so authorized may deal with the cancellation or wavier of Government dues without further authority;
         b. 
             i. where the collection of revenue is provided by statute, but no provision exists therein to waive or abandon a claim; and
-                - (ii) where the waiver of irrecoverable revenue or other Government dues not falling within the provisions of paragraph ( a ) of this section and subparagraph (i) of this paragraph,
+            ii. where the waiver of irrecoverable revenue or other Government dues not falling within the provisions of paragraph ( a ) of this section and subparagraph (i) of this paragraph,
                 - authority of the Secretary to the Treasury shall be sought.
     4. Details of actions, authority limits, timelines and guidance on investigation, reporting, recovery and write- off of a loss or damage shall be provided in the manner as may be prescribed.
         - PART XII
@@ -670,9 +670,9 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     2. The Head of the relevant public entity shall take, or in the event that he is not the disciplinary authority of the officer alleged to have committed the   financial misconduct, shall immediately inform the disciplinary authority of the disciplinary action against the officer or employee who is liable to the financial misconduct under subsection (1).
     3. 
         a. Where an offence under this Act or any regulation or rule made thereunder is committed by a body of persons, if such body of persons is -
-        i. a body corporate, every director and officer of such body corporate including the chief executive officer, the principal executive officer or the chief administrative officer as the case may be of that body corporate; or
-            - (ii) a partnership, every partner of such partnership,
-            - shall be deemed to have committed that offence.
+            i. a body corporate, every director and officer of such body corporate including the chief executive officer, the principal executive officer or the chief administrative officer as the case may be of that body corporate; or
+            ii. a partnership, every partner of such partnership,
+                - shall be deemed to have committed that offence.
         b. The Secretary of the Ministry of the relevant Minister shall immediately take disciplinary action against the body of persons who is liable for the financial misconduct under paragraph ( a ):
             - Provided that any officer or body of persons as the case may be, shall not be deemed to have committed such offence, if such person proves to the satisfaction of the disciplinary authority that such offence was committed without his knowledge or that such person exercised all due diligence as was necessary, to prevent the commission of such offence.
 65. The Chief Accounting Officer, through the relevant Minister shall report to the Cabinet of Ministers, any non– compliance of a public entity coming under the purview of such Minister, with the requirements stipulated under this Act or any regulations made thereunder.
@@ -690,7 +690,7 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         c. on the management of and settlement of arrears, the reporting requirements of arrears, the inclusion of arrears in the annual debt report required under relevant written laws applicable to the management of public debt, and such other matters in relation to the control of arrears.
     3. Every regulation made by the Minister of Finance shall be published in the  Gazette  and shall come into operation on the date of such publication or on such later date as may be specified in that regulation.
     4. Every regulation made by the Minister of Finance shall, within three months, after its publication in the  Gazette , be brought before Parliament for approval.
-    6. Until such regulations are framed –
+        - (6) Until such regulations are framed –
         a. the financial regulations of the Government of the Democratic Socialist Republic of Sri Lanka approved by the Minister of Finance published in year 1992;
         b. circulars issued by the Secretary to the President, Secretary to the Treasury and the Heads of Departments under the General Treasury; and
         c. circular issued by a Secretary to a Ministry with the approval of the Cabinet of Ministers,
@@ -747,8 +747,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
             - “public corporation” shall have the same meaning assigned to such expression under Article 170 of the Constitution;
             - “public debt” means liabilities of the Government created by debt and debt of the entities specified in paragraph ( a ) of subsection (2) of section 3;
             - “public finance “includes –
-        a. funds allocated to any public entity specified in paragraph ( a ) of subsection (2) of section 3   by the Appropriation Act of the relevant year;
-        b. funds held by any public entity specified in paragraph ( a ) of subsection (2) of section 3   in terms of any written law excluding approved termination funds which includes thrift, savings or building society or welfare fund to which contributions are made by employees or, any gratuity fund maintained for the purpose of payment of gratuities to employees on the termination of their services under the relevant written law;
+            - ( a ) funds allocated to any public entity specified in paragraph ( a ) of subsection (2) of section 3   by the Appropriation Act of the relevant year;
+            - ( b ) funds held by any public entity specified in paragraph ( a ) of subsection (2) of section 3   in terms of any written law excluding approved termination funds which includes thrift, savings or building society or welfare fund to which contributions are made by employees or, any gratuity fund maintained for the purpose of payment of gratuities to employees on the termination of their services under the relevant written law;
         c. funds vested in the Government by virtue of the provisions of any written law; and
         d. funds received or borrowed by any public entity   specified in paragraph ( a ) of subsection (2) of section 3   with the approval of the Parliament;
             - “public funds” means moneys in the Consolidated Fund or any other Fund and moneys under the control of the Government excluding approved termination funds which includes thrift, savings
@@ -762,9 +762,9 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
             - “Revenue Accounting Officer” means an Accounting Officer who is vested with the responsibility of facilitating of the preparation of the annual revenue estimates of the revenue codes assigned by the annual budget estimates and who will ultimately accountable for variations between estimate and actual collections;
             - “special spending unit” means an entity, other than a Ministry, Department, District Secretariat or Provincial Council, that has been given a Head of Expenditure in the annual budget;
             - “State-Owned Enterprise” means  -
-        a. a public corporation within the meaning of the Constitution;
-        b. entities established and operated under the Companies Act, No.07 of 2007 in which the State has direct or indirect controlling interest by virtue of its shareholding; or
-        c. State-Owned Corporations, converted in terms of the Conversion of Public Corporations or Government Owned Business Undertakings into Public Companies Act, No.23 of 1987, or such other Acts in terms of which any business entity has been vested with the Government,
+            - ( a ) a public corporation within the meaning of the Constitution;
+            - ( b ) entities established and operated under the Companies Act, No.07 of 2007 in which the State has direct or indirect controlling interest by virtue of its shareholding; or
+            - ( c ) State-Owned Corporations, converted in terms of the Conversion of Public Corporations or Government Owned Business Undertakings into Public Companies Act, No.23 of 1987, or such other Acts in terms of which any business entity has been vested with the Government,
             - with the exception of the Central Bank of Sri Lanka ;
             - “Statutory Fund” means any fund other than the Consolidated Fund, created or established under any written law or an Act of Parliament for a specific purpose, to which public finances are allocated excluding approved termination funds which includes thrift, savings or building society or welfare fund to which contributions are made by employees or, any gratuity fund maintained for the purpose of payment of gratuities to employees on the termination of their services, under the relevant written law;
             - “tax expenditure” includes exemptions, allowances, credits, rate reliefs and tax deferrals pertaining to tax;

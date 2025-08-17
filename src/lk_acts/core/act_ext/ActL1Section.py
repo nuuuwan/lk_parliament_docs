@@ -16,5 +16,9 @@ class ActL1Section(ActLevel):
         return ActL2Subsection
 
     @classmethod
+    def get_next_num(cls, num):
+        return str(int(num) + 1)
+
+    @classmethod
     def get_re_title(cls):
         return r"^(?P<num>\d+)\s*\.\s*(?P<text>.+)"
