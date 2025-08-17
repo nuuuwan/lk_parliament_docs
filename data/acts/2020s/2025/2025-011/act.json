@@ -31,39 +31,35 @@
             "pre_block_list": [
               "Short title and  date of operation"
             ],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           },
           {
             "class_name": "ActL2Subsection",
             "num": "2",
             "text": "The provisions of this Act shall be deemed to have  come into operation on April 1, 2025.",
             "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
         "num": "2",
         "text": "Section  3 of the National Minimum Wage of Workers  Act, No. 3 of  2016 is hereby amended by the repeal of  subsection (1) thereof and the substitution therefor, of the  following: -",
         "pre_block_list": [
-          "Amendment of  section 3 of Act,  No. 3 of 2016",
-          "\u201c(l) ( a ) For the period commencing on April 1,  2025 and ending on December 31, 2025, the national  minimum monthly wage for all workers in any industry  or service shall be twenty-seven thousand rupees, and  the national minimum daily wage of a worker shall be  one thousand eighty rupees."
+          "Amendment of  section 3 of Act,  No. 3 of 2016"
         ],
         "child_level_list": [
           {
             "class_name": "ActL3Paragraph",
-            "num": "b",
-            "text": "With effect from January 1, 2026, the national  minimum monthly wage for all workers in any  industry or service shall be thirty thousand rupees, and  the national minimum daily wage of a worker shall be  one thousand two hundred rupees.\u201d.",
-            "pre_block_list": [],
-            "child_level_list": [],
-            "post_block_list": []
+            "num": "l",
+            "text": "( a ) For the period commencing on April 1,  2025 and ending on December 31, 2025, the national  minimum monthly wage for all workers in any industry  or service shall be twenty-seven thousand rupees, and  the national minimum daily wage of a worker shall be  one thousand eighty rupees.",
+            "pre_block_list": [
+              "( b ) With effect from January 1, 2026, the national  minimum monthly wage for all workers in any  industry or service shall be thirty thousand rupees, and  the national minimum daily wage of a worker shall be  one thousand two hundred rupees.."
+            ],
+            "child_level_list": []
           }
-        ],
-        "post_block_list": []
+        ]
       },
       {
         "class_name": "ActL1Section",
@@ -76,27 +72,54 @@
           {
             "class_name": "ActL3Paragraph",
             "num": "a",
-            "text": "the budgetary relief allowances payable as at ",
+            "text": "the budgetary relief allowances payable as at",
             "pre_block_list": [
-              "March 31, 2025, under the provisions of the  Budgetary Relief Allowance of Workers Act,\n No. 36 of 2005, the Budgetary Relief Allowance  of Workers Act, No. 4 of 2016, or both, shall form ",
+              "March 31, 2025, under the provisions of the  Budgetary Relief Allowance of Workers Act,\n No. 36 of 2005, the Budgetary Relief Allowance  of Workers Act, No. 4 of 2016, or both, shall form",
               "Act, No. 11 of 2025 2",
-              "part of the national minimum monthly or daily  wage specified in section 2 payable to all workers  in any industry or service; and   \t ( b )\t the wage of any worker who, as at March 31, ",
-              "2025, received a wage that included the budgetary  relief allowances under the provisions of the  Budgetary Relief Allowance of Workers Act, \n No. 36 of 2005, the Budgetary Relief Allowance  of Workers Act, No. 4 of 2016, or both such Acts,  shall, from the date of commencement of this Act,  consolidate such allowances as part of such wage  of such worker.",
-              "\u2003 4.  An employer shall not reduce the monthly wage of any  worker in any industry or service, including any allowances  payable under the National Minimum Wage of Workers Act,  No. 3 of 2016, the Budgetary Relief Allowance of Workers  Act, No. 36 of 2005, or the Budgetary Relief Allowance of  Workers Act, No. 4 of 2016, in a manner that would negate  the increase made to the national minimum wage by the  amendments to the National Minimum Wage of Workers  Act, No. 3 of 2016 under this Act.",
-              "Prohibition on  reduction of wage  and allowances",
-              "\u2003 5.  The Commissioner-General shall issue directives to  any employer, including the final employer who obtains the  services of any worker in any industry or service through  an intermediary or contractor to take all necessary measures  to ensure that the increase made to the national minimum  wage by the amendments to the National Minimum Wage  of Workers Act, No. 3 of 2016 under this Act is duly  implemented.",
-              "Implementation  of increase in  national minimum  wage",
-              "6.  In the event of any inconsistency between the Sinhala  and Tamil texts of this Act, the Sinhala text shall prevail.",
-              "Sinhala text to  prevail in case of  inconsistency",
-              "Act, No. 11 of 2025 4",
-              "English Acts of the Parliament can be purchased at the \u201cP rakashana   P iyasa \u201d,  D epartment   of  ",
-              "G overnment  P rinting , N o . 118, D r . D anister  D e  S ilva  M awatha , C olombo  8."
+              "part of the national minimum monthly or daily  wage specified in section 2 payable to all workers  in any industry or service; and"
             ],
-            "child_level_list": [],
-            "post_block_list": []
+            "child_level_list": []
+          },
+          {
+            "class_name": "ActL3Paragraph",
+            "num": "b",
+            "text": "the wage of any worker who, as at March 31,",
+            "pre_block_list": [
+              "2025, received a wage that included the budgetary  relief allowances under the provisions of the  Budgetary Relief Allowance of Workers Act, \n No. 36 of 2005, the Budgetary Relief Allowance  of Workers Act, No. 4 of 2016, or both such Acts,  shall, from the date of commencement of this Act,  consolidate such allowances as part of such wage  of such worker."
+            ],
+            "child_level_list": []
           }
+        ]
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "4",
+        "text": "An employer shall not reduce the monthly wage of any  worker in any industry or service, including any allowances  payable under the National Minimum Wage of Workers Act,  No. 3 of 2016, the Budgetary Relief Allowance of Workers  Act, No. 36 of 2005, or the Budgetary Relief Allowance of  Workers Act, No. 4 of 2016, in a manner that would negate  the increase made to the national minimum wage by the  amendments to the National Minimum Wage of Workers  Act, No. 3 of 2016 under this Act.",
+        "pre_block_list": [
+          "Prohibition on  reduction of wage  and allowances"
         ],
-        "post_block_list": []
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "5",
+        "text": "The Commissioner-General shall issue directives to  any employer, including the final employer who obtains the  services of any worker in any industry or service through  an intermediary or contractor to take all necessary measures  to ensure that the increase made to the national minimum  wage by the amendments to the National Minimum Wage  of Workers Act, No. 3 of 2016 under this Act is duly  implemented.",
+        "pre_block_list": [
+          "Implementation  of increase in  national minimum  wage"
+        ],
+        "child_level_list": []
+      },
+      {
+        "class_name": "ActL1Section",
+        "num": "6",
+        "text": "In the event of any inconsistency between the Sinhala  and Tamil texts of this Act, the Sinhala text shall prevail.",
+        "pre_block_list": [
+          "Sinhala text to  prevail in case of  inconsistency",
+          "Act, No. 11 of 2025 4",
+          "English Acts of the Parliament can be purchased at the P rakashana   P iyasa ,  D epartment   of",
+          "G overnment  P rinting , N o . 118, D r . D anister  D e  S ilva  M awatha , C olombo  8."
+        ],
+        "child_level_list": []
       }
     ],
     "part_list": []
