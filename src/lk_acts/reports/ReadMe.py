@@ -30,7 +30,7 @@ class ReadMe:
     @staticmethod
     def get_lines_for_doc(doc):
         return [
-            f"- {doc.doc_act_type.emoji} `{doc.doc_num}`"
+            f"- {doc.act_type.emoji} `{doc.num}`"
             + f" [{doc.description}]({doc.url})"
             + f" ({doc.date})"
         ]

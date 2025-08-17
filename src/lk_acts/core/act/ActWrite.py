@@ -18,7 +18,7 @@ class ActWrite(ActRead):
             self.get_doc_type_name(),
             self.decade,
             self.year,
-            self.doc_id,
+            self.act_id,
         )
         if not os.path.exists(dir_doc_data):
             os.makedirs(dir_doc_data)

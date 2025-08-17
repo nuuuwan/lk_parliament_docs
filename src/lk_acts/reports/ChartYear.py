@@ -42,9 +42,7 @@ class ChartYear:
 
     def draw(self):
         years = np.array(self.years_sorted, dtype=int)
-        types = np.array(
-            [doc_act_type.name for doc_act_type in ActType.list_all()]
-        )
+        types = np.array([act_type.name for act_type in ActType.list_all()])
 
         counts = np.array(
             [
@@ -58,13 +56,13 @@ class ChartYear:
         bottom = np.zeros(len(years), dtype=int)
 
         for i, t_key in enumerate(types):
-            doc_act_type = ActType.from_name(t_key)
+            act_type = ActType.from_name(t_key)
             plt.bar(
                 years,
                 counts[i],
                 bottom=bottom,
-                label=f"{doc_act_type.name}",
-                color=doc_act_type.color,
+                label=f"{act_type.name}",
+                color=act_type.color,
                 edgecolor="white",
                 linewidth=0.25,
             )

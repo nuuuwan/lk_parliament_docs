@@ -30,16 +30,16 @@ class ActType:
 
     @staticmethod
     def from_description(description):
-        for doc_act_type in ActType.list_all_except_general():
-            if doc_act_type.is_match(description):
-                return doc_act_type
+        for act_type in ActType.list_all_except_general():
+            if act_type.is_match(description):
+                return act_type
         return ActType.GENERAL
 
     @staticmethod
     def from_name(name):
-        for doc_act_type in ActType.list_all_except_general():
-            if doc_act_type.name == name:
-                return doc_act_type
+        for act_type in ActType.list_all_except_general():
+            if act_type.name == name:
+                return act_type
         if name == ActType.GENERAL.name:
             return ActType.GENERAL
         raise ValueError(f'Unknown ActType: "{name}"')

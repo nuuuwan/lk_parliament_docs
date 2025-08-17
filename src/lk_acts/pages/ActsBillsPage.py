@@ -31,10 +31,10 @@ class ActsBillsPage(WebPage):
 
         heading_text = h4.text.strip()
         if " : " in heading_text:
-            doc_num, description = heading_text.split(" : ")
+            num, description = heading_text.split(" : ")
         else:
             heading_text = heading_text.replace(": ", "").strip()
-            doc_num = heading_text.lower().replace(" ", "-")
+            num = heading_text.lower().replace(" ", "-")
             description = heading_text
 
         div_body = div_acts_box.find("div", class_="nTabber_content")
@@ -48,25 +48,12 @@ class ActsBillsPage(WebPage):
 
         a = div_con_box_list[2].find("a")
         url_en = a.get("href") if a else None
-        url_si = None
-        url_ta = None
-        if url_en:
-            assert url_en.startswith(
-                "https://www.parliament.lk/uploads"
-            ), f'"{url_en}"'
-            assert "/english/" in url_en, f'"{url_en}"'
-            url_si = url_en.replace("/english/", "/sinhala/")
-            url_ta = url_en.replace("/english/", "/tamil/")
 
         d = dict(
-            doc_num=doc_num,
+            num=num,
             date=endorsed_date,
             description=description,
-            lang_to_source_url=dict(
-                en=url_en,
-                si=url_si,
-                ta=url_ta,
-            ),
+            url_en=url_en,
         )
         return Act.from_dict(d)
 

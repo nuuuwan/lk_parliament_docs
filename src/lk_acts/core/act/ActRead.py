@@ -31,7 +31,7 @@ class ActRead(ActBase):
             doc_list.append(doc)
         doc_list.sort(
             key=lambda x: (
-                x.doc_id,
+                x.act_id,
                 x.date,
             ),
             reverse=True,
@@ -55,6 +55,6 @@ class ActRead(ActBase):
         idx = {}
         for doc in doc_list:
             idx.setdefault(doc.year, {}).setdefault(
-                doc.doc_act_type.name, []
+                doc.act_type.name, []
             ).append(doc)
         return idx
