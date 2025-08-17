@@ -2,7 +2,7 @@
 set -euo pipefail
 
 docker --version
-URL=ghcr.io/nuuuwan/lk-parliament-docs-image:latest
+URL=ghcr.io/nuuuwan/lk-acts-image:latest
 echo "URL=$URL"
 
 # Make builder idempotent

@@ -14,7 +14,7 @@ jobs:
   build_readme:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/nuuuwan/lk-parliament-docs-image:latest
+      image: ghcr.io/nuuuwan/lk-acts-image:latest
 
     steps:
       - name: "⬇️ Checkout lk_acts"
