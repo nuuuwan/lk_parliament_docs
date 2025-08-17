@@ -47,7 +47,7 @@ class ActDownloadPDF(ActWrite):
         s.mount("https://www.parliament.lk", _ParliamentInsecureAdapter())
         return s
 
-    def __download_pdf_hot__(self):
+    def __download_to_temp__(self):
         url = self.url_pdf_en
         try:
             if url.startswith("https://www.parliament.lk"):
@@ -63,30 +63,38 @@ class ActDownloadPDF(ActWrite):
             return None
 
         temp_pdf_path = tempfile.NamedTemporaryFile(suffix=".pdf").name
-        if r.status_code == 200:
-            with open(temp_pdf_path, "wb") as f:
-                f.write(r.content)
-
-            file_size_m = os.path.getsize(temp_pdf_path) / 1_000_000.0
-            if (
-                file_size_m < ActDownloadPDF.MIN_FILE_SIZE_M
-                or file_size_m > ActDownloadPDF.MAX_FILE_SIZE_M
-            ):
-                log.error(
-                    f"Downloaded PDF from {url} is invalid:"
-                    + f" {file_size_m:.1f} MB"
-                )
-                return None
-
-            shutil.move(temp_pdf_path, self.pdf_path)
-            log.info(
-                f"✅ Downloaded PDF from {url}"
-                + f" to {self.pdf_path} ({file_size_m:.1f} MB)"
+        if r.status_code != 200:
+            log.error(
+                f"Failed to download PDF from {url}: HTTP {r.status_code}"
             )
-            return self.pdf_path
+            return None
+        with open(temp_pdf_path, "wb") as f:
+            f.write(r.content)
 
-        log.error(f"Failed to download PDF from {url}: HTTP {r.status_code}")
-        return None
+        return temp_pdf_path
+
+    def __download_pdf_hot__(self):
+        url = self.url_pdf_en
+        temp_pdf_path = self.__download_to_temp__()
+        if not temp_pdf_path:
+            return None
+        file_size_m = os.path.getsize(temp_pdf_path) / 1_000_000.0
+        if (
+            file_size_m < ActDownloadPDF.MIN_FILE_SIZE_M
+            or file_size_m > ActDownloadPDF.MAX_FILE_SIZE_M
+        ):
+            log.error(
+                f"Downloaded PDF from {url} is invalid:"
+                + f" {file_size_m:.1f} MB"
+            )
+            return None
+
+        shutil.move(temp_pdf_path, self.pdf_path)
+        log.info(
+            f"✅ Downloaded PDF from {url}"
+            + f" to {self.pdf_path} ({file_size_m:.1f} MB)"
+        )
+        return self.pdf_path
 
     def __download_pdf_cold_or_hot__(self):
         if os.path.exists(self.pdf_path):

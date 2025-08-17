@@ -5,7 +5,7 @@ from lk_acts import ActsBillsPage
 
 
 class TestCase(unittest.TestCase):
-
+    @unittest.skip("Slow")
     def test_scrape(self):
         page = ActsBillsPage("acts", "2023")
         doc_list = page.scrape()

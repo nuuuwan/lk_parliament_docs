@@ -14,6 +14,30 @@ class ActExtPDF:
         return x.encode("ascii", errors="ignore").decode()
 
     @staticmethod
+    def __parse_raw_block_hacks__(block):
+        # HACK
+        for delim in [".”.", "   \t "]:
+            if delim in block.text:
+                tokens = block.text.split(delim)
+                if len(tokens) == 2:
+                    text1, text2 = tokens
+                    return [
+                        PDFBlock(
+                            bbox=block.bbox,
+                            text=text1.strip(),
+                            font_family=block.font_family,
+                            font_size=block.font_size,
+                        ),
+                        PDFBlock(
+                            bbox=block.bbox,
+                            text=text2.strip(),
+                            font_family=block.font_family,
+                            font_size=block.font_size,
+                        ),
+                    ]
+        return [block]
+
+    @staticmethod
     def __parse_raw_block__(raw_block):
 
         span = raw_block["lines"][0]["spans"][0]
@@ -33,31 +57,7 @@ class ActExtPDF:
             font_size=span.get("size"),
         )
 
-        # if "16." in text:
-        #     print(block)
-        #     print()
-
-        # HACK
-        for delim in [".”.", "   \t "]:
-            if delim in text:
-                tokens = block.text.split(delim)
-                if len(tokens) == 2:
-                    text1, text2 = tokens
-                    return [
-                        PDFBlock(
-                            bbox=block.bbox,
-                            text=text1.strip(),
-                            font_family=block.font_family,
-                            font_size=block.font_size,
-                        ),
-                        PDFBlock(
-                            bbox=block.bbox,
-                            text=text2.strip(),
-                            font_family=block.font_family,
-                            font_size=block.font_size,
-                        ),
-                    ]
-        return [block]
+        return ActExtPDF.__parse_raw_block_hacks__(block)
 
     @staticmethod
     def __parse_page__(page):

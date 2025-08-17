@@ -62,7 +62,9 @@ class ActLevel:
         return re.match(cls.get_re_title(), text)
 
     @classmethod
-    def __get_level_to_block_list__(cls, block_List: list[PDFBlock]):
+    def __get_level_to_block_list__(  # noqa: C901
+        cls, block_List: list[PDFBlock]
+    ):
         level_to_block_list = {}
         pre_block_list = []
         cur_num = None
@@ -73,7 +75,6 @@ class ActLevel:
             match = cls.get_title_match(block.text)
             if match:
                 num = match.group("num")
-
                 if next_num is None or num == next_num:
                     level_to_block_list[num] = [block]
                     cur_num = num
@@ -91,7 +92,6 @@ class ActLevel:
         first_block = block_list[0]
         match = cls.get_title_match(first_block.text)
         assert match
-
         text = (
             match.group("text").strip()
             if "text" in match.re.groupindex
@@ -114,7 +114,6 @@ class ActLevel:
                     )
                 ] + inner_block_list
                 text = ""
-
             desc_cls = child_cls
             while desc_cls is not None and inner_block_list:
                 child_level_list, pre_block_list = (
