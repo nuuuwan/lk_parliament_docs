@@ -1,19 +1,21 @@
-import re
 from dataclasses import dataclass
 
 from lk_acts.core.act_ext.ActL2Subsection import ActL2Subsection
+from lk_acts.core.act_ext.ActLevel import ActLevel
 from lk_acts.core.act_ext.PDFBlock import PDFBlock
 
 
 @dataclass
-class ActL1Section:
+class ActL1Section(ActLevel):
     num: int
     short_description: str
     text: str
     subsection_list: list[ActL2Subsection]
     inner_block_list: list[PDFBlock]
 
-    RE_SECTION = r"^(?P<num>\d+)\s*\.\s*(?P<text>.+)"
+    @classmethod
+    def get_re_title(cls):
+        return r"^(?P<num>\d+)\s*\.\s*(?P<text>.+)"
 
     def to_dict(self):
         return dict(
@@ -46,30 +48,10 @@ class ActL1Section:
                 rem_block_list.append(block)
         return short_description, rem_block_list
 
-    @staticmethod
-    def __get_title_match__(block: PDFBlock):
-        return re.match(ActL1Section.RE_SECTION, block.text)
-
-    @staticmethod
-    def __get_section_to_block_list__(block_List: list[PDFBlock]):
-        section_to_block_list = []
-        preamble = []
-        for block in block_List:
-            if "Italic" in block.font_family:
-                continue
-            match = ActL1Section.__get_title_match__(block)
-            if match:
-                section_to_block_list.append([block])
-            elif section_to_block_list:
-                section_to_block_list[-1].append(block)
-            else:
-                preamble.append(block.text.strip().title())
-        return section_to_block_list, preamble
-
     @classmethod
     def from_block_list(cls, block_list: list[PDFBlock]):
         first_block = block_list[0]
-        match = ActL1Section.__get_title_match__(first_block)
+        match = cls.get_title_match(first_block)
         assert match
 
         short_description, rem_block_list = (
@@ -88,21 +70,18 @@ class ActL1Section:
             ] + rem_block_list
             text = ""
 
-        subsection_list = ActL2Subsection.list_from_block_list(rem_block_list)
+        subsection_list, pre_block_list = (
+            ActL2Subsection.list_from_block_list(rem_block_list)
+        )
 
         return cls(
             num=int(match.group("num")),
             text=text,
             short_description=short_description,
             subsection_list=subsection_list,
-            inner_block_list=rem_block_list if not subsection_list else [],
+            inner_block_list=(
+                pre_block_list + rem_block_list
+                if not subsection_list
+                else pre_block_list
+            ),
         )
-
-    @classmethod
-    def list_from_block_list(cls, block_list: list[PDFBlock]):
-        section_to_block_list, preamble = cls.__get_section_to_block_list__(
-            block_list
-        )
-        return [
-            cls.from_block_list(section) for section in section_to_block_list
-        ], preamble

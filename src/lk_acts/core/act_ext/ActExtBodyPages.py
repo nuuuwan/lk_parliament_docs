@@ -16,7 +16,10 @@ class ActExtBodyPages:
 
     @classmethod
     def from_block_list(cls, block_list):
-        section_list, preamble = ActL1Section.list_from_block_list(block_list)
+        section_list, pre_block_list = ActL1Section.list_from_block_list(
+            block_list
+        )
+        preamble = [block.text.strip().title() for block in pre_block_list]
         return ActExtBodyPages(
             preamble=preamble,
             section_list=section_list,

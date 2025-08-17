@@ -35,6 +35,10 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     - ( b ) to specify the requirements and procedures to be adhered to, in the management of public finance including the implementation of fiscal responsibility objectives and rules, planning, formulation, adoption and implementation of annual budget along with the processes of monitoring, evaluation, internal controls, accounting, and reporting; and
     - ( c ) to specify performance and accountability requirements.
     - PART I
+    - ( a ) to set out standards, requirements, rules, and procedures for transparency, accountability, discipline, effectiveness, efficiency, and economy in the management of the public finance including the revenues, expenditures, commitments, financing arrangements, equity, assets and liabilities;
+    - ( b ) to specify the requirements and procedures to be adhered to, in the management of public finance including the implementation of fiscal responsibility objectives and rules, planning, formulation, adoption and implementation of annual budget along with the processes of monitoring, evaluation, internal controls, accounting, and reporting; and
+    - ( c ) to specify performance and accountability requirements.
+    - PART I
 
 3. **Application of the provisions of this Act** - 
     1. In addition to the provisions enshrined in Articles 148, 149, 150, 151 and 152 of the Constitution, the provisions of this Act, any regulation, and directive made thereunder, unless specifically excluded from this Act, shall apply to the management of the public finance.
@@ -139,6 +143,12 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 9. **Fiscal responsibility of the Government** - The Government shall manage its fiscal policy in an accountable, efficient, fair, transparent, and sustainable manner in line with the provisions of the Constitution, to ensure macroeconomic stability and economic growth of the country and intergenerational equity.
 
 10. **Objectives underlying responsible fiscal management** - The objectives underlying responsible fiscal management which need to be adhered to by the Government shall be as follows: -
+    - ( a ) ensure that public debt is reduced to, and maintained at, a sustainable level;
+    - ( b ) create and maintain fiscal buffers that secure against future shocks;
+    - ( c ) manage and mitigate fiscal risks in a prudent manner;
+    - ( d ) ensure discipline, transparency, and accountability in fiscal management;
+    - ( e ) lengthen the time horizon of fiscal planning by establishing requirements for the development and publication of an annual fiscal strategy statement and rolling five-years medium-term fiscal framework; and
+    - ( f ) facilitate effective scrutiny of the fiscal performance of the Government.
     - ( a ) ensure that public debt is reduced to, and maintained at, a sustainable level;
     - ( b ) create and maintain fiscal buffers that secure against future shocks;
     - ( c ) manage and mitigate fiscal risks in a prudent manner;
@@ -438,6 +448,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
     3. For the purpose of this section, “multi-year expenditure commitments” means an expenditure commitment the settlement of which requires appropriation from the Appropriation Acts of the financial years succeeding the relevant financial year and shall include public investment projects, related recurrent costs, obligations of the Government under public–private partnership projects and other investments and financing arrangements.
 
+    - ( 1) The Minister of Finance shall ensure that the multi- year expenditure commitments proposed in the annual budget of any relevant year are consistent with the medium- term fiscal framework.
+
 32. **Procurement** - 
     1. Every public entity shall procure the goods, services, works, consultancy services and information systems in compliance with the procurement procedures specified in written laws and guidelines issued from time to time by the National Procurement Commission.
 
@@ -495,6 +507,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 36. **Use of information and communication technology** - 
     2. The performance, security, safety and accuracy of the public entity’s computerized financial management and other information systems shall be ensured by periodic review and evaluation as prescribed.
+
+    - ( 1) There shall be developed an effective computerized systems for carrying out the functions of the General Treasury and the functions specified in this Act .
 
 37. **Foreign grants and Domestic grants made to the Government** - 
     1. The Secretary to the Treasury shall, subject to the approval of the Cabinet of Ministers have the authority to sign all agreements with foreign governments, or international organizations in respect of foreign grants or receive any grant from other foreign donors or domestic donors on behalf of the Government, except where a public entity is authorized by the Cabinet of Ministers in writing to sign such agreements and receive such grants.
@@ -663,6 +677,7 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - PART X
 
 46. **Public debt management** - The policy framework on management of public debt and Government guarantees shall be in accordance with the provisions of Part III of this Act and subject to the relevant laws.
+    - PART XI
     - PART XI
 
 47. **Financial reporting** - 
@@ -868,6 +883,10 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     - ( b ) issue corporate governance guidelines aimed at enhancing the performance of State-Owned Enterprises;
     - ( c ) exercise financial oversight over State-Owned Enterprises; and
     - ( d ) exercise any other power as may be specified by any other written law.
+    - ( a ) provide an opinion to the Cabinet of Ministers regarding proposals for the establishment, closure, or merger of each State-Owned Enterprise including the costs to the Government and risks associated with the establishment of a State-Owned Enterprise;
+    - ( b ) issue corporate governance guidelines aimed at enhancing the performance of State-Owned Enterprises;
+    - ( c ) exercise financial oversight over State-Owned Enterprises; and
+    - ( d ) exercise any other power as may be specified by any other written law.
 
 57. **Authority of the relevant Minister on State-Owned Enterprises** - 
     1. The relevant Minister shall not submit any proposal for the establishment of a State-Owned Enterprise in accordance with section 56 –
@@ -954,6 +973,7 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
 
 65. **Report the non- compliance to the Cabinet of Ministers** - The Chief Accounting Officer, through the relevant Minister shall report to the Cabinet of Ministers, any non– compliance of a public entity coming under the purview of such Minister, with the requirements stipulated under this Act or any regulations made thereunder.
     - PART XVI
+    - PART XVI
 
 66. **Consistency with other laws** - In the event of any conflict or inconsistency between the provisions of this Act and the provisions of any other law governing the management of public finance in Sri Lanka, the provisions of this Act shall prevail.
 
@@ -995,6 +1015,66 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - PART XVIII
 
 70. **Interpretation** - In this Act, unless the context otherwise requires -
+    - “Accounting Officer” shall have the same meaning as in the National Audit Act, No. 19 of 2018;
+    - “annual action plan” means the document that outlines the actions, activities and resources that will be used to achieve goals and priorities of the public entity for a financial year;
+    - “annual budget” means the budget approved by the Parliament for a financial year;
+    - “Appropriation Act” means an Act reviewed and approved by the Parliament to make a payment from the Consolidated Fund;
+    - “arrears” means financial liabilities unpaid at the maturity date, the latter established by written law or by contract, should the maturity not be established by either of the mechanisms described above, the maturity period shall be established as ninety days from the date of the relevant invoice or of satisfaction of the terms of the relevant contract;
+    - “budgetary entities” means Ministries, Departments, District Secretariats of the Government and special spending units;
+    - “Central Bank” means the Central Bank established under the Central Bank of Sri Lanka Act, No.16 of 2023;
+    - “Chief Accounting Officer” shall have the same meaning as in the National   Audit Act, No. 19 of 2018;
+    - “commitment” means the administrative action to which requisition is made prior to making an obligation;
+    - “Constitution” means the Constitution of the Democratic Socialist Republic of Sri Lanka;
+    - “Department” means an entity setup statutorily or administratively, that has been assigned a specific area of activity and has been given a Head of Expenditure in the annual budget;
+    - “directives” include circulars, guidelines or special directions issued by General Treasury or Department under the General Treasury;
+    - “District Secretariat” means an entity entrusted with the administrative and development function of the district;
+    - “disposal” means   the sale, transfer, license, lease or other disposition including any sale and leaseback transaction of any property by any person, including any sale, assignment, transfer or other disposal, with or without recourse, of any notes or accounts receivable or any rights and claims associated therewith;
+    - “financial year” means notwithstanding anything to the contrary in any other written law, the financial year of the Government and public entities shall be twelve months commencing on first day of January of each year other than the Companies established under the Companies Act, No. 07 of 2007, with a Government stake;
+    - “fiscal risk” means factors or events that may cause fiscal revenue, expense, financing, asset and liability variables to deviate from forecasts in annual and multi-year fiscal programming; and it may originates from domestic or foreign macroeconomic conditions, State-Owned Enterprises operation, implementation of public-private partnerships, and natural disasters among other causes;
+    - “Government” means the Government of the Democratic Socialist Republic of Sri Lanka;
+    - “guarantee” means an explicit undertaking by the Government as the guarantor to guarantee fulfillment of contracted obligations of another legal person or entity under certain specified conditions;
+    - “Head of Expenditure” means, in relation to the Appropriation Act, the annual budget and the supplementary estimates, an appropriation that–
+    - ( a ) specifies the total expenditure for a budgetary entity; and
+    - ( b ) separately voted by the Parliament;
+    - “levy” means a payment made by a public corporation to the Consolidated Fund of a return on the capital grants of the Government at such rate or a payment to the Consolidated Fund of such amount as may be determined, from time to time, by the Minister;
+    - “medium-term” means between three to five years;
+    -  “medium-term fiscal framework” means a set of economic assumptions and fiscal projections and targets covering the upcoming financial year and the four succeeding financial years (projection years);
+    - “national development policy framework” means a logical and an overarching structure that entails long-term goals and guidance for the development of policies;
+    - “national policy” means the policies derived from the national development policy framework to achieve the national development objectives;
+    - “non-financial assets” means produced or non- produced movable or immovable assets, including lands, buildings, structures, plant and machinery, vehicles, office equipment and furniture, and other assets declared as non- financial assets that are fully owned, assigned, possessed, vested in, utilized, or leased by a public entity;
+    - “non statutory funds” means funds that are not established by law;
+    - “official bank account” means any bank account opened with the Central Bank of Sri Lanka or a commercial bank or a specialized bank licensed under the provisions of the Banking Act, No. 30 of 1988 and authorized by the Secretary to the Treasury as prescribed by regulations, to be operated and maintained in order to facilitate the management of public finance;
+    - “primary balance” shall be the overall balance of the Government excluding interest payments of the Government. In calculating the primary balance, proceeds  from  privatization  or commercialization of public assets shall not be part of Government revenues, and the Government’s equity injections to corporations other than banks for recapitalization purposes shall be recorded as Government expenditure;
+    - “primary expenditure” shall be the total expenditure of the Government excluding debt services in a financial year;
+    - “prescribed” means prescribed by regulations;
+    - “President” means the President of the Democratic Socialist Republic of Sri Lanka;
+    - “Provincial Council” means a Provincial Council established for a Province by virtue of Article 154A of the Constitution;
+    - “public corporation” shall have the same meaning assigned to such expression under Article 170 of the Constitution;
+    - “public debt” means liabilities of the Government created by debt and debt of the entities specified in paragraph ( a ) of subsection (2) of section 3;
+    - “public finance “includes –
+    - ( a ) funds allocated to any public entity specified in paragraph ( a ) of subsection (2) of section 3   by the Appropriation Act of the relevant year;
+    - ( b ) funds held by any public entity specified in paragraph ( a ) of subsection (2) of section 3   in terms of any written law excluding approved termination funds which includes thrift, savings or building society or welfare fund to which contributions are made by employees or, any gratuity fund maintained for the purpose of payment of gratuities to employees on the termination of their services under the relevant written law;
+    - ( c ) funds vested in the Government by virtue of the provisions of any written law; and
+    - ( d ) funds received or borrowed by any public entity   specified in paragraph ( a ) of subsection (2) of section 3   with the approval of the Parliament;
+    - “public funds” means moneys in the Consolidated Fund or any other Fund and moneys under the control of the Government excluding approved termination funds which includes thrift, savings
+    - or building society or welfare fund to which contributions are made by employees or, any gratuity fund maintained for the purpose of payment of gratuities to employees on the termination of their services under the relevant written law;
+    - “public investment programme” means a medium-term rolling plan consisting of all ongoing and proposed public investment projects and public- private partnership projects prepared based on the national development policy framework;
+    - “public investment project” means an integrated set of activities funded by the Government, provincial council or local authority aimed at allocating resources of financial, physical or service towards the development, improvement, operation or maintenance of public assets or services to enhance the quality of life of citizens and promote economic growth and address societal needs;
+    - “public office holder” means Government appointee to a body entrusted with an advisory or administration function, and remunerated through the public finance;
+    - “public officer” shall have the same meaning given in Article 170 of the Constitution;
+    - “public-private partnership” means a long-term contract between a private party and a Government entity for providing a public asset or service in which the private party bears significant risk and management responsibility;
+    - “relevant Minister” means the Minister under whose purview the public entity is assigned under the paragraph (1) of Article 44 of the Constitution;
+    - “Revenue Accounting Officer” means an Accounting Officer who is vested with the responsibility of facilitating of the preparation of the annual revenue estimates of the revenue codes assigned by the annual budget estimates and who will ultimately accountable for variations between estimate and actual collections;
+    - “special spending unit” means an entity, other than a Ministry, Department, District Secretariat or Provincial Council, that has been given a Head of Expenditure in the annual budget;
+    - “State-Owned Enterprise” means  -
+    - ( a ) a public corporation within the meaning of the Constitution;
+    - ( b ) entities established and operated under the Companies Act, No.07 of 2007 in which the State has direct or indirect controlling interest by virtue of its shareholding; or
+    - ( c ) State-Owned Corporations, converted in terms of the Conversion of Public Corporations or Government Owned Business Undertakings into Public Companies Act, No.23 of 1987, or such other Acts in terms of which any business entity has been vested with the Government,
+    - with the exception of the Central Bank of Sri Lanka ;
+    - “Statutory Fund” means any fund other than the Consolidated Fund, created or established under any written law or an Act of Parliament for a specific purpose, to which public finances are allocated excluding approved termination funds which includes thrift, savings or building society or welfare fund to which contributions are made by employees or, any gratuity fund maintained for the purpose of payment of gratuities to employees on the termination of their services, under the relevant written law;
+    - “tax expenditure” includes exemptions, allowances, credits, rate reliefs and tax deferrals pertaining to tax;
+    - “trust” shall have the same meaning assign to that in section 3 of the Trust Ordinance, No. 9 of 1917; and
+    - “vote on account” means an estimate of Government expenditure approved by the Parliament in order to continue the Government services and development activities for a maximum of four months, in the absence of an Appropriation Act.
     - “Accounting Officer” shall have the same meaning as in the National Audit Act, No. 19 of 2018;
     - “annual action plan” means the document that outlines the actions, activities and resources that will be used to achieve goals and priorities of the public entity for a financial year;
     - “annual budget” means the budget approved by the Parliament for a financial year;
