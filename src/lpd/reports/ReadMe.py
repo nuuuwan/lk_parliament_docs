@@ -53,8 +53,8 @@ class ReadMe:
         return (
             [
                 "# 🇱🇰 Acts from the Sri Lankan Parliament"
-                + " ([lk_parliament_docs]"
-                + "(https://github.com/nuuuwan/lk_parliament_docs))",
+                + " ([lk_acts]"
+                + "(https://github.com/nuuuwan/lk_acts))",
                 "",
                 f"Scraped  **{self.n_docs:,}** acts"
                 + f" ({self.data_size_m:.2f} MB) from"
