@@ -91,7 +91,7 @@ class ActLevel:
         match = cls.get_title_match(first_block.text)
         assert match
 
-        text = match.group("text")
+        text = match.group("text") or ""
 
         child_level_list = []
         pre_block_list = block_list[1:]

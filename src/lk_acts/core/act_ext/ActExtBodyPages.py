@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 
+from lk_acts.core.act_ext.ActL0Part import ActL0Part
 from lk_acts.core.act_ext.ActL1Section import ActL1Section
 
 
@@ -16,9 +17,11 @@ class ActExtBodyPages:
 
     @classmethod
     def from_block_list(cls, block_list):
-        section_list, pre_block_list = ActL1Section.list_from_block_list(
+        section_list, pre_block_list = ActL0Part.list_from_block_list(
             block_list
         )
+        print("section_list", len(section_list))
+
         preamble = [block.text.strip().title() for block in pre_block_list]
         return ActExtBodyPages(
             preamble=preamble,

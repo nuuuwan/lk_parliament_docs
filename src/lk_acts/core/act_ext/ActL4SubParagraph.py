@@ -16,7 +16,7 @@ class ActL4SubParagraph(ActLevel):
 
     @classmethod
     def get_next_num(cls, num):
-        roman_nums = [
+        roman_nums = [  # HACK!
             "i",
             "ii",
             "iii",

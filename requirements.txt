@@ -5,3 +5,4 @@ matplotlib
 numpy
 PyPDF2
 pymupdf
+roman
