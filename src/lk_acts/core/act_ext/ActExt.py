@@ -1,6 +1,7 @@
 import re
 from dataclasses import dataclass
 from functools import cached_property
+from itertools import chain
 
 import pymupdf
 
@@ -9,6 +10,8 @@ import pymupdf
 class PDFBlock:
     bbox: tuple[float, float, float, float]
     text: str
+    font_family: str
+    font_size: float
 
     @staticmethod
     def extract(re_expr, block_list: list["PDFBlock"]) -> float:
@@ -24,21 +27,40 @@ class ActExtPDF:
         self.pdf_path = pdf_path
 
     @cached_property
-    def page_block_list(self) -> list[str]:
+    def page_block_list(self) -> list[list[PDFBlock]]:
         doc = pymupdf.open(self.pdf_path)
 
         page_block_list = []
         for page in doc:
-            raw_block_list = page.get_text("blocks")
+            print("\n" * 2)
+            print("-" * 32)
+            raw = page.get_text("dict")
             block_list = []
-            for x0, y0, x1, y1, text, *_ in raw_block_list:
+            for raw_block in raw["blocks"]:
+
+                if raw_block.get("type", 0) != 0:
+                    continue
+                span = raw_block["lines"][0]["spans"][0]
+
+                text_list = []
+                for line in raw_block["lines"]:
+                    for span in line["spans"]:
+                        text_list.append(span.get("text", ""))
+                text = " ".join(text_list)
+
                 block = PDFBlock(
-                    bbox=(x0, y0, x1, y1),
-                    text=text.replace("\n", " ").strip(),
+                    bbox=raw_block["bbox"],
+                    text=text,
+                    font_family=span.get("font"),
+                    font_size=span.get("size"),
                 )
+                print(block)
+                print("." * 32)
                 block_list.append(block)
 
+            block_list.sort(key=lambda box: box.bbox[1])
             page_block_list.append(block_list)
+
         return page_block_list
 
     @cached_property
@@ -86,21 +108,106 @@ class ActExtTitlePage:
 
 
 @dataclass
-class ActSection:
+class ActSubSection:
     num: int
     text: str
+    inner_block_list: list[PDFBlock]
 
-    RE_SECTION = r"^(?P<num>\d+)\.\s*(?P<text>.+)"
+    RE_SUB_SECTION = r"^\((?P<num>\d+)\)\s*(?P<text>.+)"
 
     def to_dict(self):
-        return dict(num=self.num, text=self.text)
+        return dict(
+            num=self.num,
+            text=self.text,
+            inner_text_list=[block.text for block in self.inner_block_list],
+        )
 
     @classmethod
-    def from_block(cls, block: PDFBlock):
-        match = re.match(cls.RE_SECTION, block.text)
-        if match:
-            return cls(num=int(match.group("num")), text=match.group("text"))
-        return None
+    def list_from_block_list(cls, block_list: list[PDFBlock]):
+        sub_section_d_list = []
+
+        for block in block_list:
+            match = re.match(cls.RE_SUB_SECTION, block.text)
+            if not match:
+                if sub_section_d_list:
+                    sub_section_d_list[-1]["inner_block_list"].append(block)
+                continue
+
+            section_d = dict(
+                num=int(match.group("num")),
+                text=match.group("text"),
+                inner_block_list=[],
+            )
+            sub_section_d_list.append(section_d)
+
+        sub_section_list = []
+        for sub_section_d in sub_section_d_list:
+            section = ActSubSection(
+                num=sub_section_d["num"],
+                text=sub_section_d["text"],
+                inner_block_list=sub_section_d["inner_block_list"],
+            )
+            sub_section_list.append(section)
+        return sub_section_list
+
+
+@dataclass
+class ActSection:
+    num: int
+    short_description: str
+    text: str
+    sub_section_list: list[ActSubSection]
+
+    RE_SECTION = r"^(?P<num>\d+)\s*\.\s*(?P<text>.+)"
+
+    def to_dict(self):
+        return dict(
+            num=self.num,
+            short_description=self.short_description,
+            text=self.text,
+            sub_section_list=[
+                sub_section.to_dict() for sub_section in self.sub_section_list
+            ],
+        )
+
+    @staticmethod
+    def parse_short_description(block_list: list[PDFBlock]):
+        for block in block_list:
+            if block.font_size <= 8:
+                return block.text
+
+    @classmethod
+    def list_from_block_list(cls, block_list: list[PDFBlock]):
+        section_d_list = []
+
+        for block in block_list:
+            match = re.match(cls.RE_SECTION, block.text)
+            if not match:
+                if section_d_list:
+                    section_d_list[-1]["inner_block_list"].append(block)
+                continue
+
+            section_d = dict(
+                num=int(match.group("num")),
+                text=match.group("text"),
+                inner_block_list=[],
+            )
+            section_d_list.append(section_d)
+
+        section_list = []
+        for section_d in section_d_list:
+            section = ActSection(
+                num=section_d["num"],
+                short_description=ActSection.parse_short_description(
+                    section_d["inner_block_list"]
+                ),
+                text=section_d["text"],
+                sub_section_list=ActSubSection.list_from_block_list(
+                    section_d["inner_block_list"]
+                ),
+            )
+            section_list.append(section)
+        return section_list
 
 
 @dataclass
@@ -114,12 +221,9 @@ class ActExtBodyPages:
 
     @classmethod
     def from_block_list(cls, block_list):
-        section_list = []
-        for block in block_list:
-            section = ActSection.from_block(block)
-            if section:
-                section_list.append(section)
-        return ActExtBodyPages(section_list=section_list)
+        return ActExtBodyPages(
+            section_list=ActSection.list_from_block_list(block_list)
+        )
 
 
 @dataclass
@@ -138,7 +242,7 @@ class ActExt:
                 act_ext_pdf.page_block_list[0]
             ),
             body_pages=ActExtBodyPages.from_block_list(
-                act_ext_pdf.page_block_list[1]
+                list(chain.from_iterable(act_ext_pdf.page_block_list[1:]))
             ),
         )
 
