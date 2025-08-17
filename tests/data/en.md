@@ -31,8 +31,9 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         a. to set out standards, requirements, rules, and procedures for transparency, accountability, discipline, effectiveness, efficiency, and economy in the management of the public finance including the revenues, expenditures, commitments, financing arrangements, equity, assets and liabilities;
         b. to specify the requirements and procedures to be adhered to, in the management of public finance including the implementation of fiscal responsibility objectives and rules, planning, formulation, adoption and implementation of annual budget along with the processes of monitoring, evaluation, internal controls, accounting, and reporting; and
         c. to specify performance and accountability requirements.
-            - PART I
-            - A PPLICATION   OF   THE  A CT
+
+I. 
+    - A PPLICATION   OF   THE  A CT
 3. 
     1. In addition to the provisions enshrined in Articles 148, 149, 150, 151 and 152 of the Constitution, the provisions of this Act, any regulation, and directive made thereunder, unless specifically excluded from this Act, shall apply to the management of the public finance.
         - Application of the provisions of this Act
@@ -44,9 +45,9 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
             iv. Provincial Councils, Provincial Ministries, Provincial Departments, other Institutions functioning under the Provincial Councils, and Local Authorities in terms of the relevant written laws;
         b. Officers and employees of public entities to whom a power or duty is conferred, delegated or assigned under this Act or any regulation made thereunder, including a Chief Accounting Officer, Accounting Officer or a competent authority referred to in Part VI of this Act.
     3. Every public entity and persons referred to in subsection (2) in respect of which this Act applies, shall notwithstanding anything to the contrary in the provisions of any other written law, comply with the provisions of this Act in managing public funds allocated to or levied by any such public entity under any written law.
-        - PART II
-        - P OWERS , D UTIES   AND  F UNCTIONS   OF   THE  M INISTER   OF  F INANCE
-        - AND   OTHER  A UTHORITIES
+II. 
+    - P OWERS , D UTIES   AND  F UNCTIONS   OF   THE  M INISTER   OF  F INANCE
+    - AND   OTHER  A UTHORITIES
 4. 
     1. The Minister to whom the subject of Finance has been assigned under Article 44 or 45 of the Constitution (in this Act referred to as the “Minister of Finance”) shall in addition to the powers conferred under Article 150 of the Constitution,  be responsible for  –
         - Powers, duties and functions of the Minister of Finance under this Act
@@ -100,8 +101,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     5. Subject to the provisions of subsection (4), an appointed member of the Revenue Management Committee shall serve on such Committee for a period of three years and shall be eligible for reappointment.
     6. The functions of the Revenue Management Committee, and the manner of the classification, collection, and deposit of the revenue, refund from revenue and reporting requirements shall be as prescribed.
     7. The functions of the Revenue Management Committee shall be carried out, subject to any applicable written law, in such manner so as not to create any conflict between the Revenue Management Committee and functions being carried out by any public entity specified in paragraph ( a ) of subsection (2) of section 3.
-        - PART III
-        - F ISCAL  R ESPONSIBILITY
+III. 
+    - F ISCAL  R ESPONSIBILITY
 9. The Government shall manage its fiscal policy in an accountable, efficient, fair, transparent, and sustainable manner in line with the provisions of the Constitution, to ensure macroeconomic stability and economic growth of the country and intergenerational equity.
     - Fiscal responsibility of the Government
 10. The objectives underlying responsible fiscal management which need to be adhered to by the Government shall be as follows: -
@@ -185,8 +186,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     3. In case of a breach of the guarantee limit specified in subsection (1), the Minister of Finance shall submit to Parliament and publish on the official website of the Ministry of the Minister of Finance a report specifying, at a minimum-
         a. the reason for such breach; and
         b. actions to ensure compliance with the guarantee limit in the future.
-            - PART IV
-            - P REPARATION   AND  A PPROVAL   OF  A NNUAL  B UDGET
+IV. 
+    - P REPARATION   AND  A PPROVAL   OF  A NNUAL  B UDGET
 18. 
     1. The annual budget shall include the estimates of expenditure of the public entities which are allocated to a Head of Expenditure number.
         - Scope of the annual budget
@@ -237,8 +238,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. In the event the Appropriation Bill for the succeeding year is not approved by Parliament by thirty first day of December of the current year, the Minister of Finance shall submit a vote on account to Parliament, under which the Parliament shall allocate funds for ongoing projects and continuously provide specified public services which need to be maintained.
         - Vote on Account
     2. The period for which expenditure is allocated under the vote on account shall not exceed four months and shall be followed by the adoption of the Appropriation Act integrating the expenditure of the vote on account.
-        - PART V
-        - A DJUSTMENTS   TO   THE  A NNUAL  B UDGET   DURING   THE   YEAR
+V. 
+    - A DJUSTMENTS   TO   THE  A NNUAL  B UDGET   DURING   THE   YEAR
 24. 
     1. Transfer of an allocation within a Head of Expenditure in annual Appropriation Act shall be in compliance with the provisions in such Appropriation Act, subject to the provisions of subsections (2), (3) and (4) of this section (hereinafter referred to as the “Virement Procedure”).
         - Virement procedure
@@ -277,8 +278,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     2. In the events specified in subsection (1), the relevant budgetary entity shall place before the Parliament a
         - statement on excess expenditure attached to the annual financial statement which shall include the information as may be prescribed not later than ninety days after the closure of the financial year.
     3. An unauthorized excess expenditure shall be a ground for a disciplinary action against the responsible officers.
-        - PART VI
-        - B UDGET  E XECUTION
+VI. 
+    - B UDGET  E XECUTION
 28. 
     1. Any financial commitment or liability, including contingent liability, shall not be incurred by a budgetary entity without a warrant authorizing expenditure by the Minister of Finance issued under Article 150 of the Constitution.
         - Warrants
@@ -339,8 +340,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - sections 40 and 41 of the National Audit Act, No. 19 of
         - 2018.
     3. The Secretary to the Treasury shall issue directives with regards to strengthening of internal controls, internal audits and to audit management committees of public entities.
-        - PART VII
-        - F INANCIAL  M ANAGEMENT
+VII. 
+    - F INANCIAL  M ANAGEMENT
 34. 
     1. 
         a. There shall be established a Committee on Cash Flow Management chaired by the Secretary to the Treasury and consisting of Deputy Secretaries, and Heads of the Departments in the Treasury and Heads of following revenue Departments: -
@@ -387,8 +388,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         - property or any exclusive privilege belonging to a budgetary
         - entity shall be credited to the Consolidated Fund and shall
         - be dealt with in the manner as may be prescribed.
-        - PART VIII
-        - S TATUTORY  F UNDS
+VIII. 
+    - S TATUTORY  F UNDS
 39. 
     1. The Secretary to the Treasury shall supervise, examine, and monitor all statutory funds and may issue directives on statutory funds in respect of which any other written law does not provide for such matters.
         - Powers of the Secretary to the Treasury on statutory funds
@@ -402,8 +403,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         d. submit other information as may be required in writing by the Secretary to the Treasury.
     4. Any non statutory fund shall cease its operations from the date of coming into operation of this Act and shall be dissolved within one year from such date and the moneys lying to the credit of such fund shall be remitted to the Consolidated Fund after discharging the liabilities of such fund:
         - Provided however, where the Minister of Finance in consultation with the Secretary to the Treasury, determines that such a non-statutory fund shall continue in operation, such fund shall be converted to a statutory fund as may be prescribed.
-        - PART IX
-        - P UBLIC  I NVESTMENT  M ANAGEMENT
+IX. 
+    - P UBLIC  I NVESTMENT  M ANAGEMENT
 40. 
     1. The selection and implementation of a public investment project, including a public private partnership project shall be in compliance with –
         - General principles of public investment management and Public Investment Committee
@@ -474,11 +475,11 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
         b. total project cost including expenditure already incurred on the project, an estimate of annual expenditure over the medium term and financing sources; and
         c. any other information as may be deemed appropriate by the Minister of Finance.
     2. The Secretary to the Treasury shall be responsible for maintaining an updated data repository on public investment projects, including public-private partnership projects.
-        - PART X
-        - G OVERNMENT  B ORROWINGS   AND  G UARANTEES
+X. 
+    - G OVERNMENT  B ORROWINGS   AND  G UARANTEES
 46. The policy framework on management of public debt and Government guarantees shall be in accordance with the provisions of Part III of this Act and subject to the relevant laws.
     - Public debt management
-    - PART XI
+XI. 
     - A CCOUNTING   AND  R EPORTING
 47. 
     1. The financial statements of the Government shall –
@@ -602,8 +603,8 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
             ii. where the waiver of irrecoverable revenue or other Government dues not falling within the provisions of paragraph ( a ) of this section and subparagraph (i) of this paragraph,
                 - authority of the Secretary to the Treasury shall be sought.
     4. Details of actions, authority limits, timelines and guidance on investigation, reporting, recovery and write- off of a loss or damage shall be provided in the manner as may be prescribed.
-        - PART XII
-        - S TATE  O WNED  E NTERPRISES
+XII. 
+    - S TATE  O WNED  E NTERPRISES
 55. The provisions of this Part shall apply to State-Owned Enterprises as specified in subparagraph (iii) of paragraph ( a ) of subsection (2) of section 3.
     - Application of the provisions of this Part
 56. The Minister of Finance shall have the power to -
@@ -650,20 +651,20 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     2. The Secretary to the Treasury shall from time to time publish the formats, timelines and directions of the reports referred to in subsection (1).
     3. A State-Owned Enterprise shall submit to the Auditor- General a draft annual report, not later than two calendar months from the end of each financial year that includes the approved financial statements of the State-Owned Enterprise along with the statements and documents as prescribed by any written law with copies of such reports to the relevant Minister and the Minister of Finance.
     4. Upon receiving the Auditor-General’s opinion and not later than one hundred and eighty days after the closure of every financial year, the State-Owned Enterprise shall submit the annual report to the Parliament with copies of such reports to the relevant Minister and the Minister of Finance and publish the report on the official website of the relevant State-Owned Enterprise.
-        - PART XIII
-        - P ROVINCIAL  C OUNCILS   AND  L OCAL  A UTHORITIES
+XIII. 
+    - P ROVINCIAL  C OUNCILS   AND  L OCAL  A UTHORITIES
 62. 
     1. Subject to the provisions of the Constitution and relevant written laws, Provincial Councils and Local Authorities shall adhere to the principles of transparency and fiscal responsibility stipulated in this Act in the management of public finance.
         - Duty to observe the principles of transparency and fiscal responsibility
     2. The Secretary to the Ministry of the Minister to whom the subject of Provincial Councils and Local Authorities are assigned shall submit reports on revenues and expenditures and other financial information of the Provincial Councils and Local Authorities, as may be requested by the Minister of Finance.
-        - PART XIV
-        - C ADRE  M ANAGEMENT
+XIV. 
+    - C ADRE  M ANAGEMENT
 63. 
     1. The Minister of Finance shall be vested with the power of cadre management of the public entities in a manner as may be prescribed that would achieve the objects of this Act.
         - Cadre management
     2. Subject to the provisions of the Constitution and the approval of the Cabinet of Ministers, the responsibilities of the Minister of Finance with regard to cadre management, shall include the determination of the salaries and wages and other payments, to the officers and other employees of public entities.
-        - PART XV
-        - O FFENCES   AND  P ENALTIES
+XV. 
+    - O FFENCES   AND  P ENALTIES
 64. 
     1. An officer or an employee of a public entity to whom a power or duty is conferred or assigned under this Act or any regulation or rule made thereunder who willfully or negligently makes or permits an unlawful, unauthorized, irregular or wasteful expenditure or misapplication of public finance or public property by an act or omission, shall commit the act of financial misconduct and shall be liable to disciplinary action.
         - Financial misconduct by public officers and governing body of a public entity
@@ -677,7 +678,7 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
             - Provided that any officer or body of persons as the case may be, shall not be deemed to have committed such offence, if such person proves to the satisfaction of the disciplinary authority that such offence was committed without his knowledge or that such person exercised all due diligence as was necessary, to prevent the commission of such offence.
 65. The Chief Accounting Officer, through the relevant Minister shall report to the Cabinet of Ministers, any non– compliance of a public entity coming under the purview of such Minister, with the requirements stipulated under this Act or any regulations made thereunder.
     - Report the non- compliance to the Cabinet of Ministers
-    - PART XVI
+XVI. 
     - M ISCELLANEOUS  P ROVISIONS
 66. In the event of any conflict or inconsistency between the provisions of this Act and the provisions of any other law governing the management of public finance in Sri Lanka, the provisions of this Act shall prevail.
     - Consistency with other laws
@@ -699,15 +700,15 @@ Be It Enacted By The Parliament Of The Democratic Socialist Republic Of Sri Lank
     1. The Secretary to the Treasury may issue to the public entities and persons referred to in subsection (2) of section 3, directives deemed as necessary for the purpose of implementing the provisions of this Act.
         - Power to issue instructions or directives
     2. The Secretary to the Treasury shall publish such directives on the official website of the Ministry of the Minister of Finance.
-        - PART XVII
-        - R EPEALS
+XVII. 
+    - R EPEALS
 69. 
     1. Sections 8 and 14 of the Finance Act, No. 38 of 1971 are hereby repealed.
         - Repeals
     2. Notwithstanding the repeal of section 8 of Part II of the Finance Act, No. 38 of 1971, any budget prepared by any public corporation in terms of the provisions of repealed section 8 of Part II of the Finance Act, No. 38 of 1971 and subsisting on the day immediately preceding the date of coming into operation of this Act, shall be deemed to be a budget prepared under section 59 of this Act.
     3. Fiscal Management (Responsibility) Act, No. 3 of 2003 is hereby repealed.
-        - PART XVIII
-        - I NTERPRETATION
+XVIII. 
+    - I NTERPRETATION
 70. In this Act, unless the context otherwise requires -
     - Interpretation
     - “Accounting Officer” shall have the same meaning as in the National Audit Act, No. 19 of 2018;

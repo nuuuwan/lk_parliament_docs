@@ -30,6 +30,7 @@ class ActLevel:
 
     def to_dict(self):
         return dict(
+            class_name=self.__class__.__name__,
             num=self.num,
             text=self.text,
             pre_block_list=[block.text for block in self.pre_block_list],
@@ -72,7 +73,7 @@ class ActLevel:
             match = cls.get_title_match(block.text)
             if match:
                 num = match.group("num")
-                print(f'"{cur_num}" -> "{next_num}" => "{num}"')
+
                 if next_num is None or num == next_num:
                     level_to_block_list[num] = [block]
                     cur_num = num
@@ -91,7 +92,7 @@ class ActLevel:
         match = cls.get_title_match(first_block.text)
         assert match
 
-        text = match.group("text") or ""
+        text = match.group("text") if "text" in match.re.groupindex else ""
 
         child_level_list = []
         pre_block_list = block_list[1:]

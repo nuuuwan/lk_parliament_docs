@@ -1,5 +1,7 @@
 from dataclasses import dataclass
 
+import roman
+
 from lk_acts.core.act_ext.ActLevel import ActLevel
 
 
@@ -16,21 +18,8 @@ class ActL4SubParagraph(ActLevel):
 
     @classmethod
     def get_next_num(cls, num):
-        roman_nums = [  # HACK!
-            "i",
-            "ii",
-            "iii",
-            "iv",
-            "v",
-            "vi",
-            "vii",
-            "viii",
-            "ix",
-            "x",
-        ]
-        if num in roman_nums:
-            return roman_nums[roman_nums.index(num) + 1]
-        return None
+        i = roman.fromRoman(num.lower())
+        return roman.toRoman(i + 1).lower()
 
     @classmethod
     def get_re_title(cls):

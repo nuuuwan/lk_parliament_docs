@@ -1,6 +1,5 @@
 import os
 from dataclasses import dataclass
-from functools import cached_property
 from itertools import chain
 
 from utils import File, JSONFile, Log
@@ -18,10 +17,6 @@ class ActExt:
     n_pages: int
     title_page: ActExtTitlePage
     body_pages: ActExtBodyPages
-
-    @cached_property
-    def n_sections(self):
-        return len(self.body_pages.section_list)
 
     @classmethod
     def from_pdf(cls, pdf_path):
