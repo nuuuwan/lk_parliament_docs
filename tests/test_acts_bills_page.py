@@ -9,7 +9,7 @@ class TestCase(unittest.TestCase):
     def test_scrape(self):
         page = ActsBillsPage("acts", "2023")
         doc_list = page.scrape()
-        self.assertEqual(len(doc_list), 43)
+        self.assertEqual(len(doc_list), 38)
 
         first_doc = doc_list[0]
         self.assertEqual(

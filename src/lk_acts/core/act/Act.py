@@ -1,5 +1,5 @@
-from lk_acts.core.act.ActWrite import ActWrite
+from lk_acts.core.act.ActDownloadPDF import ActDownloadPDF
 
 
-class Act(ActWrite):
+class Act(ActDownloadPDF):
     pass
