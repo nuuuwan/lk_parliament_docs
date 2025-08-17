@@ -36,6 +36,7 @@ class TestCase(unittest.TestCase):
                 "short_description": "Short title",
                 "text": "This Act may be cited as the Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No.  28  of 2024.",
                 "subsection_list": [],
+                "inner_text_list": [],
             },
         )
 
