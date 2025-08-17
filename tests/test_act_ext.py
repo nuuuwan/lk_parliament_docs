@@ -13,6 +13,20 @@ class TestCase(unittest.TestCase):
         self.assertEqual(act_ext.n_pages, 5)
         self.assertEqual(act_ext.n_sections, 5)
 
+        print(act_ext.title_page.to_dict())
+        self.assertEqual(
+            act_ext.title_page.to_dict(),
+            {
+                "title": "SHOP AND OFFICE EMPLOYEES (REGULATION OF EMPLOYMENT AND REMUNERATION) (AMENDMENT)  ACT",
+                "num": "28",
+                "year": "2024",
+                "date_certified": "13th of  May, 2024",
+                "date_published": "May 17, 2024",
+                "price": "12.00",
+                "price_postage": "150.00",
+            },
+        )
+
         first_section = act_ext.body_pages.section_list[0]
         print(first_section.to_dict())
         self.assertEqual(
