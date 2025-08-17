@@ -1,7 +1,7 @@
 import re
 from dataclasses import dataclass
 
-from lk_acts.core.act_ext.ActSubSection import ActSubSection
+from lk_acts.core.act_ext.ActSubsection import ActSubsection
 from lk_acts.core.act_ext.PDFBlock import PDFBlock
 
 
@@ -10,7 +10,7 @@ class ActSection:
     num: int
     short_description: str
     text: str
-    sub_section_list: list[ActSubSection]
+    sub_section_list: list[ActSubsection]
 
     RE_SECTION = r"^(?P<num>\d+)\s*\.\s*(?P<text>.+)"
 
@@ -56,7 +56,7 @@ class ActSection:
                     section_d["inner_block_list"]
                 ),
                 text=section_d["text"],
-                sub_section_list=ActSubSection.list_from_block_list(
+                sub_section_list=ActSubsection.list_from_block_list(
                     section_d["inner_block_list"]
                 ),
             )

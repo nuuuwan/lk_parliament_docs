@@ -5,7 +5,7 @@ from lk_acts.core.act_ext.PDFBlock import PDFBlock
 
 
 @dataclass
-class ActSubSection:
+class ActSubsection:
     num: int
     text: str
     inner_block_list: list[PDFBlock]
@@ -39,7 +39,7 @@ class ActSubSection:
 
         sub_section_list = []
         for sub_section_d in sub_section_d_list:
-            section = ActSubSection(
+            section = ActSubsection(
                 num=sub_section_d["num"],
                 text=sub_section_d["text"],
                 inner_block_list=sub_section_d["inner_block_list"],
