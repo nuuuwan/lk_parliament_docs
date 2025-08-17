@@ -15,16 +15,12 @@ class TestCase(unittest.TestCase):
         self.assertEqual(
             first_doc.to_dict(),
             {
-                "doc_type_nam": "acts",
                 "num": "28/2024",
                 "date": "2024-05-13",
                 "description": "Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)",  # noqa: E501
-                "lang_to_source_url": {
-                    "en": "https://www.parliament.lk/uploads/acts/gbills/english/6332.pdf",  # noqa: E501
-                    "si": "https://www.parliament.lk/uploads/acts/gbills/sinhala/6332.pdf",  # noqa: E501
-                    "ta": "https://www.parliament.lk/uploads/acts/gbills/tamil/6332.pdf",  # noqa: E501
-                },
+                "url_pdf_en": "https://www.parliament.lk/uploads/acts/gbills/english/6332.pdf",  # noqa: E501,
                 "act_id": "2024-028",
+                "act_type": "Amendment",
             },
         )
         self.assertTrue(os.path.exists(first_doc.metadata_json_path))

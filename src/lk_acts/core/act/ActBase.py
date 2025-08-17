@@ -13,7 +13,7 @@ class ActBase:
     num: str
     date: str
     description: str
-    url_en: str
+    url_pdf_en: str
 
     @classmethod
     @cache
@@ -26,7 +26,7 @@ class ActBase:
             num=data["num"],
             date=data["date"],
             description=data["description"],
-            url_en=data["url_en"],
+            url_pdf_en=data["url_pdf_en"],
         )
 
     @property
@@ -58,10 +58,10 @@ class ActBase:
 
     def to_dict(self) -> dict:
         return dict(
-            act_id=self.act_id,
             num=self.num,
-            act_type=self.act_type,
             date=self.date,
             description=self.description,
-            url_en=self.url_en,
+            url_pdf_en=self.url_pdf_en,
+            act_id=self.act_id,
+            act_type=self.act_type.name,
         )

@@ -47,13 +47,13 @@ class ActsBillsPage(WebPage):
             return None
 
         a = div_con_box_list[2].find("a")
-        url_en = a.get("href") if a else None
+        url_pdf_en = a.get("href") if a else None
 
         d = dict(
             num=num,
             date=endorsed_date,
             description=description,
-            url_en=url_en,
+            url_pdf_en=url_pdf_en,
         )
         return Act.from_dict(d)
 
