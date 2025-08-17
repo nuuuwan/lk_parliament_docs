@@ -30,35 +30,36 @@ class ActSection:
             if block.font_size <= 8:
                 return block.text
 
+    @staticmethod
+    def __get_section_to_block_list__(block_List: list[PDFBlock]):
+        section_to_block_list = []
+        for block in block_List:
+            match = re.match(ActSection.RE_SECTION, block.text)
+            if match:
+                section_to_block_list.append([block])
+            if section_to_block_list:
+                section_to_block_list[-1].append(block)
+        return section_to_block_list
+
+    @classmethod
+    def from_block_list(cls, block_list: list[PDFBlock]):
+        first_block = block_list[0]
+        match = re.match(cls.RE_SECTION, first_block.text)
+        assert match
+        return cls(
+            num=int(match.group("num")),
+            text=match.group("text"),
+            short_description=ActSection.parse_short_description(
+                block_list[1:]
+            ),
+            sub_section_list=ActSubsection.list_from_block_list(
+                block_list[1:]
+            ),
+        )
+
     @classmethod
     def list_from_block_list(cls, block_list: list[PDFBlock]):
-        section_d_list = []
-
-        for block in block_list:
-            match = re.match(cls.RE_SECTION, block.text)
-            if not match:
-                if section_d_list:
-                    section_d_list[-1]["inner_block_list"].append(block)
-                continue
-
-            section_d = dict(
-                num=int(match.group("num")),
-                text=match.group("text"),
-                inner_block_list=[],
-            )
-            section_d_list.append(section_d)
-
-        section_list = []
-        for section_d in section_d_list:
-            section = ActSection(
-                num=section_d["num"],
-                short_description=ActSection.parse_short_description(
-                    section_d["inner_block_list"]
-                ),
-                text=section_d["text"],
-                sub_section_list=ActSubsection.list_from_block_list(
-                    section_d["inner_block_list"]
-                ),
-            )
-            section_list.append(section)
-        return section_list
+        section_to_block_list = cls.__get_section_to_block_list__(block_list)
+        return [
+            cls.from_block_list(section) for section in section_to_block_list
+        ]
