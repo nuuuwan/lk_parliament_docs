@@ -2,11 +2,6 @@ name: build_readme
 
 on:
   workflow_dispatch:
-    inputs:
-      max_dt:
-        description: "max_dt"
-        required: false
-        default: "1"
   schedule:
     - cron: "30 * * * *"
 
@@ -31,7 +26,7 @@ jobs:
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
           git config --global --add safe.directory /__w/lk_acts/lk_acts
 
-          python workflows/build_readme.py ${{ github.event.inputs.max_dt }}
+          python workflows/build_readme.py
 
       - name: "⬆️ Push lk_acts"
         run: |
