@@ -42,7 +42,7 @@ class ActLevel:
 
     def to_md_lines(self):
         tab_unit = " " * 4
-        tabs = tab_unit * (self.get_depth() - 1)
+        tabs = tab_unit * self.get_depth()
         child_tabs = tab_unit + tabs
         lines = [f"{tabs}{self.num}. {self.text}"]
 
