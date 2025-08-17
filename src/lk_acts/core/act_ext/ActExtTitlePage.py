@@ -48,10 +48,10 @@ class ActExtTitlePage:
             title=title.title(),
             num=num,
             year=year,
-            date_certified=date_certified,
-            date_published=date_published,
-            price=price,
-            price_postage=price_postage,
+            date_certified=Parse.date(date_certified),
+            date_published=Parse.date(date_published),
+            price=Parse.float(price),
+            price_postage=Parse.float(price_postage),
         )
 
     def to_dict(self):
@@ -59,10 +59,10 @@ class ActExtTitlePage:
             title=self.title,
             num=self.num,
             year=self.year,
-            date_certified=Parse.date(self.date_certified),
-            date_published=Parse.date(self.date_published),
-            price=Parse.float(self.price),
-            price_postage=Parse.float(self.price_postage),
+            date_certified=self.date_certified,
+            date_published=self.date_published,
+            price=self.price,
+            price_postage=self.price_postage,
         )
 
     def to_md_lines_short_info(self):

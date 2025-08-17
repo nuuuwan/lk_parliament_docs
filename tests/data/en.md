@@ -2,7 +2,7 @@
 
 No. **28** of **2024**
 
-Date Certified: **13th of  May, 2024**, Date Published: **May 17, 2024**, Price: **12.00**, Price Postage: **150.00**
+Date Certified: **2024-05-13**, Date Published: **2024-05-17**, Price: **12.0**, Price Postage: **150.0**
 
 1. **Short title** - This Act may be cited as the Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No.  28  of 2024.
 
