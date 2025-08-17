@@ -80,6 +80,8 @@ class ActLevel:
 
         text = match.group("text")
 
+        child_level_list = []
+        pre_block_list = block_list[1:]
         child_cls = cls.get_child_cls()
         if child_cls:
             inner_block_list = block_list[1:]
@@ -94,13 +96,15 @@ class ActLevel:
                     )
                 ] + inner_block_list
                 text = ""
-            child_level_list, pre_block_list = child_cls.list_from_block_list(
-                inner_block_list
-            )
 
-        else:
-            child_level_list = []
-            pre_block_list = block_list[1:]
+            desc_cls = child_cls
+            while desc_cls is not None and inner_block_list:
+                child_level_list, pre_block_list = (
+                    desc_cls.list_from_block_list(inner_block_list)
+                )
+                if child_level_list:
+                    break
+                desc_cls = desc_cls.get_child_cls()
 
         return cls(
             num=match.group("num"),
