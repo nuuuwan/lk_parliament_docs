@@ -4,7 +4,7 @@ from functools import cached_property
 import nltk
 import pandas as pd
 from datasets import Dataset
-from utils import CSVFile, Hash, JSONFile, Log
+from utils import Hash, JSONFile, Log
 
 from lk_acts.core import Act
 
@@ -13,7 +13,7 @@ log = Log("HuggingFaceDataset")
 
 class HuggingFaceDataset:
     DIR_DATA_HF = os.path.join("data", "hf")
-    ACTS_CSV_PATH = os.path.join(DIR_DATA_HF, "acts.csv")
+    ACTS_JSON_PATH = os.path.join(DIR_DATA_HF, "acts.json")
     CHUNKS_JSON_PATH = os.path.join(DIR_DATA_HF, "chunks.json")
     DATASET_SUFFIX = "2020-2024"
     HUGGINGFACE_USERNAME = os.environ.get("HUGGINGFACE_USERNAME")
@@ -51,11 +51,11 @@ class HuggingFaceDataset:
             HuggingFaceDataset.to_act_data(act) for act in self.acts_list
         ]
         os.makedirs(self.DIR_DATA_HF, exist_ok=True)
-        CSVFile(self.ACTS_CSV_PATH).write(data_list)
+        JSONFile(self.ACTS_JSON_PATH).write(data_list)
         n_rows = len(data_list)
-        file_size_m = os.path.getsize(self.ACTS_CSV_PATH) / (1024 * 1024)
+        file_size_m = os.path.getsize(self.ACTS_JSON_PATH) / (1024 * 1024)
         log.info(
-            f"Wrote {self.ACTS_CSV_PATH}"
+            f"Wrote {self.ACTS_JSON_PATH}"
             + f" ({n_rows:,} acts, {file_size_m:.2f} MB)"
         )
 
@@ -130,7 +130,7 @@ class HuggingFaceDataset:
         )
 
     def upload_to_hugging_face(self):
-        acts_df = pd.read_csv(self.ACTS_CSV_PATH)
+        acts_df = pd.read_json(self.ACTS_JSON_PATH)
         chunks_df = pd.read_json(self.CHUNKS_JSON_PATH)
 
         acts_ds = Dataset.from_pandas(acts_df)
