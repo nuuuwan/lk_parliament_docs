@@ -49,6 +49,10 @@ class ActBase:
         return self.date[:4]
 
     @property
+    def year_int(self) -> str:
+        return int(self.year)
+
+    @property
     def decade(self) -> str:
         return self.year[:3] + "0s"
 
