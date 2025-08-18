@@ -3,7 +3,7 @@ from functools import cached_property
 
 from utils import CSVFile, Log
 
-from lk_acts.core import Act
+from lk_acts.core import Act, ActExt
 
 log = Log("HuggingFaceDataset")
 
@@ -20,12 +20,18 @@ class HuggingFaceDataset:
 
     @staticmethod
     def to_act_data(act: Act) -> dict:
+        act_ext = ActExt.from_act_id(act.act_id)
+        title_page = act_ext.title_page
         return dict(
             act_id=act.act_id,
-            date=act.date,
+            title=title_page.title,
+            year=title_page.year,
+            num=title_page.num,
+            date_certified=title_page.date_certified,
+            date_published=title_page.date_published,
             act_type=act.act_type.name,
-            description=act.description,
             url_pdf_en=act.url_pdf_en,
+            n_pages=act_ext.n_pages,
         )
 
     def build_acts(self):
