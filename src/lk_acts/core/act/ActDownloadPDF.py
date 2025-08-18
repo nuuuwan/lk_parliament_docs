@@ -123,17 +123,18 @@ class ActDownloadPDF(ActWrite):
 
         return self.__extract_text_hot__()
 
-    def __extract_text_hot__(self):
+    def __extract_lines__(self):
         doc = pymupdf.open(self.pdf_path)
-
         lines = []
         for i_page, page in enumerate(doc, start=1):
             text = page.get_text("text")
             lines.extend(["", f"---- PAGE {i_page:04d} ----", ""])
             lines.append(text)
         doc.close()
+        return lines
 
-        content = "\n".join(lines)
+    def __extract_text_hot__(self):
+        content = "\n".join(self.__extract_lines__())
         File(self.txt_path).write(content)
         file_size_k = os.path.getsize(self.txt_path) / 1_000.0
         log.info(f"Wrote {self.txt_path} ({file_size_k:.1f} kB)")
