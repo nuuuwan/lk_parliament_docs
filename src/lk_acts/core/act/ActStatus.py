@@ -21,17 +21,24 @@ class ActStatus:
         raise NotImplementedError
 
     @cached_property
+    def has_metadata(self):
+        return os.path.exists(self.metadata_json_path)
+
+    @cached_property
+    def has_pdf(self):
+        return os.path.exists(self.pdf_path)
+
+    @cached_property
+    def has_act_json(self):
+        return os.path.exists(os.path.join(self.dir_act_data, "act.json"))
+
+    @cached_property
     def status(self):
-        has_metadata = os.path.exists(self.metadata_json_path)
-        has_pdf = os.path.exists(self.pdf_path)
-        has_act_json = os.path.exists(
-            os.path.join(self.dir_act_data, "act.json")
-        )
 
         return dict(
-            has_metadata=has_metadata,
-            has_pdf=has_pdf,
-            has_act_json=has_act_json,
+            has_metadata=self.has_metadata,
+            has_pdf=self.has_pdf,
+            has_act_json=self.has_act_json,
         )
 
     @classmethod
