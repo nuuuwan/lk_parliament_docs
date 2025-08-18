@@ -1,7 +1,7 @@
 import os
-from functools import cache
+from functools import cache, cached_property
 
-from utils import JSONFile, Log
+from utils import File, JSONFile, Log
 
 from lk_acts.core.act.ActBase import ActBase
 
@@ -9,6 +9,10 @@ log = Log("ActRead")
 
 
 class ActRead(ActBase):
+    @property
+    def txt_path(self):
+        raise NotImplementedError
+
     @staticmethod
     def __gen_metadata_file_paths__():
         for cur_root, _, files in os.walk("data"):
@@ -58,3 +62,7 @@ class ActRead(ActBase):
                 doc.act_type.name, []
             ).append(doc)
         return idx
+
+    @cached_property
+    def text_content(self):
+        return File(self.txt_path).read()

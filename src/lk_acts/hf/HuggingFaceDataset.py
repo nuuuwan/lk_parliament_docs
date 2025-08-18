@@ -6,7 +6,7 @@ import pandas as pd
 from datasets import Dataset
 from utils import CSVFile, Hash, JSONFile, Log
 
-from lk_acts.core import Act, ActExt
+from lk_acts.core import Act
 
 log = Log("HuggingFaceDataset")
 
@@ -17,6 +17,7 @@ class HuggingFaceDataset:
     CHUNKS_JSON_PATH = os.path.join(DIR_DATA_HF, "chunks.json")
     DATASET_SUFFIX = "2020-2024"
     HUGGINGFACE_USERNAME = os.environ.get("HUGGINGFACE_USERNAME")
+    MIN_YEAR, MAX_YEAR = 2020, 2024
 
     MAX_CHUNK_SIZE = 2000
     MIN_SENTENCE_OVERLAP = 1
@@ -24,26 +25,25 @@ class HuggingFaceDataset:
     @cached_property
     def acts_list(self):
         act_list = Act.list_all()
-        acts_with_all_data = [act for act in act_list if act.has_act_json]
+        acts_with_all_data = [act for act in act_list if act.has_txt]
         acts_in_range = [
-            act for act in acts_with_all_data if 2020 <= act.year_int <= 2024
+            act
+            for act in acts_with_all_data
+            if self.MIN_YEAR <= act.year_int <= self.MAX_YEAR
         ]
         return acts_in_range
 
     @staticmethod
     def to_act_data(act: Act) -> dict:
-        act_ext = ActExt.from_act_id(act.act_id)
-        title_page = act_ext.title_page
+
         return dict(
             act_id=act.act_id,
-            title=title_page.title,
-            year=title_page.year,
-            num=title_page.num,
-            date_certified=title_page.date_certified,
-            date_published=title_page.date_published,
+            description=act.description,
+            year=act.year,
+            sub_num=act.doc_sub_num,
+            date=act.date,
             act_type=act.act_type.name,
             url_pdf_en=act.url_pdf_en,
-            n_pages=act_ext.n_pages,
         )
 
     def build_acts(self):
@@ -92,11 +92,7 @@ class HuggingFaceDataset:
 
     @staticmethod
     def get_data_list_for_act(act):
-        act_ext = ActExt.from_act_id(act.act_id)
-        title_page = act_ext.title_page
-        md_lines = act_ext.to_md_lines()
-        content = "\n".join(md_lines)
-        chunks = HuggingFaceDataset.chunk_by_sentence(content)
+        chunks = HuggingFaceDataset.chunk_by_sentence(act.text_content)
 
         d_list = []
         for chunk_index, chunk_text in enumerate(chunks):
@@ -104,9 +100,9 @@ class HuggingFaceDataset:
             d = dict(
                 chunk_id=chunk_id,
                 act_id=act.act_id,
-                act_title=title_page.title,
-                act_num=title_page.num,
-                act_year=title_page.year,
+                act_description=act.description,
+                act_year=act.year,
+                act_sub_num=act.doc_sub_num,
                 act_source_url=act.url_pdf_en,
                 language="en",
                 chunk_index=chunk_index,
@@ -146,5 +142,5 @@ class HuggingFaceDataset:
 
         for ds, label in [(acts_ds, "acts"), (chunks_ds, "chunks")]:
             dataset_id = f"{hf_project}-{label}"
-            repo_id = ds.push_to_hub(dataset_id)
-            log.info(f"Uploaded {dataset_id} to {repo_id}")
+            # repo_id = ds.push_to_hub(dataset_id)
+            # log.info(f"Uploaded {dataset_id} to {repo_id}")
