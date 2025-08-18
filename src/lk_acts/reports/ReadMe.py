@@ -59,6 +59,18 @@ class ReadMe:
         )
 
     @property
+    def lines_for_hugging_face(self):
+        lines = [
+            "## 🤗 Hugging Face Datasets (🆕)",
+            "",
+        ]
+        for label in ["lk-acts-2020-2024-acts", "lk-acts-2020-2024-chunks"]:
+            url = f"https://huggingface.co/datasets/nuuuwan/{label}"
+            lines.append(f"- [{label}]({url})")
+        lines.append("")
+        return lines
+
+    @property
     def lines(self):
         return (
             [
@@ -74,6 +86,7 @@ class ReadMe:
             ]
             + self.lines_for_year_chart
             + self.lines_for_status_summary
+            + self.lines_for_hugging_face
             + self.lines_for_docs
         )
 
