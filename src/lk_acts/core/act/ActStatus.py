@@ -36,17 +36,23 @@ class ActStatus:
 
     @classmethod
     def get_status_summary(cls):
-        act_list = cls.list_all()
-        n_metadata = sum(
-            [1 for act in act_list if act.status["has_metadata"]]
-        )
-        n_pdf = sum([1 for act in act_list if act.status["has_pdf"]])
-        n_act_json = sum(
-            [1 for act in act_list if act.status["has_act_json"]]
-        )
+        year_to_list = cls.year_to_list()
 
-        return dict(
-            metadata=n_metadata,
-            pdf=n_pdf,
-            act_json=n_act_json,
-        )
+        d_list = []
+        for year, act_list in year_to_list.items():
+            n_metadata = sum(
+                [1 for act in act_list if act.status["has_metadata"]]
+            )
+            n_pdf = sum([1 for act in act_list if act.status["has_pdf"]])
+            n_act_json = sum(
+                [1 for act in act_list if act.status["has_act_json"]]
+            )
+
+            d = dict(
+                year=year,
+                n_metadata=n_metadata,
+                n_pdf=n_pdf,
+                n_act_json=n_act_json,
+            )
+            d_list.append(d)
+        return d_list
