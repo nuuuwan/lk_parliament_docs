@@ -4,6 +4,7 @@ from utils import File, Log, Time, TimeFormat
 
 from lk_acts.core import Act
 from lk_acts.reports.ChartYear import ChartYear
+from utils_future import Markdown
 
 log = Log("ReadMe")
 
@@ -53,7 +54,9 @@ class ReadMe:
     @property
     def lines_for_status_summary(self):
         status_summary = self.status_summary
-        return ["## Download Status", "", str(status_summary), ""]
+        return (
+            ["## Download Status", ""] + Markdown.table(status_summary) + [""]
+        )
 
     @property
     def lines(self):
