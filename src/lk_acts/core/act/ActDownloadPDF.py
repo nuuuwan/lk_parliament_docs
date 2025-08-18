@@ -4,11 +4,12 @@ import ssl
 import tempfile
 from functools import cached_property
 
+import pymupdf
 import requests
 import urllib3
 from requests.adapters import HTTPAdapter
 from urllib3.util.ssl_ import create_urllib3_context
-from utils import Log
+from utils import File, Log
 
 from lk_acts.core.act.ActWrite import ActWrite
 
@@ -107,3 +108,34 @@ class ActDownloadPDF(ActWrite):
             log.warning(f'No url_pdf_en found for "{self.act_id}"')
             return None
         return self.__download_pdf_cold_or_hot__()
+
+    @cached_property
+    def txt_path(self):
+        return os.path.join(self.dir_act_data, "en.txt")
+
+    def extract_txt(self):
+        pdf_path = self.pdf_path
+        if not os.path.exists(pdf_path):
+            return None
+
+        if os.path.exists(self.txt_path):
+            return self.txt_path
+
+        return self.__extract_text_hot__()
+
+    def __extract_text_hot__(self):
+        doc = pymupdf.open(self.pdf_path)
+
+        lines = []
+        for i_page, page in enumerate(doc, start=1):
+            text = page.get_text("text")
+            lines.extend(["", f"---- PAGE {i_page:04d} ----", ""])
+            lines.append(text)
+        doc.close()
+
+        content = "\n".join(lines)
+        File(self.txt_path).write(content)
+        file_size_k = os.path.getsize(self.txt_path) / 1_000.0
+        log.info(f"Wrote {self.txt_path} ({file_size_k:.1f} kB)")
+
+        return self.txt_path
