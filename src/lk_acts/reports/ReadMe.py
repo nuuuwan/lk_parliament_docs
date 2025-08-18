@@ -17,6 +17,7 @@ class ReadMe:
         self.year_to_list = Act.year_to_list()
         self.year_to_type_to_list = Act.year_to_type_to_list()
         self.data_size_m = Act.get_dir_data_size() / (1024 * 1024)
+        self.status_summary = Act.get_status_summary()
 
     @property
     def timestamp(self):
@@ -50,6 +51,11 @@ class ReadMe:
         return lines + [""]
 
     @property
+    def lines_for_status_summary(self):
+        status_summary = self.status_summary
+        return ["## Download Status", "", str(status_summary), ""]
+
+    @property
     def lines(self):
         return (
             [
@@ -64,6 +70,7 @@ class ReadMe:
                 "",
             ]
             + self.lines_for_year_chart
+            + self.lines_for_status_summary
             + self.lines_for_docs
         )
 
