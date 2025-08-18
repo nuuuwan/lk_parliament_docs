@@ -43,7 +43,7 @@ class HuggingFaceDataset:
             sub_num=act.doc_sub_num,
             date=act.date,
             act_type=act.act_type.name,
-            url_pdf_en=act.url_pdf_en,
+            source_url=act.url_pdf_en,
         )
 
     def build_acts(self):
