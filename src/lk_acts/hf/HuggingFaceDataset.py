@@ -16,7 +16,7 @@ class HuggingFaceDataset:
     ACTS_CSV_PATH = os.path.join(DIR_DATA_HF, "acts.csv")
     CHUNKS_JSON_PATH = os.path.join(DIR_DATA_HF, "chunks.json")
     DATASET_SUFFIX = "2020-2024"
-    HUGGINGFACE_USERNAME = os.environ["HUGGINGFACE_USERNAME"]
+    HUGGINGFACE_USERNAME = os.environ.get("HUGGINGFACE_USERNAME")
 
     MAX_CHUNK_SIZE = 2000
     MIN_SENTENCE_OVERLAP = 1
