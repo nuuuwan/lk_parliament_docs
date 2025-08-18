@@ -1,7 +1,6 @@
 import os
 from functools import cached_property
 
-import nltk
 import pandas as pd
 from datasets import Dataset
 from utils import Hash, JSONFile, Log
@@ -20,7 +19,7 @@ class HuggingFaceDataset:
     MIN_YEAR, MAX_YEAR = 2020, 2024
 
     MAX_CHUNK_SIZE = 2000
-    MIN_SENTENCE_OVERLAP = 1
+    MIN_OVERLAP_SIZE = 500
 
     @cached_property
     def acts_list(self):
@@ -60,43 +59,50 @@ class HuggingFaceDataset:
         )
 
     @staticmethod
-    def chunk_by_sentence(content: str) -> list[str]:
-        sentences = nltk.sent_tokenize(content)
+    def chunk(content: str) -> list[str]:
+        block_text_list = content.split("\n\n")
 
         chunks = []
         current_sentences = []
         current_size = 0
-        for sentence in sentences:
-            sentence = sentence.strip()
-            if not sentence:
+        for block_text in block_text_list:
+            block_text = block_text.strip()
+            if not block_text:
                 continue
 
             if (
-                current_size + len(sentence) + 1
+                current_size + len(block_text) + 1
                 > HuggingFaceDataset.MAX_CHUNK_SIZE
             ):
-                current = " ".join(current_sentences).strip()
+                current = "\n\n".join(current_sentences).strip()
                 chunks.append(current)
-                overlap = HuggingFaceDataset.MIN_SENTENCE_OVERLAP
-                current_sentences = current_sentences[-overlap:]
+
+                rem_overlap = 0
+                new_sentences = []
+                i = 1
+                while (
+                    rem_overlap < HuggingFaceDataset.MIN_OVERLAP_SIZE
+                    and len(current_sentences) >= i
+                ):
+                    new_sentences.append(current_sentences[-i])
+                    rem_overlap += len(current_sentences[-i]) + 1
+                    i += 1
+                new_sentences.reverse()
+                current_sentences = new_sentences
                 current_size = sum(len(s) for s in current_sentences)
             else:
-                current_sentences.append(sentence)
-                current_size += len(sentence) + 1
+                current_sentences.append(block_text)
+                current_size += len(block_text) + 1
 
         if current_sentences:
-            current = " ".join(current_sentences).strip()
+            current = "\n\n".join(current_sentences).strip()
             chunks.append(current)
 
         return chunks
 
     @staticmethod
     def get_data_list_for_act(act):
-        raw_chunks = act.text_content.split("\n\n")
-        chunks = []
-        for raw_chunk in raw_chunks:
-            chunks.extend(HuggingFaceDataset.chunk_by_sentence(raw_chunk))
-
+        chunks = HuggingFaceDataset.chunk(act.text_content)
         d_list = []
         for chunk_index, chunk_text in enumerate(chunks):
             chunk_id = f"{act.act_id}-{chunk_index:04d}"
@@ -117,9 +123,6 @@ class HuggingFaceDataset:
         return d_list
 
     def build_chunks(self):
-        nltk.download("punkt")
-        nltk.download("punkt_tab")
-
         d_list = []
         for act in self.acts_list:
             d_list.extend(HuggingFaceDataset.get_data_list_for_act(act))

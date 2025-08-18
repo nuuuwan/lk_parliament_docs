@@ -6,7 +6,7 @@ numpy
 PyPDF2
 pymupdf
 roman
-nltk
+
 pandas
 datasets
 huggingface_hub
