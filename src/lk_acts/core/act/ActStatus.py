@@ -13,11 +13,15 @@ class ActStatus:
         raise NotImplementedError
 
     @property
+    def txt_path(self):
+        raise NotImplementedError
+
+    @property
     def dir_act_data(self):
         raise NotImplementedError
 
     @classmethod
-    def list_all(cls):
+    def year_to_list(cls):
         raise NotImplementedError
 
     @cached_property
@@ -29,6 +33,10 @@ class ActStatus:
         return os.path.exists(self.pdf_path)
 
     @cached_property
+    def has_txt(self):
+        return os.path.exists(self.txt_path)
+
+    @cached_property
     def has_act_json(self):
         return os.path.exists(os.path.join(self.dir_act_data, "act.json"))
 
@@ -38,6 +46,7 @@ class ActStatus:
         return dict(
             has_metadata=self.has_metadata,
             has_pdf=self.has_pdf,
+            has_txt=self.has_txt,
             has_act_json=self.has_act_json,
         )
 
@@ -51,6 +60,7 @@ class ActStatus:
                 [1 for act in act_list if act.status["has_metadata"]]
             )
             n_pdf = sum([1 for act in act_list if act.status["has_pdf"]])
+            n_txt = sum([1 for act in act_list if act.status["has_txt"]])
             n_act_json = sum(
                 [1 for act in act_list if act.status["has_act_json"]]
             )
@@ -59,18 +69,21 @@ class ActStatus:
                 year=year,
                 n_metadata=n_metadata,
                 n_pdf=n_pdf,
+                n_txt=n_txt,
                 n_act_json=n_act_json,
             )
             d_list.append(d)
 
         total_n_metadata = sum(d["n_metadata"] for d in d_list)
         total_n_pdf = sum(d["n_pdf"] for d in d_list)
+        total_n_txt = sum(d["n_txt"] for d in d_list)
         total_n_act_json = sum(d["n_act_json"] for d in d_list)
 
         totals_d = dict(
             year="Total",
             n_metadata=total_n_metadata,
             n_pdf=total_n_pdf,
+            n_txt=total_n_txt,
             n_act_json=total_n_act_json,
         )
         d_list.append(totals_d)
