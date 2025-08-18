@@ -1,20 +1,20 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_acts](https://github.com/nuuuwan/lk_acts))
 
-Scraped  **163** acts (35.72 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-18 13:06:48**.
+Scraped  **163** acts (43.41 MB) from [www.parliament.lk](https://www.parliament.lk/en) as of **2025-08-18 14:51:03**.
 
 ![Year Chart](images/chart_year.png)
 
 ## Download Status
 
-| year | n_metadata | n_pdf | n_act_json |
-| :-- | --: | --: | --: |
-| 2025 | 12 | 12 | 2 |
-| 2024 | 37 | 37 | 27 |
-| 2023 | 32 | 32 | 25 |
-| 2022 | 45 | 45 | 35 |
-| 2021 | 29 | 29 | 18 |
-| 2020 | 8 | 8 | 0 |
-| Total | 163 | 163 | 107 |
+| year | n_metadata | n_pdf | n_txt | n_act_json |
+| :-- | --: | --: | --: | --: |
+| 2025 | 12 | 12 | 12 | 2 |
+| 2024 | 37 | 37 | 37 | 27 |
+| 2023 | 32 | 32 | 32 | 25 |
+| 2022 | 45 | 45 | 45 | 35 |
+| 2021 | 29 | 29 | 29 | 18 |
+| 2020 | 8 | 8 | 8 | 0 |
+| Total | 163 | 163 | 163 | 107 |
 
 ## Acts (163)
 
