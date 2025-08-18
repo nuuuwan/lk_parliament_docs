@@ -119,9 +119,8 @@ class ActDownloadPDF(ActWrite):
         if not os.path.exists(pdf_path):
             return None
 
-        # HACK! Temp
-        # if os.path.exists(self.txt_path):
-        #     return self.txt_path
+        if os.path.exists(self.txt_path):
+            return self.txt_path
 
         return self.__extract_text_hot__()
 
