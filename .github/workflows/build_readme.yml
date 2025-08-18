@@ -1,4 +1,4 @@
-name: build_readme
+name: readme_build
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: "30 * * * *"
 
 jobs:
-  build_readme:
+  readme_build:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
@@ -18,7 +18,7 @@ jobs:
           ref: "main"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
 
-      - name: "⚙️ Run build_readme"
+      - name: "⚙️ Run readme_build"
         run: |
           export PYTHONPATH="$PYTHONPATH:./src"
 
@@ -26,7 +26,7 @@ jobs:
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
           git config --global --add safe.directory /__w/lk_acts/lk_acts
 
-          python workflows/build_readme.py
+          python workflows/readme_build.py
 
       - name: "⬆️ Push lk_acts"
         run: |
@@ -35,6 +35,6 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "🤖 [build_readme.yml] $(date '+%Y-%m-%d-%H%M')"
+          git commit -m "🤖 [readme_build.yml] $(date '+%Y-%m-%d-%H%M')"
           git pull origin main --rebase
           git push origin main
