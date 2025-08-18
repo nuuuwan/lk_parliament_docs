@@ -55,4 +55,17 @@ class ActStatus:
                 n_act_json=n_act_json,
             )
             d_list.append(d)
+
+        total_n_metadata = sum(d["n_metadata"] for d in d_list)
+        total_n_pdf = sum(d["n_pdf"] for d in d_list)
+        total_n_act_json = sum(d["n_act_json"] for d in d_list)
+
+        totals_d = dict(
+            year="Total",
+            n_metadata=total_n_metadata,
+            n_pdf=total_n_pdf,
+            n_act_json=total_n_act_json,
+        )
+        d_list.append(totals_d)
+
         return d_list
