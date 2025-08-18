@@ -142,5 +142,5 @@ class HuggingFaceDataset:
 
         for ds, label in [(acts_ds, "acts"), (chunks_ds, "chunks")]:
             dataset_id = f"{hf_project}-{label}"
-            # repo_id = ds.push_to_hub(dataset_id)
-            # log.info(f"Uploaded {dataset_id} to {repo_id}")
+            repo_id = ds.push_to_hub(dataset_id)
+            log.info(f"Uploaded {dataset_id} to {repo_id}")
