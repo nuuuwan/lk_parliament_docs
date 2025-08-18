@@ -92,7 +92,10 @@ class HuggingFaceDataset:
 
     @staticmethod
     def get_data_list_for_act(act):
-        chunks = HuggingFaceDataset.chunk_by_sentence(act.text_content)
+        raw_chunks = act.text_content.split("\n\n")
+        chunks = []
+        for raw_chunk in raw_chunks:
+            chunks.extend(HuggingFaceDataset.chunk_by_sentence(raw_chunk))
 
         d_list = []
         for chunk_index, chunk_text in enumerate(chunks):
