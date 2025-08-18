@@ -18,7 +18,6 @@ ds = load_dataset(DS_NAME, split="train")
 cols = list(ds.column_names)
 
 
-META_URL = "act_source_url"
 TEXT_COL = "chunk_text"
 
 texts = ds[TEXT_COL]
@@ -58,8 +57,14 @@ PROMPT_TMPL = (
 def cite(i):
     r = ds[int(i)]
     parts = []
-    if META_URL and r.get(META_URL):
-        parts.append(str(r[META_URL]))
+    for field in [
+        "act_year",
+        "act_sub_num",
+        "act_description",
+        "act_source_url",
+    ]:
+        if r.get(field):
+            parts.append(str(r[field]))
     return " | ".join(parts) or f"Row {i}"
 
 
@@ -78,11 +83,11 @@ if __name__ == "__main__":
                 (ds[TEXT_COL][i] or "")[:1500] for i, _ in hits
             )  # trim per chunk
             prompt = PROMPT_TMPL.format(q=q, ctx=ctx)
-            print("-" * 64)
-            print("PROMPT")
-            print("-" * 64)
-            print(prompt)
-            print("-" * 64)
+            # print("-" * 64)
+            # print("PROMPT")
+            # print("-" * 64)
+            # print(prompt)
+            # print("-" * 64)
 
             out = gen(
                 prompt,
