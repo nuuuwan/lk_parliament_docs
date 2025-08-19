@@ -41,7 +41,7 @@ def download_pdfs(max_dt, decade):
 
 def get_options():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--max_dt", type=float, default=DEFAULT_MAX_DT)
+    parser.add_argument("--max_dt", type=str, default=str(DEFAULT_MAX_DT))
     parser.add_argument("--decade", type=str, default=None)
     return parser.parse_args()
 
@@ -49,6 +49,6 @@ def get_options():
 if __name__ == "__main__":
     options = get_options()
     download_pdfs(
-        max_dt=options.max_dt,
+        max_dt=float(options.max_dt),
         decade=options.decade,
     )
