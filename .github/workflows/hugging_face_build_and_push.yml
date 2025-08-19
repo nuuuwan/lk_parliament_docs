@@ -12,8 +12,8 @@ jobs:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
 
     env:
-      HUGGINGFACE_USERNAME: ${{ secrets.HUGGINGFACE_USERNAME }}
-      HUGGINGFACE_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
+      HUGGING_FACE_USERNAME: ${{ secrets.HUGGING_FACE_USERNAME }}
+      HUGGING_FACE_TOKEN: ${{ secrets.HUGGING_FACE_TOKEN }}
 
     steps:
       - name: "⬇️ Checkout lk_acts (READ-ONLY)"
