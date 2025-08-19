@@ -13,7 +13,7 @@ DEFAULT_MAX_DT = 1_200
 MAX_YEAR = 2025
 MIN_YEAR = 1945
 
-P_RETRY = 0.1
+P_RETRY = 0.5
 
 
 def get_scrape_years(decade):
