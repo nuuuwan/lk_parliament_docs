@@ -13,6 +13,7 @@ from urllib3.util.ssl_ import create_urllib3_context
 from utils import File, Log
 
 from lk_acts.core.act.ActWrite import ActWrite
+from utils_future import PDFFile
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 log = Log("ActDownloadPDF")
