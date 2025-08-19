@@ -1,6 +1,6 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_acts](https://github.com/nuuuwan/lk_acts))
 
-Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliament.lk/en).
+Scraped  **2,453** acts (958.68 MB) from [www.parliament.lk](https://www.parliament.lk/en).
 ![Year Chart](images/chart_year.png)
 
 ## Download Status
@@ -8,21 +8,21 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 | decade | n_metadata | n_pdf | n_txt | n_act_json |
 | :-- | --: | --: | --: | --: |
 | 2020s | 163 | 163 | 163 | 107 |
-| 2010s | 262 | 262 | 262 | 142 |
-| 2000s | 298 | 287 | 251 | 130 |
-| 1990s | 340 | 212 | 149 | 26 |
-| 1980s | 436 | 7 | 7 | 0 |
-| 1970s | 190 | 7 | 7 | 0 |
-| 1960s | 310 | 36 | 0 | 0 |
-| 1950s | 430 | 0 | 0 | 0 |
-| Total | 2429 | 974 | 839 | 405 |
+| 2010s | 263 | 262 | 262 | 142 |
+| 2000s | 299 | 287 | 251 | 130 |
+| 1990s | 342 | 212 | 149 | 26 |
+| 1980s | 443 | 7 | 6 | 0 |
+| 1970s | 192 | 7 | 7 | 0 |
+| 1960s | 311 | 36 | 0 | 0 |
+| 1950s | 440 | 1 | 0 | 0 |
+| Total | 2453 | 975 | 838 | 405 |
 
 ## 🤗 Hugging Face Datasets (🆕)
 
 - [lk-acts-acts](https://huggingface.co/datasets/nuuuwan/lk-acts-acts)
 - [lk-acts-chunks](https://huggingface.co/datasets/nuuuwan/lk-acts-chunks)
 
-## Acts (2,429)
+## Acts (2,453)
 
 ### 2025 (12)
 
@@ -232,12 +232,13 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - ⚪ `2/2019` [Recovery of Damages for the Death of a Person](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2010s/2019/2019-002) (2019-01-17)
 - 🟢 `1/2019` [Chemical Weapons Convention (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2010s/2019/2019-001) (2019-01-17)
 
-### 2018 (34)
+### 2018 (35)
 
 - ⚪ `35/2018` [Finance](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2010s/2018/2018-035) (2018-11-01)
 - ⚪ `34/2018` [Office for Reparations](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2010s/2018/2018-034) (2018-10-22)
 - 🟢 `33/2018` [Economic Service Charge (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2010s/2018/2018-033) (2018-10-04)
 - ⚪ `32/2018` [New Villages Development Authority for Plantation Region](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2010s/2018/2018-032) (2018-10-04)
+- 🟢 `31/2018` [Institute of Personnel  Management, Sri Lanka (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2010s/2018/2018-031) (2018-09-28)
 - 🟢 `30/2018` [Pradeshiya Sabhas (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2010s/2018/2018-030) (2018-09-28)
 - ⚪ `29/2018` [Carriage  By Air](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2010s/2018/2018-029) (2018-09-28)
 - 🟢 `28/2018` [Medical (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2010s/2018/2018-028) (2018-09-19)
@@ -538,10 +539,11 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🟢 `06/2009` [Grant of Citizenship to Persons of Indian Origin (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2000s/2009/2009-006) (2009-02-18)
 - 🟢 `05 /2009` [Grant of Citizenship to Stateless Persons (Special Provisions) (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2000s/2009/2009-005) (2009-02-18)
 
-### 2008 (27)
+### 2008 (28)
 
 - 🟣 `43/2008` [Appropriation](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2000s/2008/2008-043) (2008-12-08)
 - 🟢 `42/2008` [Credit Information Bureau of Sri Lanka (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2000s/2008/2008-042) (2008-12-03)
+- ⚪ `41/2008` [Pradeshiya Sanwardana Bank](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2000s/2008/2008-041) (2008-12-01)
 - ⚪ `40/2008` [National Thoroughfares](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2000s/2008/2008-040) (2008-12-01)
 - 🟢 `39/2008` [Sri lanka Transport Board (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2000s/2008/2008-039) (2008-11-07)
 - 🔵 `38/2008` [Grant of Citizenship to Persons of Chinese Origin (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2000s/2008/2008-038) (2008-10-31)
@@ -825,7 +827,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🟢 `25/2000` [Minimum Wages (Indian Labour) (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2000s/2000/2000-025) (2000-07-12)
 - 🟢 `24/2000` [National Security Levy (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/2000s/2000/2000-024) (2000-07-12)
 
-### 1999 (36)
+### 1999 (38)
 
 - 🟢 `56/1999` [Industrial Disputes (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-056) (1999-12-31)
 - 🟢 `55/1999` [Widows ' and Orphans' Pension Scheme (Armed Forces) (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-055) (1999-12-31)
@@ -833,6 +835,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🟢 `53/1999` [Navy (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-053) (1999-12-14)
 - 🟢 `50/1999` [Tertiary and Vocational Education (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-050) (1999-12-14)
 - 🟢 `49/1999` [Appropriation (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-049) (1999-12-10)
+- 🟢 `48/1999` [Extradition (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-048) (1999-12-10)
 - 🟢 `47/1999` [Code of Criminal Procedure(Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-047) (1999-12-10)
 - ⚪ `46/1999` [Community Based Corrections](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-046) (1999-12-10)
 - 🟢 `45/1999` [Public Service Provident Fund (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-045) (1999-12-10)
@@ -846,6 +849,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - ⚪ `35/1999` [Plant Protection](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-035) (1999-10-07)
 - 🟢 `34/1999` [National Development Bank of Sri Lanka (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-034) (1999-10-07)
 - 🟢 `33/1999` [Social Security Board (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-033) (1999-10-07)
+- 🔵 `32/1999` [Evidence (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-032) (1999-10-07)
 - ⚪ `31/1999` [Sri Lanka Institute of Local Governance](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-031) (1999-09-23)
 - 🟢 `30/1999` [National Housing Development Authority (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-030) (1999-09-23)
 - 🟢 `29/1999` [Debt Conciliation (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1990s/1999/1999-029) (1999-09-17)
@@ -1216,8 +1220,11 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🟣 `02/1989` [Appropriation](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1989/1989-002) (1989-05-10)
 - ⚪ `01/1989` [Ceylon Cold Stores (Possession and Control)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1989/1989-001) (1989-04-10)
 
-### 1988 (69)
+### 1988 (76)
 
+- 🔴 `sixteenth-amendment-to-the-constitution` [Sixteenth Amendment to the Constitution](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-sixteenth-amendment-to-the-constitution) (1988-12-17)
+- 🔴 `fourteenth-amendment-to-the-constitution` [Fourteenth Amendment to the Constitution](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-fourteenth-amendment-to-the-constitution) (1988-05-24)
+- 🔴 `fifteenth-amendment-to-the-constitution` [Fifteenth Amendment to the Constitution](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-fifteenth-amendment-to-the-constitution) (1988-12-17)
 - 🟢 `84/1988` [Forest (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-084) (1988-12-20)
 - 🟢 `83/1988` [Customs (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-083) (1988-12-20)
 - 🟢 `82/1988` [Air Force (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-082) (1988-12-20)
@@ -1262,6 +1269,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🔵 `35/1988` [Elections (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-035) (1988-10-21)
 - 🟢 `33/1988` [Universities (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-033) (1988-09-15)
 - 🟢 `32/1988` [Ceylon Electricity Board (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-032) (1988-09-09)
+- 🟢 `31/1988` [Inland Revenue (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-031) (1988-09-08)
 - ⚪ `30/1988` [Banking](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-030) (1988-08-25)
 - 🟢 `29/1988` [Parliamentary Elections (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-029) (1988-08-16)
 - 🟢 `28/1988` [Public Security (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-028) (1988-07-27)
@@ -1274,10 +1282,12 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🟢 `20/1988` [National Housing Development Authority (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-020) (1988-07-15)
 - ⚪ `19/1988` [Sri Lanka Nurses Council](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-019) (1988-06-22)
 - 🟢 `17/1988` [Referendum (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-017) (1988-05-24)
+- 🟢 `16/1988` [Presidential Elections (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-016) (1988-05-24)
 - 🟢 `15/1988` [Parliamentary Elections (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-015) (1988-05-24)
 - 🟢 `14/1988` [Pensions (Special Provisions) (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-014) (1988-05-19)
 - 🟢 `13/1988` [Code of Criminal Procedure (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-013) (1988-05-19)
 - 🟢 `12/1988` [Code of Criminal Procedure (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-012) (1988-05-19)
+- 🟢 `11/1988` [Code of Criminal Procedure (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-011) (1988-05-19)
 - 🟢 `10/1988` [Evidence (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-010) (1988-04-21)
 - 🟢 `09/1988` [Thoroughfares (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-009) (1988-03-25)
 - 🟢 `08/1988` [Inland Revenue (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-008) (1988-03-25)
@@ -1286,6 +1296,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🔵 `05/1988` [Road Development Authority (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-005) (1988-03-24)
 - 🔵 `04/1988` [Ceiling on Housing Property (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-004) (1988-03-24)
 - ⚪ `03/1988` [National Heritage Wilderness Areas](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-003) (1988-03-04)
+- ⚪ `02/1988` [Provincial Councils Elections](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-002) (1988-01-27)
 - 🟢 `01/1988` [National Apprenticeship (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1988/1988-001) (1988-01-20)
 
 ### 1987 (46)
@@ -1661,9 +1672,11 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🔵 `2/1980` [Urban Development Projects (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1980/1980-002) (1980-01-14)
 - 🟢 `1/1980` [Passport (Regulation) and Exit Permit (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1980s/1980/1980-001) (1980-01-10)
 
-### 1979 (68)
+### 1979 (70)
 
+- 🔴 `second-amendment-to-the-constitution` [Second Amendment to the Constitution](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1970s/1979/1979-second-amendment-to-the-constitution) (1979-02-26)
 - 🟣 `71/1979` [Appropriation](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1970s/1979/1979-071) (1979-12-22)
+- 🟢 `70/1979` [Urban Development Authority (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1970s/1979/1979-070) (1979-12-17)
 - ⚪ `69/1979` [National Youth Services](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1970s/1979/1979-069) (1979-11-23)
 - 🟢 `68/1979` [Code of Criminal Procedure (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1970s/1979/1979-068) (1979-11-19)
 - 🟢 `67/1979` [Telecommunications (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1970s/1979/1979-067) (1979-11-19)
@@ -1866,7 +1879,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🔵 `02/1970` [Paddy Lands (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1970s/1970/1970-002) (1970-01-21)
 - 🟢 `01/1970` [Fauna and Flora Protection (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1970s/1970/1970-001) (1970-01-21)
 
-### 1969 (34)
+### 1969 (35)
 
 - 🟢 `38/1969` [Criminal Procedure Code (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1960s/1969/1969-038) (1969-12-28)
 - 🟢 `37/1969` [Criminal Procedure Code (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1960s/1969/1969-037) (1969-12-28)
@@ -1900,6 +1913,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🟢 `06/1969` [Inland Revenue (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1960s/1969/1969-006) (1969-03-20)
 - 🟢 `05/1969` [Higher Education (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1960s/1969/1969-005) (1969-03-02)
 - 🔵 `04/1969` [Local Authorities (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1960s/1969/1969-004) (1969-01-22)
+- ⚪ `03/1969` [Law Commission](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1960s/1969/1969-003) (1969-01-16)
 - 🔵 `02/1969` [Bretton Woods Agreements (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1960s/1969/1969-002) (1969-01-16)
 - ⚪ `01/1969` [Imports and Exports (Control)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1960s/1969/1969-001) (1969-01-16)
 
@@ -2206,7 +2220,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🔵 `04/1960` [Supreme Court Appeals (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1960s/1960/1960-004) (1960-10-14)
 - 🟢 `03/1960` [Civil Procedure Code (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1960s/1960/1960-003) (1960-10-14)
 
-### 1959 (24)
+### 1959 (25)
 
 - 🟢 `26/1959` [Ceylon (Parliamentary Elections) (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1959/1959-026) (1959-12-02)
 - 🟠 `25/1959` [Suspension of Capital Punishment (Repeal)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1959/1959-025) (1959-12-02)
@@ -2216,6 +2230,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🟢 `21/1959` [Stamp (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1959/1959-021) (1959-09-12)
 - 🟢 `20/1959` [Parliamentary Staffs (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1959/1959-020) (1959-09-12)
 - 🟢 `19/1959` [Bretton Woods Agreement (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1959/1959-019) (1959-08-27)
+- 🟢 `18/1959` [Ceylon Development Loans (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1959/1959-018) (1959-05-18)
 - ⚪ `16/1959` [Tea (Tax and Control of Export)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1959/1959-016) (1959-05-15)
 - 🟢 `15/1959` [Estate Duty (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1959/1959-015) (1959-05-15)
 - ⚪ `14/1959` [Personal Tax](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1959/1959-014) (1959-05-15)
@@ -2286,7 +2301,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - ⚪ `02/1958` [Tea and Rubber Estates (Control of Fragmentation)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1958/1958-002) (1958-02-01)
 - ⚪ `01/1958` [Paddy Lands](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1958/1958-001) (1958-02-01)
 
-### 1957 (49)
+### 1957 (58)
 
 - 🟢 `62/1957` [Industrial Disputes (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-062) (1957-12-30)
 - ⚪ `61/1957` [Overseas Telecommunication](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-061) (1957-12-21)
@@ -2303,6 +2318,7 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🟢 `50/1957` [Plant Protection (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-050) (1957-11-01)
 - ⚪ `49/1957` [State Industrial Corporations](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-049) (1957-11-01)
 - ⚪ `48/1957` [Motor Transport](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-048) (1957-10-31)
+- 🟢 `47/1957` [Exchange Control (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-047) (1957-10-25)
 - 🟢 `46/1957` [Medical Wants (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-046) (1957-10-25)
 - 🟢 `45/1957` [Rubber Control (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-045) (1957-10-25)
 - 🟢 `44/1957` [Control of Prices (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-044) (1957-10-25)
@@ -2312,6 +2328,11 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - ⚪ `40/1957` [Estate Duty (Amendmenet)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-040) (1957-09-06)
 - 🟢 `39/1957` [Co-operative Wholesale Establishment (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-039) (1957-09-06)
 - 🟢 `38/1957` [Income Tax (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-038) (1957-09-06)
+- ⚪ `37/1957` [Prize Competitions](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-037) (1957-08-21)
+- 🟢 `36/1957` [Excise (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-036) (1957-08-21)
+- 🟢 `35/1957` [Village Communities (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-035) (1957-08-21)
+- 🟢 `34/1957` [Cheetu (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-034) (1957-08-21)
+- 🟢 `33/1957` [Contagious Diseases (Animals)(Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-033) (1957-05-02)
 - 🟢 `32/1957` [Civil Procedure Code (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-032) (1957-05-02)
 - 🟢 `31/1957` [Workmen's Compensation (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-031) (1957-05-02)
 - 🟢 `30/1957` [Food Supplies (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-030) (1957-05-02)
@@ -2331,7 +2352,10 @@ Scraped  **2,429** acts (956.29 MB) from [www.parliament.lk](https://www.parliam
 - 🟢 `16/1957` [Rubber  Control (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-016) (1957-03-28)
 - 🟢 `15/1957` [Municipal Councils(Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-015) (1957-03-28)
 - 🟢 `14/1957` [Industrial Disputes (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-014) (1957-03-28)
+- 🟢 `10/1957` [Criminal Procedure Code (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-010) (1957-03-18)
+- 🟢 `09/1957` [Milk Board (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-009) (1957-03-18)
 - 🟢 `08/1957` [Tea, Rubber and Coconut Research (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-008) (1957-03-18)
+- 🟢 `07/1957` [Motor Traffic (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-007) (1957-03-18)
 - 🟢 `06/1957` [Maintenance Orders (Facilities for Enforcement)(Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-006) (1957-03-02)
 - 🟢 `05/1957` [Control of the Possession of Food (Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-005) (1957-02-21)
 - 🟢 `03/1957` [Petrol (Control of Supplies)(Amendment)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1957/1957-003) (1957-01-24)
