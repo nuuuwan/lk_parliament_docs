@@ -71,6 +71,4 @@ jobs:
           fi
           git commit -m "🤖 [download_pdfs.yml] $(date '+%Y-%m-%d-%H%M')"
           git pull --rebase origin main
-          git pull --rebase origin main
-          git pull --rebase origin main
           git push origin main
