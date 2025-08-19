@@ -4,7 +4,7 @@ import time
 from utils import Log
 
 from lk_acts import Act, ActExt
-from workflows.metadata_scraper import get_options
+from workflows.metadata_scraper import DEFAULT_MAX_DT, get_options
 
 log = Log("scrape")
 
@@ -41,6 +41,6 @@ def download_pdfs(max_dt, decade):
 if __name__ == "__main__":
     options = get_options()
     download_pdfs(
-        max_dt=options.max_dt,
+        max_dt=options.max_dt or DEFAULT_MAX_DT,
         decade=options.decade,
     )
