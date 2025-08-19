@@ -25,7 +25,7 @@ def download_pdfs(max_dt):
     for act in act_list:
         dt = time.time() - t_start
         if dt > max_dt:
-            log.info(f"Stopping. 🛑 {dt:.1f}s > {max_dt}s.")
+            log.info(f"Stopping. 🛑 {dt:.0f}s > {max_dt}s.")
             sys.exit(0)
 
         download_pdf_for_act(act)

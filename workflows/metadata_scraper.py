@@ -39,11 +39,11 @@ def scrape(max_dt):
     for year in years:
         dt = time.time() - t_start
         if dt > max_dt:
-            log.info(f"Stopping. 🛑 {dt:.1f}s > {max_dt}s.")
+            log.info(f"Stopping. 🛑 {dt:.0f}s > {max_dt}s.")
             sys.exit(0)
 
         log.debug("-" * 64)
-        log.info(f"[{dt:.1f}s/{max_dt}s] Running scrape for {year=}")
+        log.info(f"[{dt:.0f}s/{max_dt}s] Running scrape for {year=}")
         scrape_year(year)
 
     log.info("Stopping. 🛑 ALL years complete.")
