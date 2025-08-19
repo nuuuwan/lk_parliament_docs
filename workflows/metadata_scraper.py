@@ -23,7 +23,7 @@ def get_scrape_years():
         dir_year = Act.get_dir_year(year)
         if not os.path.exists(dir_year) or random.random() < P_RETRY:
             years_for_scraping.append(year)
-    return years
+    return years_for_scraping
 
 
 def scrape_year(year):
