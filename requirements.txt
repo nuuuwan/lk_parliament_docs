@@ -12,3 +12,4 @@ datasets
 huggingface_hub
 pytesseract
 pdf2image
+pillow

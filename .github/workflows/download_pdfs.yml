@@ -49,6 +49,7 @@ jobs:
 
       - name: "⚙️ Run download_pdfs"
         run: |
+          pip install pytesseract pdf2image pillow 
           cd lk_acts;
           export PYTHONPATH="$PYTHONPATH:./src"
 
