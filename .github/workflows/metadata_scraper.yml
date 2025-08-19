@@ -16,10 +16,6 @@ jobs:
     container:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
 
-    defaults:
-      run:
-        working-directory: ${{ github.workspace }}/..
-
     steps:
       - name: "⬇️ Checkout lk_acts (READ-ONLY)"
         uses: actions/checkout@v4
@@ -27,6 +23,7 @@ jobs:
           ref: "main"
           path: "lk_acts"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
 
       - name: "⬇️ Checkout lk_acts_data"
         uses: actions/checkout@v4
@@ -39,18 +36,17 @@ jobs:
 
       - name: "⚙️ Run metadata_scraper"
         run: |
-          cd lk_acts
+          cd lk_acts;
           export PYTHONPATH="$PYTHONPATH:./src"
 
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-          git config --global --add safe.directory /__w/lk_acts/lk_acts
 
           python workflows/metadata_scraper.py ${{ github.event.inputs.max_dt }}
 
       - name: "⬆️ Push lk_acts_data"
         run: |
-          cd lk_acts_data
+          cd lk_acts_data;
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
 
