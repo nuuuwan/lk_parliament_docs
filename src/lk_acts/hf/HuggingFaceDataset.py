@@ -145,3 +145,8 @@ class HuggingFaceDataset:
             dataset_id = f"{hf_project}-{label}"
             repo_id = ds.push_to_hub(dataset_id, token=self.HUGGING_FACE_TOKEN)
             log.info(f"Uploaded {dataset_id} to {repo_id}")
+
+    def build_and_push(self):
+        self.build_acts()
+        self.build_chunks()
+        self.upload_to_hugging_face()
