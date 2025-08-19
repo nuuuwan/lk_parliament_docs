@@ -46,7 +46,7 @@ class ActsBillsPage(WebPage):
         a = div_con_box_list[2].find("a")
         url_pdf_en = a.get("href") if a else None
         if not url_pdf_en:
-            log.warning("No PDF URL found.")
+            log.warning(f"[{num}] No PDF URL found.")
             return None
         return Act.from_dict(
             dict(
