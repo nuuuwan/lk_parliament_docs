@@ -1,12 +1,17 @@
-name: readme_build
+name: build_readme
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: "30 */4 * * *"
+    inputs:
+      max_dt:
+        description: "max_dt"
+        required: false
+        default: "1"
+  schedule:
+    - cron: "30 */4 * * *"
 
 jobs:
-  readme_build:
+  build_readme:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
@@ -16,25 +21,40 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: "main"
+          path: "lk_acts"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
 
-      - name: "⚙️ Run readme_build"
+      - name: "⬇️ Checkout lk_acts_data (READ-ONLY)"
+        uses: actions/checkout@v4
+        with:
+          repository: nuuuwan/lk_acts_data
+          ref: "main"
+          path: "lk_acts_data"
+          token: ${{ secrets.REPO_DATA_TOKEN }}
+          fetch-depth: 1
+
+      - name: "⚙️ Run build_readme"
         run: |
+          cd lk_acts;
           export PYTHONPATH="$PYTHONPATH:./src"
 
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-          git config --global --add safe.directory /__w/lk_acts/lk_acts
 
-          python workflows/readme_build.py
+          python workflows/build_readme.py ${{ github.event.inputs.max_dt }}
 
       - name: "⬆️ Push lk_acts"
         run: |
+          cd lk_acts;
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+
           git add .
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes to commit in lk_acts."
             exit 0
           fi
-          git commit -m "🤖 [readme_build.yml] $(date '+%Y-%m-%d-%H%M')"
-          git pull origin main --rebase
-          git push origin main
+          git commit -m "🤖 [build_readme.yml] $(date '+%Y-%m-%d-%H%M')"
+          git pull origin $BRANCH --rebase
+          git push origin $BRANCH
