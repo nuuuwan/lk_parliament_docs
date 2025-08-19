@@ -1,6 +1,6 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_acts](https://github.com/nuuuwan/lk_acts))
 
-Scraped  **2,769** acts (958.74 MB) from [www.parliament.lk](https://www.parliament.lk/en).
+Scraped  **2,769** acts (970.58 MB) from [www.parliament.lk](https://www.parliament.lk/en).
 ![Year Chart](images/chart_year.png)
 
 ## Download Status
@@ -11,12 +11,12 @@ Scraped  **2,769** acts (958.74 MB) from [www.parliament.lk](https://www.parliam
 | 2010s | 264 | 262 | 262 | 142 |
 | 2000s | 314 | 287 | 251 | 130 |
 | 1990s | 357 | 212 | 149 | 26 |
-| 1980s | 466 | 7 | 6 | 0 |
-| 1970s | 415 | 7 | 7 | 0 |
+| 1980s | 466 | 7 | 4 | 0 |
+| 1970s | 415 | 7 | 4 | 0 |
 | 1960s | 324 | 36 | 0 | 0 |
-| 1950s | 452 | 1 | 0 | 0 |
+| 1950s | 452 | 4 | 0 | 0 |
 | 1900s | 1 | 0 | 0 | 0 |
-| Total | 2769 | 975 | 838 | 405 |
+| Total | 2769 | 978 | 833 | 405 |
 
 ## 🤗 Hugging Face Datasets (🆕)
 
