@@ -1,3 +1,4 @@
+import argparse
 import sys
 import time
 
@@ -38,8 +39,16 @@ def download_pdfs(max_dt, decade):
     log.info("Stopping. 🛑 ALL acts complete.")
 
 
+def get_options():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--max_dt", type=float, default=DEFAULT_MAX_DT)
+    parser.add_argument("--decade", type=str, default=None)
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
+    options = get_options()
     download_pdfs(
-        max_dt=float(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_MAX_DT,
-        decade=sys.argv[2] if len(sys.argv) > 2 else None,
+        max_dt=options.max_dt,
+        decade=options.decade,
     )
