@@ -14,10 +14,8 @@ class HuggingFaceDataset:
     DIR_DATA_HF = os.path.join(ActRead.DIR_DATA, "hf")
     ACTS_JSON_PATH = os.path.join(DIR_DATA_HF, "acts.json")
     CHUNKS_JSON_PATH = os.path.join(DIR_DATA_HF, "chunks.json")
-    DATASET_SUFFIX = "2020-2024"
     HUGGING_FACE_USERNAME = os.environ.get("HUGGING_FACE_USERNAME")
     HUGGING_FACE_TOKEN = os.environ.get("HUGGING_FACE_TOKEN")
-    MIN_YEAR, MAX_YEAR = 2020, 2024
 
     MAX_CHUNK_SIZE = 2000
     MIN_OVERLAP_SIZE = 500
@@ -25,13 +23,8 @@ class HuggingFaceDataset:
     @cached_property
     def acts_list(self):
         act_list = Act.list_all()
-        acts_with_all_data = [act for act in act_list if act.has_txt]
-        acts_in_range = [
-            act
-            for act in acts_with_all_data
-            if self.MIN_YEAR <= act.year_int <= self.MAX_YEAR
-        ]
-        return acts_in_range
+        acts_with_txt_data = [act for act in act_list if act.has_txt]
+        return acts_with_txt_data
 
     @staticmethod
     def to_act_data(act: Act) -> dict:
@@ -145,9 +138,7 @@ class HuggingFaceDataset:
 
         assert self.HUGGING_FACE_USERNAME
         assert self.HUGGING_FACE_TOKEN
-        hf_project = (
-            f"{self.HUGGING_FACE_USERNAME}/lk-acts-{self.DATASET_SUFFIX}"
-        )
+        hf_project = f"{self.HUGGING_FACE_USERNAME}/lk-acts"
         log.debug(f"{hf_project=}")
 
         for ds, label in [(acts_ds, "acts"), (chunks_ds, "chunks")]:
