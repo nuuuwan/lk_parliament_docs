@@ -2,11 +2,6 @@ name: readme_build
 
 on:
   workflow_dispatch:
-    inputs:
-      max_dt:
-        description: "max_dt"
-        required: false
-        default: "1"
   schedule:
     - cron: "*/30 * * * *"
 
