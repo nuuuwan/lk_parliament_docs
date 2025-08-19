@@ -26,7 +26,7 @@ class ActsBillsPage(WebPage):
     def __parse_div_acts_box__(self, div_acts_box):  # noqa: CFQ004 !HACK
         h4 = div_acts_box.find("h4")
         if not h4:
-            log.warning("No heading found.")
+            log.error("No heading found.")
             return None
         heading_text = h4.text.strip()
         if " : " in heading_text:
@@ -41,13 +41,13 @@ class ActsBillsPage(WebPage):
             div_con_box_list[1].text.replace("Endorsed Date: ", "").strip()
         )
         if len(endorsed_date) != 10:
-            log.warning(f"Unexpected date format: {endorsed_date}")
+            log.error(f"Unexpected date format: {endorsed_date}")
             return None
         a = div_con_box_list[2].find("a")
         url_pdf_en = a.get("href") if a else None
         if not url_pdf_en:
             log.warning(f"[{num}] No PDF URL found.")
-            return None
+
         return Act.from_dict(
             dict(
                 num=num,
