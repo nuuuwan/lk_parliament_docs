@@ -2,8 +2,8 @@ name: readme_build
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "30 */4 * * *"
+  # schedule:
+  #   - cron: "30 */4 * * *"
 
 jobs:
   readme_build:
