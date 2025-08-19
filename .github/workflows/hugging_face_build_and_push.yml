@@ -1,0 +1,55 @@
+name: hugging_face_build_and_push
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  hugging_face_build_and_push:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/nuuuwan/lk-acts-image:latest
+
+    steps:
+      - name: "⬇️ Checkout lk_acts (READ-ONLY)"
+        uses: actions/checkout@v4
+        with:
+          ref: "main"
+          path: "lk_acts"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
+
+      - name: "⬇️ Checkout lk_acts_data"
+        uses: actions/checkout@v4
+        with:
+          repository: nuuuwan/lk_acts_data
+          ref: "main"
+          path: "lk_acts_data"
+          token: ${{ secrets.REPO_DATA_TOKEN }}
+          fetch-depth: 1
+
+      - name: "⚙️ Run hugging_face_build_and_push"
+        run: |
+          cd lk_acts;
+          export PYTHONPATH="$PYTHONPATH:./src"
+
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+
+          python workflows/hugging_face_build_and_push.py
+
+      - name: "⬆️ Push lk_acts_data"
+        run: |
+          cd lk_acts_data;
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit in lk_acts_data."
+            exit 0
+          fi
+          git commit -m "🤖 [hugging_face_build_and_push.yml] $(date '+%Y-%m-%d-%H%M')"
+          git pull origin $BRANCH --rebase
+          git push origin $BRANCH
