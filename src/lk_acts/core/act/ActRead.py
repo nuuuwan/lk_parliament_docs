@@ -9,13 +9,15 @@ log = Log("ActRead")
 
 
 class ActRead(ActBase):
+    DIR_DATA = os.path.join("..", "lk_acts_data", "data")
+
     @property
     def txt_path(self):
         raise NotImplementedError
 
     @staticmethod
     def __gen_metadata_file_paths__():
-        for cur_root, _, files in os.walk("data"):
+        for cur_root, _, files in os.walk(ActRead.DIR_DATA):
             for file in files:
                 file_path = os.path.join(cur_root, file)
                 if file == "metadata.json":

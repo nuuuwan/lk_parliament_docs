@@ -17,11 +17,20 @@ jobs:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
 
     steps:
-      - name: "⬇️ Checkout lk_acts"
+      - name: "⬇️ Checkout lk_acts (READ-ONLY)"
         uses: actions/checkout@v4
         with:
           ref: "main"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
+
+      - name: "⬇️ Checkout lk_acts_data"
+        uses: actions/checkout@v4
+        with:
+          repository: nuuuwan/lk_acts_data
+          ref: "main"
+          path: lk_acts_data
+          token: ${{ secrets.REPO_DATA_TOKEN }}
+          fetch-depth: 1
 
       - name: "⚙️ Run metadata_scraper"
         run: |
@@ -33,13 +42,17 @@ jobs:
 
           python workflows/metadata_scraper.py ${{ github.event.inputs.max_dt }}
 
-      - name: "⬆️ Push lk_acts"
+      - name: "⬆️ Push lk_acts_data"
         run: |
+          cd lk_acts_data
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+
           git add .
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes to commit in lk_acts_data."
             exit 0
           fi
           git commit -m "🤖 [metadata_scraper.yml] $(date '+%Y-%m-%d-%H%M')"
-          git pull origin main --rebase
-          git push origin main
+          git pull origin $BRANCH --rebase
+          git push origin $BRANCH

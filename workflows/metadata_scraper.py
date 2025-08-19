@@ -32,6 +32,7 @@ def scrape_year(year):
 
 
 def scrape(max_dt):
+    log.debug(f"{max_dt=}")
     years = get_scrape_years()
 
     t_start = time.time()

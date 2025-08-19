@@ -5,13 +5,13 @@ import pandas as pd
 from datasets import Dataset
 from utils import Hash, JSONFile, Log
 
-from lk_acts.core import Act
+from lk_acts.core import Act, ActRead
 
 log = Log("HuggingFaceDataset")
 
 
 class HuggingFaceDataset:
-    DIR_DATA_HF = os.path.join("data", "hf")
+    DIR_DATA_HF = os.path.join(ActRead.DIR_DATA, "hf")
     ACTS_JSON_PATH = os.path.join(DIR_DATA_HF, "acts.json")
     CHUNKS_JSON_PATH = os.path.join(DIR_DATA_HF, "chunks.json")
     DATASET_SUFFIX = "2020-2024"
