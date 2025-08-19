@@ -8,6 +8,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   ghostscript git \
   libgl1 libglib2.0-0 \
   poppler-utils poppler-data \
+  tesseract-ocr tesseract-ocr-eng \
   && rm -rf /var/lib/apt/lists/*
 
 
