@@ -16,11 +16,16 @@ jobs:
     container:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
 
+    defaults:
+      run:
+        working-directory: ${{ github.workspace }}/..
+
     steps:
       - name: "⬇️ Checkout lk_acts (READ-ONLY)"
         uses: actions/checkout@v4
         with:
           ref: "main"
+          path: "lk_acts"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
 
       - name: "⬇️ Checkout lk_acts_data"
@@ -28,10 +33,9 @@ jobs:
         with:
           repository: nuuuwan/lk_acts_data
           ref: "main"
-          path: "../lk_acts_data"
+          path: "lk_acts_data"
           token: ${{ secrets.REPO_DATA_TOKEN }}
           fetch-depth: 1
-          set-safe-directory: false
 
       - name: "⚙️ Run metadata_scraper"
         run: |
