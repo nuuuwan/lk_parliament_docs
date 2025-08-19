@@ -1,13 +1,12 @@
-import argparse
 import sys
 import time
 
 from utils import Log
 
 from lk_acts import Act, ActExt
+from workflows.metadata_scraper import get_options
 
 log = Log("scrape")
-DEFAULT_MAX_DT = 1_200
 
 
 def download_pdf_for_act(act):
@@ -39,16 +38,9 @@ def download_pdfs(max_dt, decade):
     log.info("Stopping. 🛑 ALL acts complete.")
 
 
-def get_options():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--max_dt", type=str, default=str(DEFAULT_MAX_DT))
-    parser.add_argument("--decade", type=str, default=None)
-    return parser.parse_args()
-
-
 if __name__ == "__main__":
     options = get_options()
     download_pdfs(
-        max_dt=float(options.max_dt),
+        max_dt=options.max_dt,
         decade=options.decade,
     )
