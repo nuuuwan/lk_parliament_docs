@@ -11,6 +11,10 @@ jobs:
     container:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
 
+    env:
+      HUGGINGFACE_USERNAME: ${{ secrets.HUGGINGFACE_USERNAME }}
+      HUGGINGFACE_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
+
     steps:
       - name: "⬇️ Checkout lk_acts (READ-ONLY)"
         uses: actions/checkout@v4
