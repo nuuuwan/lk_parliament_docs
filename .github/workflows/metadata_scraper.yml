@@ -31,6 +31,7 @@ jobs:
           path: "../lk_acts_data"
           token: ${{ secrets.REPO_DATA_TOKEN }}
           fetch-depth: 1
+          set-safe-directory: false
 
       - name: "⚙️ Run metadata_scraper"
         run: |
