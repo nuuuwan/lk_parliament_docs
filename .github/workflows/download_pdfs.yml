@@ -15,6 +15,19 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
+    strategy:
+      matrix:
+        decade:
+          [
+            "1950s",
+            "1960s",
+            "1970s",
+            "1980s",
+            "1990s",
+            "2000s",
+            "2010s",
+            "2020s",
+          ]
 
     steps:
       - name: "⬇️ Checkout lk_acts (READ-ONLY)"
@@ -42,7 +55,7 @@ jobs:
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
 
-          python workflows/download_pdfs.py ${{ github.event.inputs.max_dt }}
+          python workflows/download_pdfs.py ${{ github.event.inputs.max_dt }} ${{ matrix.decade }}
 
       - name: "⬆️ Push lk_acts_data"
         run: |
