@@ -12,6 +12,7 @@ class ActWrite(ActRead):
 
     @staticmethod
     def get_dir_year(year):
+        year = str(year)
         decade = year[:3] + "0s"
         return os.path.join(ActRead.DIR_DATA, "acts", decade, year)
 
