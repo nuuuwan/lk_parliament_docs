@@ -21,10 +21,6 @@ class ReadMe:
         self.status_summary = Act.get_status_summary()
 
     @property
-    def timestamp(self):
-        return TimeFormat.TIME.format(Time.now())
-
-    @property
     def lines_for_year_chart(self):
         image_path = ChartYear(self.year_to_type_to_list).draw()
         return [f"![Year Chart]({image_path})", ""]
@@ -80,8 +76,7 @@ class ReadMe:
                 "",
                 f"Scraped  **{self.n_docs:,}** acts"
                 + f" ({self.data_size_m:.2f} MB) from"
-                + " [www.parliament.lk](https://www.parliament.lk/en)"
-                + f" as of **{self.timestamp}**.",
+                + " [www.parliament.lk](https://www.parliament.lk/en)."
                 "",
             ]
             + self.lines_for_year_chart
