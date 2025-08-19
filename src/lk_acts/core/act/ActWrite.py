@@ -11,16 +11,18 @@ log = Log("ActWrite")
 class ActWrite(ActRead):
 
     @staticmethod
-    def get_dir_year(year):
+    def get_dir_year(year, local=False):
         year = str(year)
         decade = year[:3] + "0s"
-        return os.path.join(ActRead.DIR_DATA, "acts", decade, year)
+        return os.path.join(
+            "data" if local else ActRead.DIR_DATA, "acts", decade, year
+        )
 
     @staticmethod
-    def get_dir_act_data(act_id):
+    def get_dir_act_data(act_id, local=False):
         tokens = act_id.split("-")
         year = tokens[0]
-        return os.path.join(ActWrite.get_dir_year(year), act_id)
+        return os.path.join(ActWrite.get_dir_year(year, local), act_id)
 
     @property
     def dir_act_data(self):
@@ -28,6 +30,10 @@ class ActWrite(ActRead):
         if not os.path.exists(dir_act_data):
             os.makedirs(dir_act_data)
         return dir_act_data
+
+    @property
+    def dir_act_data_local(self):
+        return self.get_dir_act_data(self.act_id, local=True)
 
     @property
     def metadata_json_path(self):
@@ -42,7 +48,10 @@ class ActWrite(ActRead):
 
     @property
     def url(self):
-        return self.dir_act_data
+        return (
+            "https://github.com/nuuuwan/lk_acts_data/tree/main/"
+            + self.dir_act_data_local
+        )
 
     @staticmethod
     def get_dir_data_size():
