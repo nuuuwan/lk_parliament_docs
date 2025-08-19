@@ -1,19 +1,15 @@
 import argparse
-import os
-import random
 import sys
 import time
 
 from utils import Log
 
-from lk_acts import Act, ActsBillsPage
+from lk_acts import ActsBillsPage
 
 log = Log("scrape")
 DEFAULT_MAX_DT = 1_200
 MAX_YEAR = 2025
 MIN_YEAR = 1945
-
-P_RETRY = 0.5
 
 
 def get_scrape_years(decade):
@@ -26,12 +22,7 @@ def get_scrape_years(decade):
 
     years = [year for year in range(min_year, max_year + 1)]
     years.reverse()
-    years_for_scraping = []
-    for year in years:
-        dir_year = Act.get_dir_year(year)
-        if not os.path.exists(dir_year) or random.random() < P_RETRY:
-            years_for_scraping.append(year)
-    return years_for_scraping
+    return years
 
 
 def scrape_year(year):
