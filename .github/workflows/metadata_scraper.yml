@@ -15,7 +15,19 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
-
+    strategy:
+      matrix:
+        decade:
+          [
+            "1950s",
+            "1960s",
+            "1970s",
+            "1980s",
+            "1990s",
+            "2000s",
+            "2010s",
+            "2020s",
+          ]
     steps:
       - name: "⬇️ Checkout lk_acts (READ-ONLY)"
         uses: actions/checkout@v4
@@ -42,7 +54,8 @@ jobs:
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
 
-          python workflows/metadata_scraper.py ${{ github.event.inputs.max_dt }}
+          git pull --rebase origin main
+          python workflows/metadata_scraper.py --max_dt=${{ github.event.inputs.max_dt }} --decade=${{ matrix.decade }}
 
       - name: "⬆️ Push lk_acts_data"
         run: |
@@ -56,5 +69,7 @@ jobs:
             exit 0
           fi
           git commit -m "🤖 [metadata_scraper.yml] $(date '+%Y-%m-%d-%H%M')"
-          git pull origin $BRANCH --rebase
-          git push origin $BRANCH
+          git pull --rebase origin main
+          git pull --rebase origin main
+          git pull --rebase origin main
+          git push origin main

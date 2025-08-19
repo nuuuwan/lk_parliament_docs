@@ -1,3 +1,4 @@
+import argparse
 import os
 import random
 import sys
@@ -15,8 +16,15 @@ MIN_YEAR = 1945
 P_RETRY = 0.1
 
 
-def get_scrape_years():
-    years = [year for year in range(MIN_YEAR, MAX_YEAR + 1)]
+def get_scrape_years(decade):
+    if decade:
+        min_year = int(decade[:4])
+        max_year = min_year + 9
+    else:
+        min_year = MIN_YEAR
+        max_year = MAX_YEAR
+
+    years = [year for year in range(min_year, max_year + 1)]
     years.reverse()
     years_for_scraping = []
     for year in years:
@@ -34,9 +42,9 @@ def scrape_year(year):
         log.error(f"Error scraping {year=}: {e}")
 
 
-def scrape(max_dt):
+def scrape(max_dt, decade):
     log.debug(f"{max_dt=}")
-    years = get_scrape_years()
+    years = get_scrape_years(decade)
     log.debug(f"len(years)={len(years):,}, {years=}")
 
     t_start = time.time()
@@ -53,7 +61,16 @@ def scrape(max_dt):
     log.info("Stopping. 🛑 ALL years complete.")
 
 
+def get_options():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--max_dt", type=float, default=DEFAULT_MAX_DT)
+    parser.add_argument("--decade", type=str, default=None)
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
+    options = get_options()
     scrape(
-        max_dt=float(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_MAX_DT,
+        max_dt=options.max_dt,
+        decade=options.decade,
     )
