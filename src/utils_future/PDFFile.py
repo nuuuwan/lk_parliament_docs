@@ -1,6 +1,9 @@
 import os
 from functools import cached_property
+from tempfile import NamedTemporaryFile
 
+import pytesseract
+from pdf2image import convert_from_path
 from utils import File, Log
 
 log = Log("PDFFile")
@@ -19,11 +22,26 @@ class PDFFile(File):
     def size(self):
         return os.path.getsize(self.path) if os.path.exists(self.path) else 0
 
-    def ocr(self, output_pdf_path=None) -> "PDFFile":
-        import ocrmypdf
+    @staticmethod
+    def __get_image_text_from_im__(i_page, im):
+        im = im.convert("RGB")
+        tmp_img_path = NamedTemporaryFile(suffix=".png", delete=False).name
+        im.save(tmp_img_path, format="PNG")
+        try:
+            return pytesseract.image_to_string(str(tmp_img_path), lang="eng")
+        except Exception as e:
+            log.error(f"[Page {i_page}] Error extracting text from page: {e}")
+            return None
 
-        if not output_pdf_path:
-            output_pdf_path = self.path[:-4] + ".ocr.pdf"
-        ocrmypdf.ocr(self.path, output_pdf_path, language="eng")
-        output_pdf_file = PDFFile(output_pdf_path)
-        log.info(f"Wrote {str(self)} -> {str(output_pdf_file)}")
+    def get_image_text(self):
+        im_list = convert_from_path(self.path, dpi=300)
+        page_text_list = []
+        for i_page, im in enumerate(im_list, start=1):
+            page_text = self.__get_image_text_from_im__(i_page, im)
+            if page_text is not None:
+                page_text_list.append(page_text)
+
+        text = "\n\n".join(page_text_list)
+        size_k = len(text) / 1_000
+        log.debug(f"Extracted {size_k:.0f}KB from {str(self)}")
+        return text

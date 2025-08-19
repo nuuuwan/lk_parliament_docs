@@ -3,9 +3,11 @@ import unittest
 
 from utils_future import PDFFile
 
+TEST_PDF_FILE = PDFFile(os.path.join("tests", "data", "image.pdf"))
+
 
 class TestCase(unittest.TestCase):
-    def test_ocr(self):
-        pdf_file = PDFFile(os.path.join("tests", "data", "image.pdf"))
-        output_pdf_file = pdf_file.ocr()
-        self.assertTrue(os.path.exists(output_pdf_file.path))
+    def test_get_image_text(self):
+
+        text = TEST_PDF_FILE.get_image_text()
+        self.assertEqual(len(text), 20_542)
