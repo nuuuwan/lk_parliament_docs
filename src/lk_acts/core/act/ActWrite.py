@@ -11,14 +11,15 @@ log = Log("ActWrite")
 class ActWrite(ActRead):
 
     @staticmethod
+    def get_dir_year(year):
+        decade = year[:3] + "0s"
+        return os.path.join(ActRead.DIR_DATA, "acts", decade, year)
+
+    @staticmethod
     def get_dir_act_data(act_id):
         tokens = act_id.split("-")
         year = tokens[0]
-        decade = year[:3] + "0s"
-        dir_act_data = os.path.join(
-            ActRead.DIR_DATA, "acts", decade, year, act_id
-        )
-        return dir_act_data
+        return os.path.join(ActWrite.get_dir_year(year), act_id)
 
     @property
     def dir_act_data(self):

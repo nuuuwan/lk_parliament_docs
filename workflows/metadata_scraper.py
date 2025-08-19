@@ -1,25 +1,28 @@
+import os
 import random
 import sys
 import time
 
 from utils import Log
 
-from lk_acts import ActsBillsPage
+from lk_acts import Act, ActsBillsPage
 
 log = Log("scrape")
 DEFAULT_MAX_DT = 1_200
 MAX_YEAR = 2025
 MIN_YEAR = 1945
 
-P_SHUFFLE = 0.1
+P_RETRY = 0.1
 
 
 def get_scrape_years():
     years = [year for year in range(MIN_YEAR, MAX_YEAR + 1)]
-    years.sort(reverse=True)
-    if random.random() < P_SHUFFLE:
-        log.debug("🎲 Shuffling years")
-        random.shuffle(years)
+    years.reverse()
+    years_for_scraping = []
+    for year in years:
+        dir_year = Act.get_dir_year(year)
+        if not os.path.exists(dir_year) or random.random() < P_RETRY:
+            years_for_scraping.append(year)
     return years
 
 
@@ -34,6 +37,7 @@ def scrape_year(year):
 def scrape(max_dt):
     log.debug(f"{max_dt=}")
     years = get_scrape_years()
+    log.debug(f"{years=}")
 
     t_start = time.time()
     for year in years:
