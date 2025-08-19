@@ -21,7 +21,7 @@ class ActStatus:
         raise NotImplementedError
 
     @classmethod
-    def year_to_list(cls):
+    def decade_to_list(cls):
         raise NotImplementedError
 
     @cached_property
@@ -52,10 +52,10 @@ class ActStatus:
 
     @classmethod
     def get_status_summary(cls):
-        year_to_list = cls.year_to_list()
+        decade_to_list = cls.decade_to_list()
 
         d_list = []
-        for year, act_list in year_to_list.items():
+        for decade, act_list in decade_to_list.items():
             n_metadata = sum(
                 [1 for act in act_list if act.status["has_metadata"]]
             )
@@ -66,7 +66,7 @@ class ActStatus:
             )
 
             d = dict(
-                year=year,
+                decade=decade,
                 n_metadata=n_metadata,
                 n_pdf=n_pdf,
                 n_txt=n_txt,
@@ -80,7 +80,7 @@ class ActStatus:
         total_n_act_json = sum(d["n_act_json"] for d in d_list)
 
         totals_d = dict(
-            year="Total",
+            decade="Total",
             n_metadata=total_n_metadata,
             n_pdf=total_n_pdf,
             n_txt=total_n_txt,
