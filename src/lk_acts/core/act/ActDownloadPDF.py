@@ -120,7 +120,7 @@ class ActDownloadPDF(ActWrite):
             return None
 
         if os.path.exists(self.txt_path):
-            return self.txt_path
+            return self.__validate_txt__()
 
         return self.__extract_text_hot__()
 
@@ -149,14 +149,22 @@ class ActDownloadPDF(ActWrite):
                     block_text_list.append(block_text)
         return block_text_list
 
-    def __extract_text_hot__(self):
-        content = "\n\n".join(self.__extract_block_text_list__())
-        File(self.txt_path).write(content)
+    def __validate_txt__(self):
+        if not os.path.exists(self.txt_path):
+            return None
+
         file_size_k = os.path.getsize(self.txt_path) / 1_000.0
         if file_size_k < 1:
             log.warning(
-                f"[{self.num}] Text extract too small ({file_size_k:.1f} kB)."
+                f"[{self.num}] Text extract too small"
+                + f" ({file_size_k:.1f} kB). ❌ Removing."
             )
+            os.remove(self.txt_path)
             return None
         log.info(f"Wrote {self.txt_path} ({file_size_k:.1f} kB)")
         return self.txt_path
+
+    def __extract_text_hot__(self):
+        content = "\n\n".join(self.__extract_block_text_list__())
+        File(self.txt_path).write(content)
+        return self.__validate_txt__()
