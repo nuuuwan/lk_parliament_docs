@@ -8,7 +8,7 @@ on:
         required: false
         default: "1"
   schedule:
-    - cron: "30 */4 * * *"
+    - cron: "*/30 * * * *"
 
 jobs:
   download_pdfs:
