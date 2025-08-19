@@ -64,7 +64,7 @@ class ReadMe:
             "## 🤗 Hugging Face Datasets (🆕)",
             "",
         ]
-        for label in ["lk-acts-2020-2024-acts", "lk-acts-2020-2024-chunks"]:
+        for label in ["lk-acts-acts", "lk-acts-chunks"]:
             url = f"https://huggingface.co/datasets/nuuuwan/{label}"
             lines.append(f"- [{label}]({url})")
         lines.append("")
