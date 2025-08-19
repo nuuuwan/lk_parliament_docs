@@ -128,7 +128,6 @@ class ActDownloadPDF(ActWrite):
     def __clean_block_text__(block_text: str) -> str:
         block_text = block_text or ""
         block_text = block_text.replace("\n", " ")
-
         block_text = re.sub(r"[^\x00-\x7F]+", "", block_text)
         block_text = re.sub(r"\s+", " ", block_text)
         block_text = block_text.strip()
@@ -146,7 +145,6 @@ class ActDownloadPDF(ActWrite):
                     continue  # skip non-text blocks
                 block_text = block[4] if len(block) > 4 else ""
                 block_text = self.__clean_block_text__(block_text)
-
                 if block_text:
                     block_text_list.append(block_text)
         return block_text_list
@@ -155,5 +153,10 @@ class ActDownloadPDF(ActWrite):
         content = "\n\n".join(self.__extract_block_text_list__())
         File(self.txt_path).write(content)
         file_size_k = os.path.getsize(self.txt_path) / 1_000.0
+        if file_size_k < 1:
+            log.warning(
+                f"[{self.num}] Text extract too small ({file_size_k:.1f} kB)."
+            )
+            return None
         log.info(f"Wrote {self.txt_path} ({file_size_k:.1f} kB)")
         return self.txt_path
