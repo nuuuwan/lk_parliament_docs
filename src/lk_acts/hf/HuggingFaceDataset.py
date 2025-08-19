@@ -15,7 +15,8 @@ class HuggingFaceDataset:
     ACTS_JSON_PATH = os.path.join(DIR_DATA_HF, "acts.json")
     CHUNKS_JSON_PATH = os.path.join(DIR_DATA_HF, "chunks.json")
     DATASET_SUFFIX = "2020-2024"
-    HUGGINGFACE_USERNAME = os.environ.get("HUGGINGFACE_USERNAME")
+    HUGGING_FACE_USERNAME = os.environ.get("HUGGING_FACE_USERNAME")
+    HUGGING_FACE_TOKEN = os.environ.get("HUGGING_FACE_TOKEN")
     MIN_YEAR, MAX_YEAR = 2020, 2024
 
     MAX_CHUNK_SIZE = 2000
@@ -142,11 +143,14 @@ class HuggingFaceDataset:
         acts_ds = Dataset.from_pandas(acts_df)
         chunks_ds = Dataset.from_pandas(chunks_df)
 
-        hf_username = self.HUGGINGFACE_USERNAME
-        hf_project = f"{hf_username}/lk-acts-{self.DATASET_SUFFIX}"
+        assert self.HUGGING_FACE_USERNAME
+        assert self.HUGGING_FACE_TOKEN
+        hf_project = (
+            f"{self.HUGGING_FACE_USERNAME}/lk-acts-{self.DATASET_SUFFIX}"
+        )
         log.debug(f"{hf_project=}")
 
         for ds, label in [(acts_ds, "acts"), (chunks_ds, "chunks")]:
             dataset_id = f"{hf_project}-{label}"
-            repo_id = ds.push_to_hub(dataset_id)
+            repo_id = ds.push_to_hub(dataset_id, token=self.HUGGING_FACE_TOKEN)
             log.info(f"Uploaded {dataset_id} to {repo_id}")
