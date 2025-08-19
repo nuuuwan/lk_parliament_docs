@@ -11,7 +11,7 @@ DEFAULT_MAX_DT = 1_200
 MAX_YEAR = 2025
 MIN_YEAR = 1945
 
-P_SHUFFLE = 0.5
+P_SHUFFLE = 0.1
 
 
 def get_scrape_years():
