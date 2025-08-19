@@ -42,8 +42,9 @@ def scrape_year(year):
         log.error(f"Error scraping {year=}: {e}")
 
 
-def scrape(max_dt, decade):
+def metadata_scraper(max_dt, decade):
     log.debug(f"{max_dt=}")
+    log.debug(f"{decade=}")
     years = get_scrape_years(decade)
     log.debug(f"len(years)={len(years):,}, {years=}")
 
@@ -70,7 +71,7 @@ def get_options():
 
 if __name__ == "__main__":
     options = get_options()
-    scrape(
+    metadata_scraper(
         max_dt=float(options.max_dt),
         decade=options.decade,
     )
