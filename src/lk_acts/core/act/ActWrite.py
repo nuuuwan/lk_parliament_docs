@@ -64,4 +64,6 @@ class ActWrite(ActRead):
 
     @cache
     def is_within_valid_time_range(self):
-        return self.year_int in range(ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1)
+        return self.year_int in range(
+            ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1
+        )
