@@ -23,7 +23,7 @@ class TimedPipeline:
                 return
 
             log.debug("-" * 64)
-            log.info(
+            log.debug(
                 f"[{i_data}/{n_data}]"
                 + f" Processing {data}"
                 + f" [{dt:.0f}s/{self.max_dt}s] "
