@@ -70,7 +70,6 @@ jobs:
           fi
           git commit -m "🤖 [download_pdfs.yml] $(date '+%Y-%m-%d-%H%M')"
 
-
           for i in $(seq 1 10); do
             git pull --rebase origin main || true
             if git push origin main; then
