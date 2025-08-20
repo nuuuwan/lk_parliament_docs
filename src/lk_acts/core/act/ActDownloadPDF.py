@@ -181,7 +181,7 @@ class ActDownloadPDF(ActWrite):
         text = "\n\n".join(self.__extract_block_text_list__())
         file_size_k = len(text) / 1_000.0
         if file_size_k < ActDownloadPDF.MIN_TXT_FILE_SIZE_K:
-            log.error(f"[{self.num}] Insufficient text.")
+            log.warning(f"[{self.num}] Insufficient text.")
             return self.__validate_txt__()
         File(self.txt_path).write(text)
         log.info(f"Wrote {self.txt_path} ({file_size_k:.1f} kB)")
