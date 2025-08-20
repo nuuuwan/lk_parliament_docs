@@ -11,22 +11,6 @@ class ActLevel:
     child_level_list: list["ActLevel"]
     pre_block_list: list[PDFBlock]
 
-    @classmethod
-    def get_depth(cls):
-        raise NotImplementedError
-
-    @classmethod
-    def get_child_cls(cls):
-        raise NotImplementedError
-
-    @classmethod
-    def get_next_num(cls, num):
-        raise NotImplementedError
-
-    @classmethod
-    def get_re_title(cls):
-        raise NotImplementedError
-
     def to_dict(self):
         return dict(
             class_name=self.__class__.__name__,

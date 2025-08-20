@@ -9,13 +9,6 @@ log = Log("ActExtractText")
 
 
 class ActExtractText:
-    @cached_property
-    def pdf_path(self):
-        raise NotImplementedError
-
-    @cached_property
-    def dir_act_data(self):
-        raise NotImplementedError
 
     @cached_property
     def txt_path(self):

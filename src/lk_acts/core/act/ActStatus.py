@@ -4,26 +4,6 @@ from functools import cached_property
 
 class ActStatus:
 
-    @property
-    def metadata_json_path(self):
-        raise NotImplementedError
-
-    @property
-    def pdf_path(self):
-        raise NotImplementedError
-
-    @property
-    def txt_path(self):
-        raise NotImplementedError
-
-    @property
-    def dir_act_data(self):
-        raise NotImplementedError
-
-    @classmethod
-    def decade_to_list(cls):
-        raise NotImplementedError
-
     @cached_property
     def has_metadata(self):
         return os.path.exists(self.metadata_json_path)
