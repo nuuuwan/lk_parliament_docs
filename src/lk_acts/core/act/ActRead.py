@@ -77,3 +77,8 @@ class ActRead(ActBase):
     @cached_property
     def text_content(self):
         return File(self.txt_path).read()
+
+    @classmethod
+    def list_from_decade(cls, decade: str):
+        assert len(decade) == 5 and decade.endswith("0s")
+        return [act for act in cls.list_all() if act.decade == decade]
