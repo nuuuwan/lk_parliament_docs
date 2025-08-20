@@ -3,7 +3,7 @@ import time
 
 from utils import Log
 
-from lk_acts import Act, ActExt
+from lk_acts import Act
 from workflows.metadata_scraper import DEFAULT_MAX_DT, get_options
 
 log = Log("scrape")
