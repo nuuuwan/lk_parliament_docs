@@ -3,12 +3,10 @@ from functools import cache, cached_property
 
 from utils import File, JSONFile, Log
 
-from lk_acts.core.act.ActBase import ActBase
-
 log = Log("ActRead")
 
 
-class ActRead(ActBase):
+class ActRead:
     DIR_DATA = os.path.join("..", "lk_acts_data", "data")
 
     @staticmethod

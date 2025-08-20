@@ -9,7 +9,7 @@ from lk_acts.core.act.ActRead import ActRead
 log = Log("ActWrite")
 
 
-class ActWrite(ActRead):
+class ActWrite:
 
     MAX_YEAR = 2025
     MIN_YEAR = 1945

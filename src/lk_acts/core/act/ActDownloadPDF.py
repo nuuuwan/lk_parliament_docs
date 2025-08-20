@@ -10,7 +10,6 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.ssl_ import create_urllib3_context
 from utils import Log
 
-from lk_acts.core.act.ActWrite import ActWrite
 from utils_future import PDFFile
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -33,7 +32,7 @@ class _ParliamentInsecureAdapter(HTTPAdapter):
         return super().proxy_manager_for(*args, **kwargs)
 
 
-class ActDownloadPDF(ActWrite):
+class ActDownloadPDF:
     T_TIMEOUT_PDF_DOWNLOAD = 120
     MIN_FILE_SIZE_M = 0.001
     MAX_FILE_SIZE_M = 40
