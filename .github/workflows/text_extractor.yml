@@ -16,6 +16,7 @@ jobs:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
     strategy:
       matrix:
+        max-parallel: 1
         decade:
           [
             "1950s",
