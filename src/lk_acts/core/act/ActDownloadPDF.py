@@ -80,10 +80,10 @@ class ActDownloadPDF(ActWrite):
     def __download_pdf_hot__(self):
         url = self.url_pdf_en
         temp_pdf_path = self.__download_to_temp__()
-        temp_pdf_path = PDFFile(temp_pdf_path).compress().path
-
         if not temp_pdf_path:
             return None
+        temp_pdf_path = PDFFile(temp_pdf_path).compress().path
+
         file_size_m = os.path.getsize(temp_pdf_path) / 1_000_000.0
         if (
             file_size_m < ActDownloadPDF.MIN_FILE_SIZE_M
