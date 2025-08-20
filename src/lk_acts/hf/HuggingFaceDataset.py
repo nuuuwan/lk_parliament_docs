@@ -55,14 +55,11 @@ class HuggingFaceDataset:
     @staticmethod
     def chunk(content: str) -> list[str]:
         block_text_list = content.split("\n\n")
-
         chunks = []
         current_sentences = []
         current_size = 0
         for block_text in block_text_list:
             block_text = block_text.strip()
-            if not block_text:
-                continue
 
             if (
                 current_size + len(block_text) + 1
@@ -70,7 +67,6 @@ class HuggingFaceDataset:
             ):
                 current = "\n\n".join(current_sentences).strip()
                 chunks.append(current)
-
                 rem_overlap = 0
                 new_sentences = []
                 i = 1
@@ -143,7 +139,9 @@ class HuggingFaceDataset:
 
         for ds, label in [(acts_ds, "acts"), (chunks_ds, "chunks")]:
             dataset_id = f"{hf_project}-{label}"
-            repo_id = ds.push_to_hub(dataset_id, token=self.HUGGING_FACE_TOKEN)
+            repo_id = ds.push_to_hub(
+                dataset_id, token=self.HUGGING_FACE_TOKEN
+            )
             log.info(f"🤗 Uploaded {dataset_id} to {repo_id}")
 
     def build_and_push(self):
