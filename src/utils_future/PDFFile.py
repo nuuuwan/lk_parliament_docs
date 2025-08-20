@@ -31,10 +31,10 @@ class PDFFile(File):
         super().__init__(path)
 
     def __str__(self):
-        size_m = self.size / 1000_000
+        size_m = self.size / 1000_000.0
         if size_m > 1:
             return f"{self.path} ({size_m:.1f} MB)"
-        size_k = self.size / 1_000
+        size_k = self.size / 1_000.0
         return f"{self.path} ({size_k:.1f} kB)"
 
     def __hash__(self):
