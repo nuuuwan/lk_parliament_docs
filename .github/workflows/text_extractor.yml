@@ -13,7 +13,7 @@ jobs:
   text_extractor:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/nuuuwan/lk-acts-image:latest
+      image: ghcr.io/nuuuwan/lk-acts-image:amd64
     strategy:
       matrix:
         decade:
