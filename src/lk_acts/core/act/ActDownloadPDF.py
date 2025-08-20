@@ -94,8 +94,7 @@ class ActDownloadPDF(ActWrite):
 
         shutil.move(temp_pdf_path, self.pdf_path)
         log.info(
-            f"✅ Downloaded PDF from {url}"
-            + f" to {self.pdf_path} ({file_size_m:.1f} MB)"
+            f"✅ Downloaded PDF from {url}" + f" to {PDFFile(self.pdf_path)}"
         )
         return self.pdf_path
 
