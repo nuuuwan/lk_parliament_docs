@@ -12,6 +12,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   && rm -rf /var/lib/apt/lists/*
 
 ENV OMP_THREAD_LIMIT=4
+ENV TESSDATA_PREFIX=/usr/share/tesseract-ocr/5/tessdata
+
 ENV CHROME_BIN=/usr/bin/chromium
 ENV CHROMEDRIVER_BIN=/usr/bin/chromedriver
 
