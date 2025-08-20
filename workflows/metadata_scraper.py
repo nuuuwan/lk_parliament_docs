@@ -62,9 +62,7 @@ def float_or_none(v):
 
 def get_options():
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--max_dt", type=float_or_none, default=DEFAULT_MAX_DT
-    )
+    parser.add_argument("--max_dt", type=float_or_none, default=DEFAULT_MAX_DT)
     parser.add_argument("--decade", type=str, default=None)
     return parser.parse_args()
 

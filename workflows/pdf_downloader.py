@@ -12,9 +12,7 @@ log = Log("scrape")
 def pdf_downloader(max_dt, decade):
     log.debug(f"{max_dt=}")
     log.debug(f"{decade=}")
-    act_list = Act.list_all()
-    if decade:
-        act_list = [act for act in act_list if act.decade == decade]
+    act_list = Act.list_from_decade(decade)
 
     t_start = time.time()
     for act in act_list:
