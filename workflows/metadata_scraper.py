@@ -1,10 +1,9 @@
 import argparse
-import sys
-import time
 
 from utils import Log
 
 from lk_acts import Act, ActsBillsPage
+from utils_future import TimedPipeline
 
 log = Log("scrape")
 DEFAULT_MAX_DT = 1_200
@@ -32,23 +31,11 @@ def scrape_year(year):
 
 
 def metadata_scraper(max_dt, decade):
-    log.debug(f"{max_dt=}")
     log.debug(f"{decade=}")
     years = get_scrape_years(decade)
     log.debug(f"len(years)={len(years):,}, {years=}")
 
-    t_start = time.time()
-    for year in years:
-        dt = time.time() - t_start
-        if dt > max_dt:
-            log.info(f"Stopping. 🛑 {dt:.0f}s > {max_dt}s.")
-            sys.exit(0)
-
-        log.debug("-" * 64)
-        log.info(f"[{dt:.0f}s/{max_dt}s] Running scrape for {year=}")
-        scrape_year(year)
-
-    log.info("Stopping. 🛑 ALL years complete.")
+    TimedPipeline(max_dt, scrape_year, years).run()
 
 
 def float_or_none(v):
@@ -63,7 +50,7 @@ def float_or_none(v):
 def get_options():
     parser = argparse.ArgumentParser()
     parser.add_argument("--max_dt", type=float_or_none, default=DEFAULT_MAX_DT)
-    parser.add_argument("--decade", type=str, default=None)
+    parser.add_argument("--decade", type=str, default="2020s")
     return parser.parse_args()
 
 
