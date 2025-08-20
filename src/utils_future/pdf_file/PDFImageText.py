@@ -10,11 +10,8 @@ from utils import Log
 from utils_future.pdf_file.PDFCompress import PDFCompress
 
 TESSERACT_FAST_CONFIG = r"""
---oem 1   # LSTM engine (current default; fastest supported in v5)
---psm 6   # assume a uniform block of text; try 7/8/13 if single line/word
--c preserve_interword_spaces=1
--c load_system_dawg=0
--c load_freq_dawg=0
+--oem 1
+--psm 6
 """
 
 log = Log("PDFImageText")
