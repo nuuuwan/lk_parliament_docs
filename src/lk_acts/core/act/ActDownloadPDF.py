@@ -1,11 +1,9 @@
 import os
-import re
 import shutil
 import ssl
 import tempfile
 from functools import cached_property
 
-import pymupdf
 import requests
 import urllib3
 from requests.adapters import HTTPAdapter
@@ -39,7 +37,6 @@ class ActDownloadPDF(ActWrite):
     T_TIMEOUT_PDF_DOWNLOAD = 120
     MIN_FILE_SIZE_M = 0.001
     MAX_FILE_SIZE_M = 40
-    MIN_TXT_FILE_SIZE_K = 1
 
     @cached_property
     def pdf_path(self):
@@ -119,70 +116,13 @@ class ActDownloadPDF(ActWrite):
         return os.path.join(self.dir_act_data, "en.txt")
 
     def extract_txt(self):
+        if os.path.exists(self.txt_path):
+            return self.txt_path
         pdf_path = self.pdf_path
-        if not os.path.exists(pdf_path):
+        try:
+            text = PDFFile(pdf_path).get_text()
+            File(self.txt_path).write(text)
+            log.info(f"Wrote {self.txt_path} ({len(text):,} chars)")
+        except Exception as e:
+            log.error(f"[{self.num}] {e}")
             return None
-
-        if os.path.exists(self.txt_path):
-            return self.__validate_txt__()
-
-        return self.__extract_text_hot__()
-
-    @staticmethod
-    def __clean_block_text__(block_text: str) -> str:
-        block_text = block_text or ""
-        block_text = block_text.replace("\n", " ")
-        block_text = re.sub(r"[^\x00-\x7F]+", "", block_text)
-        block_text = re.sub(r"\s+", " ", block_text)
-        block_text = block_text.strip()
-        return block_text
-
-    def __extract_block_text_list__(self):
-        doc = pymupdf.open(self.pdf_path)
-        block_text_list = []
-        for page in doc:
-            blocks = page.get_text("blocks")
-            blocks = sorted(blocks, key=lambda b: (b[1], b[0]))
-            for block in blocks:
-                block_type = block[6] if len(block) > 6 else 0
-                if block_type != 0:
-                    continue  # skip non-text blocks
-                block_text = block[4] if len(block) > 4 else ""
-                block_text = self.__clean_block_text__(block_text)
-                if block_text:
-                    block_text_list.append(block_text)
-        return block_text_list
-
-    def __extract_image_text_hot__(self):
-        image_text = PDFFile(self.pdf_path).get_image_text()
-        file_size_k = len(image_text) / 1_000.0
-        if file_size_k < ActDownloadPDF.MIN_TXT_FILE_SIZE_K:
-            log.error(f"[{self.num}] Insufficient image text.")
-            return None
-
-        File(self.txt_path).write(image_text)
-        log.info(f"Wrote [image] {self.txt_path} ({file_size_k:.1f} kB)")
-        return self.txt_path
-
-    def __validate_txt__(self):
-        if os.path.exists(self.txt_path):
-            file_size_k = os.path.getsize(self.txt_path) / 1_000.0
-            if file_size_k >= ActDownloadPDF.MIN_TXT_FILE_SIZE_K:
-                return self.txt_path
-            else:
-                log.warning(
-                    f"[{self.num}] Text extract too small"
-                    + f" ({file_size_k:.1f} kB). ❌ Removing."
-                )
-                os.remove(self.txt_path)
-        return self.__extract_image_text_hot__()
-
-    def __extract_text_hot__(self):
-        text = "\n\n".join(self.__extract_block_text_list__())
-        file_size_k = len(text) / 1_000.0
-        if file_size_k < ActDownloadPDF.MIN_TXT_FILE_SIZE_K:
-            log.warning(f"[{self.num}] Insufficient text.")
-            return self.__validate_txt__()
-        File(self.txt_path).write(text)
-        log.info(f"Wrote {self.txt_path} ({file_size_k:.1f} kB)")
-        return self.txt_path
