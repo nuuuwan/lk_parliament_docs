@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   tesseract-ocr tesseract-ocr-eng \
   && rm -rf /var/lib/apt/lists/*
 
-
+ENV OMP_THREAD_LIMIT=4
 ENV CHROME_BIN=/usr/bin/chromium
 ENV CHROMEDRIVER_BIN=/usr/bin/chromedriver
 
