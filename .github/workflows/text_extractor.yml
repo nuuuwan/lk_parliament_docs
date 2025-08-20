@@ -15,7 +15,6 @@ jobs:
     container:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
     strategy:
-      max-parallel: 1
       matrix:
         decade:
           [
