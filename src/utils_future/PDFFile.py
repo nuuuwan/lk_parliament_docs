@@ -1,5 +1,6 @@
 import os
 from functools import cache, cached_property
+from multiprocessing import Pool, cpu_count
 from tempfile import NamedTemporaryFile
 
 import pymupdf
@@ -11,6 +12,9 @@ log = Log("PDFFile")
 
 
 class PDFFile(File):
+    DPI_TARGET = 75
+    QUALITY = 25
+
     def __init__(self, path):
         assert path.endswith(".pdf")
         super().__init__(path)
@@ -28,23 +32,37 @@ class PDFFile(File):
 
     @staticmethod
     def __get_image_text_from_im__(i_page, im):
-        im = im.convert("RGB")
         tmp_img_path = NamedTemporaryFile(suffix=".png", delete=False).name
         im.save(tmp_img_path, format="PNG")
         try:
-            return pytesseract.image_to_string(str(tmp_img_path), lang="eng")
+            image_text = pytesseract.image_to_string(
+                str(tmp_img_path), lang="eng"
+            )
+            log.debug(f"[Page {i_page}] Extracted {len(image_text):,} B")
+            return image_text
         except Exception as e:
             log.error(f"[Page {i_page}] Error extracting text from page: {e}")
             return None
 
+    def __worker__(self, x):
+        return self.__get_image_text_from_im__(x[0], x[1])
+
     @cache
     def get_image_text(self):
-        im_list = convert_from_path(self.path, dpi=300)
-        page_text_list = []
-        for i_page, im in enumerate(im_list, start=1):
-            page_text = self.__get_image_text_from_im__(i_page, im)
-            if page_text is not None:
-                page_text_list.append(page_text)
+        im_list = convert_from_path(self.path, dpi=PDFFile.DPI_TARGET)
+        n_pages = len(im_list)
+        log.debug(f"{n_pages=}")
+        n_cpus = cpu_count()
+        log.debug(f"{n_cpus=}")
+
+        page_text_list = Pool(processes=n_cpus).map(
+            self.__worker__,
+            enumerate(im_list, start=1),
+        )
+
+        page_text_list = [
+            page_text for page_text in page_text_list if page_text is not None
+        ]
 
         text = "\n\n".join(page_text_list)
         size_k = len(text) / 1_000
@@ -54,12 +72,12 @@ class PDFFile(File):
     @staticmethod
     def __compress_with_pymupdf__(input_path, output_path):
         assert input_path != output_path
-
         doc = pymupdf.open(input_path)
+
         doc.rewrite_images(
-            dpi_target=60,
-            dpi_threshold=61,
-            quality=25,
+            dpi_target=PDFFile.DPI_TARGET,
+            dpi_threshold=PDFFile.DPI_TARGET + 1,
+            quality=PDFFile.QUALITY,
         )
         doc.ez_save(output_path)
 
