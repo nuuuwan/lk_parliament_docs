@@ -1,4 +1,5 @@
 import os
+from functools import cache
 from pathlib import Path
 
 from utils import JSONFile, Log
@@ -60,3 +61,7 @@ class ActWrite(ActRead):
     def get_dir_data_size():
         path = Path(ActWrite.DIR_DATA)
         return sum(f.stat().st_size for f in path.rglob("*") if f.is_file())
+
+    @cache
+    def is_within_valid_time_range(self):
+        return self.year_int in range(ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1)

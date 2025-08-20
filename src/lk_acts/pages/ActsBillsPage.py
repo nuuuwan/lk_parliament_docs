@@ -57,19 +57,19 @@ class ActsBillsPage(WebPage):
             )
         )
 
-    def __get_doc_list_for_page__(self, driver):
+    def __get_act_list_for_page__(self, driver):
         source = driver.page_source
         soup = BeautifulSoup(source, "html.parser")
-        doc_list = []
+        act_list = []
         for div_acts_box in soup.find_all("div", class_="acts_box"):
             doc = self.__parse_div_acts_box__(div_acts_box)
-            if doc:
-                doc_list.append(doc)
+            if doc and doc.is_within_valid_time_range():
+                act_list.append(doc)
 
-        log.debug(f"Found {len(doc_list)} docs.")
-        return doc_list
+        log.debug(f"Found {len(act_list)} docs.")
+        return act_list
 
-    def __get_doc_list__(self):
+    def __get_act_list__(self):
         driver = self.open()
 
         log.debug('Select "Please select a Legislature"...')
@@ -82,12 +82,12 @@ class ActsBillsPage(WebPage):
         )
         self.sleep(3)
 
-        doc_list = []
+        act_list = []
         i = 0
         while True:
             i += 1
-            doc_list_for_page = self.__get_doc_list_for_page__(driver)
-            doc_list.extend(doc_list_for_page)
+            act_list_for_page = self.__get_act_list_for_page__(driver)
+            act_list.extend(act_list_for_page)
 
             a_next = None
             try:
@@ -105,11 +105,11 @@ class ActsBillsPage(WebPage):
             self.sleep(3)
 
         self.quit()
-        log.debug(f"Found {len(doc_list)} docs for {self}")
-        return doc_list
+        log.debug(f"Found {len(act_list)} docs for {self}")
+        return act_list
 
     def scrape(self):
-        doc_list = self.__get_doc_list__()
-        for doc in doc_list:
+        act_list = self.__get_act_list__()
+        for doc in act_list:
             doc.write()
-        return doc_list
+        return act_list
