@@ -5,7 +5,7 @@ from utils import File
 
 from utils_future import PDFFile
 
-TEST_PDF_FILE = PDFFile(os.path.join("tests", "data", "image-2790.pdf"))
+TEST_PDF_FILE = PDFFile(os.path.join("tests", "data", "image-0073.pdf"))
 
 
 class TestCase(unittest.TestCase):
