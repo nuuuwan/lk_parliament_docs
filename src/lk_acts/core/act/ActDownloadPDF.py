@@ -107,7 +107,7 @@ class ActDownloadPDF(ActWrite):
     def download_pdf(self):
         url = self.url_pdf_en
         if not url or url == "null":
-            log.warning(f'No url_pdf_en found for "{self.act_id}"')
+            log.error(f'No url_pdf_en found for "{self.act_id}"')
             return None
         return self.__download_pdf_cold_or_hot__()
 
