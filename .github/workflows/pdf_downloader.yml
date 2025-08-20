@@ -1,4 +1,4 @@
-name: download_pdfs
+name: pdf_downloader
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ on:
   schedule:
     - cron: "30 * * * *"
 jobs:
-  download_pdfs:
+  pdf_downloader:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
@@ -46,7 +46,7 @@ jobs:
           token: ${{ secrets.REPO_DATA_TOKEN }}
           fetch-depth: 1
 
-      - name: "⚙️ Run download_pdfs"
+      - name: "⚙️ Run pdf_downloader"
         run: |
           cd lk_acts;
           export PYTHONPATH="$PYTHONPATH:./src"
@@ -55,7 +55,7 @@ jobs:
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
 
           git pull --rebase origin main
-          python workflows/download_pdfs.py --max_dt=${{ github.event.inputs.max_dt }} --decade=${{ matrix.decade }}
+          python workflows/pdf_downloader.py --max_dt=${{ github.event.inputs.max_dt }} --decade=${{ matrix.decade }}
 
       - name: "⬆️ Push lk_acts_data"
         run: |
@@ -68,7 +68,7 @@ jobs:
             echo "No changes to commit in lk_acts_data."
             exit 0
           fi
-          git commit -m "🤖 [download_pdfs.yml] $(date '+%Y-%m-%d-%H%M')"
+          git commit -m "🤖 [pdf_downloader.yml] $(date '+%Y-%m-%d-%H%M')"
 
           for i in $(seq 1 10); do
             git pull --rebase origin main || true

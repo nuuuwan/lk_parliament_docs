@@ -19,7 +19,7 @@ def download_pdf_for_act(act):
         log.error(f"Error processing {act.act_id}: {e}")
 
 
-def download_pdfs(max_dt, decade):
+def pdf_downloader(max_dt, decade):
     log.debug(f"{max_dt=}")
     log.debug(f"{decade=}")
     act_list = Act.list_all()
@@ -40,7 +40,7 @@ def download_pdfs(max_dt, decade):
 
 if __name__ == "__main__":
     options = get_options()
-    download_pdfs(
+    pdf_downloader(
         max_dt=options.max_dt or DEFAULT_MAX_DT,
         decade=options.decade,
     )
