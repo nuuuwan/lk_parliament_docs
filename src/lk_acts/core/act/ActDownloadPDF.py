@@ -100,6 +100,7 @@ class ActDownloadPDF(ActWrite):
 
     def __download_pdf_cold_or_hot__(self):
         if os.path.exists(self.pdf_path):
+            log.debug(f"{self.pdf_path} alread downloaded.")
             return self.pdf_path
         return self.__download_pdf_hot__()
 
