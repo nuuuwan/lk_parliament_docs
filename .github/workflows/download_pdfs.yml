@@ -69,5 +69,14 @@ jobs:
             exit 0
           fi
           git commit -m "🤖 [download_pdfs.yml] $(date '+%Y-%m-%d-%H%M')"
-          git pull --rebase origin main
-          git push origin main
+
+
+          for i in $(seq 1 10); do
+            git pull --rebase origin main || true
+            if git push origin main; then
+              echo "Push succeeded on attempt $i"
+              break
+            fi
+            echo "Push failed (attempt $i). Rebasing and retrying…"
+            sleep $((RANDOM % 5 + 1))
+          done
