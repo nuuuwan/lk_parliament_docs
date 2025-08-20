@@ -9,7 +9,16 @@ from workflows.metadata_scraper import DEFAULT_MAX_DT, get_options
 log = Log("scrape")
 
 
-def pdf_downloader(max_dt, decade):
+def text_extractor_for_act(act):
+    act.extract_txt()
+
+    try:
+        ActExt.from_pdf(act.pdf_path).build(act.act_id)
+    except Exception as e:
+        log.error(f"Error processing {act.act_id}: {e}")
+
+
+def text_extractor(max_dt, decade):
     log.debug(f"{max_dt=}")
     log.debug(f"{decade=}")
     act_list = Act.list_all()
@@ -23,14 +32,14 @@ def pdf_downloader(max_dt, decade):
             log.info(f"Stopping. 🛑 {dt:.0f}s > {max_dt}s.")
             sys.exit(0)
 
-        act.download_pdf()
+        text_extractor_for_act(act)
 
     log.info("Stopping. 🛑 ALL acts complete.")
 
 
 if __name__ == "__main__":
     options = get_options()
-    pdf_downloader(
+    text_extractor(
         max_dt=options.max_dt or DEFAULT_MAX_DT,
         decade=options.decade,
     )

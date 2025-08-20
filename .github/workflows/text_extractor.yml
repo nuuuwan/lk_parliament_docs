@@ -1,0 +1,81 @@
+name: text_extractor
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_dt:
+        description: "max_dt"
+        required: false
+        default: "1"
+  schedule:
+    - cron: "30 * * * *"
+jobs:
+  text_extractor:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/nuuuwan/lk-acts-image:latest
+    strategy:
+      matrix:
+        decade:
+          [
+            "1950s",
+            "1960s",
+            "1970s",
+            "1980s",
+            "1990s",
+            "2000s",
+            "2010s",
+            "2020s",
+          ]
+
+    steps:
+      - name: "⬇️ Checkout lk_acts (READ-ONLY)"
+        uses: actions/checkout@v4
+        with:
+          ref: "main"
+          path: "lk_acts"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
+
+      - name: "⬇️ Checkout lk_acts_data"
+        uses: actions/checkout@v4
+        with:
+          repository: nuuuwan/lk_acts_data
+          ref: "main"
+          path: "lk_acts_data"
+          token: ${{ secrets.REPO_DATA_TOKEN }}
+          fetch-depth: 1
+
+      - name: "⚙️ Run text_extractor"
+        run: |
+          cd lk_acts;
+          export PYTHONPATH="$PYTHONPATH:./src"
+
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+
+          git pull --rebase origin main
+          python workflows/text_extractor.py --max_dt=${{ github.event.inputs.max_dt }} --decade=${{ matrix.decade }}
+
+      - name: "⬆️ Push lk_acts_data"
+        run: |
+          cd lk_acts_data;
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit in lk_acts_data."
+            exit 0
+          fi
+          git commit -m "🤖 [text_extractor.yml] $(date '+%Y-%m-%d-%H%M')"
+
+          for i in $(seq 1 10); do
+            git pull --rebase origin main || true
+            if git push origin main; then
+              echo "Push succeeded on attempt $i"
+              break
+            fi
+            echo "Push failed (attempt $i). Rebasing and retrying…"
+            sleep $((RANDOM % 5 + 1))
+          done
