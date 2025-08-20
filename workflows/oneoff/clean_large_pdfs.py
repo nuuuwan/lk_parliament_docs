@@ -5,7 +5,7 @@ from utils import Log
 from lk_acts.core.act import Act
 
 log = Log("clean_large_pdfs")
-LARGE_PDF_SIZE_LIMIT_K = 100
+LARGE_PDF_SIZE_LIMIT_K = 1_000
 
 
 def __clean_hot__(act):
