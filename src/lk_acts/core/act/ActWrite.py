@@ -10,6 +10,9 @@ log = Log("ActWrite")
 
 class ActWrite(ActRead):
 
+    MAX_YEAR = 2025
+    MIN_YEAR = 1945
+
     @staticmethod
     def get_dir_year(year, local=False):
         year = str(year)

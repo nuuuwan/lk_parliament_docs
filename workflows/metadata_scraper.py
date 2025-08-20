@@ -4,12 +4,10 @@ import time
 
 from utils import Log
 
-from lk_acts import ActsBillsPage
+from lk_acts import Act, ActsBillsPage
 
 log = Log("scrape")
 DEFAULT_MAX_DT = 1_200
-MAX_YEAR = 2025
-MIN_YEAR = 1945
 
 
 def get_scrape_years(decade):
@@ -17,8 +15,8 @@ def get_scrape_years(decade):
         min_year = int(decade[:4])
         max_year = min_year + 9
     else:
-        min_year = MIN_YEAR
-        max_year = MAX_YEAR
+        min_year = Act.MIN_YEAR
+        max_year = Act.MAX_YEAR
 
     years = [year for year in range(min_year, max_year + 1)]
     years.reverse()
