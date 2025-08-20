@@ -118,6 +118,9 @@ class ActDownloadPDF(ActWrite):
     def extract_txt(self):
         if os.path.exists(self.txt_path):
             return self.txt_path
+        if not os.path.exists(self.pdf_path):
+            return None
+
         pdf_path = self.pdf_path
         try:
             text = PDFFile(pdf_path).get_text()
