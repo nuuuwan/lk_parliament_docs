@@ -40,4 +40,5 @@ docker run --rm "$URL" python --version
 
 
 # Open the GitHub Packages page in the default browser 
+say "docker build and push complete!"
 open https://github.com/$GITHUB_USERNAME?tab=packages
