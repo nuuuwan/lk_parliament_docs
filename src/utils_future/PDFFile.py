@@ -12,6 +12,15 @@ from utils import File, Log
 log = Log("PDFFile")
 
 
+TESSERACT_FAST_CONFIG = r"""
+--oem 1   # LSTM engine (current default; fastest supported in v5)
+--psm 6   # assume a uniform block of text; try 7/8/13 if single line/word
+-c preserve_interword_spaces=1
+-c load_system_dawg=0
+-c load_freq_dawg=0
+"""
+
+
 class PDFFile(File):
     DPI_TARGET = 75
     QUALITY = 25
@@ -79,7 +88,9 @@ class PDFFile(File):
     @staticmethod
     def __get_image_text_from_image_path__(i_page, image_path):
         try:
-            image_text = pytesseract.image_to_string(image_path, lang="eng")
+            image_text = pytesseract.image_to_string(
+                image_path, lang="eng", config=TESSERACT_FAST_CONFIG
+            )
             log.debug(f"[Page {i_page}] Extracted {len(image_text):,} B")
             return image_text
         except Exception as e:

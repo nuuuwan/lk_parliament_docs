@@ -8,7 +8,7 @@ set -euo pipefail
 # Sanity check Docker
 docker --version
 
-URL=ghcr.io/nuuuwan/lk-acts-image:latest
+URL=ghcr.io/$GITHUB_USERNAME/lk-acts-image:latest
 echo "URL=$URL"
 
 # Check if a buildx builder called "multiarch-builder" exists
@@ -40,4 +40,4 @@ docker run --rm "$URL" python --version
 
 
 # Open the GitHub Packages page in the default browser 
-open https://github.com/nuuuwan?tab=packages
+open https://github.com/$GITHUB_USERNAME?tab=packages
