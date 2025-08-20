@@ -20,11 +20,13 @@ log = Log("PDFImageText")
 class PDFImageText:
 
     @staticmethod
-    def __get_image_text_from_image_path__(i_page, image_path):
+    def __get_image_text_from_im__(i_page, im):
+        temp_img_path = NamedTemporaryFile(suffix=".png", delete=False).name
+        im.save(temp_img_path, format="PNG")
         t_start = time.time()
         try:
             image_text = pytesseract.image_to_string(
-                image_path, lang="eng", config=TESSERACT_FAST_CONFIG
+                temp_img_path, lang="eng", config=TESSERACT_FAST_CONFIG
             )
             dt_ms = 1_000 * (time.time() - t_start)
             log.debug(
@@ -39,7 +41,7 @@ class PDFImageText:
             return None
 
     def __worker__(self, x):
-        return self.__get_image_text_from_image_path__(x[0], x[1])
+        return self.__get_image_text_from_im__(x[0], x[1])
 
     @cache
     def get_image_text(self):
@@ -49,17 +51,9 @@ class PDFImageText:
         n_cpus = cpu_count()
         log.debug(f"{n_cpus=}")
 
-        temp_image_path_list = []
-        for im in im_list:
-            temp_img_path = NamedTemporaryFile(
-                suffix=".png", delete=False
-            ).name
-            im.save(temp_img_path, format="PNG")
-            temp_image_path_list.append(temp_img_path)
-
         page_text_list = Pool(processes=n_cpus).map(
             self.__worker__,
-            enumerate(temp_image_path_list, start=1),
+            enumerate(im_list, start=1),
         )
 
         page_text_list = [
