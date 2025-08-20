@@ -120,10 +120,8 @@ class ActDownloadPDF(ActWrite):
             return self.txt_path
         if not os.path.exists(self.pdf_path):
             return None
-
-        pdf_path = self.pdf_path
         try:
-            text = PDFFile(pdf_path).get_text()
+            text = PDFFile(self.pdf_path).get_text()
             File(self.txt_path).write(text)
             log.info(f"Wrote {self.txt_path} ({len(text):,} chars)")
         except Exception as e:
