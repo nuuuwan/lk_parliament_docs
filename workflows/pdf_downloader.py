@@ -12,7 +12,7 @@ def pdf_downloader(max_dt, decade):
     log.debug(f"{decade=}")
     act_list = Act.list_from_decade(decade)
 
-    TimedPipeline(max_dt, lambda act: act.download_pdf, act_list).run()
+    TimedPipeline(max_dt, lambda act: act.download_pdf(), act_list).run()
 
 
 if __name__ == "__main__":
