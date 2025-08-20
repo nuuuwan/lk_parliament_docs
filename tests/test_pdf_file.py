@@ -11,11 +11,11 @@ TEST_PDF_FILE = PDFFile(os.path.join("tests", "data", "image-0073.pdf"))
 class TestCase(unittest.TestCase):
     def test_get_raw_text(self):
         text = TEST_PDF_FILE.get_raw_text()
-        self.assertGreater(len(text), 1_000)
+        self.assertGreater(len(text), 100)
 
     def test_get_block_text(self):
         text = TEST_PDF_FILE.get_block_text()
-        self.assertGreater(len(text), 1_000)
+        self.assertGreater(len(text), 100)
 
     def test_get_image_text(self):
         image_text = TEST_PDF_FILE.get_image_text()

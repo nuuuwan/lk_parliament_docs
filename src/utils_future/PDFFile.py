@@ -77,13 +77,9 @@ class PDFFile(File):
         return self.__log_text_info_and_return__(text, "Block text")
 
     @staticmethod
-    def __get_image_text_from_im__(i_page, im):
-        tmp_img_path = NamedTemporaryFile(suffix=".png", delete=False).name
-        im.save(tmp_img_path, format="PNG")
+    def __get_image_text_from_image_path__(i_page, image_path):
         try:
-            image_text = pytesseract.image_to_string(
-                str(tmp_img_path), lang="eng"
-            )
+            image_text = pytesseract.image_to_string(image_path, lang="eng")
             log.debug(f"[Page {i_page}] Extracted {len(image_text):,} B")
             return image_text
         except Exception as e:
@@ -91,7 +87,7 @@ class PDFFile(File):
             return None
 
     def __worker__(self, x):
-        return self.__get_image_text_from_im__(x[0], x[1])
+        return self.__get_image_text_from_image_path__(x[0], x[1])
 
     @cache
     def get_image_text(self):
@@ -101,9 +97,17 @@ class PDFFile(File):
         n_cpus = cpu_count()
         log.debug(f"{n_cpus=}")
 
+        temp_image_path_list = []
+        for im in im_list:
+            temp_img_path = NamedTemporaryFile(
+                suffix=".png", delete=False
+            ).name
+            im.save(temp_img_path, format="PNG")
+            temp_image_path_list.append(temp_img_path)
+
         page_text_list = Pool(processes=n_cpus).map(
             self.__worker__,
-            enumerate(im_list, start=1),
+            enumerate(temp_image_path_list, start=1),
         )
 
         page_text_list = [
