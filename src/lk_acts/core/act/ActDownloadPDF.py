@@ -8,7 +8,7 @@ import requests
 import urllib3
 from requests.adapters import HTTPAdapter
 from urllib3.util.ssl_ import create_urllib3_context
-from utils import File, Log
+from utils import Log
 
 from lk_acts.core.act.ActWrite import ActWrite
 from utils_future import PDFFile
@@ -110,20 +110,3 @@ class ActDownloadPDF(ActWrite):
             log.error(f'No url_pdf_en found for "{self.act_id}"')
             return None
         return self.__download_pdf_cold_or_hot__()
-
-    @cached_property
-    def txt_path(self):
-        return os.path.join(self.dir_act_data, "en.txt")
-
-    def extract_text(self):
-        if os.path.exists(self.txt_path):
-            return self.txt_path
-        if not os.path.exists(self.pdf_path):
-            return None
-        try:
-            text = PDFFile(self.pdf_path).get_text()
-            File(self.txt_path).write(text)
-            log.info(f"Wrote {self.txt_path} ({len(text):,} chars)")
-        except Exception as e:
-            log.error(f"[{self.num}] {e}")
-            return None
