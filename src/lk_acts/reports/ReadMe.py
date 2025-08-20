@@ -75,7 +75,7 @@ class ReadMe:
                 + "(https://github.com/nuuuwan/lk_acts))",
                 "",
                 f"Scraped  **{self.n_docs:,}** acts"
-                + f" ({self.data_size_m:.2f} MB) from"
+                + f" ({self.data_size_m:.1f} MB) from"
                 + " [www.parliament.lk](https://www.parliament.lk/en)."
                 "",
             ]

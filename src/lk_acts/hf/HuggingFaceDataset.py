@@ -49,7 +49,7 @@ class HuggingFaceDataset:
         file_size_m = os.path.getsize(self.ACTS_JSON_PATH) / (1024 * 1024)
         log.info(
             f"Wrote {self.ACTS_JSON_PATH}"
-            + f" ({n_rows:,} acts, {file_size_m:.2f} MB)"
+            + f" ({n_rows:,} acts, {file_size_m:.1f} MB)"
         )
 
     @staticmethod
@@ -126,7 +126,7 @@ class HuggingFaceDataset:
         file_size_m = os.path.getsize(self.CHUNKS_JSON_PATH) / (1024 * 1024)
         log.info(
             f"Wrote {self.CHUNKS_JSON_PATH}"
-            + f" ({n_rows:,} chunks, {file_size_m:.2f} MB)"
+            + f" ({n_rows:,} chunks, {file_size_m:.1f} MB)"
         )
 
     def upload_to_hugging_face(self):
@@ -143,9 +143,7 @@ class HuggingFaceDataset:
 
         for ds, label in [(acts_ds, "acts"), (chunks_ds, "chunks")]:
             dataset_id = f"{hf_project}-{label}"
-            repo_id = ds.push_to_hub(
-                dataset_id, token=self.HUGGING_FACE_TOKEN
-            )
+            repo_id = ds.push_to_hub(dataset_id, token=self.HUGGING_FACE_TOKEN)
             log.info(f"🤗 Uploaded {dataset_id} to {repo_id}")
 
     def build_and_push(self):
