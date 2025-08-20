@@ -115,7 +115,7 @@ class ActDownloadPDF(ActWrite):
     def txt_path(self):
         return os.path.join(self.dir_act_data, "en.txt")
 
-    def extract_txt(self):
+    def extract_text(self):
         if os.path.exists(self.txt_path):
             return self.txt_path
         if not os.path.exists(self.pdf_path):
