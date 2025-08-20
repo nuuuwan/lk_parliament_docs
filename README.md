@@ -1,6 +1,6 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_acts](https://github.com/nuuuwan/lk_acts))
 
-Scraped  **2,769** acts (1004.04 MB) from [www.parliament.lk](https://www.parliament.lk/en).
+Scraped  **2,768** acts (1723.51 MB) from [www.parliament.lk](https://www.parliament.lk/en).
 ![Year Chart](images/chart_year.png)
 
 ## Download Status
@@ -9,21 +9,20 @@ Scraped  **2,769** acts (1004.04 MB) from [www.parliament.lk](https://www.parlia
 | :-- | --: | --: | --: | --: |
 | 2020s | 176 | 163 | 163 | 107 |
 | 2010s | 264 | 262 | 262 | 142 |
-| 2000s | 314 | 287 | 287 | 130 |
-| 1990s | 357 | 212 | 211 | 26 |
-| 1980s | 466 | 7 | 4 | 0 |
-| 1970s | 415 | 7 | 4 | 0 |
-| 1960s | 324 | 43 | 43 | 0 |
-| 1950s | 452 | 4 | 0 | 0 |
-| 1900s | 1 | 0 | 0 | 0 |
-| Total | 2769 | 985 | 974 | 405 |
+| 2000s | 314 | 295 | 295 | 131 |
+| 1990s | 357 | 213 | 212 | 26 |
+| 1980s | 466 | 8 | 6 | 0 |
+| 1970s | 415 | 8 | 6 | 0 |
+| 1960s | 324 | 45 | 45 | 0 |
+| 1950s | 452 | 63 | 63 | 0 |
+| Total | 2768 | 1057 | 1052 | 406 |
 
 ## 🤗 Hugging Face Datasets (🆕)
 
 - [lk-acts-acts](https://huggingface.co/datasets/nuuuwan/lk-acts-acts)
 - [lk-acts-chunks](https://huggingface.co/datasets/nuuuwan/lk-acts-chunks)
 
-## Acts (2,769)
+## Acts (2,768)
 
 ### 2025 (13)
 
@@ -3020,8 +3019,4 @@ Scraped  **2,769** acts (1004.04 MB) from [www.parliament.lk](https://www.parlia
 - ⚪ `03/1950` [National Development Loan](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1950/1950-003) (1950-02-16)
 - 🔵 `02/1950` [Loan Board (Special Provisions)](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1950/1950-002) (1950-02-16)
 - ⚪ `1/1950` [Stock](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1950s/1950/1950-001) (1950-02-16)
-
-### 1900 (1)
-
-- ⚪ `Chap 13` [Supreme Court Vacations](https://github.com/nuuuwan/lk_acts_data/tree/main/data/acts/1900s/1900/1900-supreme-court-vacations) (1900-01-30)
 
