@@ -44,6 +44,9 @@ class ActBase:
     def act_id(self) -> str:
         return f"{self.year}-{self.doc_sub_num}"
 
+    def __str__(self):
+        return f"Act({self.act_id})"
+
     @property
     def year(self) -> str:
         return self.date[:4]
