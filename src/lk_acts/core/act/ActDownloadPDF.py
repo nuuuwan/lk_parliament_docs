@@ -38,7 +38,7 @@ class _ParliamentInsecureAdapter(HTTPAdapter):
 class ActDownloadPDF(ActWrite):
     T_TIMEOUT_PDF_DOWNLOAD = 120
     MIN_FILE_SIZE_M = 0.001
-    MAX_FILE_SIZE_M = 10
+    MAX_FILE_SIZE_M = 40
     MIN_TXT_FILE_SIZE_K = 1
 
     @cached_property
