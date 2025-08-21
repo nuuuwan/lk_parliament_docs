@@ -23,12 +23,6 @@ class TimedPipeline:
                 log.info(f"🛑 Stopping. ⏰ {dt:.0f}s > {self.max_dt}s.")
                 return
 
-            log.debug("-" * 64)
-            log.debug(
-                f"[{i_data}/{n_data}]"
-                + f" Processing {data}"
-                + f" [{dt:.0f}s/{self.max_dt}s] "
-            )
             self.func_process(data)
 
         log.info("🛑 Stopping. ALL data complete.")

@@ -8,7 +8,7 @@ import requests
 import urllib3
 from requests.adapters import HTTPAdapter
 from urllib3.util.ssl_ import create_urllib3_context
-from utils import Log
+from utils import File, Log
 
 from utils_future import PDFFile
 
@@ -104,7 +104,7 @@ class ActDownloadPDF:
     def __download_pdf_cold_or_hot__(self):
         url = self.url_pdf_en
         if not url or url == "null":
-            log.error(f'No url_pdf_en found for "{self}"')
+            log.error(f"[{self}] No url_pdf_en")
             return None
 
         return self.__download_pdf_hot__()
