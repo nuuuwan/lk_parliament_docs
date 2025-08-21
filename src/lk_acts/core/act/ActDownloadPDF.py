@@ -63,14 +63,12 @@ class ActDownloadPDF:
             else:
                 r = requests.get(url, timeout=self.T_TIMEOUT_PDF_DOWNLOAD)
         except requests.RequestException as e:
-            log.error(f"Failed to download PDF from {url}: {e}")
+            log.error(f"[{self}] Download {url} failed: {e}")
             return None
 
         temp_pdf_path = tempfile.NamedTemporaryFile(suffix=".pdf").name
         if r.status_code != 200:
-            log.error(
-                f"Failed to download PDF from {url}: HTTP {r.status_code}"
-            )
+            log.error(f"[{self}] Download {url} failed: HTTP {r.status_code}")
             return None
         with open(temp_pdf_path, "wb") as f:
             f.write(r.content)
@@ -89,10 +87,7 @@ class ActDownloadPDF:
             file_size_m < ActDownloadPDF.MIN_FILE_SIZE_M
             or file_size_m > ActDownloadPDF.MAX_FILE_SIZE_M
         ):
-            log.error(
-                f"Downloaded PDF from {url} is invalid:"
-                + f" {file_size_m:.1f} MB"
-            )
+            log.error(f"[{self}] {url} is invalid:" + f" {file_size_m:.1f} MB")
             return None
 
         shutil.move(temp_pdf_path, self.pdf_path)
