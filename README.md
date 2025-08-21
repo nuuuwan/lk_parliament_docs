@@ -1,21 +1,21 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_acts](https://github.com/nuuuwan/lk_acts))
 
-Scraped  **2,768** acts (2380.8 MB) from [www.parliament.lk](https://www.parliament.lk/en).
+Scraped  **2,768** acts (2381.6 MB) from [www.parliament.lk](https://www.parliament.lk/en).
 ![Year Chart](images/chart_year.png)
 
 ## Download Status
 
-| decade | n_metadata | n_pdf | n_text | n_blocks | n_ocr_blocks | n_act_json |
+| decade | n_metadata | n_pdf | n_blocks | n_text | n_ocr_blocks | n_act_json |
 | :-- | --: | --: | --: | --: | --: | --: |
 | 2020s | 176 | 163 | 163 | 163 | 6 | 107 |
-| 2010s | 264 | 262 | 262 | 262 | 0 | 142 |
-| 2000s | 314 | 298 | 290 | 298 | 0 | 117 |
-| 1990s | 357 | 340 | 112 | 340 | 0 | 26 |
-| 1980s | 466 | 435 | 50 | 435 | 0 | 0 |
-| 1970s | 415 | 189 | 30 | 189 | 0 | 0 |
-| 1960s | 324 | 310 | 54 | 310 | 0 | 0 |
-| 1950s | 452 | 430 | 63 | 430 | 0 | 0 |
-| Total | 2768 | 2427 | 1024 | 2427 | 6 | 392 |
+| 2010s | 264 | 262 | 262 | 262 | 1 | 142 |
+| 2000s | 314 | 298 | 298 | 298 | 3 | 117 |
+| 1990s | 357 | 340 | 340 | 340 | 5 | 26 |
+| 1980s | 466 | 435 | 435 | 302 | 0 | 0 |
+| 1970s | 415 | 189 | 189 | 53 | 0 | 0 |
+| 1960s | 324 | 310 | 310 | 310 | 3 | 0 |
+| 1950s | 452 | 430 | 430 | 430 | 0 | 0 |
+| Total | 2768 | 2427 | 2427 | 2158 | 18 | 392 |
 
 ## 🤗 Hugging Face Datasets (🆕)
 
