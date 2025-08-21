@@ -9,6 +9,7 @@ class ActStatus:
         "blocks",
         "text",
         "ocr_blocks",
+        "ocr_text",
         "act_json",
     ]
 
@@ -24,6 +25,7 @@ class ActStatus:
             has_blocks=self.has_blocks,
             has_text=self.has_text,
             has_ocr_blocks=self.has_ocr_blocks,
+            has_ocr_text=self.has_ocr_text,
             has_act_json=self.has_act_json,
         )
 
