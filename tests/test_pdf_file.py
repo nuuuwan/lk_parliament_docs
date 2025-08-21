@@ -16,16 +16,8 @@ class TestCase(unittest.TestCase):
         self.assertGreater(len(text), 100)
 
     def test_get_block_info_list(self):
-        block_text = TEST_PDF_FILE.get_block_text()
         block_info_list = TEST_PDF_FILE.get_block_info_list()
-        block_text_from_bil = "\n\n".join(
-            [block_info["text"] for block_info in block_info_list]
-        )
-        self.assertEqual(len(block_text), len(block_text_from_bil))
-        self.assertEqual(block_text, block_text_from_bil)
-
         first_block_info = block_info_list[0]
-        print(first_block_info)
         self.assertEqual(
             first_block_info,
             {

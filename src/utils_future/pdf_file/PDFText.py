@@ -71,28 +71,15 @@ class PDFText:
                     text=block_text,
                 )
                 block_info_list.append(block_info)
+        return block_info_list
+
+    def get_block_text(self) -> str:
+        block_info_list = self.get_block_info_list()
         text = "\n\n".join(
             [block_info["text"] for block_info in block_info_list]
         )
         self.__log_text_info_and_return__(text, "Block info list text")
         return block_info_list
-
-    def get_block_text(self) -> str:
-        doc = pymupdf.open(self.path)
-        block_text_list = []
-        for page in doc:
-            blocks = page.get_text("blocks")
-            blocks = sorted(blocks, key=lambda b: (b[1], b[0]))
-            for block in blocks:
-                block_type = block[6] if len(block) > 6 else 0
-                if block_type != 0:
-                    continue
-                block_text = block[4] if len(block) > 4 else ""
-                block_text = self.__clean_block_text__(block_text)
-                if block_text:
-                    block_text_list.append(block_text)
-        text = "\n\n".join(block_text_list)
-        return self.__log_text_info_and_return__(text, "Block text")
 
     def get_text(self) -> str:
         block_text = self.get_block_text()
