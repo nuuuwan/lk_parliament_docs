@@ -71,7 +71,7 @@ class ActExtractOCRText:
     def ocr_text_fail_path(self):
         return os.path.join(self.dir_act_data, "en.ocr.txt.fail")
 
-    def extract_text(self):
+    def extract_ocr_text(self):
         if not os.path.exists(self.pdf_path):
             return None
         if os.path.exists(self.ocr_text_path):
