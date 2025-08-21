@@ -91,7 +91,9 @@ class ActDownloadPDF:
             file_size_m < ActDownloadPDF.MIN_FILE_SIZE_M
             or file_size_m > ActDownloadPDF.MAX_FILE_SIZE_M
         ):
-            log.error(f"[{self}] {url} is invalid:" + f" {file_size_m:.1f} MB")
+            log.error(
+                f"[{self}] {url} is invalid:" + f" {file_size_m:.1f} MB"
+            )
             return None
 
         shutil.move(temp_pdf_path, self.pdf_path)
