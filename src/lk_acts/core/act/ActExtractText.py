@@ -33,7 +33,7 @@ class ActExtractText:
         return os.path.join(self.dir_act_data, "blocks.json")
 
     @cached_property
-    def block_fail_path(self):
+    def blocks_fail_path(self):
         return os.path.join(self.dir_act_data, "blocks.json.fail")
 
     def extract_blocks(self):
@@ -41,10 +41,10 @@ class ActExtractText:
             return None
         if os.path.exists(self.blocks_path):
             return self.blocks_path
-        if os.path.exists(self.block_fail_path):
+        if os.path.exists(self.blocks_fail_path):
             return None
         if not self.is_block_text_valid:
-            File(self.block_fail_path).write("")
+            File(self.blocks_fail_path).write("")
             log.debug(f"[{self}] block_Text invalid.")
             return None
 
