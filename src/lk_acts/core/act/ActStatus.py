@@ -6,8 +6,8 @@ class ActStatus:
     STATUS_FIELD_LIST = [
         "metadata",
         "pdf",
-        "text",
         "blocks",
+        "text",
         "ocr_blocks",
         "act_json",
     ]
