@@ -17,7 +17,7 @@ class ReadMe:
         self.n_docs = len(self.doc_list)
         self.year_to_list = Act.year_to_list()
         self.year_to_type_to_list = Act.year_to_type_to_list()
-        self.data_size_m = Act.get_dir_data_size() / (1024 * 1024)
+        self.data_size_g = Act.get_dir_data_size() / (1_000_000_000.0)
         self.status_summary = Act.get_status_summary()
 
     @property
@@ -75,7 +75,7 @@ class ReadMe:
                 + "(https://github.com/nuuuwan/lk_acts))",
                 "",
                 f"Scraped  **{self.n_docs:,}** acts"
-                + f" ({self.data_size_m:.1f} MB) from"
+                + f" ({self.data_size_g:.1f} GB) from"
                 + " [www.parliament.lk](https://www.parliament.lk/en)."
                 "",
             ]
