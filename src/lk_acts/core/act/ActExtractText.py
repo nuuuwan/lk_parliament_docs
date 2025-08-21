@@ -37,8 +37,8 @@ class ActExtractText:
         if os.path.exists(self.blocks_path):
             return self.blocks_path
 
-        blocks_info_list = PDFFile(self.pdf_path).get_blocks_info_list()
-        n_blocks = len(blocks_info_list)
-        JSONFile(self.blocks_path).write(blocks_info_list)
+        block_info_list = PDFFile(self.pdf_path).get_block_info_list()
+        n_blocks = len(block_info_list)
+        JSONFile(self.blocks_path).write(block_info_list)
         log.info(f"Wrote {self.blocks_path} ({n_blocks:,} blocks)")
         return self.blocks_path
