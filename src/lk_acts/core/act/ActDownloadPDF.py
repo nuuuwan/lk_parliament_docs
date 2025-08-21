@@ -42,6 +42,10 @@ class ActDownloadPDF:
         return os.path.join(self.dir_act_data, "en.pdf")
 
     @cached_property
+    def pdf_fail_path(self):
+        return os.path.join(self.dir_act_data, "en.pdf.fail")
+
+    @cached_property
     def _session_parliament(self):
         s = requests.Session()
         s.mount("https://www.parliament.lk", _ParliamentInsecureAdapter())
@@ -98,14 +102,20 @@ class ActDownloadPDF:
         return self.pdf_path
 
     def __download_pdf_cold_or_hot__(self):
-        if os.path.exists(self.pdf_path):
-            log.debug(f"{self.pdf_path} alread downloaded.")
-            return self.pdf_path
+        url = self.url_pdf_en
+        if not url or url == "null":
+            log.error(f'No url_pdf_en found for "{self}"')
+            return None
+
         return self.__download_pdf_hot__()
 
     def download_pdf(self):
-        url = self.url_pdf_en
-        if not url or url == "null":
-            log.error(f'No url_pdf_en found for "{self.act_id}"')
+        if os.path.exists(self.pdf_path):
+            return self.pdf_path
+        if os.path.exists(self.pdf_fail_path):
             return None
-        return self.__download_pdf_cold_or_hot__()
+
+        pdf_path = self.__download_pdf_cold_or_hot__()
+        if pdf_path is None:
+            File(self.pdf_fail_path).write("")
+        return pdf_path
