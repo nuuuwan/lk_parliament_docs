@@ -1,4 +1,3 @@
-from functools import cache
 from multiprocessing import Pool, cpu_count
 from tempfile import NamedTemporaryFile
 
@@ -98,46 +97,3 @@ class PDFImageText:
                 image_block_info_list.extend(image_block_info_list_for_page)
 
         return image_block_info_list
-
-    @staticmethod
-    def __get_image_text_from_im__(i_page, im):
-        temp_img_path = NamedTemporaryFile(suffix=".png", delete=False).name
-        im.save(temp_img_path, format="PNG")
-
-        try:
-            image_text = pytesseract.image_to_string(
-                temp_img_path, lang="eng", config=TESSERACT_FAST_CONFIG
-            )
-            return image_text
-        except Exception as e:
-            log.error(f"[Page {i_page}] Error extracting text from page: {e}")
-            return None
-
-    def __worker_get_image_text_from_im__(self, x):
-        return self.__get_image_text_from_im__(x[0], x[1])
-
-    @cache
-    def get_image_text(self):
-        im_list = convert_from_path(self.path, dpi=PDFCompress.DPI_TARGET)
-        n_pages = len(im_list)
-        log.debug(f"{n_pages=}")
-        n_cpus = cpu_count()
-        log.debug(f"{n_cpus=}")
-
-        page_text_list = Pool(processes=n_cpus).map(
-            self.__worker_get_image_text_from_im__,
-            enumerate(im_list, start=1),
-        )
-
-        page_text_list = [
-            page_text for page_text in page_text_list if page_text is not None
-        ]
-
-        text = "\n\n".join(page_text_list)
-        return self.__log_text_info_and_return__(text, "Image text")
-
-    @cache
-    def get_image_text_from_ocr_block_info_list(self):
-        ocr_block_info_list = self.get_image_block_info_list()
-        text = "".join(datum["text"] for datum in ocr_block_info_list)
-        return self.__log_text_info_and_return__(text, "OCR block text")

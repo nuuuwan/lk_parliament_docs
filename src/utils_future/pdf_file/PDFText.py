@@ -14,16 +14,6 @@ class PDFText:
         log.debug(f"[{label}] Extracted {size:,} chars from {str(self)}")
         return text
 
-    def get_raw_text(self) -> str:
-        doc = pymupdf.open(self.path)
-        page_text_list = []
-        for page in doc:
-            page_text = page.get_text()
-            page_text_list.append(page_text)
-        doc.close()
-        text = "\n\n".join(page_text_list)
-        return self.__log_text_info_and_return__(text, "Raw text")
-
     @staticmethod
     def __clean_block_text__(block_text: str) -> str:
         block_text = block_text or ""
@@ -72,26 +62,3 @@ class PDFText:
                 )
                 block_info_list.append(block_info)
         return block_info_list
-
-    def get_block_text(self) -> str:
-        block_info_list = self.get_block_info_list()
-        text = "\n\n".join(
-            [block_info["text"] for block_info in block_info_list]
-        )
-        self.__log_text_info_and_return__(text, "Block text")
-        return text
-
-    def get_text(self) -> str:
-        block_text = self.get_block_text()
-        if len(block_text) >= PDFText.MIN_TEXT_SIZE:
-            return block_text
-
-        raw_text = self.get_raw_text()
-        if len(raw_text) >= PDFText.MIN_TEXT_SIZE:
-            return raw_text
-
-        image_text = self.get_image_text()
-        if len(image_text) >= PDFText.MIN_TEXT_SIZE:
-            return image_text
-
-        raise ValueError(f"[{self}] No valid text found.")
