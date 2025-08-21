@@ -13,6 +13,10 @@ class ActStatus:
         return os.path.exists(self.pdf_path)
 
     @cached_property
+    def has_blocks(self):
+        return os.path.exists(self.blocks_path)
+
+    @cached_property
     def has_txt(self):
         return os.path.exists(self.txt_path)
 
@@ -26,6 +30,7 @@ class ActStatus:
         return dict(
             has_metadata=self.has_metadata,
             has_pdf=self.has_pdf,
+            has_blocks=self.has_blocks,
             has_txt=self.has_txt,
             has_act_json=self.has_act_json,
         )
@@ -40,6 +45,7 @@ class ActStatus:
                 [1 for act in act_list if act.status["has_metadata"]]
             )
             n_pdf = sum([1 for act in act_list if act.status["has_pdf"]])
+            n_blocks = sum([1 for act in act_list if act.status["has_blocks"]])
             n_txt = sum([1 for act in act_list if act.status["has_txt"]])
             n_act_json = sum(
                 [1 for act in act_list if act.status["has_act_json"]]
@@ -49,6 +55,7 @@ class ActStatus:
                 decade=decade,
                 n_metadata=n_metadata,
                 n_pdf=n_pdf,
+                n_blocks=n_blocks,
                 n_txt=n_txt,
                 n_act_json=n_act_json,
             )
@@ -56,6 +63,7 @@ class ActStatus:
 
         total_n_metadata = sum(d["n_metadata"] for d in d_list)
         total_n_pdf = sum(d["n_pdf"] for d in d_list)
+        total_n_blocks = sum(d["n_blocks"] for d in d_list)
         total_n_txt = sum(d["n_txt"] for d in d_list)
         total_n_act_json = sum(d["n_act_json"] for d in d_list)
 
@@ -63,6 +71,7 @@ class ActStatus:
             decade="Total",
             n_metadata=total_n_metadata,
             n_pdf=total_n_pdf,
+            total_n_blocks=total_n_blocks,
             n_txt=total_n_txt,
             n_act_json=total_n_act_json,
         )
