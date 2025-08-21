@@ -12,9 +12,11 @@ def ocr_extractor(max_dt, decade):
     log.debug(f"{decade=}")
     act_list = Act.list_from_decade(decade)
 
-    TimedPipeline(
-        max_dt, lambda act: act.extract_ocr_blocks(), act_list
-    ).run()
+    def __worker__(act):
+        act.extract_ocr_blocks()
+        act.extract_ocr_text()
+
+    TimedPipeline(max_dt, __worker__, act_list).run()
 
 
 if __name__ == "__main__":
