@@ -3,6 +3,7 @@ from functools import cached_property
 
 
 class ActStatus:
+    STATUS_FIELD_LIST = ["metadata", "pdf", "txt", "blocks", "act_json"]
 
     @cached_property
     def has_metadata(self):
@@ -26,7 +27,6 @@ class ActStatus:
 
     @cached_property
     def status(self):
-
         return dict(
             has_metadata=self.has_metadata,
             has_pdf=self.has_pdf,
@@ -49,20 +49,11 @@ class ActStatus:
         decade_to_list = cls.decade_to_list()
         d_list = []
         for decade, act_list in decade_to_list.items():
-            d = dict(
-                decade=decade,
-                n_metadata=sum(
-                    [1 for act in act_list if act.status["has_metadata"]]
-                ),
-                n_pdf=sum([1 for act in act_list if act.status["has_pdf"]]),
-                n_blocks=sum(
-                    [1 for act in act_list if act.status["has_blocks"]]
-                ),
-                n_txt=sum([1 for act in act_list if act.status["has_txt"]]),
-                n_act_json=sum(
-                    [1 for act in act_list if act.status["has_act_json"]]
-                ),
-            )
+            d = dict(decade=decade)
+            for k in cls.STATUS_FIELD_LIST:
+                d[f"n_{k}"] = sum(
+                    1 for act in act_list if act.status[f"has_{k}"]
+                )
             d_list.append(d)
 
         d_list.append(cls.__get_totals_row__(d_list))
