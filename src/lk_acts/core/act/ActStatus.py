@@ -13,26 +13,6 @@ class ActStatus:
     ]
 
     @cached_property
-    def has_metadata(self):
-        return os.path.exists(self.metadata_json_path)
-
-    @cached_property
-    def has_pdf(self):
-        return os.path.exists(self.pdf_path)
-
-    @cached_property
-    def has_blocks(self):
-        return os.path.exists(self.blocks_path)
-
-    @cached_property
-    def has_text(self):
-        return os.path.exists(self.text_path)
-
-    @cached_property
-    def has_ocr_blocks(self):
-        return os.path.exists(self.ocr_blocks_path)
-
-    @cached_property
     def has_act_json(self):
         return os.path.exists(os.path.join(self.dir_act_data, "act.json"))
 

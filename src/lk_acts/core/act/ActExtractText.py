@@ -33,6 +33,10 @@ class ActExtractText:
         return os.path.join(self.dir_act_data, "blocks.json")
 
     @cached_property
+    def has_blocks(self):
+        return os.path.exists(self.blocks_path)
+
+    @cached_property
     def blocks_fail_path(self):
         return os.path.join(self.dir_act_data, "blocks.json.fail")
 
@@ -57,6 +61,10 @@ class ActExtractText:
     @cached_property
     def text_path(self):
         return os.path.join(self.dir_act_data, "en.txt")
+
+    @cached_property
+    def has_text(self):
+        return os.path.exists(self.text_path)
 
     @cached_property
     def text_fail_path(self):

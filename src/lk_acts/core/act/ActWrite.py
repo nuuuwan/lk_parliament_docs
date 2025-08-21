@@ -1,5 +1,5 @@
 import os
-from functools import cache
+from functools import cache, cached_property
 from pathlib import Path
 
 from utils import JSONFile, Log
@@ -43,6 +43,10 @@ class ActWrite:
     def metadata_json_path(self):
         return os.path.join(self.dir_act_data, "metadata.json")
 
+    @cached_property
+    def has_metadata(self):
+        return os.path.exists(self.metadata_json_path)
+
     def write(self):
         if os.path.exists(self.metadata_json_path):
             return
@@ -64,6 +68,4 @@ class ActWrite:
 
     @cache
     def is_within_valid_time_range(self):
-        return self.year_int in range(
-            ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1
-        )
+        return self.year_int in range(ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1)

@@ -42,6 +42,10 @@ class ActDownloadPDF:
         return os.path.join(self.dir_act_data, "en.pdf")
 
     @cached_property
+    def has_pdf(self):
+        return os.path.exists(self.pdf_path)
+
+    @cached_property
     def pdf_fail_path(self):
         return os.path.join(self.dir_act_data, "en.pdf.fail")
 

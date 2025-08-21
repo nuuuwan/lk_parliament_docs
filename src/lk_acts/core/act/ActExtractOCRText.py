@@ -34,6 +34,10 @@ class ActExtractOCRText:
         return os.path.join(self.dir_act_data, "ocr_blocks.json")
 
     @cached_property
+    def has_ocr_blocks(self):
+        return os.path.exists(self.ocr_blocks_path)
+
+    @cached_property
     def ocr_blocks_fail_path(self):
         return os.path.join(self.dir_act_data, "ocr_blocks.json.fail")
 
@@ -58,6 +62,10 @@ class ActExtractOCRText:
     @cached_property
     def ocr_text_path(self):
         return os.path.join(self.dir_act_data, "en.ocr.txt")
+
+    @cached_property
+    def has_ocr_text(self):
+        return os.path.exists(self.ocr_text_path)
 
     @cached_property
     def ocr_text_fail_path(self):
