@@ -14,6 +14,8 @@ class ActExtractOCRText:
 
     @cached_property
     def ocr_block_info_list(self):
+        if self.has_ocr_blocks:
+            return JSONFile(self.ocr_blocks_path).read()
         return PDFFile(self.pdf_path).get_ocr_block_info_list()
 
     @cached_property

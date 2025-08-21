@@ -13,6 +13,8 @@ class ActExtractText:
 
     @cached_property
     def block_info_list(self):
+        if self.has_blocks:
+            return JSONFile(self.blocks_path).read()
         return PDFFile(self.pdf_path).get_block_info_list()
 
     @cached_property
