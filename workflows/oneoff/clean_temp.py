@@ -38,7 +38,7 @@ def clean_temp():
     act_list = Act.list_all()
     for act in act_list:
         clean_temp_for_act(act)
-    log.info(f"clean_temp Complete.")
+    log.info("clean_temp Complete.")
 
 
 if __name__ == "__main__":
