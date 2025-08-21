@@ -3,7 +3,14 @@ from functools import cached_property
 
 
 class ActStatus:
-    STATUS_FIELD_LIST = ["metadata", "pdf", "txt", "blocks", "act_json"]
+    STATUS_FIELD_LIST = [
+        "metadata",
+        "pdf",
+        "text",
+        "blocks",
+        "ocr_blocks",
+        "act_json",
+    ]
 
     @cached_property
     def has_metadata(self):
@@ -34,9 +41,9 @@ class ActStatus:
         return dict(
             has_metadata=self.has_metadata,
             has_pdf=self.has_pdf,
-            has_text=self.has_text,
             has_blocks=self.has_blocks,
-            has_ocr_blocks_path=self.has_ocr_blocks,
+            has_text=self.has_text,
+            has_ocr_blocks=self.has_ocr_blocks,
             has_act_json=self.has_act_json,
         )
 
