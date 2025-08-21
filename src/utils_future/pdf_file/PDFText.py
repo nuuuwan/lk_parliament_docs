@@ -78,8 +78,8 @@ class PDFText:
         text = "\n\n".join(
             [block_info["text"] for block_info in block_info_list]
         )
-        self.__log_text_info_and_return__(text, "Block info list text")
-        return block_info_list
+        self.__log_text_info_and_return__(text, "Block text")
+        return text
 
     def get_text(self) -> str:
         block_text = self.get_block_text()

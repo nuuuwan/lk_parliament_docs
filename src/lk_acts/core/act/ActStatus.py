@@ -45,7 +45,9 @@ class ActStatus:
                 [1 for act in act_list if act.status["has_metadata"]]
             )
             n_pdf = sum([1 for act in act_list if act.status["has_pdf"]])
-            n_blocks = sum([1 for act in act_list if act.status["has_blocks"]])
+            n_blocks = sum(
+                [1 for act in act_list if act.status["has_blocks"]]
+            )
             n_txt = sum([1 for act in act_list if act.status["has_txt"]])
             n_act_json = sum(
                 [1 for act in act_list if act.status["has_act_json"]]
