@@ -14,8 +14,6 @@ def pdf_downloader(max_dt, decade):
 
     def __worker__(act):
         act.download_pdf()
-
-        # HACK! Should be in extract_text - but this is faster
         act.extract_blocks()
 
     TimedPipeline(max_dt, __worker__, act_list).run()
