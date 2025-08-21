@@ -37,6 +37,16 @@ class TestCase(unittest.TestCase):
         image_text = TEST_PDF_FILE.get_image_text()
         self.assertGreater(len(image_text), 1_000)
 
+    def test_get_image_text_from_ocr_block_info_list(self):
+        image_text_from_ocr_block_info_list = (
+            TEST_PDF_FILE.get_image_text_from_ocr_block_info_list()
+        )
+        image_text = TEST_PDF_FILE.get_image_text()
+        self.assertEqual(
+            len(image_text_from_ocr_block_info_list), len(image_text)
+        )
+        self.assertEqual(image_text_from_ocr_block_info_list, image_text)
+
     def test_compress(self):
         compressed_pdf_file = TEST_PDF_FILE.compress()
         self.assertLessEqual(compressed_pdf_file.size, TEST_PDF_FILE.size)

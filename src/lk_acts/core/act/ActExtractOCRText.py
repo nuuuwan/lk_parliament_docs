@@ -5,10 +5,10 @@ from utils import JSONFile, Log
 
 from utils_future import PDFFile
 
-log = Log("ActExtractOCTText")
+log = Log("ActExtractOCRText")
 
 
-class ActExtractOCTText:
+class ActExtractOCRText:
 
     @cached_property
     def ocr_blocks_path(self):

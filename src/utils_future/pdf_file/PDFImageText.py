@@ -32,8 +32,6 @@ class PDFImageText:
         list_for_page = []
         for i, text in enumerate(data["text"]):
             p_confidence = data["conf"][i] / 100.0
-            if p_confidence < 0:
-                continue
             datum = dict(
                 i_page=i_page,
                 level=data["level"][i],
@@ -137,3 +135,9 @@ class PDFImageText:
 
         text = "\n\n".join(page_text_list)
         return self.__log_text_info_and_return__(text, "Image text")
+
+    @cache
+    def get_image_text_from_ocr_block_info_list(self):
+        ocr_block_info_list = self.get_image_block_info_list()
+        text = "".join(datum["text"] for datum in ocr_block_info_list)
+        return self.__log_text_info_and_return__(text, "OCR block text")
