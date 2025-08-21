@@ -71,7 +71,7 @@ class ActStatus:
             decade="Total",
             n_metadata=total_n_metadata,
             n_pdf=total_n_pdf,
-            total_n_blocks=total_n_blocks,
+            n_blocks=total_n_blocks,
             n_txt=total_n_txt,
             n_act_json=total_n_act_json,
         )
