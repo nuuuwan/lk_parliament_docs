@@ -70,7 +70,7 @@ class ActRead:
 
     @cached_property
     def text_content(self):
-        return File(self.txt_path).read()
+        return File(self.text_path).read()
 
     @classmethod
     def list_from_decade(cls, decade: str):

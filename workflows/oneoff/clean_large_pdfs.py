@@ -16,7 +16,7 @@ def __clean_hot__(act):
     os.remove(pdf_path)
 
     for other_path in [
-        act.txt_path,
+        act.text_path,
         os.path.join(act.dir_act_data, "README.md"),
         os.path.join(act.dir_act_data, "act.json"),
     ]:
