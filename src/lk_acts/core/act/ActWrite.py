@@ -48,8 +48,6 @@ class ActWrite:
         return os.path.exists(self.metadata_json_path)
 
     def write(self):
-        if os.path.exists(self.metadata_json_path):
-            return
         data = self.to_dict()
         JSONFile(self.metadata_json_path).write(data)
         log.info(f"✅ Wrote {self.metadata_json_path}")
@@ -68,6 +66,4 @@ class ActWrite:
 
     @cache
     def is_within_valid_time_range(self):
-        return self.year_int in range(
-            ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1
-        )
+        return self.year_int in range(ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1)

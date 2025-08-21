@@ -118,11 +118,10 @@ class ActDownloadPDF:
     def download_pdf(self):
         if os.path.exists(self.pdf_path):
             return self.pdf_path
-        if (
-            os.path.exists(self.pdf_fail_path)
-            and not self.should_retry_pdf_download()
-        ):
-            return None
+        if os.path.exists(self.pdf_fail_path):
+            if not self.should_retry_pdf_download():
+                log.debug(f"[{self}] Retrying PDF Download")
+                os.remove(self.pdf_fail_path)
 
         pdf_path = self.__download_pdf_cold_or_hot__()
         if pdf_path is None:
