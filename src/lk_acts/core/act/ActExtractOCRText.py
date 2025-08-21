@@ -10,7 +10,7 @@ log = Log("ActExtractOCRText")
 
 
 class ActExtractOCRText:
-    MIN_BLOCK_TEXT_CHARS = ActExtractText.MIN_BLOCK_TEXT_CHARS
+    MIN_OCR_BLOCK_TEXT_CHARS = ActExtractText.MIN_BLOCK_TEXT_CHARS
 
     @cached_property
     def ocr_block_info_list(self):
@@ -26,7 +26,7 @@ class ActExtractOCRText:
     def is_ocr_block_text_valid(self):
         return (
             self.ocr_block_text
-            and len(self.ocr_block_text) >= self.MIN_BLOCK_TEXT_CHARS
+            and len(self.ocr_block_text) >= self.MIN_OCR_BLOCK_TEXT_CHARS
         )
 
     @cached_property
