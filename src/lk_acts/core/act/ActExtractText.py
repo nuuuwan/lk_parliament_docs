@@ -76,6 +76,6 @@ class ActExtractText:
 
         block_text = self.block_text
         n_chars = len(block_text)
-        File(self.text_path).write(self.block_text)
+        File(self.text_path).write(block_text)
         log.info(f"Wrote {self.text_path} ({n_chars:,} chars)")
         return self.text_path
