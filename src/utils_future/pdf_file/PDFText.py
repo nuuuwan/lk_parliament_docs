@@ -24,7 +24,7 @@ class PDFText:
         return block_text
 
     @staticmethod
-    def __parse_lines__():
+    def __parse_lines__(b):
         block_text_parts = []
         fonts = set()
         sizes = set()
