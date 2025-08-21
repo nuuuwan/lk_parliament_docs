@@ -51,7 +51,22 @@ class ReadMe:
     def lines_for_status_summary(self):
         status_summary = self.status_summary
         return (
-            ["## Download Status", ""] + Markdown.table(status_summary) + [""]
+            [
+                "## Processing Status",
+                "",
+                "- metadata: Name, year, num and links to PDFs",
+                "- pdf: actual English PDF."
+                + " For now, Sinhala & Tamil are not downloade.",
+                "- blocks: text blocks extracted from the PDF.",
+                "- text: text compiled from the text blocks",
+                "- ocr_blocks: text blocks extracted from the PDF using OCR."
+                + " Expensive!",
+                "- ocr_text: text compiled from the OCR text blocks",
+                "- act_json: structured representation of the act,"
+                + " parsed from text",
+            ]
+            + Markdown.table(status_summary)
+            + [""]
         )
 
     @property
