@@ -18,25 +18,24 @@ class HuggingFaceDataset:
     HUGGING_FACE_TOKEN = os.environ.get("HUGGING_FACE_TOKEN")
 
     MAX_CHUNK_SIZE = 2000
-    MIN_OVERLAP_SIZE = 500
+    MIN_OVERLAP_SIZE = 200
 
     @cached_property
     def acts_list(self):
         act_list = Act.list_all()
-        acts_with_txt_data = [act for act in act_list if act.has_text]
+        acts_with_txt_data = [act for act in act_list if act.has_some_text]
         return acts_with_txt_data
 
     @staticmethod
     def to_act_data(act: Act) -> dict:
-
         return dict(
             act_id=act.act_id,
-            description=act.description,
-            year=act.year,
-            sub_num=act.doc_sub_num,
-            date=act.date,
+            act_description=act.description,
+            act_year=act.year,
+            act_sub_num=act.doc_sub_num,
+            act_date=act.date,
             act_type=act.act_type.name,
-            source_url=act.url_pdf_en,
+            act_source_url=act.url_pdf_en,
         )
 
     def build_acts(self):
@@ -92,24 +91,20 @@ class HuggingFaceDataset:
 
     @staticmethod
     def get_data_list_for_act(act):
-        chunks = HuggingFaceDataset.chunk(act.text_content)
+        chunks = HuggingFaceDataset.chunk(act.some_text)
         d_list = []
         for chunk_index, chunk_text in enumerate(chunks):
             chunk_id = f"{act.act_id}-{chunk_index:04d}"
-            d = dict(
+            d = HuggingFaceDataset.to_act_data(act) | dict(
                 chunk_id=chunk_id,
-                act_id=act.act_id,
-                act_description=act.description,
-                act_year=act.year,
-                act_sub_num=act.doc_sub_num,
-                act_source_url=act.url_pdf_en,
-                language="en",
                 chunk_index=chunk_index,
+                language="en",
                 md5=Hash.md5(chunk_text),
                 chunk_size_bytes=len(chunk_text.encode("utf-8")),
                 chunk_text=chunk_text,
             )
             d_list.append(d)
+
         return d_list
 
     def build_chunks(self):

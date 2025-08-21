@@ -90,3 +90,11 @@ class ActExtractOCRText:
         File(self.ocr_text_path).write(ocr_block_text)
         log.info(f"Wrote {self.ocr_text_path} ({n_chars:,} chars)")
         return self.ocr_text_path
+
+    @cached_property
+    def has_some_text(self):
+        return self.has_text or self.has_ocr_text
+
+    @cached_property
+    def some_text(self):
+        return self.block_text or self.ocr_block_text or None
