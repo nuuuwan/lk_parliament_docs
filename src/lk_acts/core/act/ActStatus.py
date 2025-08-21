@@ -18,8 +18,8 @@ class ActStatus:
         return os.path.exists(self.blocks_path)
 
     @cached_property
-    def has_txt(self):
-        return os.path.exists(self.txt_path)
+    def has_ocr_blocks(self):
+        return os.path.exists(self.ocr_blocks_path)
 
     @cached_property
     def has_act_json(self):
@@ -31,7 +31,7 @@ class ActStatus:
             has_metadata=self.has_metadata,
             has_pdf=self.has_pdf,
             has_blocks=self.has_blocks,
-            has_txt=self.has_txt,
+            has_ocr_blocks_path=self.has_ocr_blocks,
             has_act_json=self.has_act_json,
         )
 
