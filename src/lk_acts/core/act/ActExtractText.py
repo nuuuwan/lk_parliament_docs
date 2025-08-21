@@ -14,14 +14,37 @@ class ActExtractText:
     def blocks_path(self):
         return os.path.join(self.dir_act_data, "blocks.json")
 
+    @cached_property
+    def block_info_list(self):
+        return PDFFile(self.pdf_path).get_block_info_list()
+
     def extract_blocks(self):
         if not os.path.exists(self.pdf_path):
             return None
         if os.path.exists(self.blocks_path):
             return self.blocks_path
 
-        block_info_list = PDFFile(self.pdf_path).get_block_info_list()
+        block_info_list = self.block_info_list
         n_blocks = len(block_info_list)
         JSONFile(self.blocks_path).write(block_info_list)
         log.info(f"Wrote {self.blocks_path} ({n_blocks:,} blocks)")
         return self.blocks_path
+
+    @cached_property
+    def text_path(self):
+        return os.path.join(self.dir_act_data, "en.txt")
+
+    def extract_text(self):
+        if not os.path.exists(self.pdf_path):
+            return None
+        if os.path.exists(self.text_path):
+            return self.text_path
+        block_info_list = self.block_info_list
+        text = "\n\n".join(
+            [block_info["text"] for block_info in block_info_list]
+        )
+        File(self.text_path).write(
+            text,
+        )
+        log.info(f"Wrote {self.text_path}")
+        return self.text_path
