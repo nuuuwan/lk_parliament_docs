@@ -23,7 +23,7 @@ class HuggingFaceDataset:
     @cached_property
     def acts_list(self):
         act_list = Act.list_all()
-        acts_with_txt_data = [act for act in act_list if act.has_txt]
+        acts_with_txt_data = [act for act in act_list if act.has_text]
         return acts_with_txt_data
 
     @staticmethod
@@ -139,9 +139,7 @@ class HuggingFaceDataset:
 
         for ds, label in [(acts_ds, "acts"), (chunks_ds, "chunks")]:
             dataset_id = f"{hf_project}-{label}"
-            repo_id = ds.push_to_hub(
-                dataset_id, token=self.HUGGING_FACE_TOKEN
-            )
+            repo_id = ds.push_to_hub(dataset_id, token=self.HUGGING_FACE_TOKEN)
             log.info(f"🤗 Uploaded {dataset_id} to {repo_id}")
 
     def build_and_push(self):

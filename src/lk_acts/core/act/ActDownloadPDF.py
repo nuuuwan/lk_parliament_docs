@@ -1,4 +1,5 @@
 import os
+import random
 import shutil
 import ssl
 import tempfile
@@ -36,6 +37,8 @@ class ActDownloadPDF:
     T_TIMEOUT_PDF_DOWNLOAD = 120
     MIN_FILE_SIZE_M = 0.001
     MAX_FILE_SIZE_M = 40
+
+    P_RETRY_PDF_DOWNLOAD = 0.25
 
     @cached_property
     def pdf_path(self):
@@ -91,9 +94,7 @@ class ActDownloadPDF:
             file_size_m < ActDownloadPDF.MIN_FILE_SIZE_M
             or file_size_m > ActDownloadPDF.MAX_FILE_SIZE_M
         ):
-            log.error(
-                f"[{self}] {url} is invalid:" + f" {file_size_m:.1f} MB"
-            )
+            log.error(f"[{self}] {url} is invalid:" + f" {file_size_m:.1f} MB")
             return None
 
         shutil.move(temp_pdf_path, self.pdf_path)
@@ -110,10 +111,17 @@ class ActDownloadPDF:
 
         return self.__download_pdf_hot__()
 
+    @staticmethod
+    def should_retry_pdf_download():
+        return random.random() < ActDownloadPDF.P_RETRY_PDF_DOWNLOAD
+
     def download_pdf(self):
         if os.path.exists(self.pdf_path):
             return self.pdf_path
-        if os.path.exists(self.pdf_fail_path):
+        if (
+            os.path.exists(self.pdf_fail_path)
+            and not self.should_retry_pdf_download()
+        ):
             return None
 
         pdf_path = self.__download_pdf_cold_or_hot__()
