@@ -4,13 +4,13 @@ from functools import cached_property
 from utils import File, Log
 
 from utils_future.pdf_file.PDFCompress import PDFCompress
-from utils_future.pdf_file.PDFImageText import PDFImageText
+from utils_future.pdf_file.PDFOCRText import PDFOCRText
 from utils_future.pdf_file.PDFText import PDFText
 
 log = Log("PDFFile")
 
 
-class PDFFile(File, PDFCompress, PDFText, PDFImageText):
+class PDFFile(File, PDFCompress, PDFText, PDFOCRText):
 
     def __init__(self, path):
         assert path.endswith(".pdf")

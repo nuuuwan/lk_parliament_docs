@@ -27,6 +27,6 @@ class TestCase(unittest.TestCase):
             },
         )
 
-    def test_get_image_block_info_list(self):
-        image_block_info_list = TEST_PDF_FILE.get_image_block_info_list()
-        self.assertEqual(len(image_block_info_list), 182)
+    def test_get_ocr_block_info_list(self):
+        ocr_block_info_list = TEST_PDF_FILE.get_ocr_block_info_list()
+        self.assertEqual(len(ocr_block_info_list), 182)

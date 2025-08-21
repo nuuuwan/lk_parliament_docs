@@ -13,12 +13,12 @@ TESSERACT_FAST_CONFIG = r"""
 --psm 6
 """
 
-log = Log("PDFImageText")
+log = Log("PDFOCRText")
 
 
-class PDFImageText:
+class PDFOCRText:
     @staticmethod
-    def __get_image_block_info_list_for_page__(i_page, im):
+    def __get_ocr_block_info_list_for_page__(i_page, im):
         temp_img_path = NamedTemporaryFile(suffix=".png", delete=False).name
         im.save(temp_img_path, format="PNG")
 
@@ -76,24 +76,24 @@ class PDFImageText:
 
         return list_for_page_by_par
 
-    def __worker_get_image_block_info_list_for_page__(self, x):
-        return self.__get_image_block_info_list_for_page__(x[0], x[1])
+    def __worker_get_ocr_block_info_list_for_page__(self, x):
+        return self.__get_ocr_block_info_list_for_page__(x[0], x[1])
 
-    def get_image_block_info_list(self):
+    def get_ocr_block_info_list(self):
         im_list = convert_from_path(self.path, dpi=PDFCompress.DPI_TARGET)
         n_pages = len(im_list)
         log.debug(f"{n_pages=}")
         n_cpus = cpu_count()
         log.debug(f"{n_cpus=}")
 
-        image_block_info_list_list = Pool(processes=n_cpus).map(
-            self.__worker_get_image_block_info_list_for_page__,
+        ocr_block_info_list_list = Pool(processes=n_cpus).map(
+            self.__worker_get_ocr_block_info_list_for_page__,
             enumerate(im_list, start=1),
         )
 
-        image_block_info_list = []
-        for image_block_info_list_for_page in image_block_info_list_list:
-            if image_block_info_list_for_page:
-                image_block_info_list.extend(image_block_info_list_for_page)
+        ocr_block_info_list = []
+        for ocr_block_info_list_for_page in ocr_block_info_list_list:
+            if ocr_block_info_list_for_page:
+                ocr_block_info_list.extend(ocr_block_info_list_for_page)
 
-        return image_block_info_list
+        return ocr_block_info_list
