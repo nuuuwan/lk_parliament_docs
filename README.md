@@ -3,7 +3,15 @@
 Scraped  **2,768** acts (2.5 GB) from [www.parliament.lk](https://www.parliament.lk/en).
 ![Year Chart](images/chart_year.png)
 
-## Download Status
+## Processing Status
+
+- metadata: Name, year, num and links to PDFs
+- pdf: actual English PDF. For now, Sinhala & Tamil are not downloade.
+- blocks: text blocks extracted from the PDF.
+- text: text compiled from the text blocks
+- ocr_blocks: text blocks extracted from the PDF using OCR. 🤑 Expensive!
+- ocr_text: text compiled from the OCR text blocks
+- act_json: structured representation of the act, parsed from text
 
 | decade | n_metadata | n_pdf | n_blocks | n_text | n_ocr_blocks | n_ocr_text | n_act_json |
 | :-- | --: | --: | --: | --: | --: | --: | --: |

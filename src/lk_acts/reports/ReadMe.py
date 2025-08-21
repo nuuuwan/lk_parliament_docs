@@ -60,10 +60,11 @@ class ReadMe:
                 "- blocks: text blocks extracted from the PDF.",
                 "- text: text compiled from the text blocks",
                 "- ocr_blocks: text blocks extracted from the PDF using OCR."
-                + " Expensive!",
+                + " 🤑 Expensive!",
                 "- ocr_text: text compiled from the OCR text blocks",
                 "- act_json: structured representation of the act,"
                 + " parsed from text",
+                "",
             ]
             + Markdown.table(status_summary)
             + [""]
