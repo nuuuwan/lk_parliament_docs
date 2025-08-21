@@ -23,6 +23,26 @@ class PDFText:
         block_text = block_text.strip()
         return block_text
 
+    @staticmethod
+    def __parse_lines__():
+        block_text_parts = []
+        fonts = set()
+        sizes = set()
+        for line in b.get("lines", []):
+            for span in line.get("spans", []):
+                t = span.get("text", "")
+                if t:
+                    block_text_parts.append(t)
+                f = span.get("font")
+                if f:
+                    fonts.add(f)
+                s = span.get("size")
+                if s is not None:
+                    sizes.add(s)
+        block_text = "".join(block_text_parts)
+        block_text = PDFText.__clean_block_text__(block_text)
+        return fonts, sizes, block_text
+
     def get_block_info_list(self):
         doc = pymupdf.open(self.path)
         block_info_list = []
@@ -30,28 +50,10 @@ class PDFText:
             for b in page.get_text("dict").get("blocks", []):
                 if b.get("type", 0) != 0:
                     continue
-
-                bbox = tuple([round(x, 2) for x in b.get("bbox", [])])
-                block_text_parts = []
-
-                fonts = set()
-                sizes = set()
-                for line in b.get("lines", []):
-                    for span in line.get("spans", []):
-                        t = span.get("text", "")
-                        if t:
-                            block_text_parts.append(t)
-                        f = span.get("font")
-                        if f:
-                            fonts.add(f)
-                        s = span.get("size")
-                        if s is not None:
-                            sizes.add(s)
-
-                block_text = "".join(block_text_parts)
-                block_text = self.__clean_block_text__(block_text)
+                fonts, sizes, block_text = self.__parse_lines__(b)
                 if not block_text:
                     continue
+                bbox = tuple([round(x, 2) for x in b.get("bbox", [])])
 
                 block_info = dict(
                     page_number=page.number,
