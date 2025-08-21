@@ -28,7 +28,8 @@ class TestCase(unittest.TestCase):
                 "bbox": (63.11, 155.46, 359.21, 216.89),
                 "fonts": ["*Times New Roman-Bold-4790"],
                 "sizes": [17.0],
-                "text": "PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+                "text": "PARLIAMENT OF THE DEMOCRATIC"
+                + " SOCIALIST REPUBLIC OF SRI LANKA",
             },
         )
 
