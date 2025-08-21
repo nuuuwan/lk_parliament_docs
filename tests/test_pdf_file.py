@@ -1,6 +1,8 @@
 import os
 import unittest
 
+from utils import File
+
 from utils_future import PDFFile
 
 TEST_PDF_FILE = PDFFile(os.path.join("tests", "data", "image-0073.pdf"))
