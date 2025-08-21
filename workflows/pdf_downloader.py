@@ -12,7 +12,13 @@ def pdf_downloader(max_dt, decade):
     log.debug(f"{decade=}")
     act_list = Act.list_from_decade(decade)
 
-    TimedPipeline(max_dt, lambda act: act.download_pdf(), act_list).run()
+    def __worker__(act):
+        act.download_pdf()
+
+        # HACK! Should be in extract_text - but this is faster
+        act.extract_blocks()
+
+    TimedPipeline(max_dt, __worker__, act_list).run()
 
 
 if __name__ == "__main__":
