@@ -4,10 +4,10 @@ from lk_acts import Act
 from utils_future import TimedPipeline
 from workflows.metadata_scraper import DEFAULT_MAX_DT, get_options
 
-log = Log("text_extractor")
+log = Log("ocr_extractor")
 
 
-def text_extractor(max_dt, decade):
+def ocr_extractor(max_dt, decade):
     log.debug(f"{max_dt=}")
     log.debug(f"{decade=}")
     act_list = Act.list_from_decade(decade)
@@ -17,7 +17,7 @@ def text_extractor(max_dt, decade):
 
 if __name__ == "__main__":
     options = get_options()
-    text_extractor(
+    ocr_extractor(
         max_dt=options.max_dt or DEFAULT_MAX_DT,
         decade=options.decade,
     )

@@ -1,4 +1,4 @@
-name: text_extractor
+name: ocr_extractor
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ on:
   schedule:
     - cron: "30 * * * *"
 jobs:
-  text_extractor:
+  ocr_extractor:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/nuuuwan/lk-acts-image:latest
@@ -46,7 +46,7 @@ jobs:
           token: ${{ secrets.REPO_DATA_TOKEN }}
           fetch-depth: 1
 
-      - name: "⚙️ Run text_extractor"
+      - name: "⚙️ Run ocr_extractor"
         run: |
           cd lk_acts;
           export PYTHONPATH="$PYTHONPATH:./src"
@@ -55,7 +55,7 @@ jobs:
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
 
           git pull --rebase origin main
-          python workflows/text_extractor.py --max_dt=${{ github.event.inputs.max_dt }} --decade=${{ matrix.decade }}
+          python workflows/ocr_extractor.py --max_dt=${{ github.event.inputs.max_dt }} --decade=${{ matrix.decade }}
 
       - name: "⬆️ Push lk_acts_data"
         run: |
@@ -68,7 +68,7 @@ jobs:
             echo "No changes to commit in lk_acts_data."
             exit 0
           fi
-          git commit -m "🤖 [text_extractor.yml] $(date '+%Y-%m-%d-%H%M')"
+          git commit -m "🤖 [ocr_extractor.yml] $(date '+%Y-%m-%d-%H%M')"
 
           for i in $(seq 1 10); do
             git pull --rebase origin main || true
