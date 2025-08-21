@@ -9,6 +9,7 @@ TEST_PDF_FILE = PDFFile(os.path.join("tests", "data", "image-0073.pdf"))
 
 
 class TestCase(unittest.TestCase):
+
     def test_get_raw_text(self):
         text = TEST_PDF_FILE.get_raw_text()
         self.assertGreater(len(text), 100)
@@ -58,3 +59,7 @@ class TestCase(unittest.TestCase):
             image_text_from_uncompressed
         )
         self.assertGreater(ratio, 0.9)
+
+    def test_get_image_block_info_list(self):
+        image_block_info_list = TEST_PDF_FILE.get_image_block_info_list()
+        self.assertEqual(len(image_block_info_list), 124)
