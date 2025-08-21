@@ -34,17 +34,20 @@ class ActExtractText:
     def text_path(self):
         return os.path.join(self.dir_act_data, "en.txt")
 
+    @cached_property
+    def block_text(self):
+        return "\n\n".join(
+            [block_info["text"] for block_info in self.block_info_list]
+        )
+
     def extract_text(self):
         if not os.path.exists(self.pdf_path):
             return None
         if os.path.exists(self.text_path):
             return self.text_path
-        block_info_list = self.block_info_list
-        text = "\n\n".join(
-            [block_info["text"] for block_info in block_info_list]
-        )
-        File(self.text_path).write(
-            text,
-        )
-        log.info(f"Wrote {self.text_path}")
+
+        block_text = self.block_text
+        n_chars = len(block_text)
+        File(self.text_path).write(self.block_text)
+        log.info(f"Wrote {self.text_path} ({n_chars:,} chars)")
         return self.text_path
