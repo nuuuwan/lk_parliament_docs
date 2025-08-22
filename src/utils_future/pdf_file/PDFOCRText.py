@@ -43,7 +43,7 @@ class PDFOCRText:
         )
         list_for_page = []
         for i, text in enumerate(data["text"]):
-            p_confidence = data["conf"][i] / 100.0
+            p_confidence = round(data["conf"][i] / 100.0, 2)
             if p_confidence < 0:
                 continue
             datum = dict(
