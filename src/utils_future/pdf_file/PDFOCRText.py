@@ -34,8 +34,7 @@ class PDFOCRText:
     @staticmethod
     def __parse_row__(data, i_page, i, text):
         p_confidence = round(data["conf"][i] / 100.0, 2)
-        if p_confidence < 0:
-            return None
+
         return dict(
             i_page=i_page,
             level=data["level"][i],
@@ -58,22 +57,27 @@ class PDFOCRText:
         )
 
     @staticmethod
-    def __group_by_par__(i_page, list_for_page):
+    def __group_by_id__(i_page, list_for_page):
         group_by_par = {}
         for datum in list_for_page:
-            par_num = datum["par_num"]
-            if par_num not in group_by_par:
-                group_by_par[par_num] = []
-            group_by_par[par_num].append(datum)
+            datum_id = "-".join(
+                [
+                    str(datum[k])
+                    for k in ["page_num", "par_num", "block_num", "line_num"]
+                ]
+            )
+            if datum_id not in group_by_par:
+                group_by_par[datum_id] = []
+            group_by_par[datum_id].append(datum)
 
         list_for_page_by_par = []
-        for par_num, data_for_par in group_by_par.items():
+        for datum_id, data_for_par in group_by_par.items():
             datum = dict(
-                i_page=i_page,
-                par_num=datum["par_num"],
-                text=" ".join(datum["text"] for datum in data_for_par),
+                page_number=i_page,
+                bbox=data_for_par[0]["bbox"],
+                text=" ".join(d["text"] for d in data_for_par),
                 mean_p_confidence=round(
-                    sum(datum["p_confidence"] for datum in data_for_par)
+                    sum(d["p_confidence"] for d in data_for_par)
                     / len(data_for_par),
                     2,
                 ),
@@ -99,7 +103,7 @@ class PDFOCRText:
             if datum:
                 list_for_page.append(datum)
 
-        return PDFOCRText.__group_by_par__(i_page, list_for_page)
+        return PDFOCRText.__group_by_id__(i_page, list_for_page)
 
     def get_ocr_block_info_list(self):
         t_start = time.perf_counter()

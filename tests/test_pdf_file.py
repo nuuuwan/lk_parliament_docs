@@ -18,18 +18,24 @@ class TestCase(unittest.TestCase):
             file_id,
             e_n_block_info_list,
             e_n_ocr_block_info_list,
-            e_first_ocr_block_info,
+            e_text_list_10,
         ) in [
             [
                 "image-2790",
                 0,
-                40,
-                {
-                    "i_page": 1,
-                    "par_num": 1,
-                    "text": "Ae sy geo abicay: \\ CESS - + PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA APPROPRIATION ACT, No. 18 OF 1989 [Certified on 30th December 1989) Printed on the Orders of Government Published as a Supplement to Part Il of the Gazette of the Democratic Socialist Republic of Sri Lanka of January 05, 1990 YREITID A TRE THPAXTMMGET OY COWROIENNE PRIEEMG, £0 LATA 50 mi FORCEAKED AT IE OVEEROGGT? PURLECATIONS NUAELV, COUORO Price : Rs. 2.70 Postage : Rs. 3.10",  # noqa: E501
-                    "mean_p_confidence": 0.68,
-                },
+                901,
+                [
+                    "",
+                    "",
+                    "",
+                    " Ae",
+                    " sy geo",
+                    " abicay: \\",
+                    " CESS",
+                    " - + PARLIAMENT OF THE DEMOCRATIC",
+                    " SOCIALIST REPUBLIC OF",
+                    " SRI LANKA",
+                ],
             ]
         ]:
             pdf_path = os.path.join("tests", "data", f"{file_id}.pdf")
@@ -38,12 +44,12 @@ class TestCase(unittest.TestCase):
             self.assertEqual(len(block_info_list), e_n_block_info_list)
 
             ocr_block_info_list = pdf_file.get_ocr_block_info_list()
+
+            text_list_10 = [d["text"] for d in ocr_block_info_list[:10]]
+            print(text_list_10)
             self.assertEqual(
-                len(ocr_block_info_list), e_n_ocr_block_info_list
+                text_list_10,
+                e_text_list_10,
             )
-            first_ocr_block_info = ocr_block_info_list[0]
-            print(first_ocr_block_info)
-            self.assertEqual(
-                first_ocr_block_info,
-                e_first_ocr_block_info,
-            )
+
+            self.assertEqual(len(ocr_block_info_list), e_n_ocr_block_info_list)

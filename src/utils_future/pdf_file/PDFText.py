@@ -64,9 +64,9 @@ class PDFText:
                 block_info = dict(
                     page_number=page.number,
                     bbox=bbox,
+                    text=block_text,
                     fonts=sorted(fonts),
                     sizes=sorted(sizes),
-                    text=block_text,
                 )
                 block_info_list.append(block_info)
         return block_info_list
