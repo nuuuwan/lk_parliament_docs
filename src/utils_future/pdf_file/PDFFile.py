@@ -27,5 +27,9 @@ class PDFFile(File, PDFCompress, PDFText, PDFOCRText):
         return hash(self.path)
 
     @cached_property
+    def exists(self):
+        return os.path.exists(self.path)
+
+    @cached_property
     def size(self):
         return os.path.getsize(self.path) if os.path.exists(self.path) else 0
