@@ -52,9 +52,9 @@ class DataFile(File):
     @staticmethod
     def get_write_message(data):
         if isinstance(data, list):
-            return f"{len(data)} items"
+            return f"{len(data):,} items"
         if isinstance(data, str):
-            return f"{len(data)} chars"
+            return f"{len(data):,} chars"
         raise ValueError(f"Unsupported data type: {type(data).__name__}")
 
     def write(self, data):
