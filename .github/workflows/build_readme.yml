@@ -3,7 +3,7 @@ name: readme_build
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 * * * *"
+    - cron: "*/30 * * * *"
 jobs:
   readme_build:
     runs-on: ubuntu-latest
