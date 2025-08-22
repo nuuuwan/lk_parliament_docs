@@ -1,8 +1,10 @@
-from multiprocessing import Pool, cpu_count
+import os
+import time
 from tempfile import NamedTemporaryFile
 
 import pytesseract
 from pdf2image import convert_from_path
+from PIL import ImageOps
 from pytesseract import Output
 from utils import Log
 
@@ -14,13 +16,24 @@ TESSERACT_FAST_CONFIG = r"""
 """
 
 log = Log("PDFOCRText")
+os.environ.setdefault("OMP_THREAD_LIMIT", "1")
+os.environ.setdefault("OMP_NUM_THREADS", "1")
 
 
 class PDFOCRText:
     @staticmethod
-    def __get_ocr_block_info_list_for_page__(i_page, im):
+    def __proprocess_im__(im):
+        im = im.convert("L")
+        im = ImageOps.autocontrast(im)
+        im = im.point(lambda x: 255 if x > 200 else 0, mode="1")
+        im.info["dpi"] = (PDFCompress.DPI_TARGET, PDFCompress.DPI_TARGET)
         temp_img_path = NamedTemporaryFile(suffix=".png", delete=False).name
         im.save(temp_img_path, format="PNG")
+        return temp_img_path
+
+    @staticmethod
+    def __get_ocr_block_info_list_for_page__(i_page, im):
+        temp_img_path = PDFOCRText.__proprocess_im__(im)
 
         data = pytesseract.image_to_data(
             temp_img_path,
@@ -31,6 +44,8 @@ class PDFOCRText:
         list_for_page = []
         for i, text in enumerate(data["text"]):
             p_confidence = data["conf"][i] / 100.0
+            if p_confidence < 0:
+                continue
             datum = dict(
                 i_page=i_page,
                 level=data["level"][i],
@@ -65,35 +80,30 @@ class PDFOCRText:
         for par_num, data_for_par in group_by_par.items():
             datum = dict(
                 i_page=i_page,
-                par_num=par_num,
+                par_num=datum["par_num"],
                 text=" ".join(datum["text"] for datum in data_for_par),
-                mean_p_confidence=sum(
-                    datum["p_confidence"] for datum in data_for_par
-                )
-                / len(data_for_par),
+                mean_p_confidence=round(
+                    sum(datum["p_confidence"] for datum in data_for_par)
+                    / len(data_for_par),
+                    2,
+                ),
             )
             list_for_page_by_par.append(datum)
 
         return list_for_page_by_par
 
-    def __worker_get_ocr_block_info_list_for_page__(self, x):
-        return self.__get_ocr_block_info_list_for_page__(x[0], x[1])
-
     def get_ocr_block_info_list(self):
-        im_list = convert_from_path(self.path, dpi=PDFCompress.DPI_TARGET)
-        n_pages = len(im_list)
-        log.debug(f"{n_pages=}")
-        n_cpus = cpu_count()
-        log.debug(f"{n_cpus=}")
-
-        ocr_block_info_list_list = Pool(processes=n_cpus).map(
-            self.__worker_get_ocr_block_info_list_for_page__,
-            enumerate(im_list, start=1),
-        )
-
+        t_start = time.perf_counter()
         ocr_block_info_list = []
-        for ocr_block_info_list_for_page in ocr_block_info_list_list:
+        for i_page, im in enumerate(
+            convert_from_path(self.path, dpi=PDFCompress.DPI_TARGET), start=1
+        ):
+            ocr_block_info_list_for_page = (
+                self.__get_ocr_block_info_list_for_page__(i_page, im)
+            )
             if ocr_block_info_list_for_page:
                 ocr_block_info_list.extend(ocr_block_info_list_for_page)
 
+        dt = (time.perf_counter() - t_start) * 1_000
+        log.debug(f"OCR processing time: {dt:,.0f}ms")
         return ocr_block_info_list
