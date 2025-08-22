@@ -15,6 +15,14 @@ class DataFile(JSONFile):
     def path_fail(self):
         return self.path + ".fail"
 
+    def __get_data_hot__(self):
+        data = self.get_data(self.obj)
+        if data is not None:
+            self.write(data)
+            return data
+        JSONFile(self.path_fail).write("")
+        return None
+
     @cached_property
     def data(self):
         if os.path.exists(self.path):
@@ -23,10 +31,4 @@ class DataFile(JSONFile):
         if os.path.exists(self.path_fail):
             return None
 
-        data = self.get_data(self.obj)
-        if data is not None:
-            self.write(data)
-            return data
-
-        JSONFile(self.path_fail).write("")
-        return None
+        return self.__get_data_hot__()

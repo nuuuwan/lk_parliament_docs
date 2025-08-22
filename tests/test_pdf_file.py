@@ -38,7 +38,9 @@ class TestCase(unittest.TestCase):
             self.assertEqual(len(block_info_list), e_n_block_info_list)
 
             ocr_block_info_list = pdf_file.get_ocr_block_info_list()
-            self.assertEqual(len(ocr_block_info_list), e_n_ocr_block_info_list)
+            self.assertEqual(
+                len(ocr_block_info_list), e_n_ocr_block_info_list
+            )
             first_ocr_block_info = ocr_block_info_list[0]
             print(first_ocr_block_info)
             self.assertEqual(
