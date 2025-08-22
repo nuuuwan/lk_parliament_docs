@@ -9,6 +9,7 @@ from pytesseract import Output
 from utils import Log
 
 from utils_future.pdf_file.PDFCompress import PDFCompress
+from utils_future.pdf_file.PDFText import PDFText
 
 TESSERACT_FAST_CONFIG = r"""
 --oem 1
@@ -72,10 +73,14 @@ class PDFOCRText:
 
         list_for_page_by_par = []
         for datum_id, data_for_par in group_by_par.items():
+            text = " ".join(d["text"] for d in data_for_par)
+            text = PDFText.__clean_block_text__(text)
+            if not text:
+                continue
             datum = dict(
                 page_number=i_page,
                 bbox=data_for_par[0]["bbox"],
-                text=" ".join(d["text"] for d in data_for_par),
+                text=text,
                 mean_p_confidence=round(
                     sum(d["p_confidence"] for d in data_for_par)
                     / len(data_for_par),
