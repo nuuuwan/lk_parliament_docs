@@ -27,6 +27,14 @@ class ActExtractOCRText:
         )
 
     @cached_property
+    def ocr_blocks_path(self):
+        return self.data_file_ocr_blocks.path
+
+    @cached_property
+    def ocr_blocks_fail_path(self):
+        return self.data_file_ocr_blocks.path_fail
+
+    @cached_property
     def ocr_block_info_list(self):
         return self.data_file_ocr_blocks.data
 
@@ -55,6 +63,14 @@ class ActExtractOCRText:
                 else None
             ),
         )
+
+    @cached_property
+    def ocr_text_path(self):
+        return self.data_file_ocr_block_text.path
+
+    @cached_property
+    def ocr_text_fail_path(self):
+        return self.data_file_ocr_block_text.path_fail
 
     @cached_property
     def ocr_block_text(self):

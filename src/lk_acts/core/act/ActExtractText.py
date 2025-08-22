@@ -26,6 +26,14 @@ class ActExtractText:
         )
 
     @cached_property
+    def blocks_path(self):
+        return self.data_file_block_info_list.path
+
+    @cached_property
+    def blocks_fail_path(self):
+        return self.data_file_block_info_list.path_fail
+
+    @cached_property
     def block_info_list(self):
         return self.data_file_block_info_list.data
 
@@ -42,18 +50,23 @@ class ActExtractText:
     def data_file_block_text(self):
         return DataFile(
             self,
-            lambda obj: os.path.join(self.dir_act_data, "en.txt"),
+            lambda obj: os.path.join(self.dir_act_data, "blocks.txt"),
             lambda obj: (
                 "\n\n".join(
-                    [
-                        block_info["text"]
-                        for block_info in self.block_info_list
-                    ]
+                    [block_info["text"] for block_info in self.block_info_list]
                 )
                 if self.block_info_list
                 else None
             ),
         )
+
+    @cached_property
+    def text_path(self):
+        return self.data_file_block_text.path
+
+    @cached_property
+    def text_fail_path(self):
+        return self.data_file_block_text.path_fail
 
     @cached_property
     def block_text(self):

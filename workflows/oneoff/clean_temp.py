@@ -15,23 +15,19 @@ def delete_files_if_exists(act, file_path_list):
 
 
 def clean_temp_for_act(act):
-    if os.path.exists(act.blocks_path):
-        blocks = JSONFile(act.blocks_path).read()
-        block_text = "\n\n".join([block["text"] for block in blocks])
-        if len(block_text) < Act.MIN_BLOCK_TEXT_CHARS:
-            delete_files_if_exists(act, [act.blocks_path, act.text_path])
-        else:
-            delete_files_if_exists(
-                act,
-                [
-                    act.ocr_blocks_path,
-                    act.ocr_blocks_fail_path,
-                    act.ocr_text_path,
-                    act.ocr_text_fail_path,
-                ],
-            )
-    else:
-        delete_files_if_exists(act, [act.text_path])
+    delete_files_if_exists(
+        act,
+        [
+            act.blocks_path,
+            act.blocks_fail_path,
+            act.text_path,
+            act.text_fail_path,
+            act.ocr_blocks_path,
+            act.ocr_blocks_fail_path,
+            act.ocr_text_path,
+            act.ocr_text_fail_path,
+        ],
+    )
 
 
 def clean_temp():
