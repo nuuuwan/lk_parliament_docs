@@ -32,43 +32,33 @@ class PDFOCRText:
         return temp_img_path
 
     @staticmethod
-    def __get_ocr_block_info_list_for_page__(i_page, im):
-        temp_img_path = PDFOCRText.__proprocess_im__(im)
-
-        data = pytesseract.image_to_data(
-            temp_img_path,
-            lang="eng",
-            config=TESSERACT_FAST_CONFIG,
-            output_type=Output.DICT,
+    def __parse_row__(data, i_page, i, text):
+        p_confidence = round(data["conf"][i] / 100.0, 2)
+        if p_confidence < 0:
+            return None
+        return dict(
+            i_page=i_page,
+            level=data["level"][i],
+            text=text,
+            page_num=data["page_num"][i],
+            par_num=data["par_num"][i],
+            block_num=data["block_num"][i],
+            line_num=data["line_num"][i],
+            word_num=data["word_num"][i],
+            bbox=[
+                round(x, 2)
+                for x in (
+                    data["left"][i],
+                    data["top"][i],
+                    data["width"][i],
+                    data["height"][i],
+                )
+            ],
+            p_confidence=p_confidence,
         )
-        list_for_page = []
-        for i, text in enumerate(data["text"]):
-            p_confidence = round(data["conf"][i] / 100.0, 2)
-            if p_confidence < 0:
-                continue
-            datum = dict(
-                i_page=i_page,
-                level=data["level"][i],
-                text=text,
-                page_num=data["page_num"][i],
-                par_num=data["par_num"][i],
-                block_num=data["block_num"][i],
-                line_num=data["line_num"][i],
-                word_num=data["word_num"][i],
-                bbox=[
-                    round(x, 2)
-                    for x in (
-                        data["left"][i],
-                        data["top"][i],
-                        data["width"][i],
-                        data["height"][i],
-                    )
-                ],
-                p_confidence=p_confidence,
-            )
 
-            list_for_page.append(datum)
-
+    @staticmethod
+    def __group_by_par__(i_page, list_for_page):
         group_by_par = {}
         for datum in list_for_page:
             par_num = datum["par_num"]
@@ -88,9 +78,28 @@ class PDFOCRText:
                     2,
                 ),
             )
-            list_for_page_by_par.append(datum)
+            if datum:
+                list_for_page_by_par.append(datum)
 
         return list_for_page_by_par
+
+    @staticmethod
+    def __get_ocr_block_info_list_for_page__(i_page, im):
+        temp_img_path = PDFOCRText.__proprocess_im__(im)
+
+        data = pytesseract.image_to_data(
+            temp_img_path,
+            lang="eng",
+            config=TESSERACT_FAST_CONFIG,
+            output_type=Output.DICT,
+        )
+        list_for_page = []
+        for i, text in enumerate(data["text"]):
+            datum = PDFOCRText.__parse_row__(data, i_page, i, text)
+            if datum:
+                list_for_page.append(datum)
+
+        return PDFOCRText.__group_by_par__(i_page, list_for_page)
 
     def get_ocr_block_info_list(self):
         t_start = time.perf_counter()

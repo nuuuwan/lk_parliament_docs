@@ -24,21 +24,27 @@ class PDFText:
         return block_text
 
     @staticmethod
+    def __parse_lines_inner__(span, block_text_parts, fonts, sizes):
+        t = span.get("text", "")
+        if t:
+            block_text_parts.append(t)
+        f = span.get("font")
+        if f:
+            fonts.add(f)
+        s = span.get("size")
+        if s is not None:
+            sizes.add(s)
+
+    @staticmethod
     def __parse_lines__(b):
         block_text_parts = []
         fonts = set()
         sizes = set()
         for line in b.get("lines", []):
             for span in line.get("spans", []):
-                t = span.get("text", "")
-                if t:
-                    block_text_parts.append(t)
-                f = span.get("font")
-                if f:
-                    fonts.add(f)
-                s = span.get("size")
-                if s is not None:
-                    sizes.add(s)
+                PDFText.__parse_lines_inner__(
+                    span, block_text_parts, fonts, sizes
+                )
         block_text = "".join(block_text_parts)
         block_text = PDFText.__clean_block_text__(block_text)
         return fonts, sizes, block_text
