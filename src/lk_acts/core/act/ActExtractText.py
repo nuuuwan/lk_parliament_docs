@@ -23,9 +23,8 @@ class ActExtractText:
     @cached_property
     def data_file_block_info_list(self):
         return DataFile(
-            self,
-            lambda obj: os.path.join(self.dir_act_data, "blocks.json"),
-            lambda obj: (
+            lambda: os.path.join(self.dir_act_data, "blocks.json"),
+            lambda: (
                 PDFFile(self.pdf_path).get_block_info_list()
                 if PDFFile(self.pdf_path).exists
                 else None
@@ -56,9 +55,8 @@ class ActExtractText:
     @cached_property
     def data_file_text(self):
         return DataFile(
-            self,
-            lambda obj: os.path.join(self.dir_act_data, "blocks.txt"),
-            lambda obj: (
+            lambda: os.path.join(self.dir_act_data, "blocks.txt"),
+            lambda: (
                 "\n\n".join(
                     [
                         block_info["text"]

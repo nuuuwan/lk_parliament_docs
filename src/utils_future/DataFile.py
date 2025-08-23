@@ -7,9 +7,8 @@ log = Log("DataFile")
 
 
 class DataFile(File):
-    def __init__(self, obj, get_path, get_data):
-        super().__init__(get_path(obj))
-        self.obj = obj
+    def __init__(self, get_path, get_data):
+        super().__init__(get_path())
         self.get_path = get_path
         self.get_data = get_data
 
@@ -35,7 +34,7 @@ class DataFile(File):
         return self.path + ".fail"
 
     def __get_data_hot__(self):
-        data = self.get_data(self.obj)
+        data = self.get_data()
         if data is not None:
             self.write(data)
             return data
@@ -46,24 +45,23 @@ class DataFile(File):
         return JSONFile if self.path.endswith(".json") else File
 
     def read(self):
-        contents = self.io_class()(self.path).read()
-        return contents
+        content = self.io_class()(self.path).read()
+        return content
 
     @staticmethod
-    def get_write_message(data):
-        if isinstance(data, list):
-            return f"{len(data):,} items"
-        if isinstance(data, str):
-            return f"{len(data):,} chars"
-        raise ValueError(f"Unsupported data type: {type(data).__name__}")
+    def get_write_message(content):
+        if isinstance(content, list):
+            return f"{len(content):,} items"
+        if isinstance(content, str):
+            return f"{len(content):,} chars"
+        raise ValueError(f"Unsupported data type: {type(content).__name__}")
 
-    def write(self, data):
-        contents = self.io_class()(self.path).write(data)
+    def write(self, content):
+        self.io_class()(self.path).write(content)
         log.info(
             f"Wrote {self.path}"
-            + f" ({self.get_write_message(data)}, {self.size_humanized})"
+            + f" ({self.get_write_message(content)}, {self.size_humanized})"
         )
-        return contents
 
     @cached_property
     def data(self):

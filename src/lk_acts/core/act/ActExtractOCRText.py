@@ -13,6 +13,14 @@ class ActExtractOCRText:
     MIN_OCR_BLOCK_TEXT_CHARS = ActExtractText.MIN_BLOCK_TEXT_CHARS
 
     @cached_property
+    def dir_act_data(self):
+        raise NotImplementedError
+
+    @cached_property
+    def pdf_path(self):
+        raise NotImplementedError
+
+    @cached_property
     def text(self):
         raise NotImplementedError
 
@@ -20,11 +28,10 @@ class ActExtractOCRText:
     @cached_property
     def data_file_ocr_blocks(self):
         return DataFile(
-            self,
-            lambda obj: os.path.join(obj.dir_act_data, "ocr_blocks.json"),
-            lambda obj: (
-                PDFFile(obj.pdf_path).get_ocr_block_info_list()
-                if PDFFile(obj.pdf_path).exists
+            lambda: os.path.join(self.dir_act_data, "ocr_blocks.json"),
+            lambda: (
+                PDFFile(self.pdf_path).get_ocr_block_info_list()
+                if PDFFile(self.pdf_path).exists
                 else None
             ),
         )
@@ -49,20 +56,18 @@ class ActExtractOCRText:
         return self.ocr_block_info_list
 
     # ocr_text
-
     @cached_property
     def data_file_ocr_text(self):
         return DataFile(
-            self,
-            lambda obj: os.path.join(obj.dir_act_data, "en.ocr.txt"),
-            lambda obj: (
+            lambda: os.path.join(self.dir_act_data, "en.ocr.txt"),
+            lambda: (
                 "\n\n".join(
                     [
                         block_info["text"]
-                        for block_info in obj.ocr_block_info_list
+                        for block_info in self.ocr_block_info_list
                     ]
                 )
-                if obj.ocr_block_info_list
+                if self.ocr_block_info_list
                 else None
             ),
         )
