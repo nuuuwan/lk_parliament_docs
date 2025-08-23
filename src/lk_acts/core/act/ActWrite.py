@@ -12,7 +12,7 @@ log = Log("ActWrite")
 class ActWrite:
 
     MAX_YEAR = 2025
-    MIN_YEAR = 1945
+    MIN_YEAR = 1940
 
     @staticmethod
     def get_dir_year(year, local=False):
@@ -66,9 +66,7 @@ class ActWrite:
 
     @cache
     def is_within_valid_time_range(self):
-        return self.year_int in range(
-            ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1
-        )
+        return self.year_int in range(ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1)
 
     def __delete_files_if_exists__(self, file_path_list):
         for delete_path in file_path_list:
