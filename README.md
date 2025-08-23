@@ -1,7 +1,8 @@
 # 🇱🇰 Acts from the Sri Lankan Parliament ([lk_acts](https://github.com/nuuuwan/lk_acts))
 
 Scraped  **2,857** acts (2.7 GB) from [www.parliament.lk](https://www.parliament.lk/en/acts-bills).
-📦 Raw Data - [https://github.com/nuuuwan/lk_acts_data/tree/main/data](https://github.com/nuuuwan/lk_acts_data/tree/main/data)
+
+- 📦 Raw Data - [https://github.com/nuuuwan/lk_acts_data/tree/main/data](https://github.com/nuuuwan/lk_acts_data/tree/main/data)
 
 ![Year Chart](images/chart_year.png)
 
@@ -17,7 +18,7 @@ Scraped  **2,857** acts (2.7 GB) from [www.parliament.lk](https://www.parliament
 
 | decade | n_metadata | n_pdf | n_blocks | n_text | n_ocr_blocks | n_ocr_text | n_act_json |
 | :-- | --: | --: | --: | --: | --: | --: | --: |
-| 2020s | 177 | 165 | 165 | 165 | 0 | 0 | 107 |
+| 2020s | 177 | 165 | 164 | 164 | 0 | 0 | 107 |
 | 2010s | 264 | 262 | 262 | 262 | 0 | 0 | 142 |
 | 2000s | 314 | 298 | 298 | 257 | 41 | 41 | 117 |
 | 1990s | 357 | 340 | 340 | 36 | 304 | 304 | 26 |
@@ -26,7 +27,7 @@ Scraped  **2,857** acts (2.7 GB) from [www.parliament.lk](https://www.parliament
 | 1960s | 324 | 310 | 310 | 0 | 310 | 310 | 0 |
 | 1950s | 452 | 430 | 430 | 0 | 430 | 430 | 0 |
 | 1940s | 88 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Total | 2857 | 2429 | 2429 | 720 | 1709 | 1709 | 392 |
+| Total | 2857 | 2429 | 2428 | 719 | 1709 | 1709 | 392 |
 
 ## 🤗 Hugging Face (🆕)
 

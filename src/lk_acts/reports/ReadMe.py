@@ -91,7 +91,7 @@ class ReadMe:
                 "",
                 f"Scraped  **{self.n_docs:,}** acts"
                 + f" ({self.data_size_g:.1f} GB) from"
-                + f" [www.parliament.lk]({url})."
+                + f" [www.parliament.lk]({url}).",
                 "",
                 f"- 📦 Raw Data - [{url_raw_data}]({url_raw_data})",
                 "",
