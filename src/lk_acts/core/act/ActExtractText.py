@@ -53,7 +53,10 @@ class ActExtractText:
             lambda obj: os.path.join(self.dir_act_data, "blocks.txt"),
             lambda obj: (
                 "\n\n".join(
-                    [block_info["text"] for block_info in self.block_info_list]
+                    [
+                        block_info["text"]
+                        for block_info in self.block_info_list
+                    ]
                 )
                 if self.block_info_list
                 else None

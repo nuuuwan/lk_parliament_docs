@@ -26,7 +26,7 @@ class BigJSONFile(JSONFile):
             [1_000, "kB"],
         ]:
             if size > unit:
-                return f"{size/unit:.1f} {label}"
+                return f"{size / unit:.1f} {label}"
 
         return size + " B"
 
