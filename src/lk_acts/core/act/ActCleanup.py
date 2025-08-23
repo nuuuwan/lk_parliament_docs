@@ -1,31 +1,13 @@
 import os
-from functools import cached_property
 
 from utils import Log
+
+from lk_acts.core.act.ActExtractOCRText import ActExtractOCRText
 
 log = Log("ActCleanup")
 
 
-class ActCleanup:
-    @cached_property
-    def pdf_fail_path(self):
-        raise NotImplementedError  # ActDownloadPDF
-
-    @cached_property
-    def blocks_fail_path(self):
-        raise NotImplementedError  # ActExtractText
-
-    @cached_property
-    def text_fail_path(self):
-        raise NotImplementedError  # ActExtractText
-
-    @cached_property
-    def ocr_blocks_fail_path(self):
-        raise NotImplementedError  # ActExtractOCRText
-
-    @cached_property
-    def ocr_text_fail_path(self):
-        raise NotImplementedError  # ActExtractOCRText
+class ActCleanup(ActExtractOCRText):
 
     def __delete_files_if_exists__(self, file_path_list):
         for delete_path in file_path_list:

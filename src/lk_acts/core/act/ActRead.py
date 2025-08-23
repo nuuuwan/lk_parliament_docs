@@ -3,19 +3,16 @@ from functools import cache
 
 from utils import JSONFile, Log
 
+from lk_acts.core.act.ActWrite import ActWrite
+
 log = Log("ActRead")
 
 
-class ActRead:
-    DIR_DATA = os.path.join("..", "lk_acts_data", "data")
-
-    @classmethod
-    def from_dict(cls, _):
-        raise NotImplementedError  # ActBase
+class ActRead(ActWrite):
 
     @staticmethod
     def __gen_metadata_file_paths__():
-        for cur_root, _, files in os.walk(ActRead.DIR_DATA):
+        for cur_root, _, files in os.walk(ActWrite.DIR_DATA):
             for file in files:
                 file_path = os.path.join(cur_root, file)
                 if file == "metadata.json":

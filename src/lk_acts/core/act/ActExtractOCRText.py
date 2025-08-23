@@ -9,20 +9,8 @@ from utils_future import DataFile, PDFFile
 log = Log("ActExtractOCRText")
 
 
-class ActExtractOCRText:
+class ActExtractOCRText(ActExtractText):
     MIN_OCR_BLOCK_TEXT_CHARS = ActExtractText.MIN_BLOCK_TEXT_CHARS
-
-    @cached_property
-    def dir_act_data(self):
-        raise NotImplementedError  # ActBase
-
-    @cached_property
-    def pdf_path(self):
-        raise NotImplementedError  # ActDownloadPDF
-
-    @cached_property
-    def text(self):
-        raise NotImplementedError  # ActExtractText
 
     # ocr_blocks
     @cached_property

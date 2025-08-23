@@ -3,21 +3,14 @@ from functools import cached_property
 
 from utils import Log
 
+from lk_acts.core.act.ActDownloadPDF import ActDownloadPDF
 from utils_future import DataFile, PDFFile
 
 log = Log("ActExtractText")
 
 
-class ActExtractText:
+class ActExtractText(ActDownloadPDF):
     MIN_BLOCK_TEXT_CHARS = 100
-
-    @cached_property
-    def dir_act_data(self):
-        raise NotImplementedError  # ActBase
-
-    @cached_property
-    def pdf_path(self):
-        raise NotImplementedError  # ActDownloadPDF
 
     # block_info_list
     @cached_property

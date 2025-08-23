@@ -4,34 +4,23 @@ from pathlib import Path
 
 from utils import JSONFile, Log
 
-from lk_acts.core.act.ActRead import ActRead
+from lk_acts.core.act.ActBase import ActBase
 
 log = Log("ActWrite")
 
 
-class ActWrite:
+class ActWrite(ActBase):
 
     MAX_YEAR = 2025
     MIN_YEAR = 1940
-
-    # From ActBase
-    @cached_property
-    def act_id(self):
-        raise NotImplementedError  # ActBase
-
-    @cached_property
-    def year_int(self):
-        raise NotImplementedError  # ActBase
-
-    def to_dict(self):
-        raise NotImplementedError  # ActBase
+    DIR_DATA = os.path.join("..", "lk_acts_data", "data")
 
     @staticmethod
     def get_dir_year(year, local=False):
         year = str(year)
         decade = year[:3] + "0s"
         return os.path.join(
-            "data" if local else ActRead.DIR_DATA, "acts", decade, year
+            "data" if local else ActWrite.DIR_DATA, "acts", decade, year
         )
 
     @staticmethod
@@ -73,7 +62,7 @@ class ActWrite:
 
     @staticmethod
     def get_dir_data_size():
-        path = Path(ActRead.DIR_DATA)
+        path = Path(ActWrite.DIR_DATA)
         return sum(f.stat().st_size for f in path.rglob("*") if f.is_file())
 
     @cache

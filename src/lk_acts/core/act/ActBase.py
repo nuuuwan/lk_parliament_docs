@@ -1,4 +1,3 @@
-from dataclasses import dataclass
 from functools import cache, cached_property
 
 from utils import Log
@@ -8,12 +7,14 @@ from lk_acts.core.act.ActType import ActType
 log = Log("ActBase")
 
 
-@dataclass
 class ActBase:
-    num: str
-    date: str
-    description: str
-    url_pdf_en: str
+    def __init__(
+        self, num: str, date: str, description: str, url_pdf_en: str
+    ):
+        self.num = num
+        self.date = date
+        self.description = description
+        self.url_pdf_en = url_pdf_en
 
     def __str__(self):
         return f"Act({self.act_id})"

@@ -1,8 +1,10 @@
 import os
 from functools import cached_property
 
+from lk_acts.core.act.ActExtractOCRText import ActExtractOCRText
 
-class ActStatus:
+
+class ActStatus(ActExtractOCRText):
     STATUS_FIELD_LIST = [
         "metadata",
         "pdf",
@@ -12,38 +14,6 @@ class ActStatus:
         "ocr_text",
         "act_json",
     ]
-
-    @cached_property
-    def dir_act_data(self):
-        raise NotImplementedError  # ActBase
-
-    @cached_property
-    def has_metadata(self):
-        raise NotImplementedError  # ActWrite
-
-    @classmethod
-    def decade_to_list(cls):
-        raise NotImplementedError  # ActRead
-
-    @cached_property
-    def has_pdf(self):
-        raise NotImplementedError  # ActDownloadPDF
-
-    @cached_property
-    def has_blocks(self):
-        raise NotImplementedError  # ActExtractText
-
-    @cached_property
-    def has_text(self):
-        raise NotImplementedError  # ActExtractText
-
-    @cached_property
-    def has_ocr_blocks(self):
-        raise NotImplementedError  # ActExtractOCRText
-
-    @cached_property
-    def has_ocr_text(self):
-        raise NotImplementedError  # ActExtractOCRText
 
     @cached_property
     def has_act_json(self):
