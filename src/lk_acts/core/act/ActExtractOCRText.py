@@ -92,27 +92,33 @@ class ActExtractOCRText:
 
     @cache
     def get_ocr_block_info_list(self, min_mean_p_confidence=-1):
-        return [
-            block_info
-            for block_info in self.ocr_block_info_list
-            if block_info["mean_p_confidence"] >= min_mean_p_confidence
-        ] if self.ocr_block_info_list or []
+        return (
+            [
+                block_info
+                for block_info in self.ocr_block_info_list
+                if block_info["mean_p_confidence"] >= min_mean_p_confidence
+            ]
+            if self.ocr_block_info_list
+            else []
+        )
 
     @cache
     def get_ocr_text(self, min_mean_p_confidence=-1):
-        return (
-            "\n\n".join(
-                [
-                    block_info["text"]
-                    for block_info in self.get_ocr_block_info_list(
-                        min_mean_p_confidence=min_mean_p_confidence
-                    )
-                ]
-            )
+        return "\n\n".join(
+            [
+                block_info["text"]
+                for block_info in self.get_ocr_block_info_list(
+                    min_mean_p_confidence=min_mean_p_confidence
+                )
+            ]
         )
 
     # common text
 
     @cache
     def get_text(self, min_mean_p_confidence=-1):
-        return self.block_text or self.get_ocr_text(min_mean_p_confidence=min_mean_p_confidence)
+        return (
+            self.block_text
+            or self.get_ocr_text(min_mean_p_confidence=min_mean_p_confidence)
+            or None
+        )
