@@ -38,7 +38,6 @@ class TestCase(unittest.TestCase):
                 a_text_list_head,
             ]
             a_list.append(a)
-        print(a_list)
 
         for e, a in zip(TEST_DATA_FOR_TEXT, a_list):
             [
