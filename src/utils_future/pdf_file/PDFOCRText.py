@@ -22,6 +22,9 @@ os.environ.setdefault("OMP_NUM_THREADS", "1")
 
 
 class PDFOCRText:
+    def __init__(self):
+        self.path = None
+
     @staticmethod
     def __proprocess_im__(im):
         im = im.convert("L")
@@ -58,21 +61,9 @@ class PDFOCRText:
         )
 
     @staticmethod
-    def __group_by_id__(i_page, list_for_page):
-        group_by_par = {}
-        for datum in list_for_page:
-            datum_id = "-".join(
-                [
-                    str(datum[k])
-                    for k in ["page_num", "par_num", "block_num", "line_num"]
-                ]
-            )
-            if datum_id not in group_by_par:
-                group_by_par[datum_id] = []
-            group_by_par[datum_id].append(datum)
-
+    def __reduce_by_id__(i_page, group_by_par):
         list_for_page_by_par = []
-        for datum_id, data_for_par in group_by_par.items():
+        for data_for_par in group_by_par.values():
             text = " ".join(d["text"] for d in data_for_par)
             text = PDFText.__clean_block_text__(text)
             if not text:
@@ -93,6 +84,21 @@ class PDFOCRText:
         return list_for_page_by_par
 
     @staticmethod
+    def __map_by_id__(list_for_page):
+        group_by_par = {}
+        for datum in list_for_page:
+            datum_id = "-".join(
+                [
+                    str(datum[k])
+                    for k in ["page_num", "par_num", "block_num", "line_num"]
+                ]
+            )
+            if datum_id not in group_by_par:
+                group_by_par[datum_id] = []
+            group_by_par[datum_id].append(datum)
+        return group_by_par
+
+    @staticmethod
     def __get_ocr_block_info_list_for_page__(i_page, im):
         temp_img_path = PDFOCRText.__proprocess_im__(im)
 
@@ -108,7 +114,9 @@ class PDFOCRText:
             if datum:
                 list_for_page.append(datum)
 
-        return PDFOCRText.__group_by_id__(i_page, list_for_page)
+        return PDFOCRText.__reduce_by_id__(
+            i_page, PDFOCRText.__map_by_id__(list_for_page)
+        )
 
     def get_ocr_block_info_list(self):
         t_start = time.perf_counter()
