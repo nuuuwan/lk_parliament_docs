@@ -1,0 +1,15 @@
+2025-08-23
+
+📢 UPDATE on 🇱🇰 #SriLanka – ⚖️ #Legal Documents 
+
+@HuggingFace datasets for 2400+ Legal Acts, since 1945.
+
+Metadata - https://huggingface.co/datasets/nuuuwan/lk-acts-acts 
+
+Text Chunks - https://huggingface.co/datasets/nuuuwan/lk-acts-2020-2024-chunks
+
+⚠️ ~⅔ of the Acts involed OCR, and so the data quality is not great. 
+
+Clean-up in progress. 
+
+#SriLanka #Legal #OpenData #GovTech
