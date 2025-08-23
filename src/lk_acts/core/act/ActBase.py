@@ -15,6 +15,12 @@ class ActBase:
     description: str
     url_pdf_en: str
 
+    def __str__(self):
+        return f"Act({self.act_id})"
+
+    def __hash__(self):
+        return hash(str(self))
+
     @classmethod
     @cache
     def get_doc_type_name(cls) -> str:
@@ -43,9 +49,6 @@ class ActBase:
     @property
     def act_id(self) -> str:
         return f"{self.year}-{self.doc_sub_num}"
-
-    def __str__(self):
-        return f"Act({self.act_id})"
 
     @property
     def year(self) -> str:
