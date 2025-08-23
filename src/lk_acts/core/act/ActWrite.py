@@ -18,6 +18,33 @@ class ActWrite:
     def act_id(self):
         raise NotImplementedError
 
+    @cached_property
+    def year_int(self):
+        raise NotImplementedError
+
+    @cached_property
+    def pdf_fail_path(self):
+        raise NotImplementedError
+
+    @cached_property
+    def blocks_fail_path(self):
+        raise NotImplementedError
+
+    @cached_property
+    def text_fail_path(self):
+        raise NotImplementedError
+
+    @cached_property
+    def ocr_blocks_fail_path(self):
+        raise NotImplementedError
+
+    @cached_property
+    def ocr_text_fail_path(self):
+        raise NotImplementedError
+
+    def to_dict(self):
+        raise NotImplementedError
+
     @staticmethod
     def get_dir_year(year, local=False):
         year = str(year)
