@@ -16,6 +16,7 @@ class HuggingFaceDataset:
     CHUNKS_JSON_PATH = os.path.join(DIR_DATA_HF, "chunks.json")
     HUGGING_FACE_USERNAME = os.environ.get("HUGGING_FACE_USERNAME")
     HUGGING_FACE_TOKEN = os.environ.get("HUGGING_FACE_TOKEN")
+    MIN_MEAN_P_CONFIDENCE_FOR_OCR_TEXT = 0.5
 
     MAX_CHUNK_SIZE = 2000
     MIN_OVERLAP_SIZE = 200
@@ -23,7 +24,14 @@ class HuggingFaceDataset:
     @cached_property
     def acts_list(self):
         act_list = Act.list_all()
-        acts_with_txt_data = [act for act in act_list if act.has_some_text]
+
+        acts_with_txt_data = [
+            act
+            for act in act_list
+            if act.get_text(
+                HuggingFaceDataset.MIN_MEAN_P_CONFIDENCE_FOR_OCR_TEXT
+            )
+        ]
         return acts_with_txt_data
 
     @staticmethod
@@ -91,7 +99,10 @@ class HuggingFaceDataset:
 
     @staticmethod
     def get_data_list_for_act(act):
-        chunks = HuggingFaceDataset.chunk(act.some_text)
+
+        chunks = HuggingFaceDataset.chunk(
+            act.get_text(HuggingFaceDataset.MIN_MEAN_P_CONFIDENCE_FOR_OCR_TEXT)
+        )
         d_list = []
         for chunk_index, chunk_text in enumerate(chunks):
             chunk_id = f"{act.act_id}-{chunk_index:04d}"
@@ -120,7 +131,7 @@ class HuggingFaceDataset:
             + f" ({n_rows:,} chunks, {file_size_m:.1f} MB)"
         )
 
-    def upload_to_hugging_face(self):
+    def upload_to_hugging_face(self, do_upload=False):
         acts_df = pd.read_json(self.ACTS_JSON_PATH)
         chunks_df = pd.read_json(self.CHUNKS_JSON_PATH)
 
@@ -134,10 +145,11 @@ class HuggingFaceDataset:
 
         for ds, label in [(acts_ds, "acts"), (chunks_ds, "chunks")]:
             dataset_id = f"{hf_project}-{label}"
-            repo_id = ds.push_to_hub(
-                dataset_id, token=self.HUGGING_FACE_TOKEN
-            )
-            log.info(f"🤗 Uploaded {dataset_id} to {repo_id}")
+            if do_upload:
+                repo_id = ds.push_to_hub(
+                    dataset_id, token=self.HUGGING_FACE_TOKEN
+                )
+                log.info(f"🤗 Uploaded {dataset_id} to {repo_id}")
 
     def build_and_push(self):
         self.build_acts()
