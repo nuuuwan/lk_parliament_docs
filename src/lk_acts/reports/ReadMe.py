@@ -93,7 +93,7 @@ class ReadMe:
                 + f" ({self.data_size_g:.1f} GB) from"
                 + f" [www.parliament.lk]({url}).",
                 "",
-                f"- 📦 Raw Data - [{url_raw_data}]({url_raw_data})",
+                f"📦 Raw Data - [{url_raw_data}]({url_raw_data})",
                 "",
             ]
             + self.lines_for_year_chart
