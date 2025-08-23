@@ -2,7 +2,7 @@ import argparse
 
 from utils import Log
 
-from lk_acts import Act, ActsBillsPage
+from lk_acts import Act, PageActsBills
 from utils_future import TimedPipeline
 
 log = Log("scrape")
@@ -24,7 +24,7 @@ def get_scrape_years(decade):
 
 def scrape_year(year):
     try:
-        page = ActsBillsPage("acts", str(year))
+        page = PageActsBills("acts", str(year))
         page.scrape()
     except Exception as e:
         log.error(f"Error scraping {year=}: {e}")
@@ -49,9 +49,7 @@ def float_or_none(v):
 
 def get_options():
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--max_dt", type=float_or_none, default=DEFAULT_MAX_DT
-    )
+    parser.add_argument("--max_dt", type=float_or_none, default=DEFAULT_MAX_DT)
     parser.add_argument("--decade", type=str, default="2020s")
     return parser.parse_args()
 

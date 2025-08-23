@@ -3,7 +3,7 @@ from pathlib import Path
 from utils import File, Log
 
 from lk_acts.core import Act
-from lk_acts.pages import ActsBillsPage
+from lk_acts.pages import PageActsBills
 from lk_acts.reports.ChartYear import ChartYear
 from utils_future import Markdown
 
@@ -81,10 +81,8 @@ class ReadMe:
 
     @property
     def lines(self):
-        url = ActsBillsPage.URL
-        url_raw_data = (
-            "https://github.com/nuuuwan/lk_acts_data/tree/main/data"
-        )
+        url = PageActsBills.URL
+        url_raw_data = "https://github.com/nuuuwan/lk_acts_data/tree/main/data"
         return (
             [
                 "# 🇱🇰 Acts from the Sri Lankan Parliament"

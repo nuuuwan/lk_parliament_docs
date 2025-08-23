@@ -1,13 +1,13 @@
 import os
 import unittest
 
-from lk_acts import ActsBillsPage
+from lk_acts import PageActsBills
 
 
 class TestCase(unittest.TestCase):
     @unittest.skip("Slow")
     def test_scrape(self):
-        page = ActsBillsPage("acts", "2023")
+        page = PageActsBills("acts", "2023")
         doc_list = page.scrape()
         self.assertEqual(len(doc_list), 38)
 

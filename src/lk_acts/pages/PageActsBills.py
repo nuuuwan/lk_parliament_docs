@@ -7,10 +7,10 @@ from utils import Log
 from lk_acts.core import Act
 from utils_future import WebPage
 
-log = Log("ActsBillsPage")
+log = Log("PageActsBills")
 
 
-class ActsBillsPage(WebPage):
+class PageActsBills(WebPage):
     URL = "https://www.parliament.lk/en/acts-bills"
 
     def __init__(self, doc_type_name, year):
@@ -22,7 +22,7 @@ class ActsBillsPage(WebPage):
         self.year = year
 
     def __str__(self) -> str:
-        return f"ActsBillsPage({self.doc_type_name}, {self.year})"
+        return f"PageActsBills({self.doc_type_name}, {self.year})"
 
     def __parse_div_acts_box__(self, div_acts_box):  # noqa: CFQ004 !HACK
         h4 = div_acts_box.find("h4")
