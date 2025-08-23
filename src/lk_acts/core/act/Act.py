@@ -8,12 +8,12 @@ from lk_acts.core.act.ActWrite import ActWrite
 
 
 class Act(
-    ActBase,
-    ActRead,
-    ActWrite,
-    ActDownloadPDF,
-    ActExtractText,
-    ActExtractOCRText,
     ActStatus,
+    ActExtractOCRText,
+    ActExtractText,
+    ActDownloadPDF,
+    ActWrite,
+    ActRead,
+    ActBase,
 ):
     pass
