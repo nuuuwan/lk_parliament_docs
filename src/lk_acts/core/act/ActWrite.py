@@ -14,6 +14,10 @@ class ActWrite:
     MAX_YEAR = 2025
     MIN_YEAR = 1940
 
+    @cached_property
+    def act_id(self):
+        raise NotImplementedError
+
     @staticmethod
     def get_dir_year(year, local=False):
         year = str(year)
