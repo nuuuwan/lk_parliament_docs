@@ -12,8 +12,11 @@ log = Log("ActExtractOCRText")
 class ActExtractOCRText:
     MIN_OCR_BLOCK_TEXT_CHARS = ActExtractText.MIN_BLOCK_TEXT_CHARS
 
-    # ocr_blocks
+    @cached_property
+    def block_text(self):
+        raise NotImplementedError
 
+    # ocr_blocks
     @cached_property
     def data_file_ocr_blocks(self):
         return DataFile(
@@ -43,7 +46,7 @@ class ActExtractOCRText:
         return self.data_file_ocr_blocks.exists
 
     def extract_ocr_blocks(self):
-        self.ocr_block_info_list
+        return self.ocr_block_info_list
 
     # ocr_block_text
 
@@ -88,7 +91,7 @@ class ActExtractOCRText:
         return self.data_file_ocr_block_text.exists
 
     def extract_ocr_text(self):
-        self.ocr_block_text
+        return self.ocr_block_text
 
     @cache
     def get_ocr_block_info_list(self, min_mean_p_confidence=-1):

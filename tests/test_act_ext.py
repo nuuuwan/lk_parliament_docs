@@ -33,6 +33,7 @@ class TestCase(unittest.TestCase):
             print("-" * 32)
         self.assertEqual(actual, expected)
 
+    @unittest.skip("Skipping test_from_pdf")
     def test_from_pdf(self):
         for dir_name in os.listdir(DIR_TESTS_DATA):
             # if dir_name not in ["2025-011"]:

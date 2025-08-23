@@ -11,8 +11,15 @@ log = Log("ActExtractText")
 class ActExtractText:
     MIN_BLOCK_TEXT_CHARS = 100
 
-    # block_info_list
+    @cached_property
+    def dir_act_data(self):
+        raise NotImplementedError
 
+    @cached_property
+    def pdf_path(self):
+        raise NotImplementedError
+
+    # block_info_list
     @cached_property
     def data_file_block_info_list(self):
         return DataFile(
@@ -42,7 +49,7 @@ class ActExtractText:
         return self.data_file_block_info_list.exists
 
     def extract_blocks(self):
-        self.data_file_block_info_list.data
+        return self.data_file_block_info_list.data
 
     # block_text
 
@@ -87,4 +94,4 @@ class ActExtractText:
         return self.data_file_block_text.exists
 
     def extract_text(self):
-        self.data_file_block_text.data
+        return self.data_file_block_text.data

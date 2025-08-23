@@ -14,6 +14,38 @@ class ActStatus:
     ]
 
     @cached_property
+    def dir_act_data(self):
+        raise NotImplementedError
+
+    @cached_property
+    def has_metadata(self):
+        raise NotImplementedError
+
+    @cached_property
+    def has_pdf(self):
+        raise NotImplementedError
+
+    @cached_property
+    def has_blocks(self):
+        raise NotImplementedError
+
+    @cached_property
+    def has_text(self):
+        raise NotImplementedError
+
+    @cached_property
+    def has_ocr_blocks(self):
+        raise NotImplementedError
+
+    @cached_property
+    def has_ocr_text(self):
+        raise NotImplementedError
+
+    @classmethod
+    def decade_to_list(cls):
+        raise NotImplementedError
+
+    @cached_property
     def has_act_json(self):
         return os.path.exists(os.path.join(self.dir_act_data, "act.json"))
 

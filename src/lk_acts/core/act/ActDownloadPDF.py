@@ -41,6 +41,14 @@ class ActDownloadPDF:
     P_RETRY_PDF_DOWNLOAD = 0.25
 
     @cached_property
+    def dir_act_data(self):
+        raise NotImplementedError
+
+    @cached_property
+    def url_pdf_en(self):
+        raise NotImplementedError
+
+    @cached_property
     def pdf_path(self):
         return os.path.join(self.dir_act_data, "en.pdf")
 

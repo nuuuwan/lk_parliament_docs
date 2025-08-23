@@ -1,13 +1,17 @@
 import os
-from functools import cache, cached_property
+from functools import cache
 
-from utils import File, JSONFile, Log
+from utils import JSONFile, Log
 
 log = Log("ActRead")
 
 
 class ActRead:
     DIR_DATA = os.path.join("..", "lk_acts_data", "data")
+
+    @classmethod
+    def from_dict(cls, _):
+        raise NotImplementedError
 
     @staticmethod
     def __gen_metadata_file_paths__():
@@ -67,10 +71,6 @@ class ActRead:
                 doc.act_type.name, []
             ).append(doc)
         return idx
-
-    @cached_property
-    def text_content(self):
-        return File(self.text_path).read()
 
     @classmethod
     def list_from_decade(cls, decade: str):

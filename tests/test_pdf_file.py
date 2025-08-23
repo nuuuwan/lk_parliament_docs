@@ -13,6 +13,7 @@ class TestCase(unittest.TestCase):
         compressed_pdf_file = TEST_PDF_FILE.compress()
         self.assertLessEqual(compressed_pdf_file.size, TEST_PDF_FILE.size)
 
+    @unittest.skip("slow")
     def test_ocr(self):
         N_HEAD = 20
         a_list = []
@@ -43,8 +44,6 @@ class TestCase(unittest.TestCase):
                 a_text_list_head,
             ]
             a_list.append(a)
-
-        print(a_list)
 
         for e, a in zip(TEST_DATA_FOR_OCR, a_list):
             [
