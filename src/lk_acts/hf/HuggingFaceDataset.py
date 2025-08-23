@@ -151,7 +151,7 @@ class HuggingFaceDataset:
                 )
                 log.info(f"🤗 Uploaded {dataset_id} to {repo_id}")
 
-    def build_and_push(self):
+    def build_and_upload(self, do_upload=False):
         self.build_acts()
         self.build_chunks()
-        self.upload_to_hugging_face()
+        self.upload_to_hugging_face(do_upload)
