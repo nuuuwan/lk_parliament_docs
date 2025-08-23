@@ -25,7 +25,9 @@ Scraped  **2,768** acts (2.7 GB) from [www.parliament.lk](https://www.parliament
 | 1950s | 452 | 430 | 430 | 0 | 430 | 430 | 0 |
 | Total | 2768 | 2427 | 2427 | 718 | 1709 | 1709 | 392 |
 
-## 🤗 Hugging Face Datasets (🆕)
+## 🤗 Hugging Face (🆕)
+
+### Datasets
 
 - [lk-acts-acts](https://huggingface.co/datasets/nuuuwan/lk-acts-acts)
 - [lk-acts-chunks](https://huggingface.co/datasets/nuuuwan/lk-acts-chunks)

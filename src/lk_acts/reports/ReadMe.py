@@ -72,10 +72,7 @@ class ReadMe:
 
     @property
     def lines_for_hugging_face(self):
-        lines = [
-            "## 🤗 Hugging Face Datasets (🆕)",
-            "",
-        ]
+        lines = ["## 🤗 Hugging Face (🆕)", "", "### Datasets", ""]
         for label in ["lk-acts-acts", "lk-acts-chunks"]:
             url = f"https://huggingface.co/datasets/nuuuwan/{label}"
             lines.append(f"- [{label}]({url})")
