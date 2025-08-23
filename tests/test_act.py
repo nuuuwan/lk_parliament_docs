@@ -16,7 +16,7 @@ class TestCase(unittest.TestCase):
                 "num": "14/2025",
                 "date": "2025-08-18",
                 "description": "Sri Lanka Electricity (Amendment)",
-                "url_pdf_en": "https://www.parliament.lk/uploads/acts/gbills/english/6385.pdf",
+                "url_pdf_en": "https://www.parliament.lk/uploads/acts/gbills/english/6385.pdf",  # noqa: E501
                 "act_id": "2025-014",
                 "act_type": "Amendment",
             },
