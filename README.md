@@ -2,7 +2,7 @@
 
 Scraped  **2,857** acts (2.7 GB) from [www.parliament.lk](https://www.parliament.lk/en/acts-bills).
 
-- 📦 Raw Data - [https://github.com/nuuuwan/lk_acts_data/tree/main/data](https://github.com/nuuuwan/lk_acts_data/tree/main/data)
+📦 Raw Data - [https://github.com/nuuuwan/lk_acts_data/tree/main/data](https://github.com/nuuuwan/lk_acts_data/tree/main/data)
 
 ![Year Chart](images/chart_year.png)
 
