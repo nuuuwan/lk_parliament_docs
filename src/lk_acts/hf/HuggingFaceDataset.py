@@ -6,6 +6,7 @@ from datasets import Dataset
 from utils import Hash, JSONFile, Log
 
 from lk_acts.core import Act, ActRead
+from utils_future import BigJSONFile
 
 log = Log("HuggingFaceDataset")
 
@@ -101,7 +102,9 @@ class HuggingFaceDataset:
     def get_data_list_for_act(act):
 
         chunks = HuggingFaceDataset.chunk(
-            act.get_text(HuggingFaceDataset.MIN_MEAN_P_CONFIDENCE_FOR_OCR_TEXT)
+            act.get_text(
+                HuggingFaceDataset.MIN_MEAN_P_CONFIDENCE_FOR_OCR_TEXT
+            )
         )
         d_list = []
         for chunk_index, chunk_text in enumerate(chunks):
@@ -151,7 +154,12 @@ class HuggingFaceDataset:
                 )
                 log.info(f"🤗 Uploaded {dataset_id} to {repo_id}")
 
+    def split_big_files(self):
+        BigJSONFile(self.ACTS_JSON_PATH).split()
+        BigJSONFile(self.CHUNKS_JSON_PATH).split()
+
     def build_and_upload(self, do_upload=False):
         self.build_acts()
         self.build_chunks()
         self.upload_to_hugging_face(do_upload)
+        self.split_big_files()
