@@ -1,10 +1,10 @@
 import pymupdf
 from utils import Log
 
-log = Log("PDFFile")
+log = Log("PDFCompressMixin")
 
 
-class PDFCompress:
+class PDFCompressMixin:
     DPI_TARGET = 75
     QUALITY = 25
 
@@ -14,9 +14,9 @@ class PDFCompress:
         doc = pymupdf.open(input_path)
 
         doc.rewrite_images(
-            dpi_target=PDFCompress.DPI_TARGET,
-            dpi_threshold=PDFCompress.DPI_TARGET + 1,
-            quality=PDFCompress.QUALITY,
+            dpi_target=PDFCompressMixin.DPI_TARGET,
+            dpi_threshold=PDFCompressMixin.DPI_TARGET + 1,
+            quality=PDFCompressMixin.QUALITY,
         )
         doc.ez_save(output_path)
 

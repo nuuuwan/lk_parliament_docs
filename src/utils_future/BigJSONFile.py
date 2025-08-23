@@ -3,10 +3,12 @@ from functools import cached_property
 
 from utils import JSONFile, Log
 
+from utils_future.FileFuture import FileFuture
+
 log = Log("BigJSONFile")
 
 
-class BigJSONFile(JSONFile):
+class BigJSONFile(JSONFile, FileFuture):
     MIN_BIG_FILE_SIZE = 50_000_000
 
     @cached_property
@@ -16,22 +18,6 @@ class BigJSONFile(JSONFile):
     @cached_property
     def size(self):
         return os.path.getsize(self.path) if self.exists else 0
-
-    @cached_property
-    def size_humanized(self):
-        size = self.size
-        for unit, label in [
-            [1_000_000_000, "GB"],
-            [1_000_000, "MB"],
-            [1_000, "kB"],
-        ]:
-            if size > unit:
-                return f"{size / unit:.1f} {label}"
-
-        return size + " B"
-
-    def __str__(self):
-        return f"{self.path} ({self.size_humanized})"
 
     def split(self):
         file_path = self.path

@@ -8,29 +8,30 @@ from PIL import ImageOps
 from pytesseract import Output
 from utils import Log
 
-from utils_future.pdf_file.PDFCompress import PDFCompress
-from utils_future.pdf_file.PDFText import PDFText
+from utils_future.pdf_file.PDFCompressMixin import PDFCompressMixin
+from utils_future.pdf_file.PDFTextMixin import PDFTextMixin
 
 TESSERACT_FAST_CONFIG = r"""
 --oem 1
 --psm 6
 """
 
-log = Log("PDFOCRText")
+log = Log("PDFOCRTextMixin")
 os.environ.setdefault("OMP_THREAD_LIMIT", "1")
 os.environ.setdefault("OMP_NUM_THREADS", "1")
 
 
-class PDFOCRText:
-    def __init__(self):
-        self.path = None
+class PDFOCRTextMixin:
 
     @staticmethod
     def __proprocess_im__(im):
         im = im.convert("L")
         im = ImageOps.autocontrast(im)
         im = im.point(lambda x: 255 if x > 200 else 0, mode="1")
-        im.info["dpi"] = (PDFCompress.DPI_TARGET, PDFCompress.DPI_TARGET)
+        im.info["dpi"] = (
+            PDFCompressMixin.DPI_TARGET,
+            PDFCompressMixin.DPI_TARGET,
+        )
         temp_img_path = NamedTemporaryFile(suffix=".png", delete=False).name
         im.save(temp_img_path, format="PNG")
         return temp_img_path
@@ -65,7 +66,7 @@ class PDFOCRText:
         list_for_page_by_par = []
         for data_for_par in group_by_par.values():
             text = " ".join(d["text"] for d in data_for_par)
-            text = PDFText.__clean_text__(text)
+            text = PDFTextMixin.__clean_text__(text)
             if not text:
                 continue
             datum = dict(
@@ -100,7 +101,7 @@ class PDFOCRText:
 
     @staticmethod
     def __get_ocr_block_info_list_for_page__(i_page, im):
-        temp_img_path = PDFOCRText.__proprocess_im__(im)
+        temp_img_path = PDFOCRTextMixin.__proprocess_im__(im)
 
         data = pytesseract.image_to_data(
             temp_img_path,
@@ -110,19 +111,20 @@ class PDFOCRText:
         )
         list_for_page = []
         for i, text in enumerate(data["text"]):
-            datum = PDFOCRText.__parse_row__(data, i_page, i, text)
+            datum = PDFOCRTextMixin.__parse_row__(data, i_page, i, text)
             if datum:
                 list_for_page.append(datum)
 
-        return PDFOCRText.__reduce_by_id__(
-            i_page, PDFOCRText.__map_by_id__(list_for_page)
+        return PDFOCRTextMixin.__reduce_by_id__(
+            i_page, PDFOCRTextMixin.__map_by_id__(list_for_page)
         )
 
     def get_ocr_block_info_list(self):
         t_start = time.perf_counter()
         ocr_block_info_list = []
         for i_page, im in enumerate(
-            convert_from_path(self.path, dpi=PDFCompress.DPI_TARGET), start=1
+            convert_from_path(self.path, dpi=PDFCompressMixin.DPI_TARGET),
+            start=1,
         ):
             ocr_block_info_list_for_page = (
                 self.__get_ocr_block_info_list_for_page__(i_page, im)

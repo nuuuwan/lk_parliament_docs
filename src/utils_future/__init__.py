@@ -4,8 +4,10 @@
 from utils_future.BigJSONFile import BigJSONFile
 from utils_future.Chunker import Chunker
 from utils_future.DataFile import DataFile
+from utils_future.FileFuture import FileFuture
 from utils_future.Markdown import Markdown
 from utils_future.Parse import Parse
-from utils_future.pdf_file import PDFCompress, PDFFile, PDFOCRText, PDFText
+from utils_future.pdf_file import (PDFCompressMixin, PDFFile, PDFOCRTextMixin,
+                                   PDFTextMixin)
 from utils_future.TimedPipeline import TimedPipeline
 from utils_future.WebPage import WebPage

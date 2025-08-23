@@ -3,10 +3,10 @@ import re
 import pymupdf
 from utils import Log
 
-log = Log("PDFText")
+log = Log("PDFTextMixin")
 
 
-class PDFText:
+class PDFTextMixin:
     MIN_TEXT_SIZE = 1_000
 
     def __log_text_info_and_return__(self, text, label):
@@ -42,9 +42,11 @@ class PDFText:
         sizes = set()
         for line in b.get("lines", []):
             for span in line.get("spans", []):
-                PDFText.__parse_lines_inner__(span, text_parts, fonts, sizes)
+                PDFTextMixin.__parse_lines_inner__(
+                    span, text_parts, fonts, sizes
+                )
         text = "".join(text_parts)
-        text = PDFText.__clean_text__(text)
+        text = PDFTextMixin.__clean_text__(text)
         return fonts, sizes, text
 
     def get_block_info_list(self):

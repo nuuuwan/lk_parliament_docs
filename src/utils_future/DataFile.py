@@ -13,23 +13,6 @@ class DataFile(File):
         self.get_data = get_data
 
     @cached_property
-    def exists(self):
-        return os.path.exists(self.path)
-
-    @cached_property
-    def size(self):
-        return os.path.getsize(self.path)
-
-    @cached_property
-    def size_humanized(self):
-        size = self.size
-        if size > 1_000_000:
-            return f"{size / 1_000_000:.1f} MB"
-        if size > 1_000:
-            return f"{size / 1_000:.1f} KB"
-        return f"{size} bytes"
-
-    @cached_property
     def path_fail(self):
         return self.path + ".fail"
 
