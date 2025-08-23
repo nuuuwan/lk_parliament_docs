@@ -5,14 +5,14 @@ import pandas as pd
 from datasets import Dataset
 from utils import Hash, JSONFile, Log
 
-from lk_acts.core import Act, ActRead
+from lk_acts.core import Act
 from utils_future import BigJSONFile, Chunker
 
 log = Log("HuggingFaceDataset")
 
 
 class HuggingFaceDataset:
-    DIR_DATA_HF = os.path.join(ActRead.DIR_DATA, "hf")
+    DIR_DATA_HF = os.path.join(Act.DIR_DATA, "hf")
     ACTS_JSON_PATH = os.path.join(DIR_DATA_HF, "acts.json")
     CHUNKS_JSON_PATH = os.path.join(DIR_DATA_HF, "chunks.json")
     HUGGING_FACE_USERNAME = os.environ.get("HUGGING_FACE_USERNAME")

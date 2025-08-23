@@ -3,14 +3,14 @@ from functools import cache, cached_property
 
 from utils import Log
 
-from lk_acts.core.act.ActExtractText import ActExtractText
+from lk_acts.core.act.ActExtractTextMixin import ActExtractTextMixin
 from utils_future import DataFile, PDFFile
 
-log = Log("ActExtractOCRText")
+log = Log("ActExtractOCRTextMixin")
 
 
-class ActExtractOCRText(ActExtractText):
-    MIN_OCR_BLOCK_TEXT_CHARS = ActExtractText.MIN_BLOCK_TEXT_CHARS
+class ActExtractOCRTextMixin:
+    MIN_OCR_BLOCK_TEXT_CHARS = ActExtractTextMixin.MIN_BLOCK_TEXT_CHARS
 
     # ocr_blocks
     @cached_property

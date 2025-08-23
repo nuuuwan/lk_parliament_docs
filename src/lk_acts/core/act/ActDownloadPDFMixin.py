@@ -11,11 +11,10 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.ssl_ import create_urllib3_context
 from utils import File, Log
 
-from lk_acts.core.act.ActBase import ActBase
 from utils_future import PDFFile
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-log = Log("ActDownloadPDF")
+log = Log("ActDownloadPDFMixin")
 
 
 class _ParliamentInsecureAdapter(HTTPAdapter):
@@ -34,7 +33,7 @@ class _ParliamentInsecureAdapter(HTTPAdapter):
         return super().proxy_manager_for(*args, **kwargs)
 
 
-class ActDownloadPDF(ActBase):
+class ActDownloadPDFMixin:
     T_TIMEOUT_PDF_DOWNLOAD = 120
     MIN_FILE_SIZE_M = 0.001
     MAX_FILE_SIZE_M = 40
@@ -92,8 +91,8 @@ class ActDownloadPDF(ActBase):
 
         file_size_m = os.path.getsize(temp_pdf_path) / 1_000_000.0
         if (
-            file_size_m < ActDownloadPDF.MIN_FILE_SIZE_M
-            or file_size_m > ActDownloadPDF.MAX_FILE_SIZE_M
+            file_size_m < self.MIN_FILE_SIZE_M
+            or file_size_m > self.MAX_FILE_SIZE_M
         ):
             log.error(
                 f"[{self}] {url} is invalid:" + f" {file_size_m:.1f} MB"
@@ -116,7 +115,7 @@ class ActDownloadPDF(ActBase):
 
     @staticmethod
     def should_retry_pdf_download():
-        return random.random() < ActDownloadPDF.P_RETRY_PDF_DOWNLOAD
+        return random.random() < ActDownloadPDFMixin.P_RETRY_PDF_DOWNLOAD
 
     def download_pdf(self):
         if os.path.exists(self.pdf_path):

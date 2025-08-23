@@ -3,16 +3,16 @@ from functools import cache
 
 from utils import JSONFile, Log
 
-from lk_acts.core.act.ActWrite import ActWrite
+from lk_acts.core.act.ActWriteMixin import ActWriteMixin
 
-log = Log("ActRead")
+log = Log("ActReadMixin")
 
 
-class ActRead(ActWrite):
+class ActReadMixin:
 
     @staticmethod
     def __gen_metadata_file_paths__():
-        for cur_root, _, files in os.walk(ActWrite.DIR_DATA):
+        for cur_root, _, files in os.walk(ActWriteMixin.DIR_DATA):
             for file in files:
                 file_path = os.path.join(cur_root, file)
                 if file == "metadata.json":
@@ -27,7 +27,7 @@ class ActRead(ActWrite):
     @cache
     def list_all(cls):
         doc_list = []
-        for metadata_file_path in ActRead.__gen_metadata_file_paths__():
+        for metadata_file_path in cls.__gen_metadata_file_paths__():
             doc = cls.from_file(metadata_file_path)
             doc_list.append(doc)
         doc_list.sort(

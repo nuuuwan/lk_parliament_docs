@@ -3,13 +3,12 @@ from functools import cached_property
 
 from utils import Log
 
-from lk_acts.core.act.ActDownloadPDF import ActDownloadPDF
 from utils_future import DataFile, PDFFile
 
-log = Log("ActExtractText")
+log = Log("ActExtractTextMixin")
 
 
-class ActExtractText(ActDownloadPDF):
+class ActExtractTextMixin:
     MIN_BLOCK_TEXT_CHARS = 100
 
     # block_info_list

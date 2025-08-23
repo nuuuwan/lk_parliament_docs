@@ -2,12 +2,10 @@ import os
 
 from utils import Log
 
-from lk_acts.core.act.ActExtractOCRText import ActExtractOCRText
-
-log = Log("ActCleanup")
+log = Log("ActCleanupMixin")
 
 
-class ActCleanup(ActExtractOCRText):
+class ActCleanupMixin:
 
     def __delete_files_if_exists__(self, file_path_list):
         for delete_path in file_path_list:

@@ -4,12 +4,10 @@ from pathlib import Path
 
 from utils import JSONFile, Log
 
-from lk_acts.core.act.ActBase import ActBase
-
-log = Log("ActWrite")
+log = Log("ActWriteMixin")
 
 
-class ActWrite(ActBase):
+class ActWriteMixin:
 
     MAX_YEAR = 2025
     MIN_YEAR = 1940
@@ -20,14 +18,14 @@ class ActWrite(ActBase):
         year = str(year)
         decade = year[:3] + "0s"
         return os.path.join(
-            "data" if local else ActWrite.DIR_DATA, "acts", decade, year
+            "data" if local else ActWriteMixin.DIR_DATA, "acts", decade, year
         )
 
     @staticmethod
     def get_dir_act_data(act_id, local=False):
         tokens = act_id.split("-")
         year = tokens[0]
-        return os.path.join(ActWrite.get_dir_year(year, local), act_id)
+        return os.path.join(ActWriteMixin.get_dir_year(year, local), act_id)
 
     @property
     def dir_act_data(self):
@@ -62,11 +60,9 @@ class ActWrite(ActBase):
 
     @staticmethod
     def get_dir_data_size():
-        path = Path(ActWrite.DIR_DATA)
+        path = Path(ActWriteMixin.DIR_DATA)
         return sum(f.stat().st_size for f in path.rglob("*") if f.is_file())
 
     @cache
     def is_within_valid_time_range(self):
-        return self.year_int in range(
-            ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1
-        )
+        return self.year_int in range(self.MIN_YEAR, self.MAX_YEAR + 1)

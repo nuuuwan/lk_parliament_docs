@@ -1,10 +1,8 @@
 import os
 from functools import cached_property
 
-from lk_acts.core.act.ActExtractOCRText import ActExtractOCRText
 
-
-class ActStatus(ActExtractOCRText):
+class ActStatusMixin:
     STATUS_FIELD_LIST = [
         "metadata",
         "pdf",
