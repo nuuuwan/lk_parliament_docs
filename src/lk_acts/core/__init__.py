@@ -4,5 +4,6 @@
 from lk_acts.core.act import (Act, ActBase, ActCleanupMixin,
                               ActDownloadPDFMixin, ActExtractOCRTextMixin,
                               ActExtractTextMixin, ActReadMixin,
-                              ActStatusMixin, ActWriteMixin)
+                              ActStatusMixin, ActTextParserMixin,
+                              ActWriteMixin)
 from lk_acts.core.ActType import ActType

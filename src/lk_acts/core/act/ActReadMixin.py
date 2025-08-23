@@ -73,3 +73,10 @@ class ActReadMixin:
     def list_from_decade(cls, decade: str):
         assert len(decade) == 5 and decade.endswith("0s")
         return [act for act in cls.list_all() if act.decade == decade]
+
+    @classmethod
+    def from_id(cls, act_id):
+        for doc in cls.list_all():
+            if doc.act_id == act_id:
+                return doc
+        raise ValueError(f"Act {act_id=} not found.")
