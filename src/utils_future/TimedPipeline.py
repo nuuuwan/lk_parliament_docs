@@ -17,7 +17,7 @@ class TimedPipeline:
         t_start = time.time()
         n_data = len(self.data_list)
         log.debug(f"{n_data=}")
-        for i_data, data in enumerate(self.data_list, start=1):
+        for data in self.data_list:
             dt = time.time() - t_start
             if dt > self.max_dt:
                 log.info(f"🛑 Stopping. ⏰ {dt:.0f}s > {self.max_dt}s.")
