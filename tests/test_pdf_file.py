@@ -13,7 +13,7 @@ class TestCase(unittest.TestCase):
         compressed_pdf_file = TEST_PDF_FILE.compress()
         self.assertLessEqual(compressed_pdf_file.size, TEST_PDF_FILE.size)
 
-    def test_ocr(self):
+    def test_ocr(self):  # noqa: CFQ001
         N_HEAD = 20
         a_list = []
         for (
