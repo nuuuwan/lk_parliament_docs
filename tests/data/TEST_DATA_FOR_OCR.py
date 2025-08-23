@@ -1,3 +1,4 @@
+# flake8: noqa
 TEST_DATA_FOR_OCR = [
     [
         "1950-001",
