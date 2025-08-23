@@ -66,6 +66,21 @@ class ActWrite:
 
     @cache
     def is_within_valid_time_range(self):
-        return self.year_int in range(
-            ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1
+        return self.year_int in range(ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1)
+
+    def __delete_files_if_exists__(self, file_path_list):
+        for delete_path in file_path_list:
+            if os.path.exists(delete_path):
+                os.remove(delete_path)
+                log.debug(f"[{self}] ❌ Deleted {delete_path}")
+
+    def cleanup_fails(self):
+        self.__delete_files_if_exists__(
+            [
+                self.pdf_fail_path,
+                self.blocks_fail_path,
+                self.text_fail_path,
+                self.ocr_blocks_fail_path,
+                self.ocr_text_fail_path,
+            ],
         )
