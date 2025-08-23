@@ -4,7 +4,6 @@ from utils_future.Parse import Parse
 
 
 class ActTextParserMixin:
-    MAX_LINES_TO_PARSE = 20
 
     @staticmethod
     def __parse_generic__(text, regexp, key_list, func_postprocess_list):
@@ -22,8 +21,8 @@ class ActTextParserMixin:
     def __parse_act_title__(text):
         return ActTextParserMixin.__parse_generic__(
             text,
-            r"(?P<name>.+?),\s*No\.\s*(?P<number>\d+)\s*OF\s*(?P<year>\d{4})",
-            ["name", "number", "year"],
+            r"(?P<act_name>.+?),\s*No\.\s*(?P<act_number>\d+)\s*OF\s*(?P<act_year>\d{4})",
+            ["act_name", "act_number", "act_year"],
             [lambda x: x.strip().title(), lambda x: int(x), lambda x: int(x)],
         )
 
@@ -31,8 +30,8 @@ class ActTextParserMixin:
     def __parse_certified_date__(text):
         return ActTextParserMixin.__parse_generic__(
             text,
-            r"\[Certified on\s+(?P<date>.*)\]",
-            ["date"],
+            r"\[Certified on\s+(?P<date_certified>.*)\]",
+            ["date_certified"],
             [lambda x: Parse.date(x)],
         )
 
@@ -60,13 +59,8 @@ class ActTextParserMixin:
         if not text:
             return {}
         lines = text.splitlines()
-        for i_line, line in enumerate(
-            lines[: self.MAX_LINES_TO_PARSE], start=1
-        ):
-            print(i_line, line)
-
         d = {}
-        for line in lines[: self.MAX_LINES_TO_PARSE]:
+        for line in lines:
             for func in [
                 self.__parse_act_title__,
                 self.__parse_certified_date__,
@@ -75,6 +69,8 @@ class ActTextParserMixin:
             ]:
                 result = func(line)
                 if result:
-                    d.update(result)
-        print(d)
+                    for k, v in result.items():
+                        if k not in d:
+                            d[k] = v
+
         return d
