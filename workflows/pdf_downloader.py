@@ -7,7 +7,7 @@ from utils_future import TimedPipeline
 from workflows.metadata_scraper import DEFAULT_MAX_DT, get_options
 
 log = Log("pdf_downloader")
-P_CLEANUP = 0.1
+P_CLEANUP = 1.0
 
 
 def pdf_downloader(max_dt, decade):
