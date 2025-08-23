@@ -2,7 +2,7 @@
 
 📢 UPDATE on 🇱🇰 #SriLanka – ⚖️ #Legal Documents 
 
-@HuggingFace datasets for 2400+ Legal Acts, since 1945.
+@HuggingFace datasets for 2400+ Legal Acts, since 1948.
 
 Metadata - https://huggingface.co/datasets/nuuuwan/lk-acts-acts 
 
