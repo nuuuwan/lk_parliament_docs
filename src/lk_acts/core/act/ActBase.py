@@ -2,7 +2,7 @@ from functools import cache, cached_property
 
 from utils import Log
 
-from lk_acts.core.act.ActType import ActType
+from lk_acts.core.ActType import ActType
 
 log = Log("ActBase")
 
