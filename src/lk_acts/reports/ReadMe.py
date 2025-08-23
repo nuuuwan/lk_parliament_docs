@@ -82,7 +82,9 @@ class ReadMe:
     @property
     def lines(self):
         url = ActsBillsPage.URL
-        url_raw_data = "https://github.com/nuuuwan/lk_acts_data/tree/main/data"
+        url_raw_data = (
+            "https://github.com/nuuuwan/lk_acts_data/tree/main/data"
+        )
         return (
             [
                 "# 🇱🇰 Acts from the Sri Lankan Parliament"
