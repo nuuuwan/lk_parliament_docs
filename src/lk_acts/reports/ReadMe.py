@@ -53,18 +53,17 @@ class ReadMe:
         status_summary = self.status_summary
         return (
             [
-                "## Processing Status",
+                "## Processing status",
                 "",
-                "- metadata: Name, year, num and links to PDFs",
-                "- pdf: actual English PDF."
-                + " For now, Sinhala & Tamil are not downloade.",
-                "- blocks: text blocks extracted from the PDF.",
-                "- text: text compiled from the text blocks",
-                "- ocr_blocks: text blocks extracted from the PDF using OCR."
-                + " 🤑 Expensive!",
-                "- ocr_text: text compiled from the OCR text blocks",
-                "- act_json: structured representation of the act,"
-                + " parsed from text",
+                "- **metadata**: name, year, number, and links to PDFs.",
+                "- **pdf**: the English source PDF."
+                + " Sinhala and Tamil PDFs are not yet downloaded.",
+                "- **blocks**: text blocks extracted from the PDF.",
+                "- **text**: full text assembled from the blocks.",
+                "- **ocr_blocks**: text blocks extracted via OCR (costly).",
+                "- **ocr_text**: full text assembled from OCR blocks.",
+                "- **act_json**: structured representation of the Act"
+                + " parsed from text.",
                 "",
             ]
             + Markdown.table(status_summary)
