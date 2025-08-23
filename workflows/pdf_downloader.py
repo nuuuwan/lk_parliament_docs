@@ -1,3 +1,5 @@
+import random
+
 from utils import Log
 
 from lk_acts import Act
@@ -5,6 +7,7 @@ from utils_future import TimedPipeline
 from workflows.metadata_scraper import DEFAULT_MAX_DT, get_options
 
 log = Log("pdf_downloader")
+P_CLEANUP = 0.1
 
 
 def pdf_downloader(max_dt, decade):
@@ -13,6 +16,8 @@ def pdf_downloader(max_dt, decade):
     act_list = Act.list_from_decade(decade)
 
     def __worker__(act):
+        if random.random() < P_CLEANUP:
+            act.cleanup_fails()
         act.download_pdf()
         act.extract_blocks()
         act.extract_text()
