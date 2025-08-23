@@ -6,7 +6,7 @@ from datasets import Dataset
 from utils import Hash, JSONFile, Log
 
 from lk_acts.core import Act, ActRead
-from utils_future import BigJSONFile
+from utils_future import BigJSONFile, Chunker
 
 log = Log("HuggingFaceDataset")
 
@@ -61,50 +61,13 @@ class HuggingFaceDataset:
         )
 
     @staticmethod
-    def chunk(content: str) -> list[str]:
-        block_text_list = content.split("\n\n")
-        chunks = []
-        current_sentences = []
-        current_size = 0
-        for block_text in block_text_list:
-            block_text = block_text.strip()
-
-            if (
-                current_size + len(block_text) + 1
-                > HuggingFaceDataset.MAX_CHUNK_SIZE
-            ):
-                current = "\n\n".join(current_sentences).strip()
-                chunks.append(current)
-                rem_overlap = 0
-                new_sentences = []
-                i = 1
-                while (
-                    rem_overlap < HuggingFaceDataset.MIN_OVERLAP_SIZE
-                    and len(current_sentences) >= i
-                ):
-                    new_sentences.append(current_sentences[-i])
-                    rem_overlap += len(current_sentences[-i]) + 1
-                    i += 1
-                new_sentences.reverse()
-                current_sentences = new_sentences
-                current_size = sum(len(s) for s in current_sentences)
-            else:
-                current_sentences.append(block_text)
-                current_size += len(block_text) + 1
-
-        if current_sentences:
-            current = "\n\n".join(current_sentences).strip()
-            chunks.append(current)
-
-        return chunks
-
-    @staticmethod
     def get_data_list_for_act(act):
-
-        chunks = HuggingFaceDataset.chunk(
+        chunks = Chunker.chunk(
             act.get_text(
                 HuggingFaceDataset.MIN_MEAN_P_CONFIDENCE_FOR_OCR_TEXT
-            )
+            ),
+            HuggingFaceDataset.MAX_CHUNK_SIZE,
+            HuggingFaceDataset.MIN_OVERLAP_SIZE,
         )
         d_list = []
         for chunk_index, chunk_text in enumerate(chunks):
