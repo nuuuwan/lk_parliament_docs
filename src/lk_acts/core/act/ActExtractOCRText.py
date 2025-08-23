@@ -14,15 +14,15 @@ class ActExtractOCRText:
 
     @cached_property
     def dir_act_data(self):
-        raise NotImplementedError
+        raise NotImplementedError  # ActBase
 
     @cached_property
     def pdf_path(self):
-        raise NotImplementedError
+        raise NotImplementedError  # ActDownloadPDF
 
     @cached_property
     def text(self):
-        raise NotImplementedError
+        raise NotImplementedError  # ActExtractText
 
     # ocr_blocks
     @cached_property

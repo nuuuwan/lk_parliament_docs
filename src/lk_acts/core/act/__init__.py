@@ -3,6 +3,7 @@
 
 from lk_acts.core.act.Act import Act
 from lk_acts.core.act.ActBase import ActBase
+from lk_acts.core.act.ActCleanup import ActCleanup
 from lk_acts.core.act.ActDownloadPDF import ActDownloadPDF
 from lk_acts.core.act.ActExtractOCRText import ActExtractOCRText
 from lk_acts.core.act.ActExtractText import ActExtractText

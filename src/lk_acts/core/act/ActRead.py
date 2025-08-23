@@ -11,7 +11,7 @@ class ActRead:
 
     @classmethod
     def from_dict(cls, _):
-        raise NotImplementedError
+        raise NotImplementedError  # ActBase
 
     @staticmethod
     def __gen_metadata_file_paths__():

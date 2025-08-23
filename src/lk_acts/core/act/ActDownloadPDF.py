@@ -42,11 +42,11 @@ class ActDownloadPDF:
 
     @cached_property
     def dir_act_data(self):
-        raise NotImplementedError
+        raise NotImplementedError  # ActBase
 
     @cached_property
     def url_pdf_en(self):
-        raise NotImplementedError
+        raise NotImplementedError  # ActBase
 
     @cached_property
     def pdf_path(self):

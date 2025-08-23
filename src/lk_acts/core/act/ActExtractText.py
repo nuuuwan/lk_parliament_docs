@@ -13,11 +13,11 @@ class ActExtractText:
 
     @cached_property
     def dir_act_data(self):
-        raise NotImplementedError
+        raise NotImplementedError  # ActBase
 
     @cached_property
     def pdf_path(self):
-        raise NotImplementedError
+        raise NotImplementedError  # ActDownloadPDF
 
     # block_info_list
     @cached_property

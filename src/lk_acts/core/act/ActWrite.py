@@ -14,36 +14,17 @@ class ActWrite:
     MAX_YEAR = 2025
     MIN_YEAR = 1940
 
+    # From ActBase
     @cached_property
     def act_id(self):
-        raise NotImplementedError
+        raise NotImplementedError  # ActBase
 
     @cached_property
     def year_int(self):
-        raise NotImplementedError
-
-    @cached_property
-    def pdf_fail_path(self):
-        raise NotImplementedError
-
-    @cached_property
-    def blocks_fail_path(self):
-        raise NotImplementedError
-
-    @cached_property
-    def text_fail_path(self):
-        raise NotImplementedError
-
-    @cached_property
-    def ocr_blocks_fail_path(self):
-        raise NotImplementedError
-
-    @cached_property
-    def ocr_text_fail_path(self):
-        raise NotImplementedError
+        raise NotImplementedError  # ActBase
 
     def to_dict(self):
-        raise NotImplementedError
+        raise NotImplementedError  # ActBase
 
     @staticmethod
     def get_dir_year(year, local=False):
@@ -99,21 +80,4 @@ class ActWrite:
     def is_within_valid_time_range(self):
         return self.year_int in range(
             ActWrite.MIN_YEAR, ActWrite.MAX_YEAR + 1
-        )
-
-    def __delete_files_if_exists__(self, file_path_list):
-        for delete_path in file_path_list:
-            if os.path.exists(delete_path):
-                os.remove(delete_path)
-                log.debug(f"[{self}] ❌ Deleted {delete_path}")
-
-    def cleanup_fails(self):
-        self.__delete_files_if_exists__(
-            [
-                self.pdf_fail_path,
-                self.blocks_fail_path,
-                self.text_fail_path,
-                self.ocr_blocks_fail_path,
-                self.ocr_text_fail_path,
-            ],
         )

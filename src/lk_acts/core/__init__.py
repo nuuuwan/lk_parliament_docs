@@ -1,9 +1,9 @@
 # lk_acts.core (auto generate by build_inits.py)
 # flake8: noqa: F408
 
-from lk_acts.core.act import (Act, ActBase, ActDownloadPDF, ActExtractOCRText,
-                              ActExtractText, ActRead, ActStatus, ActType,
-                              ActWrite)
+from lk_acts.core.act import (Act, ActBase, ActCleanup, ActDownloadPDF,
+                              ActExtractOCRText, ActExtractText, ActRead,
+                              ActStatus, ActType, ActWrite)
 from lk_acts.core.act_ext import (ActExt, ActExtBodyPages, ActExtPDF,
                                   ActExtTitlePage, ActL0Part, ActL1Section,
                                   ActL2Subsection, ActL3Paragraph,
