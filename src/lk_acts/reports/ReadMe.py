@@ -3,6 +3,7 @@ from pathlib import Path
 from utils import File, Log
 
 from lk_acts.core import Act
+from lk_acts.pages import ActsBillsPage
 from lk_acts.reports.ChartYear import ChartYear
 from utils_future import Markdown
 
@@ -81,6 +82,7 @@ class ReadMe:
 
     @property
     def lines(self):
+        url = ActsBillsPage.URL
         return (
             [
                 "# 🇱🇰 Acts from the Sri Lankan Parliament"
@@ -89,7 +91,7 @@ class ReadMe:
                 "",
                 f"Scraped  **{self.n_docs:,}** acts"
                 + f" ({self.data_size_g:.1f} GB) from"
-                + " [www.parliament.lk](https://www.parliament.lk/en)."
+                + f" [www.parliament.lk]({url})."
                 "",
             ]
             + self.lines_for_year_chart
