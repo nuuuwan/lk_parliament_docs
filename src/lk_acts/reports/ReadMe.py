@@ -83,6 +83,7 @@ class ReadMe:
     @property
     def lines(self):
         url = ActsBillsPage.URL
+        url_raw_data = "https://github.com/nuuuwan/lk_acts_data/tree/main/data"
         return (
             [
                 "# 🇱🇰 Acts from the Sri Lankan Parliament"
@@ -92,6 +93,8 @@ class ReadMe:
                 f"Scraped  **{self.n_docs:,}** acts"
                 + f" ({self.data_size_g:.1f} GB) from"
                 + f" [www.parliament.lk]({url})."
+                "",
+                f"📦 Raw Data - [{url_raw_data}]({url_raw_data})",
                 "",
             ]
             + self.lines_for_year_chart
