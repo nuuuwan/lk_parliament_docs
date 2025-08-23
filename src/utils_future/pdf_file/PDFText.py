@@ -15,19 +15,19 @@ class PDFText:
         return text
 
     @staticmethod
-    def __clean_block_text__(block_text: str) -> str:
-        block_text = block_text or ""
-        block_text = block_text.replace("\n", " ")
-        block_text = re.sub(r"[^\x00-\x7F]+", "", block_text)
-        block_text = re.sub(r"\s+", " ", block_text)
-        block_text = block_text.strip()
-        return block_text
+    def __clean_text__(text: str) -> str:
+        text = text or ""
+        text = text.replace("\n", " ")
+        text = re.sub(r"[^\x00-\x7F]+", "", text)
+        text = re.sub(r"\s+", " ", text)
+        text = text.strip()
+        return text
 
     @staticmethod
-    def __parse_lines_inner__(span, block_text_parts, fonts, sizes):
+    def __parse_lines_inner__(span, text_parts, fonts, sizes):
         t = span.get("text", "")
         if t:
-            block_text_parts.append(t)
+            text_parts.append(t)
         f = span.get("font")
         if f:
             fonts.add(f)
@@ -37,17 +37,15 @@ class PDFText:
 
     @staticmethod
     def __parse_lines__(b):
-        block_text_parts = []
+        text_parts = []
         fonts = set()
         sizes = set()
         for line in b.get("lines", []):
             for span in line.get("spans", []):
-                PDFText.__parse_lines_inner__(
-                    span, block_text_parts, fonts, sizes
-                )
-        block_text = "".join(block_text_parts)
-        block_text = PDFText.__clean_block_text__(block_text)
-        return fonts, sizes, block_text
+                PDFText.__parse_lines_inner__(span, text_parts, fonts, sizes)
+        text = "".join(text_parts)
+        text = PDFText.__clean_text__(text)
+        return fonts, sizes, text
 
     def get_block_info_list(self):
         doc = pymupdf.open(self.path)
@@ -56,15 +54,15 @@ class PDFText:
             for b in page.get_text("dict").get("blocks", []):
                 if b.get("type", 0) != 0:
                     continue
-                fonts, sizes, block_text = self.__parse_lines__(b)
-                if not block_text:
+                fonts, sizes, text = self.__parse_lines__(b)
+                if not text:
                     continue
                 bbox = tuple([round(x, 2) for x in b.get("bbox", [])])
 
                 block_info = dict(
                     page_number=page.number,
                     bbox=bbox,
-                    text=block_text,
+                    text=text,
                     fonts=sorted(fonts),
                     sizes=sorted(sizes),
                 )

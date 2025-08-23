@@ -65,7 +65,7 @@ class PDFOCRText:
         list_for_page_by_par = []
         for data_for_par in group_by_par.values():
             text = " ".join(d["text"] for d in data_for_par)
-            text = PDFText.__clean_block_text__(text)
+            text = PDFText.__clean_text__(text)
             if not text:
                 continue
             datum = dict(

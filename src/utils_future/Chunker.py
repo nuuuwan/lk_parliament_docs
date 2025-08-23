@@ -3,14 +3,14 @@ class Chunker:
     def chunk(
         content: str, max_chunk_size: int, min_overlap_size: int
     ) -> list[str]:
-        block_text_list = content.split("\n\n")
+        text_list = content.split("\n\n")
         chunks = []
         current_sentences = []
         current_size = 0
-        for block_text in block_text_list:
-            block_text = block_text.strip()
+        for text in text_list:
+            text = text.strip()
 
-            if current_size + len(block_text) + 1 > max_chunk_size:
+            if current_size + len(text) + 1 > max_chunk_size:
                 current = "\n\n".join(current_sentences).strip()
                 chunks.append(current)
                 rem_overlap = 0
@@ -27,8 +27,8 @@ class Chunker:
                 current_sentences = new_sentences
                 current_size = sum(len(s) for s in current_sentences)
             else:
-                current_sentences.append(block_text)
-                current_size += len(block_text) + 1
+                current_sentences.append(text)
+                current_size += len(text) + 1
 
         if current_sentences:
             current = "\n\n".join(current_sentences).strip()

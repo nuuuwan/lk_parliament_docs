@@ -13,7 +13,7 @@ class ActExtractOCRText:
     MIN_OCR_BLOCK_TEXT_CHARS = ActExtractText.MIN_BLOCK_TEXT_CHARS
 
     @cached_property
-    def block_text(self):
+    def text(self):
         raise NotImplementedError
 
     # ocr_blocks
@@ -48,10 +48,10 @@ class ActExtractOCRText:
     def extract_ocr_blocks(self):
         return self.ocr_block_info_list
 
-    # ocr_block_text
+    # ocr_text
 
     @cached_property
-    def data_file_ocr_block_text(self):
+    def data_file_ocr_text(self):
         return DataFile(
             self,
             lambda obj: os.path.join(obj.dir_act_data, "en.ocr.txt"),
@@ -69,29 +69,29 @@ class ActExtractOCRText:
 
     @cached_property
     def ocr_text_path(self):
-        return self.data_file_ocr_block_text.path
+        return self.data_file_ocr_text.path
 
     @cached_property
     def ocr_text_fail_path(self):
-        return self.data_file_ocr_block_text.path_fail
+        return self.data_file_ocr_text.path_fail
 
     @cached_property
-    def ocr_block_text(self):
-        return self.data_file_ocr_block_text.data
+    def ocr_text(self):
+        return self.data_file_ocr_text.data
 
     @cached_property
-    def is_ocr_block_text_valid(self):
+    def is_ocr_text_valid(self):
         return (
-            self.ocr_block_text
-            and len(self.ocr_block_text) >= self.MIN_OCR_BLOCK_TEXT_CHARS
+            self.ocr_text
+            and len(self.ocr_text) >= self.MIN_OCR_BLOCK_TEXT_CHARS
         )
 
     @cached_property
     def has_ocr_text(self):
-        return self.data_file_ocr_block_text.exists
+        return self.data_file_ocr_text.exists
 
     def extract_ocr_text(self):
-        return self.ocr_block_text
+        return self.ocr_text
 
     @cache
     def get_ocr_block_info_list(self, min_mean_p_confidence=-1):
@@ -121,7 +121,7 @@ class ActExtractOCRText:
     @cache
     def get_text(self, min_mean_p_confidence=-1):
         return (
-            self.block_text
+            self.text
             or self.get_ocr_text(min_mean_p_confidence=min_mean_p_confidence)
             or None
         )

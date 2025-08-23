@@ -13,7 +13,7 @@ def ocr_extractor(max_dt, decade):
     act_list = Act.list_from_decade(decade)
 
     def __worker__(act):
-        if not act.is_block_text_valid:
+        if not act.is_text_valid:
             act.extract_ocr_blocks()
             act.extract_ocr_text()
 

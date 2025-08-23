@@ -51,10 +51,10 @@ class ActExtractText:
     def extract_blocks(self):
         return self.data_file_block_info_list.data
 
-    # block_text
+    # text
 
     @cached_property
-    def data_file_block_text(self):
+    def data_file_text(self):
         return DataFile(
             self,
             lambda obj: os.path.join(self.dir_act_data, "blocks.txt"),
@@ -72,26 +72,23 @@ class ActExtractText:
 
     @cached_property
     def text_path(self):
-        return self.data_file_block_text.path
+        return self.data_file_text.path
 
     @cached_property
     def text_fail_path(self):
-        return self.data_file_block_text.path_fail
+        return self.data_file_text.path_fail
 
     @cached_property
-    def block_text(self):
-        return self.data_file_block_text.data
+    def text(self):
+        return self.data_file_text.data
 
     @cached_property
-    def is_block_text_valid(self):
-        return (
-            self.block_text
-            and len(self.block_text) >= self.MIN_BLOCK_TEXT_CHARS
-        )
+    def is_text_valid(self):
+        return self.text and len(self.text) >= self.MIN_BLOCK_TEXT_CHARS
 
     @cached_property
     def has_text(self):
-        return self.data_file_block_text.exists
+        return self.data_file_text.exists
 
     def extract_text(self):
-        return self.data_file_block_text.data
+        return self.data_file_text.data
