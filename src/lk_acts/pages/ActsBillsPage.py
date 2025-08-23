@@ -11,9 +11,10 @@ log = Log("ActsBillsPage")
 
 
 class ActsBillsPage(WebPage):
+    URL = "https://www.parliament.lk/en/acts-bills"
 
     def __init__(self, doc_type_name, year):
-        super().__init__("https://www.parliament.lk/en/acts-bills")
+        super().__init__(self.URL)
         assert doc_type_name in ["acts"]
         assert len(year) == 4
 
