@@ -1,5 +1,5 @@
 import os
-from functools import cached_property
+from functools import cache, cached_property
 
 from utils import Log
 
@@ -90,12 +90,29 @@ class ActExtractOCRText:
     def extract_ocr_text(self):
         self.ocr_block_text
 
-    # -----
+    @cache
+    def get_ocr_block_info_list(self, min_mean_p_confidence=-1):
+        return [
+            block_info
+            for block_info in self.ocr_block_info_list
+            if block_info["mean_p_confidence"] >= min_mean_p_confidence
+        ] if self.ocr_block_info_list or []
 
-    @cached_property
-    def has_some_text(self):
-        return self.has_text or self.has_ocr_text
+    @cache
+    def get_ocr_text(self, min_mean_p_confidence=-1):
+        return (
+            "\n\n".join(
+                [
+                    block_info["text"]
+                    for block_info in self.get_ocr_block_info_list(
+                        min_mean_p_confidence=min_mean_p_confidence
+                    )
+                ]
+            )
+        )
 
-    @cached_property
-    def some_text(self):
-        return self.block_text or self.ocr_block_text or None
+    # common text
+
+    @cache
+    def get_text(self, min_mean_p_confidence=-1):
+        return self.block_text or self.get_ocr_text(min_mean_p_confidence=min_mean_p_confidence)
